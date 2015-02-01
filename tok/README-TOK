@@ -9,6 +9,6 @@ TO TEST:
 
 a) $HOME/irish/tok]$ echo "an rud atáá rá" | tokenize -utf8 tok-gael.fst
 or
-b) $HOME/irish/tok]$ cat liostafocail | tokenize -utf8 tok-gael.fst
+b) $HOME/irish/tok]$ cat test.txt | tokenize -utf8 tok-gael.fst
 or
-c) $HOME/irish/tok]$ cat textfile | tokenize -utf8 tok-gael.fst
+c) $HOME/irish/tok]$ cat someothertextfile | tokenize -utf8 tok-gael.fst
