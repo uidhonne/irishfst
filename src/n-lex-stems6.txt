@@ -1,0 +1,256 @@
+LEXICON NounsF
+cónascachas	Nm1-SINGULAR;	! (gs -ais) federalism
+athscinneadh	Nm5-5;	! (of spring) recoil
+díonchruthú	Nm5-3;	! apologetics
+bascadh	Nm5-6;	! bashing; severe injury,~ air
+crinnghréas	Nm3-8;	! fretwork
+!!XXsean	Nm4-EILE;	! gs & gpl ~
+!!XXneach	Nm4-EILE;	! gs & gpl ~,
+!!XXára	Nf5;	! gs & gpl ~nn,
+!!XXrinn	Nm3-X;	! gs & npl reanna
+!!XXgrásta	Nm4-EILE;	! gs & npl ~
+scol	Nm3-8;	! gs & npl ~a
+fiafraí	Nm5-3;	! gs & pl -aithe
+anlaith	Nm3-6;	! gs & pl -atha
+!!XXgamhain	Nm3-X;	! gs & pl -mhna
+!!XXceannaghaidh	Nf2-6;	! gs & pl -nnaithe
+ríshliocht	Nm3-8a;	! gs & pl -shleachta	***
+idirshliocht	Nm3-8a;	! gs & pl -shleachta	*** added
+dírshliocht	Nm3-8a;	! gs & pl -shleachta	*** added
+bonnbhualadh	Nm5-5;	! gs & pl -uailte
+bualadh	Nm5-5;	! gs & pl buailte,
+!!XXdeacair	Nf5;	! gs & pl deacra
+!!XXdeabhaidh	Nf5;	! gs & pl deafa
+!!XXmuir	Nf3-X;	! gs & pl mara
+sliocht	Nm3-8a;	! gs & pl sleachta	***
+!!XXslios	Nm3-6;	! gs & pl sleasa
+!!XXsniodh	Nf5;	! gs & pl sneá
+!!XXnamhaid	Nm5;	! gs -ad pl naimhde
+!!XXcorcair	Nf5;	! gs -cra purple (dye-stuff)
+!!gleadhradh	Nm5;	! gs -dhartha noisy beating;
+!!XXtreabhadh	Nm5;	! gs -eafa ploughing
+!!súgradh	Nm5;	! gs -gartha playing, sporting;
+!!togradh	Nm5;	! gs -gartha will, inclination
+teitheadh	Nm5-5-SINGULAR;	! gs -ite flight; evasion
+suaitheadh	Nm5-5-SINGULAR;	! gs -ite mix; confusion,
+ubhsceitheadh	Nm5-5-SINGULAR;	! gs -ite ovulation
+stoitheadh	Nm5-5-SINGULAR;	! gs -ite pull, extraction
+!!XXsciomradh	Nm5;	! gs -martha pl -marthaí
+!!XXsaobhadh	Nm5;	! gs -ofa distraction, distortion,
+bréagriocht	Nm3-3a;	! gs -reachta disguise ! ***
+ainriocht	Nm3-3a;	! gs -reachta sorry plight, ! ***
+tonnchrith	Nm3-4;	! gs -reatha pl -reathanna
+!!XXriastradh	Nm5;	! gs -tartha contortion
+uasalathair	Nm5-4;	! gs -thar pl -laithreacha
+comhshuaitheadh	Nm5-5-SINGULAR;	! gs -uaite concussion
+cuaird	Nf3-SINGULAR;	! gs -uarda an Chúirt
+!!XXadhradh	Nm5;	! gs adhartha adoration, worship
+!!XXaifirt	Nf3-X;	! gs aifeartha rebuke, reproach
+baisteadh	Nm5-5;	! gs baiste pl -tí  SEE FIX
+domhain:doimhn	Nf2-8;	! gs doimhne pl doimhneacha
+doirteadh	Nm5-5-SINGULAR;	! gs doirte pouring, spilling,
+eiscir	Nf5-2;	! gs eascrach pl eascracha
+!!XXgoid	Nf3-X;	! gs gada theft, larceny
+!!XXgrafadh	Nm5;	! gs grafa grubbing, hoeing
+ionladh	Nm5-7;	! gs ionnalta washing, ablutions ! *** 1/4/08
+lachtadh	Nm5-7;	! gs lachta pl -aí
+!!XXleadradh	Nm5;	! gs leadartha pl leadarthaí
+!!XXlionn	Nm5;	! gs leanna pl ~ta
+leathadh	Nm5-7;	! gs leata spreading; diffusion;
+liathadh	Nm5-7;	! gs liata greyness, ~
+!!XXmil	Nf3-X;	! gs meala honey
+nochtadh	Nm5-7;	! gs nochta baring, exposure;
+riocht	Nm3-3a;	! gs reachta form, shape, ! ***
+róstadh	Nm5-7;	! gs rósta roast(ing)
+!!XXscamhadh	Nm5;	! gs scafa shavings, filings,
+scoilteadh	Nm5-5-SINGULAR;	! gs scoilte fission, scission
+smior	Nm3a-SINGULAR;	! gs smeara marrow; pith,
+!!XXtoghadh	Nm5;	! gs tofa choice, selection;
+!!XXtriuch	Nm3-X;	! gs treacha whooping-cough
+téachtadh	Nm5-7;	! gs téachta congealment; solidification
+!!XXleite	Nf5;	! gs ~an porridge
+!!XXtoimhde	Nf5;	! gs ~an supposition, presumption
+!!XXdíle	Nf5;	! gs ~ann pl -lí
+!! see n-lex-stems.txt ceathracha	Nm5-1;	! gs ~d pl ~idí
+cátaoir	Nf5-2;	! gs ~each ember-days
+fóir	Nf5-2;	! gs ~each pl ~eacha
+ríchathaoir	Nf5-2;	! gs ~each pl ~eacha
+tiníl	Nf5-2;	! gs ~each pl ~eacha
+!!XXionga	Nf5;	! gs ~n pl ingne
+!!XXaraí	Nf5;	! gs ~on pl ~onacha
+!!XXíoladhradh	Nm5;	! gs íoladhartha idolatry
+scoilteach	Nf2-1a;	! rheumatism
+lúitheach	Nf2-1a;	! ligament, tendon pl sinews    FIX PLURALS
+tintreach	Nf2-1a;	! lightning pl flashes, sparks    FIX PLURALS
+loca	Nm4-1;	! lock (of hair, etc);
+comhcheilg	Nf2-2;	! npl -chealga gpl -chealg    FIX PLURALS
+!!leiceann	Nm1-2SYN;	! npl -cne cheek
+sceilg	Nf2-2;	! npl -ealga gpl -ealg    FIX PLURALS
+!!XXuamhan	Nm1-2SYN;	! npl -mhna fear; dread;
+ealaín	Nf2-2;	! npl -íona gpl -íon    FIX PLURALS
+cill	Nf2-2;	! npl cealla gpl ceall
+creig	Nf2-2;	! npl creaga gpl -creag
+díth	Nf2-2;	! npl díotha gpl díoth
+geis	Nf2-2;	! npl geasa gpl geas
+píb	Nf2-2;	! npl píoba, gpl píob
+rinn	Nf2-2;	! npl reanna gpl reann
+seilbh	Nf2-2;	! npl sealbha gpl sealbh
+sáil	Nf2-2;	! npl sála gpl sál
+!!XXcuach	Nm4-EILE;	! npl ~a gpl ~bowl;
+smacht	Nm3-8;	! npl ~a rule; control,
+!!XXlia	Nm4-EILE;	! npl ~ga, gpl ~g
+!!XXmarc-chlaíomh	Nm1-SYNC;	! pl -aimhte sabre
+!!XXclaíomh	Nm1-SYNC;	! pl -aimhte sword
+réamhchúram	Nm1-7;	! pl -aimí precaution
+soláthar	Nm1-7;	! pl -airtí collection; supply,
+!!XXboladh	Nm1-SYNC;	! pl -aithe smell, scent;
+!!XXspraoi	Nm4-X;	! pl -aíonna fun, sport;
+daibhir	Nm1-9;	! pl -bhre poor person
+saibhir	Nm1-9;	! pl -bhre rich person
+!!XXdaichead	Nm1-SYNC;	! pl -chidí & a
+cleachtadh	Nm1-5;	! pl -chtaí habit; practice,
+forchraiceann	Nm1-9;	! pl -cne epidermis; foreskin
+athchraiceann	Nm1-9;	! pl -cne veneer
+spladhas	Nm1-8;	! pl -dhsanna splice
+láidir	Nm1-9;	! pl -dre strong person,
+!!XXceáfar	Nm1-SYNC;	! pl -fraí caper; frisk;
+!!XXlagar	Nm1-SYNC;	! pl -gracha weakness, faintness;
+éigeas	Nm1-9;	! pl -gse learned person,
+!!XXtroigh	Nf2-SINGULAR;	! pl -ithe foot; step    FIX PLURALS 
+!!XXpríomháidh	Nm4-X;	! pl -ithe primate (of
+!!XXfáidh	Nm4-X;	! pl -ithe prophet; wise
+!!XXfraigh	Nf2-SINGULAR;	! pl -itheacha wall pl    FIX PLURALS
+!!XXscaitheamh	Nm1-SYNC;	! pl -ití while, spell,
+!!XXfilleadh	Nm1-SYNC;	! pl -llteacha bend, fold;
+!!XXfala	Nf4-X;	! pl -lta grudge, resentment, FIX PLURALS
+!!XXculaith	Nf2-SINGULAR;	! pl -ltacha suit, apparel;    FIX PLURALS
+muirmhíle	Nm4-3;	! pl -lte knot, nautical
+méile	Nm4-3;	! pl -lte sandhill, dune
+bruachbhaile	Nm4-3; ! pl -lte suburb
+fo-bhaile	Nm4-3;	! pl -lte suburb
+sráidbhaile	Nm4-3;	! pl -lte village
+féileadh	Nm1-5;	! pl -lí, ~ beag
+!!rúndiamhair	Nf2-SINGULAR;	! pl -mhra (religious) mystery    FIX PLURALS
+!!diamhair	Nf2-SINGULAR;	! pl -mhra dark, secluded,    FIX PLURALS
+uchtleanbh	Nm1-5;	! pl -naí adopted child
+neamhní	Nm4-4;	! pl -nithe nothing, nought
+!!XXléana	Nm4-X;	! pl -nta water-meadow; greensward,
+!!XXforlíonadh	Nm1-SYNC;	! pl -ntaí filling, swelling;
+folíne	Nf4-3;	! pl -nte (telephone) extension   FIX PLURALS
+!!XXathsmaoineamh	Nm1-SYNC;	! pl -nte afterthought, teacht
+díolúine	Nf4-3;	! pl -ntí exemption, immunity;
+!!XXsíneadh	Nm1-SYNC;	! pl -ntí stretch(ing); extension,
+tuilsolas	Nm1-9;	! pl -oilse flood-light
+bruachsholas	Nm1-9;	! pl -oilse footlight
+tóirsholas	Nm1-9;	! pl -oilse searchlight
+fardoras	Nm1-9;	! pl -oirse lintel (of
+broim	Nm3-4;	! pl -omanna & vi,
+dobhardhroim	Nm3-4;	! pl -omanna watershed
+!!XXroinnt	Nf2-SINGULAR;	! pl -rannta apportionment, portion    FIX PLURALS
+!!XXcionroinnt	Nf2-SINGULAR;	! pl -rannta apportionment, portion    FIX PLURALS
+dearadh	Nm1-5;	! pl -raí design
+!!XXsmearadh	Nm1-SYNC;	! pl -rthaí smear; grease;
+cuireadh	Nm1-7;	! pl -rí invitation; summons
+!!XXsliasaid	Nf2-SINGULAR;	! pl -sta thigh; side;    FIX PLURALS
+!!XXcasadh	Nm1-SYNC;	! pl -staí twist, turn;
+!!XXmáistir	Nm4-X;	! pl -trí master; teacher;
+!!XXpámháistir	Nm4-X;	! pl -strí paymaster
+!!XXardmháistir	Nm4-X;	! pl -trí headmaster
+!!XXfealsamh	Nm1-SYNC;	! pl -súna philosopher
+!!XXtritheamh	Nm1-SYNC;	! pl -thí fit, paroxysm
+sitheadh	Nm1-7;	! pl -thí rush; onrush,
+maistreadh	Nm1-7;	! pl -trí churning
+!!XXministir	Nm4-X;	! pl -trí minister
+anuasal	Nm1-9;	! pl -uaisle low-born person
+!!XXdrámh	Nm1-SYNC;	! pl -áite non-trump card;
+cúlbhóthar	Nm1-9;	! pl -óithre by-road
+crosbhóthar	Nm1-9;	! pl -óithre crossroads
+figiúr	Nm1-7;	! pl -úirí figure, digit;
+!!XXcóir	Nf3-SINGULAR;	! pl córacha justice, equity;	FIX PLURAL
+!!XXdaigh	Nf2-SINGULAR;	! pl daitheacha stabbing pain;    FIX PLURALS
+!!XXdeoin	Nf3-SINGULAR;	! pl deonta will, consent,	FIX PLURAL
+!!XXdáil	Nf3-SINGULAR;	! pl dálaí, dála in	FIX PLURAL
+!!XXgoin	Nf3-SINGULAR;	! pl gonta wound; sting, 	FIX PLURALS
+!!XXgualainn	Nf2-SINGULAR;	! pl guaillí shoulder, chuir    FIX PLURALS
+!!XXleis	Nf2-SINGULAR;	! pl leasracha thigh    FIX PLURALS
+!!XXláí	Nf4-SINGULAR;	! pl lánta loy, spade	FIX PLURALS
+!!XXnóin	Nf3-SINGULAR;	! pl nónta nones; afternoon;	FIX PLURAL
+!!XXuaim	Nf3-SINGULAR;	! pl uamanna seam (inn	FIX PLURALS
+!!XXpéas	Nm4-EILE;	! pl ~ peace-officer, policeman;
+!!XXdosaen	Nm4-EILE;	! pl ~acha dozen
+sceimhle	Nm4-5;	! pl ~acha terror
+monarc		Nm4-12;	! pl ~aí monarch	!! NEW CAT
+múisiam		Nm4-12;	! pl ~aí upset, mental	!! NEW CAT
+!!XXgiorria	Nm4-EILE;	! pl ~cha hare
+!!XXeasna	Nf4-SINGULAR;	! pl ~cha rib	FIX PLURALS
+!!ula	Nf4-SINGULAR;	! pl ~cha sepulchre; charnel-house;	FIX PLURALS
+!!cneá	Nf4-SINGULAR;	! pl ~cha wound, sore	FIX PLURALS
+banchliamhain	Nm4-5;	! pl ~eacha daughter-in-law
+cliamhain	Nm4-5;	! pl ~eacha son-in-law, ~
+ithiomrá	Nm4-8;	! pl ~ite backbiting; slander
+marcshlua	Nm4-8;	! pl ~ite body of
+daoscarshlua	Nm4-8;	! pl ~ite common herd;
+gró	Nm4-8;	! pl ~ite crow-bar grod
+cró	Nm4-8;	! pl ~ite eye, socket;
+sá	Nm4-8;	! pl ~ite gs as
+slua	Nm4-8;	! pl ~ite host, army;
+réamhrá	Nm4-8;	! pl ~ite introduction; preface
+conchró	Nm4-8;	! pl ~ite kennel
+mathshlua	Nm4-8;	! pl ~ite large crowd,
+athrá	Nm4-8;	! pl ~ite repetition, reiteration
+rá	Nm4-8;	! pl ~ite saying, utterance,
+crú	Nm4-8;	! pl ~ite shoe (for
+ré	Nf4-8;	! pl ~ite stretch of
+lí	Nf4-10;	! pl ~ocha colour, complexion;
+claí	Nm4-10;	! pl ~ocha dike, wall;
+impí	Nf4-10;	! pl ~ocha entreaty; intercession
+faillí	Nf4-10;	! pl ~ocha neglect; delay,	
+achainí	Nf4-10;	! pl ~ocha request, entreaty,
+tanaí	Nf4-10;	! pl ~ocha shallow water
+!!!! SEE NUM trí	Nm4-9;	! pl ~onna & a
+ailibí	Nm4-9;	! pl ~onna alibi
+cíorbhuí	Nm4-9;	! pl ~onna goldcrest
+naí	Nm4-9;	! pl ~onna infant
+idirghuí	Nf4-9;	! pl ~onna intercession; supplication
+laí	Nm4-9;	! pl ~onna pole, shaft
+guí	Nf4-9;	! pl ~onna prayer, entreaty,	
+suí	Nm4-9;	! pl ~onna sitting (position);
+scí	Nm4-9;	! pl ~onna ski
+graí	Nf4-9;	! pl ~onna stud (of	FIX PLURALS
+airí	Nm4-9;	! pl ~onna symptom; characteristic
+tí	Nm4-9;	! pl ~onna tee
+!!XXilroinnt	Nf2-SINGULAR;	! pl ~rannta division into    FIX PLURALS
+cian	Nf2-10;	! pl ~ta ds céin
+cluain	Nf3-7;	! pl ~te meadow; aftergrass
+móin	Nf3-7;	! pl ~te turf, peat;
+!!XXsprais	Nf2-SINGULAR;	! pl ~teacha spattering, splash;    FIX PLURALS
+aturnae	Nm4-11;	! pl ~tha attorney, solicitor
+pastae	Nm4-11;	! pl ~tha pasty, pie;
+pósae	Nm4-11;	! pl ~tha posy, flower
+!!starr	Nf3-SINGULAR;	! pl ~tha prominence, projection	FIX PLURALS
+sciar	Nm4-11;	! pl ~tha share
+!!sú	Nf4-SINGULAR;	! pl ~tha, ~ craobh	FIX PLURALS
+!!muirgha	Nm4-EILE;	! pl ~thanna harpoon
+!!ga	Nm4-EILE;	! pl ~thanna spear, dart;
+!!x-gha	Nm4-EILE;	! pl ~thanna x-ray
+!!baoi	Nm4-EILE;	! pl ~the buoy; float
+!!fodhlí	Nm4-EILE;	! pl ~the by-law
+sí	Nm4-4;	! pl ~the fairy mound
+!!péindlí	Nm4-EILE;	! pl ~the penal law
+!!leasrí	Nm4-EILE;	! pl ~the regent; viceroy
+!!rí	Nf4-SINGULAR;	! pl ~theacha forearm	FIX PLURALS
+!!bunrí	Nf4-SINGULAR;	! pl ~theacha wrist	FIX PLURALS
+!!ó	Nm4-EILE;	! pl óí gs uí
+!!úim	Nf3-SINGULAR;	! pl úmacha harness; gear,n	FIX PLURALS
+!!purláin	Nmpl;	! precincts;
+atáirgeadh	Nm5-4;	! reproduction
+athaontú	Nm5-3;	! reunion
+athbhreithniú	Nm5-3;	! review, revision
+!!daitheacha	Nfpl;	! rheumatics, rheumatism
+beophianadh	Nm5-7;	! suspense, impatience
+blaiseadh	Nm5-6;	! taste, bite, sup
+!!seanchairteacha	Nfpl;	! ~ a tharraingt ort
+!!bearradh	Nm5-6;	! ~ gruaige hair-cut, ~
+eisfhearadh	Nm5-6;	! excretion
+feiste		Nf4-2;	! device, arrangement
+úirí		Nf4-10;	! testis

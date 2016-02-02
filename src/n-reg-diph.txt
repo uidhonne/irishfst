@@ -1,0 +1,37 @@
+! Noun (Gaeilge) Replace Rules
+! Elaine Uí Dhonnchadha
+! 12/12/96 - continued March 1998
+! 
+!****************************************************************************
+! Certain vowel combinations will be represented by one symbol as these vowel
+! sounds should be treated as a unit.
+! DIPHTHONG EXAMPLE
+! For example in slenderising "ua" we want "uai" not "uiai".
+! LONG VOWEL EXAMPLE
+! In cathair (city) the "ai" is syncopated but in cathaoir (chair) "aoi" is not.
+!
+! (This may reduce network size in places (although it means adding new symbols
+! to the alphabet.)
+!
+! Diphthongs 
+!	ua -> U eg bruas ^Caol, buairt ^Lea, díomuach ^Ath (adj.)
+!	ia -> I eg scian ^Lea	(NOT IN USE AT PRESENT)
+! There are two other diphthongs in Irish but the are not explicitly represented
+! orthographically (radharc, etc see Fpóca)
+!
+! Long Vowels
+!	ao -> O saol, gaol, cathaoir (sounds like ee)
+!	ae -> E grosaeir, traen ^Lea (sounds like ay)
+!
+!	Note: sometimes "eo" has a long sound (like ó) eg ceol, gleo
+!***************************************************************************
+
+read regex [ a e -> %^AE ]				! Long vowel symbol
+!.o.
+![ i a -> %^IA ]					! Diphthong symbol
+
+.o.
+[ a o -> %^AO ]						! Long vowel symbol
+
+.o.
+[ u a -> %^UA ];					! Diphthong symbol

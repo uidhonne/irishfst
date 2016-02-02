@@ -1,0 +1,11 @@
+!!!
+!!!! Organisations
+!!!!
+LEXICON NP-LEX-ORG
+<S i n n %  F é i n %+Prop:0 %+Noun:0 %+Masc:0 %+Com:0 %+Sg:0>	#; !! 
+<F i a n n a %  F á i l %+Prop:0 %+Noun:0 %+Masc:0 %+Com:0 %+Sg:0>	#; !! 
+<F i n e %  G a e l %+Prop:0 %+Noun:0 %+Masc:0 %+Com:0 %+Sg:0>	#; !! 
+<L u c h t %  O i b r e  %+Prop:0 %+Noun:0 %+Masc:0 %+Com:0 %+Sg:0>	#; !! 
+
+anois+Prop+Noun+Masc+Com+Sg:Anois      #; 
+anois+Prop+Noun+Masc+Com+Sg:ANOIS      #; 

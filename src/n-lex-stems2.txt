@@ -1,0 +1,145 @@
+LEXICON NounsB
+
+béim	 	Nf2-6;	 ! pl ~eanna blow; notch;
+agóid	 	Nf2-7;	 ! objection, protest, lucht ~e
+
+amadán	 	Nm1-1;	 ! fool
+   
+aoibh	 	Nf2-SINGULAR;	! smile; pleasant expression
+ 
+ard	 	Nm1-2;	 ! npl ~a height, hillock;
+athair	 	Nf5-2;	 ! gs athrach creeper
+ 
+bosca	 	Nm4-1;	 ! box, ~ ceoil melodeon
+bosca:bocsa	 	Nm4-1;	 ! box, ~ ceoil melodeon
+
+biorán	 	Nm1-1;	 ! pin, ~ cniotála knitting-needle
+
+
+bog	 	Nm1-SINGULAR;	 ! soft part, etc, ~
+bolg	 	Nm1-1;	 ! belly, stomach; bellyful; bag;
+bóna	 	Nm4-1;	 ! collar; lapel
+  
+buachaill	Nm3-1;	 ! boy, bachelor, young man,
+buidéal	 	Nm1-1;	 ! bottle
+   
+canna	 	Nm4-1;	 ! can, ar na ~í
+caol	 	Nm1-3;	 ! pl ~ta slender part
+casóg	 	Nf2-2;	 ! cassock; jacket, coat
+
+ceartlár	Nm1-SINGULAR;	 ! exact centre
+   
+cion		Nm3a-SINGULAR;	 ! share, amount, rinne sé   		!
+cion	 	Nm3-7;	 ! pl ~ta offence, transgression; / ! gs ceana love, affection;
+cistin	 	Nf2-8;	 ! pl ~eacha kitchen
+ 
+ciúnas	 	Nm1-SINGULAR;	 ! calmness; stillness, silence, quiet
+
+cléireach	Nm1-1;	 ! clerk; altar-boy; sexton
+ 
+cloigeann	Nm1-9;	 ! pl -gne skull; head,
+cluas	 	Nf2-1;	 ! ear; lug, handle, ~
+cluais	 	Nf2-2;	 ! SEE cluas
+coisíocht	Nf3-SINGULAR;	 ! pace, gait; foot-travel
+ 
+
+conspóid	 Nf2-7;	 ! argument; controversy vt &
+cosúlacht	 Nf3-1;	 ! likeness; appearance, resemblance; double,
+craiceann	 Nm1-9;	 ! pl -cne skin; rind;
+Críostaí	 Nm4-4;	 ! Christian
+   
+Críostaíocht	 Nf3-SINGULAR;	 ! Christianity
+   
+cuairteoir	 Nf3-1;	 ! visitor; tourist
+  
+cúinne	 	 Nm4-2;	 ! corner; angle, nook !!!!!!!!!!!!!!!!!CHECK THIS
+ 
+cúnamh	 	 Nm1-SINGULAR;	 ! help, assistance
+  
+cupán	 	 Nm1-1;	 ! cup
+   
+daid	 	 Nm4-7;	 ! pl ~eanna dad
+ 
+
+!!!! SEE NUM-LEX deich	 	 Nm4-7;	 ! & a ten!!!!!!!!!!!!!!!CHECK THIS
+ 
+draíocht	 Nf3-SINGULAR;	 ! gs & pl ~a  IRREG PL SEE FIX FILE
+
+éagóir	 	 Nf3-2;	 ! pl -óracha injustice, wrong; !!!!!!!!!!!!!!!CHECK THIS 5-2
+féar	 	 Nm1-2;	 ! npl ~a grass, hay,
+
+fírinne	 	 Nf4-2;	 ! truth, is é ~
+fráma	 	 Nm4-1;	 ! frame
+   
+gadhar	 	Nm1-1;	 ! ~ (fiaigh) (hunting) dog,
+géag	 	Nf2-2;	 ! branch, limb; offshoot, ~a
+giobal		Nm1-1;	 ! rag, clout
+  
+
+gorm		 Nm1-1;	 ! blue   !!!!!!!!!!!!!!!!CHECK THIS
+   
+gruaig	 	Nf2-SINGULAR;	 ! hair (of head)
+ 
+guth	 	 Nm3-3;	 ! pl ~anna voice; utterance;
+iarratas	 Nm1-1;	 ! asking; importunity; (formal) application,
+ionsaí	 	Nm4-4;	 ! advance, attack; attempt, d'~
+
+lag	 	Nm1-2;	 ! npl ~ a weak
+leathan	 	Nm1-1;	 ! broad part, flat open
+liúdramán	 Nm1-1;	 ! loafer, idler
+  
+maicín	 	Nm4-1;	 ! pet; spoilt child
+ 
+mam	 	Nf2-6;	 ! pl ~anna mammy
+ 
+
+micreafón	 Nm1-1;	 ! microphone
+   
+muinchille	 Nm4-2;	 ! sleeve!!!!!!! CHECK THIS
+   
+!! SEE N-LEX-IRREG muineál	 Nm1-1;	 ! gs & npl -níl
+
+ní	 Nm4-4;	 ! washing
+  
+nuacht	 Nf3-SINGULAR;	 ! news; novelty, innovation
+ 
+!!! SEE NUM LEX ocht	 Nm4-7;	 ! pl ~anna & a
+osna	 Nm4-1;	 ! sigh
+   
+toirt	 Nf2-6;	 ! pl ~eanna mass, volume;
+tolg	 Nm1-1;	 ! couch, sofa/ attack; force; gap, rent
+  
+pléasc	 Nf2-6;	 ! pl ~anna explosion; bang,
+ponc	 Nm1-6;	 ! pl ~anna point; dot;
+preab	 Nf2-1;	 ! start; bounce; throb; liveliness;
+ráiteas	 Nm1-1;	 ! statement
+   
+ruaig	 Nf2-6;	 ! pl ~eanna chase, rout;
+rúitín	 Nm4-1;	 ! ankle; fetlock
+  
+scread	 Nf3-3;	 ! pl ~anna scream vi  !!!!!!!!!!CHECK THIS
+seilf	 Nf2-6;	 ! pl ~eanna shelf
+seilp	 Nf2-6;	 ! pl ~eanna shelf	! +CM
+ 
+soicind	 Nm4-1;	 ! second
+   
+spíce	 Nm4-1;	 ! spike, ~ solais thin
+stailceoir	 Nm3-1;	 ! striker			!!!!CHECK THIS
+   
+stóráil	 Nf3-SINGULAR;	 ! storage vt store
+ 
+tacaíocht	 Nf3-SINGULAR;	 ! support, backing
+  
+
+teannas	 Nm1-SINGULAR;	 ! tautness; tension
+  
+tóir	 Nf3-6;	 ! pl ~eacha pursuit, chase;
+trioblóid	 Nf2-7;	 ! trouble, affliction
+  
+tuismitheoir	 Nm3-1;	 ! parent
+   
+túr	 Nm1-1;	 ! tower
+   
+stíl	 Nf2-6;	 ! pl ~eanna (artistic) style
+
+méid	 Nf2-6;	 ! size, magnitude, dul i

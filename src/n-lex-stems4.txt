@@ -1,0 +1,3410 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!! Manually assigned CCs
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON NounsD
+Aidbhint	Nf2-7;	! Advent
+Breac-Ghaeltacht	Nf3-1;	! mixed Irish-and English-speaking districts
+Béarlóir	Nm3-1;	! English speaker
+Ceiltis	Nf2-SINGULAR;	! Celtic (language)
+Cincís	Nf2-7;	! Pentecost, Whitsun-(tide)
+Comaoineach	Nf4-SINGULAR;	! gs & gpl ~
+Críostúlacht	Nf3-SINGULAR;	! Christianity; Christian charity
+Cáisc	Nf3-SINGULAR;	! Easter; Passover
+Eocairist	Nf2-SINGULAR;	! Eucharist
+Feabhra	Nf4-SINGULAR;	! February
+Fiann	Nf2-1;	! gs Féinne the Fianna,
+Gaeilgeoir	Nm3-1;	! Irish speaker, learner of
+Galltacht	Nf3-SINGULAR;	! English-speaking district
+Mars	Nm3-SINGULAR;	! Mars
+Muire	Nf4-SINGULAR;	! (the Virgin) Mary
+Nua-Ghaeilge	Nf4-SINGULAR;	! Modern Irish
+Páiseadóir	Nm3-1;	! Passionist
+Rúraíocht	Nf3-SINGULAR;	! Ulster epic cycle
+Tríonóid	Nf2-SINGULAR;	! Trinity
+Uisceadóir	Nm3-1;	! an t~ Aquarius
+Véineas	Nf4-SINGULAR;	! Venus
+abairt	Nf2-7;	! sentence, phrase
+abarthacht	Nf3-SINGULAR;	! wittiness
+abhlann	Nf2-1;	! wafer, host
+abhlóir	Nm3-1;	! buffoon
+abhóg	Nf2-1;	! bound; bad impulse
+abláil	Nf3-SINGULAR;	! botching
+acarsóid	Nf2-SINGULAR;	! anchorage
+acastóir	Nm3-1;	! axle
+achoimre	Nf4-2;	! summary
+achomaireacht	Nf3-SINGULAR;	! conciseness, brevity,
+achomharcóir	Nm3-1;	! appellant
+aclaíocht	Nf3-SINGULAR;	! agility; limbering, exercise; adroitness
+acmhainn	Nf2-SINGULAR;	! capacity, endurance; means, resources;
+acraíocht	Nf3-SINGULAR;	! acreage
+adhaint	Nf2-SINGULAR;	! inflammation; ignition
+adhascaid	Nf2-SINGULAR;	! nausea, morning sickness
+adhlacóir	Nm3-1;	! undertaker
+adhmadóireacht	Nf3-SINGULAR;	! woodwork, carpentry
+adhmaint	Nf2-7;	! lodestone, magnet
+adhraitheoir	Nm3-1;	! adorer, worshipper
+admháil:admhál	Nf3-6;	! acknowledgement, admission; receipt
+adóib	Nf2-SINGULAR;	! adobe
+aeistéitic	Nf2-SINGULAR;	! aesthetics
+aeracht	Nf3-SINGULAR;	! airiness; gaiety; flightiness
+aeraidinimic	Nf2-1;	! aerodynamics
+aeraíocht	Nf3-SINGULAR;	! open-air entertainment, ag ~
+aerloingseoireacht	Nf3-SINGULAR;	! aeronautics
+aeráid	Nf2-7;	! climate
+aeráil	Nf3-SINGULAR;	! ventilation vt ventilate, air
+aeróg	Nf2-1;	! aerial
+agaill	Nf2-7;	! earthworm, lobworm
+agall	Nf2-1;	! exclamation, cry; talk, argument
+agáit	Nf2-7;	! agate
+aibhleog	Nf2-1;	! coal (of fire), ~
+aibhléis	Nf2-SINGULAR;	! electricity
+aibhéis	Nf2-SINGULAR;	! abyss
+aibreog	Nf2-1;	! apricot
+aibéil	Nf2-SINGULAR;	! ~ chainte back-chat a1
+aibíocht	Nf3-SINGULAR;	! ripeness, maturity; quickness, cleverness
+aibítir:aibítr	Nf2-7;	! gs -tre pl -trí
+aicearracht	Nf3-SINGULAR;	! in ~ soon, without
+aicsím	Nf2-7;	! axiom
+aicéitiléin	Nf2-1;	! acetylene
+aicíd	Nf2-7;	! disease
+aidiacht	Nf3-1;	! adjective
+aife	Nf4-SINGULAR;	! ebb, taoide ~ ebbing
+aifid	Nf2-7;	! aphid
+aighneacht	Nf3-SINGULAR;	! submission
+aigneolaíocht	Nf3-SINGULAR;	! psychology
+ailceimic	Nf2-SINGULAR;	! alchemy
+ailleadóireacht	Nf3-SINGULAR;	! rock-climbing
+ailléirge	Nf4-1;	! allergy
+ailse	Nf4-SINGULAR;	! cancer
+ailtireacht	Nf3-SINGULAR;	! architecture
+ailím	Nf4-SINGULAR;	! alum
+aimhleas	Nm3-SINGULAR;	! harm, detriment; evil
+aimhrialtacht	Nf3-SINGULAR;	! anomaly
+aimhriar	Nf2-1;	! gs -réire disobedience; incongruity
+aimhréidh	Nf2-SINGULAR;	! entanglement, dul in ~
+aimiréalacht	Nf3-SINGULAR;	! admiralty
+aimitis	Nf2-7;	! amethyst
+aimléis	Nf2-SINGULAR;	! misery
+aimnéise	Nf4-SINGULAR;	! amnesia
+aimplitheoir	Nm3-1;	! amplifier
+aimride	Nf4-SINGULAR;	! barrenness, sterility
+aimsitheoir	Nm3-1;	! marksman; finder
+ainbhios	Nm3-SINGULAR;	! gs -bheasa ignorance
+aincis	Nf2-SINGULAR;	! malignancy; peevishness
+ainfheoil	Nf3-SINGULAR;	! proud flesh
+ainglis	Nf2-SINGULAR;	! goitre
+aingíne	Nf4-SINGULAR;	! angina, ~ chléibh angina
+ainmheasarthacht	Nf3-SINGULAR;	! excess, intemperance
+ainmhéid	Nf2-SINGULAR;	! hugeness, overgrowth
+ainmníocht	Nf3-SINGULAR;	! nomenclature
+ainnise	Nf4-SINGULAR;	! misery
+ainniseoir	Nm3-1;	! miserable person, wretch
+ainriail	Nf5-1;	! gs -alach lack of
+ainscian	Nf2-SINGULAR;	! gs -céine wildness, fury,
+ainspiantacht	Nf3-SINGULAR;	! grotesqueness; ab normality
+ainsprid	Nf2-7;	! evil spirit
+aintéine	Nf4-2;	! antenna
+aintín	Nf4-1;	! aunt
+aipindic	Nf2-7;	! appendix
+airc	Nf2-SINGULAR;	! greed, voracity; want
+aird	Nf2-SINGULAR;	! attention; notice, focal gan
+airde	Nf4-SINGULAR;	! height; altitude, level, fiche
+aireacht	Nf3-SINGULAR;	! ministry
+aireachtáil	Nf3-SINGULAR;	! perception
+airgeadóir	Nm3-1;	! cashier, teller
+airne	Nf4-2;	! sloe
+airnéis	Nf2-SINGULAR;	! chattels; cattle; goods; equipment
+airtléire	Nf4-2;	! artillery
+airéine	Nf4-2;	! arena
+airí	Nf4-SINGULAR;	! desert, is maith an
+aisce	Nf4-2;	! favour, gift, in ~
+aisling	Nf2-7;	! vision; vision poem
+aispeist	Nf2-SINGULAR;	! asbestos
+aisteoir	Nm3-1;	! actor
+aistritheoir	Nm3-1;	! remover; translator
+aisíoc	Nm3-SINGULAR;	! repayment, restitution vt repay,
+aiteacht	Nf3-SINGULAR;	! queerness, oddness
+aithinne	Nf4-2;	! firebrand; spark
+aithis	Nf2-SINGULAR;	! slur, reproach; disgrace
+aithris	Nf2-SINGULAR;	! narration; imitation; mimicry, níl
+aithriseoireacht	Nf3-SINGULAR;	! recitation, mimicry
+aithrí	Nf4-SINGULAR;	! repentance; penance, ~ thoirní
+alfraits	Nf2-7;	! rascal; scoundrel
+allabhair	Nf5-2;	! gs -bhrach pl -bhracha
+allaíre	Nf4-SINGULAR;	! partial deafness
+allmhaire	Nf4-2;	! imported article, import
+allmhaireoir	Nm3-1;	! importer
+alltacht	Nf3-SINGULAR;	! astonishment, ~ a chur
+almsa	Nf5-3;	! gs ~n alms
+almóinn	Nf2-7;	! almond
+almóir	Nm3-1;	! wall-cupboard; niche
+altram	Nm3-SINGULAR;	! fosterage
+altóir	Nf3-SINGULAR;	! altar
+amadántacht	Nf3-SINGULAR;	! fooling; foolishness
+amaid	Nf2-7;	! foolish woman
+amaideacht	Nf3-SINGULAR;	! idiocy
+amaidí	Nf4-SINGULAR;	! folly, nonsense, ag ~
+ambasadóir	Nm3-1;	! ambassador
+ambasáid	Nf2-7;	! embassy
+amhantraíocht	Nf3-SINGULAR;	! speculation
+amharcaíl	Nf3-SINGULAR;	! peering
+amharclann	Nf2-1;	! theatre
+amhlabhra	Nf4-SINGULAR;	! inarticulateness
+amhola	Nf4-1;	! crude oil
+amhránaíocht	Nf3-SINGULAR;	! singing
+amhsaine	Nf4-SINGULAR;	! mercenary service
+amlóir	Nm3-1;	! foolish person; awkward person
+amplóir	Nm3-1;	! hungry, greedy, person
+amóinia	Nf4-SINGULAR;	! ammonia
+anabaíocht	Nf3-SINGULAR;	! immaturity
+anachain	Nf2-12;	! pl -ana mischance, calamity;
+anaemacht	Nf3-SINGULAR;	! anaemia
+anailís	Nf2-7;	! analysis
+anairt	Nf2-7;	! ~ (bheag) sail-cloth, canvas
+anatamaíocht	Nf3-SINGULAR;	! anatomy
+anbhuain	Nf2-SINGULAR;	! restlessness; unease; disturbance
+anchuma	Nf4-SINGULAR;	! bad, unnatural, appearance
+andúil	Nf2-SINGULAR;	! craving; addiction
+andúilíocht	Nf3-1;	! addiction
+anglais	Nf2-SINGULAR;	! milk and water; milksop,
+ansacht	Nf3-SINGULAR;	! love; loved one
+ansmacht	Nm3-SINGULAR;	! tyranny	CHECK THIS
+antraicít	Nf2-SINGULAR;	! anthracite
+antraipeolaíocht	Nf3-SINGULAR;	! anthropology
+anáid	Nf2-7;	! annuity
+anáil	Nf3-SINGULAR;	! breath, tá an ~
+análaitheoir	Nm3-1;	! respirator
+aolchloch	Nf2-1;	! limestone
+aolchoinneal:aolchoinnl	Nf2-13;	! gs & pl -nnle
+aonghin	Nf2-SINGULAR;	! only-begotten (child)
+aontacht	Nf3-SINGULAR;	! unity; union; unanimity;
+aontumha	Nf4-SINGULAR;	! celibacy a3 celibate
+aorthóir	Nm3-1;	! satirist, lampooner
+aos	Nm3-SINGULAR;	! people, folk
+apaipléis	Nf2-SINGULAR;	! apoplexy
+apsaint	Nf2-SINGULAR;	! absinth(e)
+aragail	Nf2-7;	! ledge
+araicis	Nf2-SINGULAR;	! dul in ~ duine
+araid	Nf2-7;	! bin, chest
+araí	Nf4-SINGULAR;	! appearance
+araíonacht	Nf3-SINGULAR;	! restraint
+ardaitheoir	Nm3-1;	! lifter; lift, elevator
+ardchathair	Nf5-2;	! gs -thrach pl -thracha
+ardeaglais	Nf2-7;	! cathedral
+ardmháistreás	Nf3-SINGULAR;	! headmistress
+ardteistiméireacht	Nf3-SINGULAR;	! leaving certificate
+argain	Nf3-SINGULAR;	! destruction, plunder
+argóint	Nf2-7;	! argument
+armadóir	Nm3-1;	! armourer, arms manufacturer
+armadóireacht	Nf3-SINGULAR;	! manufacture of arms
+armlann	Nf2-1;	! armoury, magazine
+armáid	Nf2-7;	! armada
+armáil	Nf3-SINGULAR;	! armament vt arm
+armóin	Nf2-7;	! harmony; harmonium
+arracht	Nm3-3;	! spectre, monster; giant; juggernaut
+arsanaic	Nf2-SINGULAR;	! arsenic
+artola	Nf4-SINGULAR;	! petrol
+asarlaíocht	Nf3-SINGULAR;	! sorcery; conjuring tricks
+ascaill	Nf2-7;	! armpit; recess; avenue (of
+aspalacht	Nf3-SINGULAR;	! apostleship; apostolate
+aspalóid	Nf2-SINGULAR;	! absolution
+astitim	Nf2-SINGULAR;	! (atomic) fall-out
+astralaíocht	Nf3-SINGULAR;	! astrology
+athartha	Nf4-SINGULAR;	! fatherland
+atharthacht	Nf3-SINGULAR;	! paternity
+athbheochan	Nf3-SINGULAR;	! revival, A~ an Léinn
+athbhliain	Nf3-SINGULAR;	! coming, new, year
+athbhrí	Nf4-SINGULAR;	! renewed vigour; ambiguity
+athchaint	Nf2-SINGULAR;	! backbiting; impudence
+athchomhairle	Nf4-2;	! change of mind
+athchuimhne	Nf4-2;	! reminiscence
+athchuma	Nf4-1;	! transformation; distortion
+athghabháil	Nf3-SINGULAR;	! recapture; recovery
+athlámh	Nf2-SINGULAR;	! ds -áimh, ar athláimh
+athléim	Nf2-SINGULAR;	! rebound
+athnuachan	Nf3-SINGULAR;	! renewal; renovation; rejuvenation
+atráth	Nm3-2;	! rud a chur ar
+atuirse	Nf4-SINGULAR;	! weariness; dejection
+atóin	Nf3-SINGULAR;	! (of vessel) false bottom
+aíocht	Nf3-1;	! hospitality; lodging
+aíochtlann	Nf2-1;	! guest-house
+babhtáil	Nf3-SINGULAR;	! exchange, swop, barter
+bacadaíl	Nf3-SINGULAR;	! limping
+bacainn	Nf2-7;	! barrier, obstacle
+bacaí	Nf4-SINGULAR;	! lameness, céim bhacaí a
+bachall	Nf2-1;	! crook, staff; crozier; ringlet,
+bachlóg	Nf2-1;	! bud, sprout
+badhbh	Nf2-1;	! war-goddess; vulture; carrion-crow, ~
+baic	Ns;	! ~ an mhuiníl nape
+baicle	Nf4-2;	! band of people; clique
+baictéareolaíocht	Nf3-SINGULAR;	! bacteriology
+bail	Nf2-SINGULAR;	! prosperity; state, ~ ó
+bailbhe	Nf4-SINGULAR;	! dumbness; stammering
+bailc	Nf2-6;	! downpour (of rain) vt,
+bailchríoch	Nf2-1;	! finishing touch
+bailitheacht	Nf3-SINGULAR;	! boredom
+bailitheoir	Nm3-1;	! collector
+baincéir	Nm3-1;	! banker
+baincéireacht	Nf3-SINGULAR;	! banking
+bainisteoir	Nm3-1;	! manager
+bainisteoireacht	Nf3-SINGULAR;	! managing; managership
+bainistreás	Nf3-SINGULAR;	! manageress
+bainistí	Nf4-SINGULAR;	! thrift
+bainistíocht	Nf3-SINGULAR;	! thriftiness
+bainteoir	Nm3-1;	! digger; reaper; picker
+bairdéir	Nm3-1;	! warder
+baisleac	Nf2-1;	! basilica
+baithis	Nf2-7;	! top, crown (of head),
+baitsiléir	Nm3-1;	! bachelor
+baitíc	Nf2-7;	! batik
+balaistíocht	Nf3-SINGULAR;	! ballistics
+balastráid	Nf2-7;	! balustrade
+balcais	Nf2-7;	! clout, rag; garment
+balcóin	Nf2-7;	! balcony
+ballraíocht	Nf3-SINGULAR;	! membership
+ballóg	Nf2-1;	! roofless house, ruin
+ballóid	Nf2-7;	! ballot
+balscóid	Nf2-7;	! blotch; blister
+ban-ab	Nf3-1;	! abbess
+banaltra	Nf4-2;	! nurse
+banaltracht	Nf3-SINGULAR;	! nursing
+banlámh	Nf2-1;	! cubit
+bannóir	Nm3-1;	! bondholder
+banríon	Nf3-6;	! pl ~acha queen
+bantiarna	Nf4-1;	! (titled) lady
+bantracht	Nf3-SINGULAR;	! womenfolk
+banúlacht	Nf3-SINGULAR;	! womanliness; womanhood; modesty
+baracáid	Nf2-7;	! barricade
+barainneacht	Nf3-SINGULAR;	! economy, thrift
+barbarthacht	Nf3-SINGULAR;	! barbarity, ~ chainte coarse
+barraíl	Nf3-SINGULAR;	! loppings; husky grain; waste
+barraíocht	Nf3-SINGULAR;	! excess, tá punt de
+barrchéim	Nf2-6;	! climax; apogee
+barrthuairisc	Nf2-7;	! additional information
+barróg	Nf2-1;	! hug; wrestling grip
+barúntacht	Nf3-SINGULAR;	! barony
+bas	Nf2-6;	! (fish) ~ (gheal) bass
+basadóir	Nm3-1;	! match-maker
+beachlann	Nf2-1;	! apiary
+beachtaíocht	Nf3-SINGULAR;	! exactitude; criticism
+beadaíocht	Nf3-SINGULAR;	! fastidiousness (about food); dainties
+beaichte	Nf4-SINGULAR;	! exactitude
+beaignit	Nf2-7;	! bayonet
+beann	Nf2-1;	! horn, antler; prong
+beann	Nf2-1;	! regard; dependence, tá mé
+beannaitheacht	Nf3-SINGULAR;	! beatitude
+bearbóir	Nm3-1;	! barber
+bearbóireacht	Nf3-SINGULAR;	! hairdressing
+beartaíocht	Nf3-SINGULAR;	! scheming; ingenuity
+beathaisnéis	Nf2-7;	! biography
+beathaisnéisí	Nf4-4;	! biographer
+beathaitheacht	Nf3-SINGULAR;	! fatness, obesity
+beinifís	Nf2-7;	! benefice
+beochan	Nf3-SINGULAR;	! animation
+beocht	Nf3-SINGULAR;	! life, animation
+biabhóg	Nf2-1;	! rhubarb
+biaiste	Nf4-2;	! season, period (of plenty),
+bialann	Nf2-1;	! canteen, restaurant
+bige	Nf4-SINGULAR;	! littleness
+bigil	Nf2-7;	! vigil; eve of feast
+bileog	Nf2-1;	! billhook
+bileog	Nf2-1;	! leaf, ~ pháipéir sheet
+binb	Nf2-SINGULAR;	! venom, fury, ar ~
+binid	Nf2-SINGULAR;	! rennet
+binnbharraíocht	Nf3-SINGULAR;	! an bhinnbharraíocht a bheith
+binneog	Nf2-1;	! head-square
+biogamacht	Nf3-SINGULAR;	! bigamy
+biogóideacht	Nf3-SINGULAR;	! bigotry
+bioróir	Nm3-1;	! sharpener, pencil parer
+biotáille	Nf4-2;	! spirits; strong drink
+bitheog	Nf2-1;	! microbe
+bitheolaíocht	Nf3-SINGULAR;	! biology
+blagaid	Nf2-7;	! bald head
+blaisféim	Nf2-7;	! blasphemy
+blaisínteacht	Nf3-SINGULAR;	! toying with food or
+blaosc	Nf2-6;	! shell (of egg, nut,
+blastóg	Nf2-1;	! savoury
+bleacht	Nm3-SINGULAR;	! milk
+bleid	Nf2-SINGULAR;	! bhuail sé ~ orm
+bleánlann	Nf2-1;	! milking parlour
+bliainiris	Nf2-7;	! annual (publication), year-book
+blianacht	Nf3-1;	! annuity
+bliantóg	Nf2-1;	! annual (plant)
+bliteoir	Nm3-1;	! milker
+blonag	Nf2-SINGULAR;	! soft fat, lard; blubber
+bláthadóir	Nm3-1;	! florist
+bláthfhleasc	Nf2-1;	! wreath, garland
+bobaireacht	Nf3-SINGULAR;	! ag ~ ar dhuine
+bochtaineacht	Nf3-SINGULAR;	! poverty; meanness; humiliation
+bocóid	Nf2-7;	! boss, stud
+bodhaire	Nf4-SINGULAR;	! deafness, (of sound) dullness,
+bodóg	Nf2-1;	! heifer
+boghdóir	Nm3-1;	! archer
+boghdóireacht	Nf3-SINGULAR;	! archery
+boige	Nf4-SINGULAR;	! softness
+boilgeog	Nf2-1;	! bubble
+boilsc	Nf2-6;	! bulge
+boirbe	Nf4-SINGULAR;	! fierceness; coarseness; (of growth)
+boirbeáil	Nf3-SINGULAR;	! threatening; (of wound) gathering
+boiric	Nf2-7;	! protuberance, swelling
+boirrche	Nf4-SINGULAR;	! swelling; surge (of anger)
+boiseog	Nf2-1;	! pat, slap; ripple, ~
+bolaíocht	Nf3-SINGULAR;	! smelling, sniffing, ag ~
+bolgchaint	Nf2-SINGULAR;	! ventriloquism
+bolgchainteoir	Nm3-1;	! ventriloquist
+bolgóid	Nf2-7;	! bubble
+bollóg	Nf2-1;	! loaf
+bolscaireacht	Nf3-SINGULAR;	! announcing; publicity; propaganda
+bológ	Nf2-1;	! bullock
+bonnóg	Nf2-1;	! bannock, scone
+borrchré	Nf4-6;	! fuller's earth
+borrphéist	Nf2-SINGULAR;	! ringworm
+borróg	Nf2-1;	! bun
+bos	Nf2-1;	! palm (of hand); handful;
+bothántaíocht	Nf3-SINGULAR;	! visiting houses for pastime
+brach	Nm3-SINGULAR;	! pus, rheum
+bradaíl	Nf3-SINGULAR;	! thieving; (of grazing animals)
+bradóg	Nf2-1;	! landing-net
+braich	Nf2-SINGULAR;	! pres -achann malt
+braillín	Nf2-7;	! sheet
+braiteog	Nf2-1;	! tentacle
+braoi	Nf4-4;	! pl ~the eyebrow braon
+brataíl	Nf3-SINGULAR;	! flapping (as of sail)
+brathadóir	Nm3-1;	! betrayer; spy, informer
+brathadóireacht	Nf3-SINGULAR;	! betraying, ag ~ thart
+bratóg	Nf2-1;	! small cloak, covering; rag,
+breabaireacht	Nf3-SINGULAR;	! bribery
+breacachan	Nf3-SINGULAR;	! variegation; patchwork
+breacaireacht	Nf3-SINGULAR;	! variegation; carving; doodling; smattering
+breacfhostaíocht	Nf3-SINGULAR;	! casual employment
+breall	Nf2-1;	! blubber lip; blemish; fool,
+breallaireacht	Nf3-SINGULAR;	! ~ (chainte) nonsense
+breathnóir	Nm3-1;	! observer, spectator
+breischáin	Nf5-1;	! gs -chánach, pl -chánacha
+breochloch	Nf2-1;	! flint
+breoiteacht	Nf3-SINGULAR;	! sickness, ill-health
+breáthacht	Nf3-SINGULAR;	! beauty, excellence
+brilléis	Nf2-SINGULAR;	! silly talk; nonsense
+briocht		Nm3-3a;	! gs breachta charm, spell; !***
+briogáid	Nf2-7;	! brigade
+brionglóid	Nf2-7;	! dream
+brioscóid	Nf2-7;	! short biscuit, shortcake
+briotaireacht	Nf3-SINGULAR;	! lisping; lisping speech
+bristeoir	Nm3-1;	! ~ oighir icebreaker, ~
+brocais	Nf2-7;	! den; dirty, smelly, place
+broid	Nf2-SINGULAR;	! captivity; distress; misery, ~
+bronntóir	Nm3-1;	! giver, bestower
+brostaitheoir	Nm3-1;	! inciter, stimulator
+bruinneall	Nf2-1;	! fair maiden
+bruith	Nf2-SINGULAR;	! boiling, cooking; baking; grilling,
+bruithean	Nf2-SINGULAR;	! gs -thne heat, séideán
+bruithneoir	Nm3-1;	! smelter
+bruth	Nm3-SINGULAR;	! heat; rash, eruption, ~
+bráth	Nm3-SINGULAR;	! lá an bhrátha day
+bréag	Nf2-1;	! lie, falsehood, ainm bréige
+bréagadóir	Nm3-1;	! liar; cajoler
+bréifin:bréifn	Nf2-7;	! gs -fne pl -fní
+bréige	Nf4-SINGULAR;	! falseness
+bríbhéir	Nm3-1;	! brewer
+bríbhéireacht	Nf3-SINGULAR;	! brew; brewing
+bríceadóir	Nm3-1;	! bricklayer
+brídeog	Nf2-1;	! ceremonial image of St.
+bródúlacht	Nf3-SINGULAR;	! pride; arrogance
+bróicéir	Nm3-1;	! broker
+bróidnéireacht	Nf3-SINGULAR;	! embroidering; embroidery
+bróimíd	Nf2-SINGULAR;	! bromide
+bróis	Nf2-6;	! brose; mess
+brúidiúlacht	Nf3-SINGULAR;	! brutality
+brúsalóis	Nf2-SINGULAR;	! brucellosis
+buacacht	Nf3-SINGULAR;	! loftiness; richness; buoyancy
+buachailleacht	Nf3-SINGULAR;	! herding (cattle)
+buaf	Nf2-1;	! toad
+buaile	Nf4-3;	! pl -lte booley, milking-place
+buailteoir	Nm3-1;	! striker, beater; thresher, ~
+buaine	Nf4-SINGULAR;	! permanence, durability; longevity
+buainteoir	Nm3-1;	! mower, harvester
+buaiteoir	Nm3-1;	! winner, victor
+bual-lile	Nf4-2;	! water-lily
+buamadóir	Nm3-1;	! bomber
+buanaitheoir	Nm3-1;	! fixative
+buannacht	Nf3-SINGULAR;	! billeting; squatter's claim
+buanseasmhacht	Nf3-SINGULAR;	! perseverance
+buanseilbh	Nf2-1;	! fixity of tenure
+buatais	Nf2-7;	! top-boot
+bucainéir	Nm3-1;	! buccaneer
+buile	Nf4-2;	! madness, frenzy, ar ~
+buime	Nf4-2;	! foster-mother, nurse
+buimpéis	Nf2-7;	! vamp (of shoe, stocking),
+buirg	Nf2-7;	! borough
+buirgléir	Nm3-1;	! burglar
+buirgléireacht	Nf3-SINGULAR;	! burglary
+buitléir	Nm3-1;	! butler
+bulcaid	Nf2-7;	! bulkhead
+bulladóir	Nm3-1;	! bulldog
+bumbóg	Nf2-1;	! bumble-bee; busybody
+bunaitheoir	Nm3-1;	! founder
+bunaíocht	Nf3-SINGULAR;	! establishment
+bunchloch	Nf2-1;	! foundation-stone
+bundlaoi	Nf4-4;	! eaves (of thatch)
+bunreacht	Nm3-2;	! constitution
+bunsprioc	Nf2-6;	! fixed stake, mark, dul
+bunsraith	Nf2-6;	! bottom layer, foundation; substratum
+bunsócmhainn	Nf2-7;	! fixed asset
+bunuimhir	Nf5-2;	! gs -mhreach pl -mhreacha
+bunáite	Nf2-SINGULAR;	! main part; majority
+bunóc	Nf2-1;	! infant
+burgúin	Nf2-SINGULAR;	! burgundy (wine)
+buíóg	Nf2-1;	! yellowhammer
+báb	Nf2-1;	! maiden
+bábóg	Nf2-1;	! doll
+bácailít	Nf2-SINGULAR;	! bakelite
+bádóireacht	Nf3-SINGULAR;	! boating
+báicéir	Nm3-1;	! baker
+báicéireacht	Nf3-SINGULAR;	! baking
+báiní	Nf4-SINGULAR;	! wildness, frenzy, dul le
+báireoir	Nm3-1;	! player; hurler
+báirseoir	Nm3-1;	! water-, game-, keeper; nagging
+básmhaireacht	Nf3-SINGULAR;	! mortality
+báíocht	Nf3-SINGULAR;	! sympathy
+béadchaint	Nf2-SINGULAR;	! slander
+béalaithris	Nf2-SINGULAR;	! oral account, tradition
+béalóg	Nf2-1;	! small opening; (of musical
+béas	Nm3-8;	! beige
+béasaíocht	Nf3-SINGULAR;	! politeness; etiquette
+béascna	Nf4-1;	! mode of conduct; custom;
+béicíl	Nf3-SINGULAR;	! yelling, shouting
+bícéips	Nf2-7;	! biceps
+bíog	Nf2-1;	! chirp
+bóchna	Nf4-1;	! the ocean
+bóithreoireacht	Nf3-SINGULAR;	! travelling the roads, vagrancy
+bólacht	Nf3-SINGULAR;	! cattle, kine
+bómántacht	Nf3-SINGULAR;	! dullness, stupidity
+bóín	Nf4-1;	! ~ Dé ladybird
+búiríl	Nf3-SINGULAR;	! bellowing, roaring
+búistéir	Nm3-1;	! butcher
+búistéireacht	Nf3-SINGULAR;	! butchering, butchery
+búmaraing	Nf2-7;	! boomerang
+cabaireacht	Nf3-SINGULAR;	! babbling; loquacity
+cadráil	Nf3-SINGULAR;	! chattering; gossip
+cadóg	Nf2-1;	! haddock
+caibidil:caibidl	Nf2-7;	! gs -dle, pl -dlí
+caibléir	Nm3-1;	! cobbler
+caibléireog	Nf2-1;	! cobbler
+caidéis	Nf2-SINGULAR;	! inquisitiveness, ~ a chur
+caiféin	Nf2-SINGULAR;	! caffeine
+cailc	Nf2-6;	! chalk; pipeclay, dul thar
+caileann	Nf2-SINGULAR;	! gs -ille calends, Lá
+cailís	Nf2-7;	! chalice; calyx
+caime	Nf4-SINGULAR;	! crookedness; dishonesty
+caimiléir	Nm3-1;	! dishonest person, crook
+caimiléireacht	Nf3-SINGULAR;	! crookedness, dishonesty
+caimseog	Nf2-1;	! fib
+cainche	Nf4-2;	! quince
+caingean:caingn	Nf2-13;	! gs & pl -gne
+cainneann	Nf2-1;	! leek
+cainníocht	Nf3-SINGULAR;	! quantity
+cainteoir	Nm3-1;	! speaker, talker
+caintic	Nf2-7;	! canticle
+cairbíd	Nf2-SINGULAR;	! carbide
+cairdeasaíocht	Nf3-SINGULAR;	! fraternization
+cairdiúlacht	Nf3-SINGULAR;	! friendliness
+caise	Nf4-2;	! stream, current
+caismirt	Nf2-7;	! commotion; conflict; contention
+caismír	Nf2-SINGULAR;	! cashmere
+caiteoir	Nm3-1;	! wearer; consumer; spender
+caithne	Nf4-2;	! arbutus
+callaireacht	Nf3-SINGULAR;	! crying, proclaiming; shouting; ranting
+callshaoth	Nm3-1;	! travail; contention, trouble
+callóid	Nf2-7;	! commotion; wrangle; disquiet; drudgery
+calmacht	Nf3-SINGULAR;	! bravery; strength
+calóg	Nf2-1;	! flake
+cam-mhuin	Nf2-7;	! wryneck
+camastaíl	Nf3-SINGULAR;	! crookedness; fraud, dishonesty
+camchuairt	Nf2-6;	! ramble, tour
+camhaoir	Nf2-SINGULAR;	! daybreak
+camóg	Nf2-1;	! crook; camogie-stick; gaff-hook; comma
+camógaíocht	Nf3-SINGULAR;	! camogie
+canablacht	Nf3-SINGULAR;	! cannibalism
+cantain	Nf3-SINGULAR;	! chanting, singing
+cantaireacht	Nf3-SINGULAR;	! chanting, singing; murmuring, complaining
+canáil	Nf3-SINGULAR;	! canal
+caochneantóg	Nf2-1;	! deadnettle
+caochóg	Nf2-1;	! socially inept person, ~
+caoiche	Nf4-SINGULAR;	! blindness, purblindness
+caoile	Nf4-SINGULAR;	! narrowness; slenderness; meagreness
+caointeoir	Nm3-1;	! mourner, crier
+caoireoil	Nf3-SINGULAR;	! mutton
+caoithiúlacht	Nf3-SINGULAR;	! opportuneness; pleasantness, kindliness, ar
+caoladóir	Nm3-1;	! wicker-worker; basket-maker
+caoladóireacht	Nf3-SINGULAR;	! wattling, wicker-work; basketry
+caolchuid	Nf3-SINGULAR;	! an chaolchuid de rud
+caolchúis	Nf2-SINGULAR;	! subtlety
+caoldroim	Nm3-1;	! pl -omanna small of
+caomhnóir	Nm3-1;	! guardian, protector; patron
+caor	Nf2-1;	! berry; round object, ball;
+caora	Nf5-1;	! gs & gpl ~ch
+caoróg	Nf2-1;	! (plant) ~ léana pink
+carachtracht	Nf3-SINGULAR;	! characterization
+carbaihiodráit	Nf2-7;	! carbohydrate
+carbradóir	Nm3-1;	! carburettor
+carcair	Nf5-2;	! gs -crach pl -cracha
+cardáil	Nf3-SINGULAR;	! carding (of wool); discussion,
+carnabhóir	Nm3-1;	! carnivore
+carr	Nf3-SINGULAR;	! crust, coating; rocky patch
+carraeir	Nm3-1;	! carman, carrier
+carraeireacht	Nf3-SINGULAR;	! carting; carriage, haulage
+cartagrafaíocht	Nf3-SINGULAR;	! cartography
+carthanacht	Nf3-SINGULAR;	! love, charity; friendliness, friendship
+cartlann	Nf2-SINGULAR;	! archives
+caróg	Nf2-1;	! crow
+casacht	Nf3-1;	! cough
+casaoid	Nf2-7;	! complaint vt & i
+caschaint	Nf2-SINGULAR;	! cross-talk
+casla	Nf4-1;	! small harbour, creek
+castacht	Nf3-1;	! complexity, intricacy
+castainn	Nf2-7;	! windlass; twist, kink
+castóir	Nm3-1;	! winder, turner
+casúireacht	Nf3-SINGULAR;	! hammering
+catalóg	Nf2-1;	! catalogue
+cataíl	Nf3-SINGULAR;	! curliness
+cathaitheoir	Nm3-1;	! tempter; mischief-maker
+cathróir	Nm3-1;	! citizen
+cathróireacht	Nf3-SINGULAR;	! citizenship
+catóid	Nf2-7;	! cathode
+catóir	Nm3-1;	! curler
+ceacharthacht	Nf3-SINGULAR;	! meanness
+cealg	Nf2-1;	! deceit; treachery; sting (of
+ceallalóid	Nf2-SINGULAR;	! celluloid
+ceannainne	Nf4-SINGULAR;	! blaze (on animal's forehead)
+ceannairc	Nf2-7;	! mutiny, revolt
+ceannaitheoir	Nm3-1;	! buyer
+ceannasaíocht	Nf3-SINGULAR;	! leadership, command; assertion
+ceanncheathrú	Nf5-3;	! gs ~n pl ~na
+ceanndánacht	Nf3-SINGULAR;	! wilfulness, stubbornness
+ceanneasna	Nf4-SINGULAR;	! grey homespun
+ceannlitir	Nf5-2;	! gs -treach pl -treacha
+ceannlíne	Nf4-3;	! pl -nte headline
+ceannsmacht	Nm3-SINGULAR;	! mastery, ~ a fháil
+ceansacht	Nf3-SINGULAR;	! gentleness, meekness; tameness
+ceantáil	Nf3-SINGULAR;	! auctioning; sale, clearance vt
+ceanúlacht	Nf3-SINGULAR;	! affection, kindness
+ceapadóir	Nm3-1;	! composer, inventor
+ceapadóireacht	Nf3-SINGULAR;	! composition
+ceapóg	Nf2-1;	! little plot; (seed-)bed; dibble
+cearc	Nf2-1;	! gs circe hen, ~ circe=IRREGULAR see XFST-FIX.SCRIPT
+cearchaill	Nf2-7;	! log; girder
+ceardaíocht	Nf3-SINGULAR;	! craft; craftwork, craftsmanship, workmanship,
+ceardlann	Nf2-1;	! workshop, workroom
+ceardúlacht	Nf3-SINGULAR;	! skilled workmanship, artistry
+cearn	Nf3-SINGULAR;	! corner, angle, as gach
+cearnóg	Nf2-1;	! square
+ceartaitheoir	Nm3-1;	! corrector; reformer, ~ sáibh
+cearthaí	Nf4-SINGULAR;	! nervousness, jitters
+ceas	Nm3-SINGULAR;	! surfeit; excess; oppression, sorrow
+ceasacht	Nf3-SINGULAR;	! complaining; murmur, grumble, ag
+ceastóireacht	Nf3-SINGULAR;	! questioning; interroga tion, ag
+ceathairuilleog	Nf2-1;	! quadrangle
+ceilp	Nf2-SINGULAR;	! kelp
+ceilt	Nf2-SINGULAR;	! concealment; withholding, denial
+ceimic	Nf2-SINGULAR;	! chemistry
+ceimiceoir	Nm3-1;	! chemist
+ceirtlis	Nf2-7;	! cider
+ceistitheoir	Nm3-1;	! questioner
+ceolfhoireann:ceolfhoirn	Nf2-13;	! gs & pl -rne
+ceolmhaireacht	Nf3-SINGULAR;	! tunefulness
+ceoltóir	Nm3-1;	! musician; singer
+ceárta	Nf4-1;	! forge; workshop
+ciabh	Nf2-1;	! gs céibhe hair; tress
+ciainíd	Nf2-SINGULAR;	! cyanide
+ciall	Nf2-1;	! gs céille ds céill
+ciallmhaireacht	Nf3-SINGULAR;	! sensibleness, reasonableness
+cianóg	Nf2-1;	! small coin, mite, níl
+ciaróg	Nf2-1;	! beetle
+ciclipéid	Nf2-7;	! encyclopaedia
+cigilt	Nf2-SINGULAR;	! tickle, titillation; play (of
+cigireacht	Nf3-SINGULAR;	! inspection; inspectorship
+cinedheighilt	Nf2-SINGULAR;	! apartheid
+cinnteacht	Nf3-1;	! certainty; stinginess; limitation
+cinsealacht	Nf3-SINGULAR;	! an Chinsealacht the Ascendancy
+cinsireacht	Nf3-SINGULAR;	! censorship, ag ~ ar
+ciondáil	Nf3-SINGULAR;	! ration
+cionmhaireacht	Nf3-SINGULAR;	! proportion, share
+cionsiocair	Nf5-2;	! gs -crach pl -cracha
+ciontacht	Nf3-SINGULAR;	! guilt, guiltiness
+ciontóir	Nm3-1;	! offender
+cioróis	Nf2-SINGULAR;	! cirrhosis
+ciotaí	Nf4-SINGULAR;	! left-handedness; awkwardness, ~ a
+ciotrainn	Nf2-SINGULAR;	! awkward fall; clumsiness
+ciotrúntacht	Nf3-SINGULAR;	! clumsiness; contrariness
+ciotóg	Nf2-1;	! left hand; left-hander; left-handed
+circeoil	Nf3-SINGULAR;	! chicken(meat)
+cirte	Nf4-SINGULAR;	! rightness, correctness
+cis	Nf2-6;	! restraint, handicap vt &
+cispheil	Nf2-SINGULAR;	! basketball
+cisteoir	Nm3-1;	! treasurer
+cithréim	Nf2-7;	! deformity, tá ~ air
+clabaireacht	Nf3-SINGULAR;	! prattling, garrulousness
+cladóir	Nm3-1;	! shore-dweller; shore-worker
+cladóireacht	Nf3-SINGULAR;	! shore-working
+clagfharraige	Nf4-2;	! choppy sea
+claidhreacht	Nf3-SINGULAR;	! villainy, roguery; cowardice
+claimhe	Nf4-SINGULAR;	! manginess, scurvy
+claimhteoir	Nm3-1;	! swordsman
+claimhteoireacht	Nf3-SINGULAR;	! sword-play; swordsmanship
+claontacht	Nf3-SINGULAR;	! evil disposition; partiality, prejudice
+claítheoireacht	Nf3-SINGULAR;	! fence-repairing
+cleachtóir	Nm3-1;	! practitioner
+cleasaíocht	Nf3-SINGULAR;	! playfulness, trickery; dexterous feats,
+cleipteamáine	Nf4-SINGULAR;	! kleptomania
+cliantacht	Nf3-SINGULAR;	! clientship; clientele
+cliathrás	Nm3-3;	! hurdle-race
+clibirt	Nf2-7;	! scrimmage; (sport) scrum(mage)
+cliobóg	Nf2-1;	! filly; frisky person, ag
+clipe	Nf4-2;	! pinnule, ~ droma spine
+clisteacht	Nf3-SINGULAR;	! dexterity; smartness, cleverness
+cloch	Nf2-1;	! stone, ~ chora stepping-stone,
+cloisteáil	Nf3-SINGULAR;	! hearing, listening
+clostrácht	Nm3-SINGULAR;	! hearsay
+cloíteacht	Nf3-SINGULAR;	! weakness, exhaustion; meanness of
+cloíteoir	Nm3-1;	! conqueror
+cluain	Nf3-SINGULAR;	! deception; beguilement; dissimulation
+cluanaireacht	Nf3-SINGULAR;	! deceitfulness; flattery, coquetry
+cluasaíocht	Nf3-SINGULAR;	! eavesdropping; listen ing, talking,
+cluichíocht	Nf3-SINGULAR;	! gaming, sporting
+cluthair	Nf5-2;	! gs -thrach pl -thracha
+cluthaireacht	Nf3-SINGULAR;	! shelter; warmth, comfort; secrecy
+cláirnéid	Nf2-7;	! clarinet
+cláirseoir	Nm3-1;	! harpist
+cláirseoireacht	Nf3-SINGULAR;	! playing the harp
+cláraitheoir	Nm3-1;	! registrar; recorder, ~ ríomhaireachta
+clárlann	Nf2-1;	! registry (office)
+clástrafóibe	Nf4-SINGULAR;	! claustrophobia
+clé	Nf4-SINGULAR;	! left hand; left-hand side
+cléir	Nf2-SINGULAR;	! clergy; band, company
+clóchuradóir	Nm3-1;	! typesetter
+clódóir	Nm3-1;	! printer
+clódóireacht	Nf3-SINGULAR;	! printing
+clóghrafaíocht	Nf3-SINGULAR;	! typography
+clóic	Nf2-SINGULAR;	! cloak; gloom; defect
+clóiríd	Nf2-7;	! chloride
+clólann	Nf2-1;	! printing-works
+clóscríbhinn	Nf2-7;	! type-script
+clóscríbhneoireacht	Nf3-SINGULAR;	! typewriting, typing
+cnaguirlis	Nf2-7;	! percussion instrument
+cneastacht	Nf3-SINGULAR;	! honesty, sincerity; seemliness; mildness
+cneámhaireacht	Nf3-SINGULAR;	! meanness, roguery
+cniotáil	Nf3-SINGULAR;	! knitting; knitted material vt
+cnocadóir	Nm3-1;	! hillman, hillclimber
+cnocadóireacht	Nf3-SINGULAR;	! hillclimbing
+cnuaisciúin	Nf3-SINGULAR;	! thrift; tidiness, efficiency
+cnádánacht	Nf3-SINGULAR;	! bickering; disagreeable talk
+cnáfairt	Nf2-7;	! bones, remains (of food),
+cnáib	Nf2-SINGULAR;	! hemp
+cnáimhseoir	Nm3-1;	! obstetrician
+cnáimhseáil	Nf3-SINGULAR;	! grumbling, complaining
+cnámhóg	Nf2-1;	! residue, ~ ghuail cinder
+cníopaireacht	Nf3-SINGULAR;	! meanness, miserliness
+cobhsaitheoir	Nm3-1;	! stabilizer
+cobhsaíocht	Nf3-SINGULAR;	! firmness, stability
+codarsnacht	Nf3-SINGULAR;	! contrariety, contrast; contrariness, i
+cogaíocht	Nf3-SINGULAR;	! warfare; belligerency
+coibhneasacht	Nf3-SINGULAR;	! relativity; relativism
+coibhéis	Nf2-SINGULAR;	! equivalence, equivalent
+coicís	Nf2-7;	! fortnight
+coigeal	Nf2-1;	! distaff; narrow channel, ~
+coigilt	Nf2-SINGULAR;	! sparing, saving; conservation, thrift,
+coigistíocht	Nf3-SINGULAR;	! confiscation
+coigríoch	Nf2-1;	! strange place; foreign country
+coilíneacht	Nf3-SINGULAR;	! colony
+coim	Nf2-6;	! waist, middle; cloak, cover,
+coimhlint	Nf2-7;	! race, contest; rivalry, competition
+coimhlinteoir	Nm3-1;	! contestant, rival
+coimirce	Nf4-SINGULAR;	! protection, guardianship; patronage
+coimirceoir	Nm3-1;	! protector, guardian; patron
+coimisinéir	Nm3-1;	! commissioner
+coimpeart	Nm3-3;	! conception
+coimpléid	Nf2-7;	! compline
+coimre	Nf4-SINGULAR;	! neatness (of figure); conciseness
+coiméide	Nf4-2;	! comedy
+coimíneacht	Nf3-SINGULAR;	! commonage
+coinbhint	Nf2-7;	! convent
+coincheap	Nm3-8;	! gs & npl ~a
+coincréit	Nf2-SINGULAR;	! concrete
+coinneal:coinnl	Nf2-13;	! gs & pl -nnle
+coinnleoir	Nm3-1;	! candle-stick, ~ craobhach chandelier
+coinsias	Nm3-3;	! conscience, dar mo choinsias
+coinsíneacht	Nf3-SINGULAR;	! consignment
+cointinn	Nf2-SINGULAR;	! contention; contentiousness
+coirceog	Nf2-1;	! (conical) beehive; cone
+coireolaíocht	Nf3-SINGULAR;	! criminology
+coirloisceoir	Nm3-1;	! arsonist
+coirne	Nf4-2;	! cornea
+coirpeacht	Nf3-SINGULAR;	! criminality
+coisteoir	Nm3-1;	! juror; member of committee
+coiteoir	Nm3-1;	! cottar, cottager
+coitiantacht	Nf3-SINGULAR;	! commonalty, common people; the
+coitinne	Nf4-SINGULAR;	! generality, i g~ in
+collaíocht	Nf3-SINGULAR;	! carnality, sexuality
+colláid	Nf2-7;	! collation
+collóir	Nm3-1;	! water diviner
+colmóir	Nm3-1;	! hake
+cológ	Nf2-1;	! collop
+colúnáid	Nf2-7;	! colonnade
+comadóir	Nm3-1;	! commodore
+comaitéir	Nm3-1;	! commuter
+comha	Nf4-1;	! condition, terms (of peace);
+comhairleoir	Nm3-1;	! adviser, counsellor, councillor
+comhairíocht	Nf3-SINGULAR;	! exchange of services, mutual
+comhaltacht	Nf3-SINGULAR;	! fellowship
+comharsanacht	Nf3-1;	! neighbourhood, vicinity, ag ~
+comharthaíocht	Nf3-SINGULAR;	! signs, appearance; signalling
+comhbheith	Nf2-SINGULAR;	! co-existence
+comhbhá	Nf4-8;	! sympathy; alliance
+comhdháil	Nf3-SINGULAR;	! meeting; convention, congress
+comhdhúil	Nf2-3;	! compound
+comhfhreagracht	Nf3-SINGULAR;	! correspondence, agreement; joint responsibility
+comhla	Nf4-1;	! shutter; valve, ~ (dorais)
+comhlacht	Nm3-3;	! company, firm
+comhoiriúnacht	Nf3-SINGULAR;	! compatibility
+comhriachtain	Nf3-SINGULAR;	! coition, copulation
+comhréir	Nf2-1;	! accord, congruity; syntax, i
+comhthacaíocht	Nf3-SINGULAR;	! corroboration
+comparáid	Nf2-7;	! comparison; likeness
+complacht	Nm3-3;	! (army) company; gang
+comrádaíocht	Nf3-SINGULAR;	! comradeship
+conair	Nf2-7;	! path, passage, ~ an
+conbharsáid	Nf2-SINGULAR;	! conversation; intercourse
+concordáid	Nf2-7;	! concordat
+conraitheoir	Nm3-1;	! contractor; member of a
+constaic	Nf2-7;	! obstacle
+constáblacht	Nf3-SINGULAR;	! constabulary
+contráil	Nf3-SINGULAR;	! contrary; contrariness
+contráilteacht	Nf3-SINGULAR;	! contrariness, perversity
+contrárthacht	Nf3-SINGULAR;	! contrast, opposite
+contúirt	Nf2-7;	! danger
+copail	Nf2-7;	! copula
+copóg	Nf2-1;	! dock, ~ an chroí
+cora	Nf4-2;	! weir
+coraíocht	Nf3-SINGULAR;	! wrestling; turning, ag ~
+corca	Nf4-SINGULAR;	! race, people
+corparáid	Nf2-7;	! corporate body
+corpeolaíocht	Nf3-SINGULAR;	! physiology
+corpoiliúint	Nf3-SINGULAR;	! physical training
+corr	Nf2-1;	! projection, angle, edge, chuir
+corr	Nf2-1;	! ~ (ghainimh) sand-eel
+corr	Nf2-1;	! ~(éisc, ghlas, mhóna) heron,
+corrabhuais	Nf2-SINGULAR;	! uneasiness; confusion
+corraíl	Nf3-SINGULAR;	! movement, stir; agitation, excitement
+corrmhéar	Nf2-1;	! forefinger
+corrthónacht	Nf3-SINGULAR;	! restlessness, fidgetiness
+corróg	Nf2-1;	! (anatomy) hip
+coróin	Nf5-1;	! gs -ónach pl -ónacha
+cosair	Nf5-2;	! gs -srach trampled matter,
+cosantóir	Nm3-1;	! defender, protector; defendant
+cosliacht	Nf3-SINGULAR;	! chiropody
+cosmaid	Nf2-7;	! cosmetic
+cosmhuintir	Nf2-SINGULAR;	! hangers-on, dependants; poor people,
+cothabháil	Nf3-SINGULAR;	! sustenance, maintenance
+cothroime	Nf4-SINGULAR;	! evenness, balance; fairness, equity
+cothromaíocht	Nf3-SINGULAR;	! evenness, balance; equilibrium
+cothromóid	Nf2-7;	! equation
+craein	Nf5-1;	! gs -aenach pl -aenacha
+crannaíl	Nf3-SINGULAR;	! timbering; lattice-work; ship's masts
+crannóg	Nf2-1;	! piece of wood; wooden
+craobhabhar	Nf5-2;	! gs -bhrach pl -abhracha
+craobhóg	Nf2-1;	! twig, spray
+craoltóir	Nm3-1;	! broadcaster
+creachadóir	Nm3-1;	! raider; plunderer, spoiler
+creagaireacht	Nf3-SINGULAR;	! miserliness
+creat	Nm3-3;	! frame; shape, appearance; rib
+creidiúnacht	Nf3-SINGULAR;	! creditableness; credit; respectability
+creidmheas	Nm3-2;	! credit
+criadóir	Nm3-1;	! ceramist, potter
+criadóireacht	Nf3-SINGULAR;	! ceramics, pottery
+critheagla	Nf4-SINGULAR;	! fear, terror; timorousness
+!!crithir:crithr	Nf2-8;	! gs -thre pl -threacha
+crithir:crithir	Nf5-2b;	! gs -thre pl -threacha
+critic	Nf2-7;	! critique
+criticeoir	Nm3-1;	! critic
+crobhaing	Nf2-7;	! cluster
+croch	Nf2-1;	! cross; gallows; hook, hanger;
+crochadóir	Nm3-1;	! hangman; gallows-bird; loafer
+crochadóireacht	Nf3-SINGULAR;	! ag ~ (thart) loafing
+crochóg	Nf2-1;	! suspender (for stocking)
+croinic	Nf2-7;	! chronicle
+croiniceoir	Nm3-1;	! chronicler
+croiteoir	Nm3-1;	! sprinkler
+cromfhearsaid	Nf2-7;	! crank-shaft
+cromleac	Nf2-1;	! gs -eice npl ~a
+cromóg	Nf2-1;	! hooked nose; hook, hooked
+cros	Nf2-1;	! cross; cross-piece; affliction; prohibition
+crosáid	Nf2-7;	! crusade
+crosánacht	Nf3-SINGULAR;	! genre of comic satire
+crosógaíocht	Nf3-SINGULAR;	! lacrosse
+crothóg	Nf2-1;	! ~ dhubh coalfish
+croíúlacht	Nf3-SINGULAR;	! heartiness; cordiality, cheerfulness
+cruach	Nf4-SINGULAR;	! steel
+cruachan	Nf3-SINGULAR;	! hardening
+cruacht	Nf3-SINGULAR;	! hardness; hardiness
+cruimh	Nf2-6;	! maggot; grub, ~ arbhair
+cruinne	Nf4-2;	! universe; orb, globe; world
+cruinne	Nf4-SINGULAR;	! roundness
+cruinneog	Nf2-1;	! round object; globe
+cruithneacht	Nf3-SINGULAR;	! wheat
+cruthaitheoir	Nm3-1;	! creator
+cruthaíocht	Nf3-SINGULAR;	! shape; promising appearance
+cruáil	Nf3-SINGULAR;	! hardship, adversity; cruelty; stinginess
+cruálacht	Nf3-SINGULAR;	! cruelty; stinginess
+cruóg	Nf2-1;	! urgent need
+crág	Nf2-1;	! large hand; claw, paw;
+cráifeacht	Nf3-SINGULAR;	! devoutness; piety, devotion
+créacht	Nf3-1;	! gash, wound
+créachta	Nf4-1;	! consumption
+créafóg	Nf2-1;	! clay, earth
+críne	Nf4-SINGULAR;	! old age, decrepitude
+críoch	Nf2-1;	! ds crích in certain
+críochadóireacht	Nf3-SINGULAR;	! demarcation
+críochdheighilt	Nf2-7;	! partition of territory
+críonnacht	Nf3-SINGULAR;	! wisdom, prudence, shrewdness; maturity;
+crógacht	Nf3-SINGULAR;	! bravery; hardiness; spiritedness
+cróinéir	Nm3-1;	! coroner
+cróise	Nf4-SINGULAR;	! crochet
+crónachan	Nf3-SINGULAR;	! dusk, nightfall
+cróntráth	Nm3-2;	! dusk, gloaming
+crúb	Nf2-1;	! claw; hoof
+crúdóir	Nm3-1;	! farrier
+crúiteoir	Nm3-1;	! milker
+cuachaíl	Nf3-SINGULAR;	! speaking in falsetto voice;
+cuachma	Nf4-1;	! whelk
+cuachóg	Nf2-1;	! bow-knot
+cuaire	Nf4-SINGULAR;	! curvature; camber
+cuallacht	Nf3-SINGULAR;	! fellowship, company; corporation, guild;
+cuardaitheoir	Nm3-1;	! searcher
+cuartaíocht	Nf3-SINGULAR;	! visiting; tourism
+cuasnóg	Nf2-1;	! wild bees' nest; lucky
+cufróg	Nf2-1;	! cypress
+cuideachta	Nf4-SINGULAR;	! company; companionship; fun, amusement
+cuiditheoir	Nm3-1;	! helper; supporter, seconder
+cuilce	Nf4-2;	! quilt; bedding, mattress
+cuileog	Nf2-1;	! (insect) fly
+cuilithe	Nf4-SINGULAR;	! eddy; vortex; centre, core,
+cuimhne	Nf4-2;	! memory, cuimhní cinn recollec
+cuimilt	Nf2-SINGULAR;	! rubbing; stroking; wiping; friction
+cuimleoir	Nm3-1;	! wiper, rubber
+cuimse	Nf4-SINGULAR;	! good amount, plenty, gan
+cuingir	Nf5-2;	! gs -greach pl -greacha
+cuinneog	Nf2-1;	! churn
+cuisle	Nf4-2;	! vein; pulse; forearm, ~
+cuisneoir	Nm3-1;	! refrigerator
+cuiteog	Nf2-1;	! earthworm
+cuitléireacht	Nf3-SINGULAR;	! cutlery
+cumadóir	Nm3-1;	! maker; composer, inventor
+cumadóireacht	Nf3-SINGULAR;	! composition, invention; fiction
+cumarsáid	Nf2-7;	! communication
+cumhracht	Nf3-SINGULAR;	! fragrance; perfume; purity, freshness;
+cumraíocht	Nf3-SINGULAR;	! shape, form; configuration
+cumthacht	Nf3-SINGULAR;	! shapeliness, comeliness
+cunsailéir	Nm3-1;	! counsellor
+cuntasóir	Nm3-1;	! accountant; book-keeper
+cuntasóireacht	Nf3-SINGULAR;	! accountancy; book-keeping
+curadóir	Nm3-1;	! sower, tiller
+curadóireacht	Nf3-SINGULAR;	! sowing, tilling
+curaíocht	Nf3-SINGULAR;	! sowing, tillage; crops
+curiarracht	Nf3-SINGULAR;	! (sport) record
+cuspóir	Nm3-1;	! target; object; objective, purpose;
+custaiméir	Nm3-1;	! customer
+custaiméireacht	Nf3-SINGULAR;	! custom, dealing
+cábóg	Nf2-1;	! clodhopper, clown
+cáilmheas	Nm3-SINGULAR;	! goodwill
+cáilíocht	Nf3-1;	! quality; disposition; qualification, ~
+cáimric	Nf2-7;	! cambric
+cáinaisnéis	Nf2-7;	! (parliamentary) budget
+cáinmheas	Nm3-SINGULAR;	! (of tax, fine) assessment
+cáinteoir	Nm3-1;	! fault-finder
+cáipéis	Nf2-7;	! document
+cáiréis	Nf2-SINGULAR;	! carefulness; nicety, delicacy
+cáith	Nf3-SINGULAR;	! chaff; rubbish
+cáithíl	Nf3-SINGULAR;	! clearing of throat, hawking
+cásmhaireacht	Nf3-SINGULAR;	! concern; plaintiveness; sympathy
+cásáil	Nf3-SINGULAR;	! casing vt encase, case
+céadfa	Nf4-1;	! (bodily) sense; perception, understanding
+céadfacht	Nf3-SINGULAR;	! sensibility
+céannacht	Nf3-SINGULAR;	! identity
+céas	Nm3-2;	! matted hair, wool
+céasadóir	Nm3-1;	! crucifier, tormentor
+céasla	Nf4-1;	! paddle (for currach, etc)
+céimseata	Nf5-3;	! gs ~n geometry
+céimíocht	Nf3-SINGULAR;	! rank, distinction
+céir	Nf5-1;	! gs céarach pl céaracha
+céis	Nf2-6;	! pl ~eanna, ~ mhuice
+cíb	Nf2-SINGULAR;	! pip (in fowl)
+cíb	Nf2-SINGULAR;	! sedge
+cíle	Nf4-2;	! keel
+cín	Nf2-12;	! pl cíona ~ lae
+cíoch	Nf2-1;	! breast, pap
+cíor	Nf2-1;	! comb; crest, ~ fiacla
+cíorláil	Nf3-SINGULAR;	! combing; searching; rough handling
+cócaireacht	Nf3-SINGULAR;	! cooking, cookery
+cógaiseoir	Nm3-1;	! pharmacist
+cógaisíocht	Nf3-SINGULAR;	! pharmacy; pharmaceutics
+cógaseolaíocht	Nf3-SINGULAR;	! pharmacology
+cógaslann	Nf2-1;	! pharmacy
+cóilis	Nf2-SINGULAR;	! cauliflower
+cóimeáil	Nf3-SINGULAR;	! assembly; assemblage, líne chóimeála
+cóimheas	Nm3-8;	! gs & npl ~a
+cóimheá	Nf4-SINGULAR;	! balance, equilibrium
+cóimhéid	Nf2-SINGULAR;	! equal size or amount
+cóip	Nf2-6;	! band, company; rabble
+cóipeáil	Nf3-SINGULAR;	! coping vt cope
+cóipeáil	Nf3-SINGULAR;	! copying, duplication vt &
+cóiréagrafaíocht	Nf3-SINGULAR;	! choreography
+cóiríocht	Nf3-SINGULAR;	! accommodation; equipment; fittings
+cóisir	Nf2-7;	! (wedding-)feast, banquet; party, social
+cóisteoir	Nm3-1;	! coachman
+cómhaith	Nf2-SINGULAR;	! equal (goodness), a chómhaith
+cónaitheoir	Nm3-1;	! resident
+cónra	Nf4-1;	! coffin
+córagrafaíocht	Nf3-SINGULAR;	! chorography
+córlann	Nf2-1;	! choir, chancel (of church)
+cúb	Nf2-1;	! coop; bend, fold vt
+cúbláil	Nf3-SINGULAR;	! manipulation; defalcation vt &
+cúblálaí	Nm4-4;	! grabber; defalcator
+cúigleáil	Nf3-SINGULAR;	! embezzlement vt & i
+cúil	Nf5-1;	! gs cúlach pl cúlacha
+cúileann	Nf2-1;	! fair maiden
+cúipéir	Nm3-1;	! cooper
+cúirteoir	Nm3-1;	! courtier
+cúirtéireacht	Nf3-SINGULAR;	! courting
+cúirtéis	Nf2-7;	! courtesty; (military) salute
+cúiseoir	Nm3-1;	! accuser
+cúisitheoir	Nm3-1;	! prosecutor
+cúistiúnacht	Nf3-SINGULAR;	! inquisition
+cúlchaint	Nf2-SINGULAR;	! backbiting
+cúlchríoch	Nf2-1;	! hinterland
+cúlráid	Nf2-SINGULAR;	! secluded place, ar an
+cúlóg	Nf2-1;	! pillion; pillion-rider, ar ~
+cúnantóir	Nm3-1;	! covenanter
+cúntóir	Nm3-1;	! helper, assistant
+cúpláil	Nf3-SINGULAR;	! copulation, mating; coupling vt
+cúrsaíocht	Nf3-SINGULAR;	! circulation, currency
+cúrsáil	Nf3-SINGULAR;	! & vt & i
+cúrsóir	Nm3-1;	! cruiser
+cúróg	Nf2-1;	! soufflé
+cúthaileacht	Nf3-SINGULAR;	! shyness, diffidence
+dabhach:daibhch	Nf2-12;	! gs daibhche pl dabhcha
+dabhaid	Nf2-6;	! piece, section; chunk
+daighear:daighear	Nf5-2b;	! gs -ghre, pl -ghreacha
+daille	Nf4-SINGULAR;	! blindness; dullness, stupidity
+daingne	Nf4-SINGULAR;	! strength, security; firmness, solidity
+daingnitheoir	Nm3-1;	! stabilizer
+dair	Nf5-1;	! gs & gpl darach
+dairt	Nf2-6;	! dart; missile, clod
+dallóg	Nf2-1;	! (window-)blind; blind creature, ~
+damhsóir	Nm3-1;	! dancer
+danaid	Nf2-SINGULAR;	! grief, regret, loss
+danarthacht	Nf3-SINGULAR;	! barbarity; unsociability
+daoire	Nf4-SINGULAR;	! dearness, costliness
+daoirse	Nf4-SINGULAR;	! slavery, bondage; oppression
+daonchumhacht	Nf3-SINGULAR;	! manpower
+daonnacht	Nf3-SINGULAR;	! humanity; kindliness
+daonnachtúlacht	Nf3-SINGULAR;	! humaneness; philanthropy
+daorbhreith	Nf2-6;	! conviction, sentence
+daorsmacht	Nm3-SINGULAR;	! slavery, oppression
+dathadóir	Nm3-1;	! colourist; dyer, painter, ~
+dathadóireacht	Nf3-SINGULAR;	! dyeing, painting; exaggeration
+dathúlacht	Nf3-SINGULAR;	! good looks, comeliness, beauty
+dea-mhéin	Nf2-SINGULAR;	! goodwill, le ~ with
+deabhóid	Nf2-7;	! devotion
+deachtóir	Nm3-1;	! dictator
+deachtóireacht	Nf3-SINGULAR;	! dictatorship
+deachú	Nf5-3;	! gs ~n pl ~na
+deachúil	Nf3-SINGULAR;	! decimal
+deacracht	Nf3-1;	! difficulty; distress, discomfort
+dealagáideacht	Nf3-1;	! delegation
+dealbh	Nf2-1;	! statue
+dealbhóir	Nm3-1;	! sculptor
+dealbhóireacht	Nf3-SINGULAR;	! sculpture
+dealg	Nf2-1;	! thorn, prickle; spike; pin,
+dealraitheacht	Nf3-SINGULAR;	! appearance, resemblance; verisimilitude
+deann	Nm3-8;	! gs & npl ~a
+deannóg	Nf2-1;	! pinch (of snuff)
+dearlaic	Nf2-7;	! endowment vt, pres -acann
+dearna	Nf5-3;	! gs ~n pl ~na
+dearnadóir	Nm3-1;	! palmist
+dearnáil	Nf3-SINGULAR;	! darning vt & i
+dearthóir	Nm3-1;	! designer
+deasc	Nf2-1;	! desk
+deascabháil	Nf3-SINGULAR;	! ascension
+deaschaint	Nf2-6;	! witty speech pl witticisms
+deasghnáth	Nm3-8;	! gs & npl ~a
+deaslabhra	Nf4-SINGULAR;	! elocution
+deastógáil	Nf3-SINGULAR;	! assumption
+deasóg	Nf2-1;	! right hand; right fist
+deic	Nf2-6;	! deck
+deicibeil	Nf2-1;	! decibel
+deifir	Nf2-SINGULAR;	! gs -fre hurry; haste,
+deighilt	Nf2-7;	! separation; division, partition
+deighilteoir	Nm3-1;	! separator
+deilbhíocht	Nf3-SINGULAR;	! (grammar) accidence
+deilbhíocht	Nf3-SINGULAR;	! bareness, poverty
+deileadóir	Nm3-1;	! turner
+deilgne	Nf4-2;	! thorns, prickles
+deir	Nf2-SINGULAR;	! shingles, herpes
+deirc	Nf2-6;	! hole, hollow, cavity
+deirge	Nf4-SINGULAR;	! redness; glow; rawness; fallowness
+deiseacht	Nf3-SINGULAR;	! nearness, closeness
+deisitheoir	Nm3-1;	! mender, repairer
+deismireacht	Nf3-1;	! example, illustration; neatness, tidiness;
+deismíneacht	Nf3-SINGULAR;	! refinement; primness, preciosity
+deoise	Nf4-2;	! diocese
+deolchaire	Nf4-2;	! gratuity, bounty
+deontóir	Nm3-1;	! grantor, ~ fola blood
+deoraíocht	Nf3-SINGULAR;	! exile
+diabhlaíocht	Nf3-SINGULAR;	! devilry, witchcraft; devilment, mischievousness;
+diagacht	Nf3-SINGULAR;	! divinity, theology
+dialann	Nf2-1;	! diary
+diallait	Nf2-7;	! saddle
+diallaiteoir	Nm3-1;	! saddler
+diamhracht	Nf3-SINGULAR;	! darkness; mysteriousness; weirdness
+dias	Nf2-1;	! gs déise ear of
+diathair	Nf2-SINGULAR;	! orbit, ar ~ in
+difríocht	Nf3-1;	! difference
+diftéire	Nf4-SINGULAR;	! diphtheria
+dinglis	Nf2-7;	! tickle, titillation
+dinimít	Nf2-SINGULAR;	! dynamite
+dinnireacht	Nf3-SINGULAR;	! dysentery
+dioc	Nm3-SINGULAR;	! pip (in fowl)
+diomailt	Nf2-SINGULAR;	! waste, extravagance
+diongbháil	Nf3-SINGULAR;	! match, equal; worth; constancy,
+diopsamáine	Nf4-SINGULAR;	! dipsomania
+dioscaireacht	Nf3-SINGULAR;	! light (house)work
+diosmaid	Nf2-7;	! dispensation
+dip	Nf2-6;	! pl ~eanna, ~ chaorach
+discréid	Nf2-SINGULAR;	! discretion; reserve, secrecy
+dispeansáid	Nf2-7;	! dispensation
+diúcacht	Nf3-SINGULAR;	! duchy
+diúg	Nf2-1;	! drop vt drain, drink
+diúgaireacht	Nf3-SINGULAR;	! draining, drinking dry; sponging,
+dlaoi	Nf4-4;	! pl ~the wisp; tuft;
+dlaíóg	Nf2-1;	! (little) wisp; single stalk,
+dlí-eolaíocht	Nf3-SINGULAR;	! jurisprudence
+dlínse	Nf4-2;	! jurisdiction
+dlíodóir	Nm3-1;	! lawyer
+dochraide	Nf4-SINGULAR;	! hardship, oppression; distress
+dochtúir	Nm3-1;	! doctor
+dochtúireacht	Nf3-SINGULAR;	! doctorate; medical practice; doctoring
+doghrainn	Nf2-SINGULAR;	! distress, affliction; difficulty
+doichte	Nf4-SINGULAR;	! tightness, hardness, rigidity
+doilfeoir	Nm3-1;	! conjurer, illusionist
+doiléire	Nf4-SINGULAR;	! dimness, obscurity; vagueness
+doimhneacht	Nf3-SINGULAR;	! depth; deep (place), dul
+doineann	Nf2-SINGULAR;	! stormy weather, storm; wintri
+doirneog	Nf2-1;	! round stone, handstone
+doirseoir	Nm3-1;	! door-keeper, porter
+dol	Nm3-8;	! gs & npl ~a
+domhainiascaireacht	Nf3-SINGULAR;	! deep-sea fishing
+domheanma	Nf5-3;	! gs ~n low spirits,
+donnóg	Nf2-1;	! dunnock, hedge-sparrow
+doraitheacht	Nf3-SINGULAR;	! line-fishing
+dorcha	Nf4-SINGULAR;	! darkness, obscurity a3 dark;
+dorchacht	Nf3-SINGULAR;	! dark state, darkness
+dordghuth	Nm3-2;	! bass voice
+dornáil	Nf3-SINGULAR;	! fistfighting, boxing vt &
+dornálaíocht	Nf3-SINGULAR;	! f pugilism, boxing
+dornóg	Nf2-1;	! mitten
+dorr	Nf2-SINGULAR;	! anger; growl
+draein	Nf5-1;	! gs -aenach pl -aenacha
+draenáil	Nf3-SINGULAR;	! drainage vt & i
+dramhaíl	Nf3-SINGULAR;	! inferior stuff; refuse, trash
+draoib	Nf2-SINGULAR;	! mud, mire; scum
+draíodóir	Nm3-1;	! magician; crafty person; rogue,
+dreach	Nm3-8;	! gs & npl ~a
+dreancaid	Nf2-7;	! flea
+dreapadóir	Nm3-1;	! climber
+dreapadóireacht	Nf3-SINGULAR;	! climbing
+dreas	Nm3-8;	! gs & npl ~a
+dreige	Nf4-2;	! meteor
+dreigít	Nf2-7;	! meteorite
+driogaireacht	Nf3-SINGULAR;	! distilling; distillation
+drioglann	Nf2-1;	! distillery
+driseog	Nf2-1;	! bramble, briar
+drithle	Nf4-2;	! spark, sparkle; titillation
+drithleog	Nf2-1;	! spark
+driuch	Nm3-SINGULAR;	! creepy feeling; angry appearance;
+droch-chríoch	Nf2-1;	! bad end; ruination, ~
+drochaigne	Nf4-SINGULAR;	! ill-will, malevolence
+drochbhail	Nf2-SINGULAR;	! bad condition; ill-usage; invalidity,
+drochbhéas	Nm3-8;	! gs & npl ~a
+drochiontaoibh	Nf2-SINGULAR;	! distrust
+drochmheas	Nm3-SINGULAR;	! contempt
+drochrath	Nm3-SINGULAR;	! ill luck, misfortune, ~
+drochrud	Nm3-3;	! bad thing, an ~
+drochtheist	Nf2-6;	! bad testimony, unfavourable report
+drochuair	Nf2-SINGULAR;	! evil hour, crisis, ar
+drochíde	Nf4-SINGULAR;	! ill-usage, abuse
+droimeann	Nf2-1;	! white-backed cow a1 white-backed
+droimruaig	Ns;	! bheith sa ~ ar
+dromainn	Nf2-7;	! ridge, mound
+drong	Nf2-1;	! body of people; group,
+dronlíne	Nf4-3;	! pl -nte straight line
+dronn	Nf2-1;	! hump; camber, ~ a
+dronuilleog	Nf2-1;	! rectangle
+drualus	Nm3-SINGULAR;	! mistletoe
+drubáil	Nf3-SINGULAR;	! drubbing
+drugadóir	Nm3-1;	! druggist
+druileáil	Nf3-SINGULAR;	! drill(ing) vt & i
+drumadóir	Nm3-1;	! drummer
+druncaeir	Nm3-1;	! drunkard
+drámadóir	Nm3-1;	! dramatist, playwright
+drámaíocht	Nf3-SINGULAR;	! drama, dramatic art
+dréacht	Nm3-3;	! (literary, musical) piece, composition;
+dréim	Nf2-6;	! aspiration; contention; expecta tion,
+drólann	Nf2-1;	! colon pl intestines
+drúcht	Nm3-SINGULAR;	! dew; dewdrop
+drúis	Nf2-SINGULAR;	! lust
+drúthlann	Nf2-1;	! brothel
+duainéis	Nf2-SINGULAR;	! labour, difficulty, distress; discontent
+duais	Nf2-SINGULAR;	! gloom, dejection; trouble; distress
+duaiseoir	Nm3-1;	! prizewinner
+duaithníocht	Nf3-SINGULAR;	! camouflage
+duibhe	Nf4-SINGULAR;	! blackness; swarthiness; darkness, gloom;
+duibhré	Nf4-SINGULAR;	! oíche dhuibhré moonless night;
+duilleog	Nf2-1;	! leaf, ~ bháite (leaf
+duirling	Nf2-7;	! stony beach
+dumhach:duimhch		Nf2-12;	! gs duimhche pl -mhcha
+duáilce	Nf4-2;	! vice; fault, defect; unhappiness
+duántacht	Nf3-SINGULAR;	! angling
+dáileog	Nf2-1;	! drop, dose
+dáimh	Nf2-SINGULAR;	! love of kind; fellow-feeling,
+dáir	Nf5-1;	! gs dárach heat (in
+dáiríreacht	Nf3-SINGULAR;	! earnestness, seriousness
+dámh	Nf2-1;	! (academic) faculty, an ~
+dánacht	Nf3-SINGULAR;	! boldness; daring, confidence, audacity
+dánlann	Nf2-1;	! art gallery
+dásacht	Nf3-SINGULAR;	! daring, audacity; madness, fury
+dé-ocsaíd	Nf2-SINGULAR;	! dioxide
+déabhlóid	Nf2-SINGULAR;	! devolution
+déadchíor	Nf2-1;	! denture
+déagóir	Nm3-1;	! teenager
+déantóir	Nm3-1;	! maker, manufacturer
+déantúsaíocht	Nf3-SINGULAR;	! manufacturing
+débhríocht	Nf3-SINGULAR;	! ambiguity
+décharbónáit	Nf2-SINGULAR;	! bicarbonate
+déil	Nf2-SINGULAR;	! (timber) deal
+déileáil	Nf3-SINGULAR;	! dealing vi deal
+déine	Nf4-SINGULAR;	! swiftness; intensity; severity
+déircínteacht	Nf3-SINGULAR;	! begging, importuning
+déiríocht	Nf3-SINGULAR;	! dairying
+déistin	Nf2-SINGULAR;	! distaste, nausea; disgust, loathing
+déscéalaíocht	Nf3-SINGULAR;	! mythology
+dí-armáil	Nf3-SINGULAR;	! disarmament vt & i
+díbheirg	Nf2-SINGULAR;	! wrath, vengeance
+díbhinn	Nf2-7;	! dividend
+díbhirce	Nf4-SINGULAR;	! ardour, eagerness, zeal
+díblíocht	Nf3-SINGULAR;	! debility, dilapidation, wretchedness; vileness
+díchuimhne	Nf4-SINGULAR;	! forgetfulness
+dídean	Nf2-SINGULAR;	! cover, shelter; refuge, protection,
+dífhostaíocht	Nf3-SINGULAR;	! unemployment
+dílleachtlann	Nf2-1;	! orphanage
+dílse	Nf4-SINGULAR;	! proprietory right; ownership; security;
+dílseoir	Nm3-1;	! loyalist
+díluacháil	Nf3-SINGULAR;	! devaluation vt devalue
+dímheas	Nm3-SINGULAR;	! disrespect, contempt
+dímrí	Nf4-SINGULAR;	! feebleness, helplessness; ineffectiveness
+dínit	Nf2-SINGULAR;	! dignity; high estate
+díobháil	Nf3-SINGULAR;	! loss, deprivation, want; injury,
+díog	Nf2-1;	! ditch, trench, drain
+díograiseoir	Nm3-1;	! zealot, enthusiast
+díolaíocht	Nf3-SINGULAR;	! payment; instalment; recompense
+díoltóir	Nm3-1;	! seller; vendor, dealer
+díomá	Nf4-SINGULAR;	! disappointment, sorrow
+díospóireacht	Nf3-1;	! disputing, debating; debate; discussion
+díothóir	Nm3-1;	! destroyer, exterminator
+díotáil	Nf3-SINGULAR;	! indictment vt indict
+dírbheathaisnéis	Nf2-7;	! autobiography
+díríocht	Nf3-SINGULAR;	! straightness; directness, uprightness
+dís	Nf2-6;	! two; pair, couple, an
+dísc	Nf2-SINGULAR;	! dryness, barrenness, dul i
+díthreabh	Nf2-1;	! uninhabited place; wilderness; hermitage
+dóchúlacht	Nf3-SINGULAR;	! likelihood, probability
+dócmhainn	Nf2-7;	! liability
+dóib	Nf2-SINGULAR;	! daub, plaster-clay; (sticky) mud
+dóid	Nf2-6;	! hand, fist, handful; lump
+dóighiúlacht	Nf3-SINGULAR;	! handsomeness; generosity; decency
+dóiteacht	Nf3-SINGULAR;	! burning; bitterness, annoyance
+dóthain	Nf4-SINGULAR;	! enough, sufficiency, tá a
+dúbailt	Nf2-SINGULAR;	! double; duplication
+dúchan	Nf3-SINGULAR;	! blackening, darkening; potato blight;
+dúchíos	Nm3-2;	! ``black'' rent, ransom for
+dúdaireacht	Nf3-SINGULAR;	! eavesdropping; gulping, puffing (at
+dúiche	Nf4-2;	! hereditary land, native place;
+dúire	Nf4-SINGULAR;	! dourness, stubbornness, dullness, stupidity;
+dúiseacht	Nf3-SINGULAR;	! state of being awake,
+dúlaíocht	Nf3-SINGULAR;	! bleak weather, ~ an
+dúléim	Nf2-6;	! leap in the dark;
+dúnmharfóir	Nm3-1;	! murderer
+dúnorgain	Nf3-SINGULAR;	! manslaughter
+dúntóir	Nm3-1;	! fastener
+dúrud	Nm3-SINGULAR;	! an ~ a great
+dúshnámh	Nm3-SINGULAR;	! under-water swimming
+dúthracht	Nf3-1;	! devotion, fervour; earnestness; favour,
+each-chumhacht	Nf3-SINGULAR;	! horse-power
+eachma	Nf4-SINGULAR;	! eczema
+eachtra	Nf4-1;	! adventure; incident; tale
+eachtraíocht	Nf3-SINGULAR;	! adventuring, journeying, ag ~
+eacnamaíocht	Nf3-SINGULAR;	! economy; economics
+eadarlúid	Nf2-7;	! interlude
+eadráin	Nf3-SINGULAR;	! intervention in dispute, mediation,
+eadóirseacht	Nf3-SINGULAR;	! naturalization
+eagarthóir	Nm3-1;	! editor
+eagna	Nf4-SINGULAR;	! wisdom; intelligence, understanding
+eagnaíocht	Nf3-SINGULAR;	! wisdom; wittiness, smart talk
+eagraíocht	Nf3-1;	! organization
+eala	Nf4-SINGULAR;	! ~ mhagaidh object of
+ealaíontóir	Nm3-1;	! artist, craftsman; tricky person
+ealta	Nf4-1;	! flock (of birds, etc)
+earcaíocht	Nf3-SINGULAR;	! recruiting
+earnáil	Nf3-SINGULAR;	! sector
+earr	Nf2-1;	! end, extremity
+earráid	Nf2-7;	! error; contrariness; eccentricity, dul
+easair	Nf5-2;	! gs & gpl -srach
+easaontóir	Nm3-1;	! dissenter
+eascaine	Nf4-2;	! imprecation; curse
+eascann	Nf2-1;	! eel; snake
+easláinte	Nf4-SINGULAR;	! ill-health, ailment
+easmailt	Nf2-7;	! reproach; revilement
+easonóir	Nf3-SINGULAR;	! dishonour, indignity
+easpagóideacht	Nf3-SINGULAR;	! bishopric, episcopacy
+easparta	Nf5-3;	! gs ~n pl ~na
+easumhlaíocht	Nf3-SINGULAR;	! disobedience, insubordination
+easurraim	Nf2-SINGULAR;	! irreverence, disrespect
+easóg	Nf2-1;	! stoat
+eibleacht	Nf3-SINGULAR;	! emulsion
+eilit	Nf2-7;	! doe, hind
+eipic	Nf2-7;	! epic
+eipidéim	Nf2-7;	! epidemic
+eipistil	Nf2-7;	! epistle
+eireog	Nf2-1;	! pullet
+eiriceacht	Nf3-SINGULAR;	! heresy
+eisceacht	Nf3-1;	! exception
+eiseamláir	Nf2-7;	! exemplar, model; example; illustration
+eisimirce	Nf4-SINGULAR;	! emigration
+eite	Nf4-2;	! wing; flank; pinion, wing
+eithre	Nf4-2;	! tail; fin
+eitic	Nf2-SINGULAR;	! ethics
+eitilt	Nf2-7;	! flight; flutter; flicker, ar
+eitinn	Nf2-SINGULAR;	! consumption, tuberculosis
+eitleog	Nf2-1;	! kite
+eitleoir	Nm3-1;	! flyer, airman
+eitleoireacht	Nf3-SINGULAR;	! flying; airmanship
+eitlíocht	Nf3-SINGULAR;	! aviation
+eitpheil	Nf2-6;	! volleyball
+eitre	Nf4-2;	! furrow, groove
+eitseáil	Nf3-SINGULAR;	! etching vt & i
+eochair	Nf5-2;	! gs -chrach pl -chracha
+eochraí	Nf4-SINGULAR;	! roe (of fish)
+eoclaip	Nf2-7;	! eucalyptus
+eolaíocht	Nf3-1;	! science
+eorna	Nf4-SINGULAR;	! barley
+eotanáis	Nf2-SINGULAR;	! euthanasia
+fabhraíocht	Nf3-SINGULAR;	! favouritism
+fachnaoid	Nf2-SINGULAR;	! derision; joking
+fadhbáil	Nf3-SINGULAR;	! striking, slogging
+fadlíne	Nf4-3;	! pl -nte meridian
+fadsaolaí	Nf4-SINGULAR;	! longevity
+faic	Nf4-6;	! (with negative) nothing, níl
+faiche	Nf4-2;	! green, lawn
+faichill	Nf2-SINGULAR;	! care, caution; wariness, duine
+faighin:faighin	Nf5-2b;	! gs -ghne pl -ghneacha
+faighneog	Nf2-1;	! shell, pod
+faillitheoir	Nm3-1;	! negligent person; defaulter
+fainic	Nf2-7;	! warning, caution vt &
+fairche	Nf4-2;	! diocese
+faire	Nf4-2;	! watch; wake, ~ leapa
+faireog	Nf2-1;	! gland
+fairsinge	Nf4-SINGULAR;	! width, extent; spaciousness; expanse;
+fairtheoir	Nm3-1;	! watcher, sentry
+faisnéis	Nf2-7;	! information; intelligence, report; (grammar)
+faisnéiseoir	Nm3-1;	! informant
+falsacht	Nf3-SINGULAR;	! falseness; laziness, ag ~
+falsaitheoir	Nm3-1;	! falsifier, forger
+falsóir	Nm3-1;	! lazy person
+fanaiceacht	Nf3-SINGULAR;	! fanaticism
+fanntais	Nf2-7;	! faint, swoon
+fantaisíocht	Nf3-SINGULAR;	! fantasy
+faocha	Nf5-3;	! gs & gpl ~n
+faoileoir	Nm3-1;	! glider
+faoistin	Nf2-7;	! confession, an Fhaoistin Choiteann
+faonoscailt	Nf2-7;	! slight opening; hint
+farantóireacht	Nf3-SINGULAR;	! ferrying
+fastaím	Nf4-SINGULAR;	! nonsense
+faí	Nf4-4;	! pl ~the note; cry;
+feadaíl	Nf3-SINGULAR;	! whistling
+feadóg	Nf2-1;	! plover
+feadóg	Nf2-1;	! ~(stáin) (tin) whistle
+feag	Nf3-6;	! pl ~acha rush
+feag	Nf3-6;	! pl ~acha rush
+fealltóir	Nm3-1;	! betrayer, traitor
+fealsúnacht	Nf3-SINGULAR;	! philosophy
+feamainn	Nf2-SINGULAR;	! seaweed
+feannóg	Nf2-1;	! scald-crow, ~ charrach carrion-crow
+fearb	Nf2-1;	! weal, welt
+fearg	Nf2-SINGULAR;	! ds feirg in certain
+feargacht	Nf3-SINGULAR;	! manhood; virility
+fearnóg	Nf2-1;	! alder
+fearsaid	Nf2-7;	! spindle; shaft, axletree; ridge
+feart	Nm3-8;	! gs & npl ~a
+fearthainn	Nf2-SINGULAR;	! rain; rainfall
+feartlaoi	Nf4-4;	! pl ~the epitaph
+fearúlacht	Nf3-SINGULAR;	! manliness
+feighil	Nf2-SINGULAR;	! gs -ghle vigilance; care,
+feileonacht	Nf3-SINGULAR;	! felony
+feilt	Nf2-SINGULAR;	! felt
+feirmeoir	Nm3-1;	! farmer
+feirmeoireacht	Nf3-SINGULAR;	! farming
+feisteoir	Nm3-1;	! fitter; outfitter
+feithealann	Nf2-1;	! waiting-room
+feitheoir	Nm3-1;	! supervisor, superintendent
+feitheoireacht	Nf3-SINGULAR;	! supervision, superintendence
+feithicil:feithicl	Nf2-7;	! gs -cle pl -clí
+feithid	Nf2-7;	! tiny creature, insect; wild
+feithideolaíocht	Nf3-SINGULAR;	! entomology
+feithidicíd	Nf2-7;	! insecticide
+feoilséantóir	Nm3-1;	! vegetarian
+fiachóir	Nm3-1;	! debtor
+fiaclóir	Nm3-1;	! dentist
+fiafheoil	Nf3-SINGULAR;	! venison
+fiaile	Nf4-2;	! weeds
+fiailicíd	Nf2-7;	! weed-killer
+fianaise	Nf4-2;	! witness, testimony, evidence, i
+fiannaíocht	Nf3-SINGULAR;	! stories, lays, of the
+ficheall	Nf2-SINGULAR;	! chess
+fidil:fidil	Nf5-2b;	! gs -dle pl -dleacha
+fidléir	Nm3-1;	! fiddler
+fige	Nf4-2;	! fig
+fillteog	Nf2-1;	! wrap
+filíocht	Nf3-SINGULAR;	! poetry
+fimíneacht	Nf3-SINGULAR;	! hypocrisy
+fine	Nf4-3;	! pl -nte family group;
+finne	Nf4-SINGULAR;	! whiteness, fairness
+finscéalaíocht	Nf3-SINGULAR;	! legendary tales; romancing, fiction
+fionaíl	Nf3-SINGULAR;	! kinslaying, fratricide, parricide
+fionnachrith	Nm3-SINGULAR;	! gs -chreatha gooseflesh
+fionnmhóin	Nf3-SINGULAR;	! peat-moss
+fionnuaire	Nf4-SINGULAR;	! coolness, freshness
+fionraí	Nf4-SINGULAR;	! suspense, suspension, cuireadh ar
+fiosaíocht	Nf3-SINGULAR;	! clairvoyance
+fiosracht	Nf3-SINGULAR;	! inquisitiveness, curiosity
+fiseolaíocht	Nf3-SINGULAR;	! physiology
+fisic	Nf2-SINGULAR;	! physics
+fisiceoir	Nm3-1;	! physicist
+fisiteiripe	Nf4-SINGULAR;	! physiotherapy
+fithis	Nf2-7;	! path, passage; course, orbit
+fiúise	Nf4-2;	! fuchsia
+flaithiúlacht	Nf3-SINGULAR;	! princeliness; generosity
+flas	Nm3-SINGULAR;	! floss
+flaspóg	Nf2-1;	! smack, kiss
+fleasc	Nf2-1;	! rod, wand; band, hoop;
+fliche	Nf4-SINGULAR;	! wetness, dampness
+fliodh	Nf2-SINGULAR;	! gs -idhe chickweed
+fliúiteadóir	Nm3-1;	! flautist
+fluairíd	Nf2-SINGULAR;	! fluoride
+flúirse	Nf4-SINGULAR;	! abundance, plenty
+fochaid	Nf2-SINGULAR;	! mocking, derision
+focleolaíocht	Nf3-SINGULAR;	! philology
+foclóir	Nm3-1;	! dictionary; vocabulary
+foghlaeir	Nm3-1;	! fowler
+foghlaimeoir	Nm3-1;	! learner
+foghraíocht	Nf3-SINGULAR;	! phonetics
+foiche	Nf4-2;	! wasp
+foighne	Nf4-SINGULAR;	! patience
+foilmhe	Nf4-SINGULAR;	! emptiness, vacuity
+foilsitheoir	Nm3-1;	! publisher
+foilsitheoireacht	Nf3-SINGULAR;	! publishing, publication
+foinse	Nf4-2;	! fountain, spring; source
+foirfeacht	Nf3-SINGULAR;	! completeness, perfection; age, maturity
+foirgneoir	Nm3-1;	! builder
+foirgníocht	Nf3-SINGULAR;	! (art, trade, of) building
+foirmiúlacht	Nf3-SINGULAR;	! formality
+foirmle	Nf4-2;	! formula
+foirnéis	Nf2-7;	! furnace
+foisceacht	Nf3-SINGULAR;	! nearness, proximity, i bh~
+folracht	Nf3-SINGULAR;	! blood, gore
+foluain	Nf3-SINGULAR;	! fluttering, flying; hovering, ar
+fondúir	Nm3-1;	! founder
+fondúireacht	Nf3-SINGULAR;	! foundation, institution
+fonóid	Nf2-SINGULAR;	! jeering; derision
+foracha	Nf5-3;	! gs & gpl ~n
+foraoiseacht	Nf3-SINGULAR;	! forestry
+foraoiseoir	Nm3-1;	! forester
+forcháin	Nf5-1;	! gs -ánach pl -ánacha
+fordhuilleog	Nf2-1;	! fly-leaf
+forghabháil	Nf3-SINGULAR;	! grasp; forcible seizure, usurpation
+forléine	Nf4-3;	! pl -nte smock
+fortacht	Nf3-SINGULAR;	! aid, succour; relief, comfort
+fosaíocht	Nf3-SINGULAR;	! herding, attending, ag ~
+fosfáit	Nf2-7;	! phosphate
+fostaíocht	Nf3-SINGULAR;	! employment
+fostóir	Nm3-1;	! employer
+fothain	Nf3-SINGULAR;	! shelter; discretion, i bh~,
+fothair:fothair	Nf5-2b;	! gs foithre pl foithreacha  SEE FIX for irreg slen pl
+freagracht	Nf3-1;	! responsibility
+freanga	Nf4-1;	! twist, contortion; twitch, spasm
+friotaíocht	Nf3-SINGULAR;	! resistance
+friotháil	Nf3-SINGULAR;	! attention, ministry, service vt
+frisnéis	Nf2-SINGULAR;	! contradiction; rebuttal
+frithchaiteoir	Nm3-1;	! reflector
+frithchosúlacht	Nf3-SINGULAR;	! paradox
+frithsheasmhacht	Nf3-SINGULAR;	! resistance, steadfastness
+fríth	Nm3-6;	! find, finding
+fuadaitheoir	Nm3-1;	! abductor, kidnapper; hijacker
+fuaimint	Nf2-SINGULAR;	! soundness, solidity, substance
+fuaimíocht	Nf3-SINGULAR;	! sound, acoustics
+fuaire	Nf4-SINGULAR;	! cold, coldness, ag dul
+fuairnimh	Nf2-SINGULAR;	! sting of cold, numbness
+fuarchúis	Nf2-SINGULAR;	! coolness, imperturbability; frigidity; indifference
+fuascailt	Nf2-7;	! release, deliverance; redemption, ransom;
+fuascailteoir	Nm3-1;	! liberator, emancipator; redeemer
+fuath	Nm3-SINGULAR;	! hate, hatred
+fuinseog	Nf2-1;	! ash
+fuiseog	Nf2-1;	! (sky)lark
+fulacht	Nf3-SINGULAR;	! cooking-place; barbecue
+fusacht	Nf3-SINGULAR;	! easiness, dá fhusacht é
+fuáil	Nf3-SINGULAR;	! sewing, stitching, needlework
+!fág	Nm3-1;	! large wave, swell
+fág	Nm3-2;	! large wave, swell (gs. ~a, pl. ~anna) *** - CW 29/08/08
+fáidheadóireacht	Nf3-SINGULAR;	! prophecy; wise speech, ag
+fáil	Nf3-SINGULAR;	! getting, finding; capability, níl
+fáilteoir	Nm3-1;	! receptionist
+fáinleog	Nf2-1;	! swallow
+fáinneoireacht	Nf3-SINGULAR;	! ringing (of animals)
+fáinneáil	Nf3-SINGULAR;	! circling; fluttering
+fáirbre	Nf4-2;	! notch; wrinkle
+fáistine	Nf4-2;	! prophecy; divination
+fáithim	Nf2-7;	! hem
+fálróid	Nf2-SINGULAR;	! sauntering, strolling; easy pace
+fána	Nf4-1;	! declivity, slope; hollow, droop
+fánaíocht	Nf3-SINGULAR;	! wandering; hiking; aimlessness; decline
+fáthmheas	Nm3-SINGULAR;	! diagnosis
+féachadóir	Nm3-1;	! onlooker, observer
+féasóg	Nf2-1;	! beard
+féidearthacht	Nf3-SINGULAR;	! feasibility, possibility
+féiniúlacht	Nf3-SINGULAR;	! selfhood, separate identity
+féinmharfóir	Nm3-1;	! suicide
+féinriail	Nf5-1;	! gs -alach autonomy
+féinspéis	Nf2-SINGULAR;	! egotism
+féitheog	Nf2-1;	! (small) sinew; muscle; (small)
+fí	Nf4-SINGULAR;	! weaving, weave; plait
+fíneog	Nf2-1;	! mite
+fíneáil	Nf3-SINGULAR;	! fine
+fíochmhaire	Nf4-SINGULAR;	! ferocity
+fíodóir	Nm3-1;	! weaver
+fíonchaor	Nf2-1;	! grape
+fíor	Nf5-1;	! gs ~ach pl ~acha
+fíre	Nf4-SINGULAR;	! truthfulness, sincerity; genuineness, fidelity
+fíric	Nf2-7;	! fact
+físeoireacht	Nf3-SINGULAR;	! inquisitiveness, ag ~ prying
+fógraíocht	Nf3-SINGULAR;	! advertising
+fógróir	Nm3-1;	! announcer; advertiser
+fóibe	Nf4-2;	! phobia
+fóint	Nf2-SINGULAR;	! usefulness, utility
+fútráil	Nf3-SINGULAR;	! fidgeting, bungling
+gabhair	Nf4-SINGULAR;	! craze, ar ~ chun
+gabhlóg	Nf2-1;	! (small) fork; forked stick;
+gadaíocht	Nf3-SINGULAR;	! thieving; theft
+gaibhneacht	Nf3-SINGULAR;	! smith's work, metalwork, ag
+gaineamhchloch	Nf2-1;	! sandstone
+gainne	Nf4-SINGULAR;	! scarcity; scantiness, dul i
+gaire	Nf4-SINGULAR;	! nearness, proximity, i n~
+gairge	Nf4-SINGULAR;	! harshness, irritability; pungency
+gairleog	Nf2-1;	! garlic
+gairneoireacht	Nf3-SINGULAR;	! horticulture
+gal	Nf2-1;	! valour; steam, ~ uisce
+galamaisíocht	Nf3-SINGULAR;	! playfulness; histrionics
+galántacht	Nf3-SINGULAR;	! courtliness; stylishness; swank, ~
+ganfhiosaíocht	Nf3-SINGULAR;	! secrecy, secretiveness, ag ~
+gangaid	Nf2-SINGULAR;	! venom; bitterness
+gannchúis	Nf2-SINGULAR;	! scarcity; penury; stinginess
+gaolmhaireacht	Nf3-SINGULAR;	! relationship; affinity
+gaoth	Nf2-1;	! wind, imeacht ar nós
+garbhlus	Nm3-4;	! goose-grass
+garbhshíon	Nf2-SINGULAR;	! rough weather, ~ na
+garchabhair	Nf5-2;	! gs -bhrach first aid
+garra	Nf4-1;	! ~ bhuí greater celandine
+garraíodóir	Nm3-1;	! gardener
+garraíodóireacht	Nf3-SINGULAR;	! gardening
+gasail	Nf2-7;	! gazelle
+gastacht	Nf3-SINGULAR;	! quickness; cleverness; tidiness
+gasóg	Nf2-1;	! little stalk; boy scout
+geabaireacht	Nf3-SINGULAR;	! chattering; loquacity
+geabhróg	Nf2-1;	! (common) tern
+geallghlacadóir	Nm3-1;	! bookmaker, turf accountant
+gealt	Nf2-1;	! gs geilte lunatic; panic-stricken
+gealtlann	Nf2-1;	! lunatic ayslum
+geamaireacht	Nf3-SINGULAR;	! pantomime
+gean	Nm3-SINGULAR;	! love, affection
+geanc	Nf2-1;	! gs geince snub nose
+geanmnaíocht	Nf3-SINGULAR;	! chastity
+geanúlacht	Nf3-SINGULAR;	! lovingness; lovableness; seemliness
+gearg	Nf2-1;	! gs geirge quail
+geargáil	Nf2-7;	! gargoyle
+gearranáil	Nf3-SINGULAR;	! shortness of breath
+gearrchaint	Nf2-6;	! impertinent talk; terse remark
+gearrinsint	Nf2-7;	! short account, epitome (ar
+gearrthóg	Nf2-1;	! cutting, snippet; cutlet
+gearrthóir	Nm3-1;	! cutter; (cold) chisel
+gearróg	Nf2-1;	! short bit, scrap; short
+geasróg	Nf2-1;	! spell; superstition
+geilignít	Nf2-SINGULAR;	! gelignite
+geimheal:geimhl	Nf2-13;	! gs & pl -mhle
+geografaíocht	Nf3-SINGULAR;	! geography
+geoiméadracht	Nf3-SINGULAR;	! geometry
+geoin	Nf2-SINGULAR;	! confused noise, drone, ~
+geolaíocht	Nf3-SINGULAR;	! geology
+geonaíl	Nf3-SINGULAR;	! droning; whining
+geáitsíocht	Nf3-SINGULAR;	! gesturing, play-acting
+gibiris	Nf2-SINGULAR;	! gibberish, ~ chainte unintelligible
+gile	Nf4-SINGULAR;	! whiteness; fairness; gladness, ~
+gineadóir	Nm3-1;	! begetter; sower; generator
+ginid	Nf2-7;	! sprite, genie
+gintlíocht	Nf3-SINGULAR;	! sorcery
+giobóg	Nf2-1;	! tiny bit; scrap; rag
+giofóg	Nf2-1;	! gipsy
+giollacht	Nf3-SINGULAR;	! attendance, service; guidance, ~
+giorra	Nf4-SINGULAR;	! shortness, ~ anála shortness
+giorracht	Nf3-SINGULAR;	! shortness; nearness, i n~
+gipis	Nf2-SINGULAR;	! giblets
+giuirléid	Nf2-7;	! implement pl articles (of
+giúróir	Nm3-1;	! juror
+glac	Nf2-1;	! hand, half-closed hand, rud
+glacadóir	Nm3-1;	! taker, acceptor; receiver
+glacaireacht	Nf3-SINGULAR;	! handling; touching, pawing
+glagaireacht	Nf3-SINGULAR;	! foolish behaviour, ~ (chainte)
+glaine	Nf4-SINGULAR;	! cleanness; clarity; purity
+glaise	Nf4-2;	! greenness; greyness; brightness; rawness
+glaise	Nf4-2;	! stream
+glantáirgeacht	Nf3-SINGULAR;	! net output
+glantóir	Nm3-1;	! cleaner; detergent
+glas	Nf2-SINGULAR;	! rivulet
+glasuaine	Nf4-SINGULAR;	! vivid green
+glasíoc	Nm3-1;	! part payment, instalment
+glasóg	Nf2-SINGULAR;	! wagtail
+gleacaíocht	Nf3-SINGULAR;	! wrestling, acrobatics; gymnastics; trickery
+gleic	Nf2-12;	! pl -eaca wrestling, fighting;
+glinne	Nf4-2;	! winding-frame (for fishing line)
+glinne	Nf4-SINGULAR;	! clarity, distinctness, vividness
+gliúcaíocht	Nf3-SINGULAR;	! peering; furtiveness
+gloineadóir	Nm3-1;	! glazier
+gloineadóireacht	Nf3-SINGULAR;	! glazing; glaziary
+gluaire	Nf4-SINGULAR;	! clearness, brightness; loudness; shrillness
+gluaiseacht	Nf3-1;	! movement, motion, ~ lasánta
+gluaisteánaíocht	Nf3-SINGULAR;	! motoring
+gléine	Nf4-SINGULAR;	! clearness, lucidity, transparence, brightness
+glóir	Nf2-SINGULAR;	! glory, ~ do Dhia
+glóraíl	Nf3-SINGULAR;	! sound of voices, noisiness
+gnaoi	Nf4-SINGULAR;	! beauty; affection
+gnáthchléir	Nf2-SINGULAR;	! secular clergy
+gnáthdhochtúir	Nm3-1;	! general practitioner
+gnáthghaoth	Nf2-1;	! prevailing wind
+gnáthshaighdiúir	Nm3-1;	! private soldier
+gnáthóg	Nf2-1;	! habitat; lair; cache
+gnáthóir	Nm3-1;	! frequenter, habitué
+gné	Nf4-4;	! pl ~ithe species, kind;
+gné-eolaíocht	Nf3-SINGULAR;	! physiognomy
+gníomhaireacht	Nf3-SINGULAR;	! agency
+gníomhaíocht	Nf3-1;	! activity, performance; action (in
+gnólacht	Nm3-3;	! commercial firm
+gnúsacht	Nf3-SINGULAR;	! grunt
+gobharnóir	Nm3-1;	! governor
+goimh	Nf2-SINGULAR;	! sting, venom, bhí ~
+goineog	Nf2-1;	! stab, sting; gibe, cutting
+goltraí	Nf4-4;	! (piece of) slow, sad,
+gontacht	Nf3-SINGULAR;	! incisiveness; terseness; pungency
+gorlann	Nf2-1;	! hatchery
+gothaíocht	Nf3-SINGULAR;	! mannerism
+graeipe	Nf4-2;	! graip
+grafóg	Nf2-1;	! (small) hoe
+gramaisc	Nf2-SINGULAR;	! rabble, mob
+graostacht	Nf3-SINGULAR;	! lewdness, ag ~ talking
+grathain	Nf2-SINGULAR;	! swarm; rabble
+greadóg	Nf2-1;	! slap, smack; appetizer, ~
+greanadóir	Nm3-1;	! engraver
+greanadóireacht	Nf3-SINGULAR;	! engraving
+greannmhaireacht	Nf3-SINGULAR;	! humorousness; queerness; lovingness
+greanntraigéide	Nf4-2;	! tragi-comedy
+greantacht	Nf3-SINGULAR;	! shapeliness, beauty; elegance
+greasáil	Nf3-SINGULAR;	! beating, trouncing vt beat,
+greille	Nf4-2;	! grille; gridiron
+grianaíocht	Nf3-SINGULAR;	! basking, sunniness
+grianchloch	Nf2-1;	! quartz
+grianghrafadóir	Nm3-1;	! photographer
+grianghrafadóireacht	Nf3-SINGULAR;	! photography
+grideall	Nf2-7;	! griddle
+griotháil	Nf3-SINGULAR;	! & vi grunt
+gruagaireacht	Nf3-SINGULAR;	! hairdressing
+gruaim	Nf2-SINGULAR;	! gloom, dejection
+gruth	Nm3-SINGULAR;	! curds
+grábháil	Nf3-SINGULAR;	! engraving; (of ship) graving
+grág	Nf2-1;	! raucous cry; croak
+grágaíl	Nf3-SINGULAR;	! cawing, croaking; braying; cackling
+gráin	Nf5-1;	! gs -ánach hatred; ugliness;
+gráinneog	Nf2-1;	! hedgehog
+gránnacht	Nf3-SINGULAR;	! ugliness
+gránádóir	Nm3-1;	! grenadier
+gránáid	Nf2-7;	! grenade
+grásaeir	Nm3-1;	! grazier; cattle dealer, jobber
+grástúlacht	Nf3-SINGULAR;	! graciousness; mercifulness
+grátáil	Nf3-SINGULAR;	! grating; grille
+gráínteacht	Nf3-SINGULAR;	! fondling, cuddling
+gréas	Nm3-8;	! gs & npl ~a
+gréasaíocht	Nf3-SINGULAR;	! shoemaking
+gréisc	Nf2-SINGULAR;	! grease
+gréisclí	Nf4-SINGULAR;	! grease-paint
+gríosclann	Nf2-1;	! grill-room
+gríosóir	Nm3-1;	! agitator
+grósaeir	Nm3-1;	! grocer
+grósaeireacht	Nf3-SINGULAR;	! grocery (business)
+grúdlann	Nf2-1;	! brewery
+grúmaeir	Nm3-1;	! stable groom
+guagacht	Nf3-SINGULAR;	! instability; fickleness
+guailleadóireacht	Nf3-SINGULAR;	! shouldering; swaggering
+guailleog	Nf2-1;	! epaulet(te)
+guaim	Nf2-SINGULAR;	! (self-)control
+guairne	Nf4-2;	! whirl, spin
+guine	Nf4-2;	! cearc ghuine guinea-hen, muc
+gunail	Nf2-7;	! gunwale
+gunnadóir	Nm3-1;	! gunner
+gus	Nm3-SINGULAR;	! vigour; enterprise	CHECK THIS
+guthaíocht	Nf3-SINGULAR;	! vocalization; voice, vote
+guíodóireacht	Nf3-SINGULAR;	! praying, petitioning; cursing
+gág	Nf2-1;	! crack, crevice; chap in
+gáilleog	Nf2-1;	! mouthful, swig
+gáinne	Nf4-2;	! reed; dart, imeacht sna
+gáirsiúlacht	Nf3-SINGULAR;	! lewdness, obscenity, ~ chainte
+gáróid	Nf2-7;	! clamour, din; urgent call
+géarchúis	Nf2-SINGULAR;	! astuteness, discernment
+géillsine	Nf4-SINGULAR;	! subjection, allegiance
+géineolaíocht	Nf3-SINGULAR;	! genetics
+géire	Nf4-SINGULAR;	! sharpness; steepness; shrillness; sourness
+gíog	Nf2-1;	! & vi cheep, chirp
+gíotáil	Nf3-SINGULAR;	! pottering; fumbling
+gó	Nf4-SINGULAR;	! lie, falsehood, deceit, gan
+góiséireacht	Nf3-SINGULAR;	! hosiery
+gúnadóir	Nm3-1;	! dressmaker
+gúnadóireacht	Nf3-SINGULAR;	! dressmaking
+gúngáil	Nf3-SINGULAR;	! swaying; awkward gait
+haemaifilia	Nf4-SINGULAR;	! haemophilia
+haisis	Nf2-SINGULAR;	! hashis
+halmadóir	Nm3-1;	! helm, tiller
+hearóin	Nf2-SINGULAR;	! heroin
+hibrid	Nf2-7;	! hybrid
+hidrigin	Nf2-SINGULAR;	! hydrogen
+hiodrálaic	Nf2-SINGULAR;	! hydraulics
+hiopnóis	Nf2-7;	! hypnosis
+hipitéis	Nf2-7;	! hypothesis
+histéire	Nf4-SINGULAR;	! hysteria
+húicéir	Nm3-1;	! (boat) hooker
+ialtóg	Nf2-1;	! ~ (leathair) bat
+ialus	Nm3-SINGULAR;	! bindweed, convolvulus
+iamhchríoch	Nf2-1;	! enclave
+iargúil	Nf5-1;	! gs -úlach pl -úlacha
+iarlacht	Nf3-SINGULAR;	! earldom
+iarlais	Nf2-7;	! changeling; chronically ailing person
+iarnóir	Nm3-1;	! ironworker; ironmonger
+iarratasóir	Nm3-1;	! applicant
+iarrthóir	Nm3-1;	! petitioner; candidate; examinee
+iarsmalann	Nf2-1;	! museum
+iaróg	Nf2-1;	! quarrel; disturbance; after-effect, an
+iasachtóir	Nm3-1;	! lender
+iascaireacht	Nf3-SINGULAR;	! fishing
+iasceolaíocht	Nf3-SINGULAR;	! ichthyology
+iatacht	Nf3-SINGULAR;	! constipation
+idir-ríocht	Nf3-SINGULAR;	! interregnum
+idirghabháil	Nf3-SINGULAR;	! intervention, mediation; interposition
+idirghuítheoir	Nm3-1;	! intercessor
+ilbhliantóg	Nf2-1;	! perennial
+ilchríoch	Nf2-1;	! continent
+ileochair	Nf5-2;	! gs -chrach pl -chracha
+ilíocht	Nf3-SINGULAR;	! variety, diversity
+imdhíonacht	Nf3-SINGULAR;	! immunity
+imeagla	Nf4-SINGULAR;	! great fear, terror
+imirce	Nf4-SINGULAR;	! migration, emigration, éan ~
+imlitir	Nf5-2;	! gs -treach pl -treacha
+imlíne	Nf4-3;	! pl -nte outline, perimeter,
+impireacht	Nf3-SINGULAR;	! empire
+imreog	Nf2-1;	! butterscotch
+imreoir	Nm3-1;	! player
+imrim	Nf2-SINGULAR;	! riding, Domhnach na hImrime
+inchinn	Nf2-7;	! brain
+indíritheoir	Nm3-1;	! introvert
+infheistíocht	Nf3-1;	! investment, sum invested
+inimirce	Nf4-SINGULAR;	! immigration
+inis:ins	Nf2-7;	! gs inse pl insí
+iniúchóir	Nm3-1;	! scrutineer, auditor
+inleog	Nf2-1;	! device; snare, trap
+inlíocht	Nf3-SINGULAR;	! manoeuvre
+inmhe	Nf4-SINGULAR;	! maturity, strength, in ~
+innealtóir	Nm3-1;	! engineer
+innealtóireacht	Nf3-SINGULAR;	! engineering
+inneoin	Nf5-1;	! gs -onach pl -onacha
+innilt	Nf2-SINGULAR;	! grazing; pasturage
+inniúlacht	Nf3-SINGULAR;	! ability, competence
+inscne	Nf4-2;	! gender
+inscríbhinn	Nf2-7;	! inscription
+inse	Nf4-2;	! inch, water-meadow
+inslin	Nf2-SINGULAR;	! insulin
+inslitheoir	Nm3-1;	! insulator
+inspioráid	Nf2-7;	! (divine) inspiration
+institiúid	Nf2-7;	! institute
+intleacht	Nf3-SINGULAR;	! intellect, intelligence; ingenuity
+intriacht	Nf3-1;	! interjection
+iomadúlacht	Nf3-SINGULAR;	! numerousness, abundance
+iomaitheoir	Nm3-1;	! competitor, rival
+iomarbhá	Nf4-8;	! contention; controversy
+iomarca	Nf4-SINGULAR;	! excess; too many, too
+iomarcaíocht	Nf3-SINGULAR;	! redundancy
+iomaíocht	Nf3-SINGULAR;	! competition; emulation, ag ~
+iomghaoth	Nf2-SINGULAR;	! whirlwind
+iomlaoid	Nf2-7;	! change, fluctuation
+iomláine	Nf4-SINGULAR;	! fullness, entirety
+iompróir	Nm3-1;	! carrier
+iompórtáil	Nf3-SINGULAR;	! importation, import vt import
+iomrascáil	Nf3-SINGULAR;	! wrestling
+iomróir	Nm3-1;	! oarsman, rower
+iomáin	Nf3-SINGULAR;	! (game of) hurling vi
+iománaíocht	Nf3-SINGULAR;	! hurling
+ionadaíocht	Nf3-SINGULAR;	! representation; substitution
+iongabháil	Nf3-SINGULAR;	! careful handling; attention; prudence,
+ionradaíocht	Nf3-SINGULAR;	! irradiation
+ionramháil	Nf3-SINGULAR;	! handling, management; humouring, ~
+ionróir	Nm3-1;	! invader
+ionsaitheoir	Nm3-1;	! attacker, aggressor
+ionstraim	Nf2-7;	! instrument
+iontaise	Nf4-2;	! fossil
+iontaobhaíocht	Nf3-SINGULAR;	! trusteeship
+iontaofacht	Nf3-SINGULAR;	! trustworthiness, reliability
+iontaoibh	Nf2-SINGULAR;	! trust; reliance, confidence
+iontráil	Nf3-SINGULAR;	! entry
+iontróid	Nf2-7;	! introit
+iris	Nf2-7;	! journal, magazine
+iris	Nf2-7;	! strap, sling (for carrying)
+iriseoir	Nm3-1;	! journalist
+iriseoireacht	Nf3-SINGULAR;	! journalism
+ithir	Nf5-2;	! gs -threach pl -threacha
+iubhaile	Nf4-2;	! jubilee
+jaingléir	Nm3-1;	! straggler, vagrant
+lacht	Nm3-2;	! milk; yield of milk,
+lachín	Nf4-1;	! duckling
+ladhar:ladhar	Nf5-2b;	! gs laidhre pl -dhracha
+lagbhrí	Nf4-SINGULAR;	! weakness, enervation
+laibhe	Nf4-SINGULAR;	! lava
+laige	Nf4-SINGULAR;	! weakness; faint, swoon, ó
+laincis	Nf2-7;	! fetter; hobble, spancel
+lainse	Nf4-2;	! launch
+laitís	Nf2-7;	! lattice, lattice-work
+lamháil	Nf3-SINGULAR;	! allowance; discount; margin vt
+lampróg	Nf2-1;	! glow-worm; firefly
+landair	Nf2-7;	! partition; recess; storeroom, pantry
+lann	Nf2-1;	! plate, lamina; scale (of
+laofheoil	Nf3-SINGULAR;	! veal
+lapadaíl	Nf3-SINGULAR;	! paddling, wading, ~ na
+laraing	Nf2-7;	! larynx
+lasc	Nf2-1;	! lash, whip; switch vt
+lascaine	Nf4-2;	! abatement, discount; easement (of
+lastóir	Nm3-1;	! lighter
+lasóg	Nf2-1;	! small flame; torch; match
+leabhareolaíocht	Nf3-SINGULAR;	! bibliography, bibliology
+leabharlann	Nf2-1;	! library
+leabhróg	Nf2-1;	! libretto
+leac	Nf2-1;	! flat stone or rock;
+leaca	Nf5-3;	! gs & gpl ~n
+leachtaitheoir	Nm3-1;	! liquefier; liquidizer; liquidator
+leadhbóg	Nf2-1;	! shred, tatter; untidy woman;
+leadóg	Nf2-1;	! tennis, ~ bhoird ping-pong
+leagáid	Nf2-7;	! legacy
+leagáideacht	Nf3-SINGULAR;	! legation
+leaistic	Nf2-SINGULAR;	! elastic
+leamhnacht	Nf3-SINGULAR;	! new milk
+leamhsháinn	Nf2-SINGULAR;	! stalemate
+leanbaíocht	Nf3-SINGULAR;	! childhood; childishness; dotage
+leantóir	Nm3-1;	! follower; trailer
+learg	Nf2-1;	! slope, side, ~ sléibhe
+learóg	Nf2-1;	! larch
+leas-ardeaglais	Nf2-7;	! pro-cathedral
+leasaitheoir	Nm3-1;	! reformer, improver, ~ bagúin
+leasmháthair	Nf5-4;	! gs -ar, pl -mháithreacha
+leathaghaidh	Nf2-6;	! side of face, profile
+leathbhádóir	Nm3-1;	! shipmate; colleague
+leathchruinne	Nf4-2;	! hemisphere
+leathphraitinn	Nf2-SINGULAR;	! foolscap
+leathóg	Nf2-1;	! flat-fish, ~ bhallach plaice
+leibide	Nf4-2;	! slovenly person; fool
+leiceacht	Nf3-SINGULAR;	! sickliness, delicacy
+leiciméir	Nm3-1;	! idler, shirker
+leictreoir	Nm3-1;	! electrician
+leictreonaic	Nf2-SINGULAR;	! electronics
+leideoir	Nm3-1;	! prompter
+leimhe	Nf4-SINGULAR;	! tastelessness, insipidity; inanity
+leisce	Nf4-SINGULAR;	! laziness; reluctance; embarrassment, ~
+leisceoir	Nm3-1;	! lazy person, idler
+leisciúlacht	Nf3-SINGULAR;	! laziness; reluctance
+leithcheal	Nm3-SINGULAR;	! passing over, exclusion; invidious
+leitheadúlacht	Nf3-SINGULAR;	! prevalence
+leithinis:leithins	Nf2-7;	! gs -nse pl -nsí
+leithlis	Nf2-SINGULAR;	! isolation
+leitís	Nf2-7;	! lettuce
+leitís	Nf2-SINGULAR;	! ~ mharfach paralysis
+leoicéime	Nf4-SINGULAR;	! leukaemia
+leoithne	Nf4-2;	! light breeze
+liacht	Nf3-SINGULAR;	! medicine
+liag	Nf2-1;	! stone, ~ dhrandail gumboil
+liagóir	Nm3-1;	! coxwain
+liathróid	Nf2-7;	! ball, ~ láimhe handball
+lile	Nf4-2;	! lily
+limfe	Nf4-2;	! lymph
+lincse	Nf4-2;	! lynx
+linntreog	Nf2-1;	! puddle; pothole
+lintile	Nf4-2;	! lentil
+liocáir	Nf2-7;	! liquor
+liomóg	Nf2-1;	! pinch, nip
+liostacht	Nf3-SINGULAR;	! tediousness; tiresomeness; persistence
+liostáil	Nf3-SINGULAR;	! enlistment vt & i
+liric	Nf2-7;	! lyric
+liteagrafaíocht	Nf3-SINGULAR;	! lithography
+litreoireacht	Nf3-SINGULAR;	! lettering
+lióg	Nf2-1;	! cowlick
+liúir	Nf5-1;	! gs -úrach pl -úracha
+lobhra	Nf4-SINGULAR;	! leprosy
+loc-chomhla	Nf4-1;	! sluice-gate
+lofacht	Nf3-SINGULAR;	! rottenness, decay
+loighic	Nf2-SINGULAR;	! gs -ghce logic
+loilíoch	Nf2-1;	! gs loilí cow after
+loime	Nf4-SINGULAR;	! bareness; poverty
+loine	Nf4-2;	! churn-dash; plunger, piston
+loingseoir	Nm3-1;	! seaman, navigator
+loinneog	Nf2-1;	! refrain
+loinnir	Nf5-2;	! gs -nnreach light, brightness;
+loisceoir	Nm3-1;	! incinerator
+loitiméir	Nm3-1;	! destroyer; botcher
+loitiméireacht	Nf3-SINGULAR;	! destructiveness, destruction
+lomnochtacht	Nf3-SINGULAR;	! nakedness
+longlann	Nf2-1;	! dockyard
+lonnaitheoir	Nm3-1;	! squatter
+lorgaireacht	Nf3-SINGULAR;	! tracking; detection
+losaid	Nf2-7;	! kneading-trough
+losainn	Nf2-7;	! lozenge
+lotnaid	Nf2-7;	! pest
+luacháil	Nf3-SINGULAR;	! valuation; evaluation vt value;
+luaidhe	Nf4-6;	! lead
+luail	Nf2-7;	! moving; motion, activity
+luain	Nf2-SINGULAR;	! movement; vigorous exertion
+luaineacht	Nf3-SINGULAR;	! mobility; restlessness; vacillation; fluctuation
+luaith	Nf3-SINGULAR;	! ashes
+luaithe	Nf4-SINGULAR;	! quickness; earliness
+luathintinn	Nf2-SINGULAR;	! fickle mind, fickleness
+luathscríbhneoireacht	Nf3-SINGULAR;	! speed-writing
+luaíocht	Nf3-SINGULAR;	! merit
+lubhóg	Nf2-1;	! flake
+luch	Nf2-1;	! mouse, ~ chodlamáin dormouse
+luchtóir	Nm3-1;	! loader
+luchóg	Nf2-1;	! mouse
+luibheolaíocht	Nf3-SINGULAR;	! botany
+luiseag	Nf2-1;	! tang, fang, ~ duáin
+luisne	Nf4-2;	! blush, glow
+láchan	Nf3-SINGULAR;	! dawning
+ládáil	Nf3-SINGULAR;	! lading; cargo vt lade
+láib	Nf2-SINGULAR;	! mud, mire, ~ abhann
+láidreacht	Nf3-1;	! strength
+láimhseáil	Nf3-SINGULAR;	! management, handling vt manage,
+láine	Nf4-SINGULAR;	! fullness
+láithreacht	Nf3-SINGULAR;	! presence
+lámhachóir	Nm3-1;	! (person) shooter, shot
+lámhadóir	Nm3-1;	! handler
+lámhainn	Nf2-7;	! glove
+lámhaíocht	Nf3-SINGULAR;	! helping hand; subscription
+lámhchleasaíocht	Nf3-SINGULAR;	! jugglery
+lámhscríbhinn	Nf2-7;	! manuscript
+lánchumhachtóir	Nm3-1;	! plenipotentiary
+lárlíne	Nf4-3;	! pl -nte diameter
+láínteacht	Nf3-SINGULAR;	! blandishment, fondling
+láíocht	Nf3-SINGULAR;	! affability; kindliness
+lé	Nf4-SINGULAR;	! leaning, partiality; lie; range,
+léacht	Nf3-SINGULAR;	! lecture
+léachtóir	Nm3-1;	! lecturer
+léachtóireacht	Nf3-SINGULAR;	! lecturing; lectureship
+léarscáilíocht	Nf3-SINGULAR;	! mapping
+léas	Nf2-1;	! cornstalk (with ear); wisp
+léas	Nm3-4;	! lease
+léasacht	Nf3-SINGULAR;	! leasehold
+léaslíne	Nf4-3;	! pl -nte horizon
+léaspairt	Nf2-7;	! sparkle, flash of wit
+léig	Nf2-6;	! decay, neglect, dul i
+léimneoir	Nm3-1;	! jumper
+léimrás	Nm3-3;	! steeplechase
+léiritheoir	Nm3-1;	! demonstrator, portrayer; producer (of
+léirmheas	Nm3-2;	! critical consideration; criticism, review
+léirmheastóir	Nm3-1;	! critic, reviewer
+léirmheastóireacht	Nf3-SINGULAR;	! criticism
+léirsitheoir	Nm3-1;	! (political) demonstrator
+léithe	Nf4-SINGULAR;	! greyness; mouldiness
+léitheoir	Nm3-1;	! reader
+léitheoireacht	Nf3-SINGULAR;	! reading
+líneáil	Nf3-SINGULAR;	! lining vt line
+línitheoir	Nm3-1;	! drawer, draughtsman
+líníocht	Nf3-SINGULAR;	! (line-)drawing
+líofacht	Nf3-SINGULAR;	! sharpness; fluency; keenness, alacrity
+líomanáid	Nf2-SINGULAR;	! lemonade
+líomóid	Nf2-7;	! lemon
+líonmhaireacht	Nf3-SINGULAR;	! numerousness, abundance
+líonóil	Nf2-7;	! linoleum
+lógóireacht	Nf3-SINGULAR;	! wailing; lamentation
+lóisteáil	Nf3-SINGULAR;	! lodgement vt & i
+lóistéir	Nm3-1;	! lodger, boarder
+lónadóir	Nm3-1;	! caterer, provisioner
+lónadóireacht	Nf3-SINGULAR;	! catering, provisionment
+lúb	Nf2-1;	! loop, link; coil; twist,
+lúbaireacht	Nf3-SINGULAR;	! practising deceit; craftiness
+lúbarnaíl	Nf3-SINGULAR;	! writhing, wriggling
+lúbóg	Nf2-1;	! (small) loop; button-hole
+lúcháir	Nf2-SINGULAR;	! joy, exultation
+lúfaireacht	Nf3-SINGULAR;	! agility, suppleness
+lúithnireacht	Nf3-SINGULAR;	! athleticism
+lúitéis	Nf2-SINGULAR;	! fawning, obsequiousness
+lúthaíocht	Nf3-SINGULAR;	! exercising, exercise
+lúthchleasaíocht	Nf3-SINGULAR;	! athletics, sport
+lútáil	Nf3-SINGULAR;	! obsequiousness, toadyism vi fawn
+mabóg	Nf2-1;	! tassel
+macántacht	Nf3-SINGULAR;	! gentleness; honesty
+maicis	Nf2-SINGULAR;	! (spice) mace
+maicne	Nf4-SINGULAR;	! sons, progeny; stock, people
+maidhmitheoir	Nm3-1;	! detonator
+maighdean	Nf2-1;	! maiden, virgin, ~ mhara
+maighdeog	Nf2-1;	! pivot
+maignéis	Nf2-SINGULAR;	! magnesia
+mailís	Nf2-SINGULAR;	! malice; malignancy
+maingléis	Nf2-SINGULAR;	! frivolity; ostentation
+mainicíneacht	Nf3-SINGULAR;	! modelling (clothes)
+mainistir	Nf5-2;	! gs -treach pl -treacha
+mainneachtain	Nf3-SINGULAR;	! negligence; default
+maintín	Nf2-7;	! dressmaker
+maintíneacht	Nf3-SINGULAR;	! dressmaking
+mairbhití	Nf4-SINGULAR;	! languor, torpor, numbness
+maireachtáil	Nm3-SINGULAR;	! living, livelihood, subsistence
+mairfeacht	Nf3-SINGULAR;	! miscarriage, abortion
+mairg	Nf2-7;	! woe, sorrow, mo mhairg
+mairnéalacht	Nf3-SINGULAR;	! seamanship
+mairteoil	Nf3-SINGULAR;	! beef
+mairtíreacht	Nf3-SINGULAR;	! martyrdom
+mais	Nf2-6;	! mass, quantity of matter
+maise	Nf4-SINGULAR;	! adornment, beauty, comeliness, faoi
+maisiúlacht	Nf3-SINGULAR;	! decorativeness, beauty; comeliness
+maithe	Nf4-SINGULAR;	! goodness, good, ar mhaithe
+mala	Nf4-1;	! brow; eyebrow; slope, incline
+maláire	Nf4-SINGULAR;	! malaria
+mamaí	Nf4-4;	! mammy
+mandáil	Nf3-SINGULAR;	! maundy, Déardaoin Mandála Maundy
+maoildearg	Nf2-1;	! mulberry
+dearg	Nf2-1;	! red cow ***
+maoile	Nf4-SINGULAR;	! bareness, baldness; bluntness; obtuseness
+maoirseacht	Nf3-SINGULAR;	! stewardship; supervising; superintendence
+maoirseoir	Nm3-1;	! supervisor, superintendent
+maonáis	Nf2-SINGULAR;	! mayonnaise
+maorgacht	Nf3-SINGULAR;	! stateliness, dignity
+maothal	Nf2-SINGULAR;	! beestings
+marana	Nf4-SINGULAR;	! contemplation, tá sé ar
+marbhfháisc	Nf2-SINGULAR;	! swathings on corpse, ~
+marbhlann	Nf2-1;	! morgue
+marbhsháinn	Nf2-SINGULAR;	! checkmate
+marcaíocht	Nf3-SINGULAR;	! riding, horsemanship; ride; drive,
+marfóir	Nm3-1;	! killer
+marglann	Nf2-1;	! mart
+margáil	Nf3-SINGULAR;	! bargaining, haggling
+marmaláid	Nf2-7;	! marmalade
+marthain	Nf3-SINGULAR;	! existence; subsistence; sustenance
+maróg	Nf2-1;	! pudding; paunch
+matamaitic	Nf2-SINGULAR;	! mathematics
+matamaiticeoir	Nm3-1;	! mathematician
+meabhair	Nf5-2;	! gs -bhrach mind, memory;
+meabhraíocht	Nf3-SINGULAR;	! consciousness, awareness; intelligence
+meadar		Nf5-2b;	! gs meidre pl -dracha SEE FIX script for gs meidhre (Coim + Caol ea -> ei not incl. in reg file)
+meadaracht	Nf3-SINGULAR;	! metre; metrics
+meaisíneoir	Nm3-1;	! machinist
+mealbhóg	Nf2-1;	! small bag, pouch
+mealltóir	Nm3-1;	! coaxer; deceiver
+meamraiméis	Nf2-SINGULAR;	! officialese
+meancóg	Nf2-1;	! mistake, blunder
+meang	Nf2-1;	! wile; deceit
+meanma	Nf5-3;	! gs ~n mind, thought;
+mearaithne	Nf4-SINGULAR;	! slight acquaintance
+mearaí	Nf4-SINGULAR;	! craziness, bewilderment
+mearóg	Nf2-1;	! vegetable marrow
+measarthacht	Nf3-SINGULAR;	! moderation, temperance; fair amount
+meastóir	Nm3-1;	! valuer, assessor
+measúlacht	Nf3-SINGULAR;	! respectability, esteem
+measúnacht	Nf3-SINGULAR;	! assessment
+measúnóir	Nm3-1;	! assessor, assayer
+meatacht	Nf3-SINGULAR;	! decline, decay; cowardice
+meath	Nm3-SINGULAR;	! decline, decay, decadence; failure
+meicneoir	Nm3-1;	! mechanic
+meicnic	Nf2-SINGULAR;	! mechanics
+meicníocht	Nf3-SINGULAR;	! mechanism
+meidhir	Nf2-SINGULAR;	! gs -dhre mirth, gaiety;
+meidhréis	Nf2-SINGULAR;	! mirth, jollity; friskiness
+meilt	Nf2-SINGULAR;	! grinding, crushing; spending, wasting
+meilteoir	Nm3-1;	! grinder, crusher
+meirbhe	Nf4-SINGULAR;	! languor, weakness; sultriness, closeness
+meirg	Nf2-SINGULAR;	! rust; irritability
+meirtne	Nf4-SINGULAR;	! weakness; weariness, dejection
+meisce	Nf4-SINGULAR;	! drunkenness, intoxication, ar ~
+meisceoir	Nm3-1;	! drunkard
+meiteamorfóis	Nf2-SINGULAR;	! metamorphosis
+meitheal:meitheal	Nf5-2b;	! gs -thle pl -thleacha
+meitibileacht	Nf3-SINGULAR;	! metabolism
+meitifisic	Nf2-SINGULAR;	! metaphysics
+meitéareolaíocht	Nf3-SINGULAR;	! meteorology
+meánaíocht	Nf3-SINGULAR;	! moderation
+meánmhúinteoir	Nm3-1;	! secondary teacher
+meánteistiméireacht	Nf3-SINGULAR;	! intermediate certificate
+mianadóir	Nm3-1;	! miner
+mianadóireacht	Nf3-SINGULAR;	! mining; excavating
+mianreolaíocht	Nf3-SINGULAR;	! mineralogy
+mias	Nf2-1;	! gs méise dish
+micrishlis	Nf2-6;	! microchip
+milseacht	Nf3-SINGULAR;	! sweetness; blandness
+milseog	Nf2-1;	! sweet, sweet dish, dessert
+min	Nf2-SINGULAR;	! meal, ~ sáibh sawdust
+minicíocht	Nf3-1;	! frequency
+miocht	Nm3-2;	! amice
+miocsómatóis	Nf2-SINGULAR;	! myxomatosis
+miodóg	Nf2-1;	! dagger
+mionchaint	Nf2-SINGULAR;	! small talk, tittle-tattle
+miondíol	Nm3-SINGULAR;	! retail
+miondíoltóir	Nm3-1;	! retailer
+mionfheoil	Nf3-SINGULAR;	! minced meat
+miongaireacht	Nf3-SINGULAR;	! nibbling, gnawing
+mionn	Nm3-3;	! crown, diadem; oath, ~   ! irreg GPL mionn SEE FIX FILE
+mionnscríbhinn	Nf2-7;	! affidavit
+mionrabh	Nf2-SINGULAR;	! small fragments; shreds, filings
+miontuairisc	Nf2-7;	! detailed account pl minutes
+miontóir	Nm3-1;	! mincer
+mioscais	Nf2-SINGULAR;	! hatred, spite; malice
+miotalóireacht	Nf3-SINGULAR;	! metal-work, metallurgy
+miotaseolaíocht	Nf3-SINGULAR;	! mythology
+miotóg	Nf2-1;	! mitten; glove
+miotóg	Nf2-1;	! pinch, little bite
+mire	Nf4-SINGULAR;	! quickness, rapidity; ardour; frenzy
+misinéir	Nm3-1;	! missioner; missionary
+mistéir	Nf2-7;	! mystery
+modhúlacht	Nf3-SINGULAR;	! mannerliness; gentleness, modesty
+mogh	Nm3-8;	! gs & npl ~a
+moghsaine	Nf4-SINGULAR;	! bondage, slavery
+mogóir	Nm3-1;	! (rose) hip
+moiglíocht	Nf3-SINGULAR;	! mildness, placidity
+moille	Nf4-SINGULAR;	! slowness, lateness
+moilleadóireacht	Nf3-SINGULAR;	! procrastination
+moinsíneoir	Nm3-1;	! monsignor
+moirfeolaíocht	Nf3-SINGULAR;	! morphology
+moirt	Nf2-SINGULAR;	! lees, dregs; heavy clay;
+moirtís	Nf2-7;	! mortise
+moltóir	Nm3-1;	! proposer, nominator; adjudicator, umpire
+moltóireacht	Nf3-SINGULAR;	! judging, umpiring; adjudication
+monailit	Nf2-7;	! monolith
+monalóg	Nf2-1;	! monologue
+monaplacht	Nf3-SINGULAR;	! monopoly
+moneolaíocht	Nf3-SINGULAR;	! numismatics
+mortlaíocht	Nf3-SINGULAR;	! mortality, death-rate; deadliness
+moráltacht	Nf3-SINGULAR;	! morality; morals
+muc	Nf2-1;	! pig, ~ mhara porpoise,
+mucais	Nf2-7;	! pigsty
+muiceoil	Nf3-SINGULAR;	! pork
+muilleoir	Nm3-1;	! miller; mill-owner
+muilleoireacht	Nf3-SINGULAR;	! milling
+muin	Nf2-7;	! (upper) back; top, ar
+muince	Nf4-2;	! necklace, (metal) collar
+muinín	Nf2-SINGULAR;	! trust, confidence; dependence, dul
+!!!!muirdhreach	Nm3-8;	! gs & npl ~a
+muirdhreach:muir^CBdreach	Nm3-8;	! gs & npl ~a
+muireolaíocht	Nf3-SINGULAR;	! oceanography
+muirnéis	Nf2-SINGULAR;	! caressing; endearment
+muirthéacht	Nf3-SINGULAR;	! (political) revolution
+muiscít	Nf2-7;	! mosquito
+mungailt	Nf2-SINGULAR;	! munching; mumble
+murascaill	Nf2-7;	! gulf
+murdaróir	Nm3-1;	! murderer
+murúch	Nf2-1;	! mermaid
+muscaedóir	Nm3-1;	! musketeer; rifleman
+mustairt	Nf2-SINGULAR;	! worsted
+máchail	Nf2-7;	! blemish, defect
+máille	Nf4-2;	! (armour) mail
+máinliacht	Nf3-SINGULAR;	! surgery
+máinneáil	Nf3-SINGULAR;	! swaying motion, rolling gait;
+máirseáil	Nf3-SINGULAR;	! & vt & i
+máistreacht	Nf3-SINGULAR;	! mastery
+mánlacht	Nf3-SINGULAR;	! gentleness, mildness
+máthairab	Nf3-1;	! abbess
+méadaitheoir	Nm3-1;	! enlarger
+méadaíocht	Nf3-SINGULAR;	! grown state; increase, growth;
+méar	Nf2-1;	! digit, finger, ~ coise
+méaraíocht	Nf3-SINGULAR;	! fingering; fiddling, toying (ar,
+méarnáil	Nf3-SINGULAR;	! phosphorescence
+méaróg	Nf2-1;	! pebble; jackstone
+méaróg	Nf2-1;	! ~ éisc fish-finger
+méin	Nf2-SINGULAR;	! mind, disposition; bearing
+méirínteacht	Nf3-SINGULAR;	! fingering, fiddling, meddling (ar,
+méith	Nf2-SINGULAR;	! fat, fat meat; richness,
+méithe	Nf4-SINGULAR;	! fatness; richness
+mí-úsáid	Nf2-SINGULAR;	! misuse, abuse
+míchaidreamhacht	Nf3-SINGULAR;	! misanthropy
+míchiall	Nf2-1;	! gs -chéille senselessness, folly;
+míchomhairle	Nf4-2;	! ill advice, evil counsel
+mífhoighne	Nf4-SINGULAR;	! impatience
+míghnaoi	Nf4-SINGULAR;	! ugliness, disfigurement; dislike
+mígréin	Nf2-SINGULAR;	! migraine
+mílí	Nf4-SINGULAR;	! bad colour; sickly pallor
+mímhacántacht	Nf3-SINGULAR;	! dishonesty
+mímhoráltacht	Nf3-SINGULAR;	! immorality
+míne	Nf4-SINGULAR;	! smoothness; fineness; gentleness; quietness
+míntír	Nf2-SINGULAR;	! level country; arable land;
+míníneacht	Nf3-SINGULAR;	! delicacy, refinement; niggling
+míochaine	Nf4-SINGULAR;	! materia medica
+míog	Nf2-1;	! & vi cheep
+míoleolaíocht	Nf3-SINGULAR;	! zoology
+míoltóg	Nf2-1;	! midge
+míorúilt	Nf2-7;	! miracle
+míréir	Nf2-SINGULAR;	! disobedience, ~ duine a
+mísc	Nf2-SINGULAR;	! mischief
+míthreoir	Nf5-1;	! gs -orach misguidance; confusion;
+móimint	Nf2-7;	! moment
+móiréis	Nf2-SINGULAR;	! haughtiness, pretension
+mómhaireacht	Nf3-SINGULAR;	! mannerliness; gracefulness, dignity
+mónóg	Nf2-1;	! bogberry, cranberry; bead, drop
+móraí	Nf4-4;	! granny
+mórchúis	Nf2-6;	! self-importance, pomposity
+mórdhíol	Nm3-SINGULAR;	! wholesale
+mórgacht	Nf3-SINGULAR;	! greatness; majesty; high-mindedness, A
+mórthír	Nf2-SINGULAR;	! mainland
+móráil	Nf3-SINGULAR;	! pride; boastfulness
+mósáic	Nf2-7;	! mosaic
+múch	Nf2-SINGULAR;	! fumes; suffocating vapour vt
+múchtóir	Nm3-1;	! extinguisher
+múinteoireacht	Nf3-SINGULAR;	! teaching
+múirling	Nf2-7;	! heavy sudden shower
+múisc	Nf2-SINGULAR;	! vomit; nausea; loathing
+múitseáil	Nf3-SINGULAR;	! mitching, loitering
+múraíl	Nf3-SINGULAR;	! showery conditions, shower(s)
+múráil	Nf3-1;	! mooring vt moor
+múscailt	Nf2-SINGULAR;	! awakening, state of being
+músclóir	Nm3-1;	! activator
+mútóg	Nf2-1;	! finger-stall; flipper; stump
+naofacht	Nf3-SINGULAR;	! holiness, sanctity
+naomhaithis	Nf2-7;	! profanity, blasphemy
+naomhóg	Nf2-1;	! currach, coracle
+nathaíocht	Nf3-SINGULAR;	! witticism, wisecracking
+naíolann	Nf2-1;	! (children's) nursery
+naíonacht	Nf3-SINGULAR;	! infancy
+neachtlann	Nf2-1;	! laundry
+neamh	Nf2-SINGULAR;	! gs neimhe heaven; sky
+neamh-mheabhair	Nf5-2;	! gs -bhrach for getfulness;
+neamh-mheisce	Nf4-SINGULAR;	! sobriety
+neamh-mheontaíocht	Nf3-SINGULAR;	! forwardness
+neamhaird	Nf2-SINGULAR;	! ~ a thabhairt ar
+neamhbhailbhe	Nf4-SINGULAR;	! forthrightness
+neamhbhásmhaireacht	Nf3-SINGULAR;	! im mortality
+neamhfheidhm	Nf2-SINGULAR;	! nonfunction; irrelevance
+neamhréir	Nf2-6;	! inconsistency
+neamhshuim	Nf2-SINGULAR;	! disregard, indifference
+neantóg	Nf2-1;	! nettle
+neascóid	Nf2-7;	! boil
+neirbhís	Nf2-SINGULAR;	! nervousness
+neodracht	Nf3-SINGULAR;	! neutrality
+niamh	Nf2-SINGULAR;	! gs néimhe brilliance, sheen
+nicil	Nf2-7;	! nickel
+nideog	Nf2-1;	! niche
+nimhíoc	Nf2-1;	! antidote
+nithiúlacht	Nf3-SINGULAR;	! reality, concreteness
+nochtacht	Nf3-SINGULAR;	! nudity
+nodaireacht	Nf3-SINGULAR;	! notation
+noitmig	Nf2-7;	! nutmeg
+nuachtghníomhaireacht	Nf3-SINGULAR;	! newsagency
+nuachtóir	Nm3-1;	! reporter, journalist
+nuachtóireacht	Nf3-SINGULAR;	! journalism
+nuáil	Nf3-SINGULAR;	! innovation vi innovate
+nádúrthacht	Nf3-SINGULAR;	! naturalness, artlessness; kindliness; moderateness,
+náire	Nf4-SINGULAR;	! shame; decency; modesty
+náisiúntacht	Nf3-SINGULAR;	! nationality
+néarailge	Nf4-SINGULAR;	! neuralgia
+néareolaíocht	Nf3-SINGULAR;	! neurology
+néaróg	Nf2-1;	! nerve
+néaróis	Nf2-SINGULAR;	! neurosis
+néatacht	Nf3-SINGULAR;	! neatness
+níotráit	Nf2-7;	! nitrate
+nítrigin	Nf2-SINGULAR;	! nitrogen
+nóibhéine	Nf4-2;	! novena
+nósmhaireacht	Nf3-SINGULAR;	! customariness, formality; politeness
+nósúlacht	Nf3-SINGULAR;	! fastidiousness; mannerism
+núíosacht	Nf3-SINGULAR;	! newness; inexperience
+obrádlann	Nf2-1;	! operating theatre
+obráid	Nf2-7;	! (surgical) operation
+ocastóir	Nm3-1;	! huckster
+ocastóireacht	Nf3-SINGULAR;	! huckstering, haggling
+ocsaigin	Nf2-SINGULAR;	! oxygen
+ocsaíd	Nf2-7;	! oxide
+ofráil	Nf3-SINGULAR;	! offering; offertory; charity vt
+oibleagáid	Nf2-7;	! obligation, ~ a dhéanamh
+oibreoir	Nm3-1;	! operator
+oideachasóir	Nm3-1;	! educationalist
+oideolaíocht	Nf3-SINGULAR;	! pedagogy
+oidhe	Nf4-6;	! slaying; violent death; tragedy;
+oidhreacht	Nf3-1;	! inheritance, heredity; heritage; legacy
+oilbhéas	Nm3-8;	! gs & npl ~a
+oilbhéim	Nf2-6;	! offence, scandal
+oilithreacht	Nf3-SINGULAR;	! pilgrimage
+oilteacht	Nf3-SINGULAR;	! training, proficiency, skill
+oirbheartaíocht	Nf3-SINGULAR;	! (military) tactics
+oirchill	Nf2-SINGULAR;	! preparation, readiness; expectation; treachery;
+oiseoil	Nf3-SINGULAR;	! venison
+oisteansóir	Nm3-1;	! monstrance
+oitir	Nf5-2;	! gs -treach pl -treacha
+ola	Nf4-1;	! oil, an ~ dhéanach
+olagarcacht	Nf3-SINGULAR;	! oligarchy
+olannacht	Nf3-SINGULAR;	! woolliness
+olaíocht	Nf3-SINGULAR;	! oiliness
+ollmhaitheas	Nm3-1;	! wealth, luxury; pl delicacies
+ollscolaíocht	Nf3-SINGULAR;	! university education
+olltáirgeacht	Nf3-SINGULAR;	! gross product, output
+ollúnacht	Nf3-SINGULAR;	! professorship
+ológ	Nf2-1;	! olive
+onamataipé	Nf4-SINGULAR;	! onomatopoeia
+onfais	Nf2-SINGULAR;	! diving, dive; tumbling, floundering
+onfaiseoir	Nm3-1;	! diver
+onnmhaire	Nf4-2;	! exported article, export
+optaic	Nf2-SINGULAR;	! optics
+oratóir	Nm3-1;	! oratorio
+orduimhir	Nf5-2;	! gs -mhreach pl -mhreacha
+ordóg	Nf2-1;	! thumb, ~ (coise) big
+ordúlacht	Nf3-SINGULAR;	! orderliness, tidiness
+ornáid	Nf2-7;	! ornament
+ortha	Nf4-1;	! incantation, spell, charm
+osclóir	Nm3-1;	! opener
+osnaíl	Nf3-SINGULAR;	! sighing, ~ ghoil sobbing
+ostrais	Nf2-7;	! ostrich
+osánacht	Nf3-SINGULAR;	! hosiery
+otharlann	Nf2-1;	! infirmary
+otracht	Nf3-SINGULAR;	! grossness, filthiness; obesity
+otrann	Nf2-1;	! dungyard, farmyard
+pachaille	Nf4-2;	! bunion
+pacáil	Nf3-SINGULAR;	! packing vt & i
+paidir:paidir		Nf5-2b;	! gs -dre pl -dreacha
+paidreoireacht	Nf3-SINGULAR;	! praying; incessant prayer
+pailin	Nf2-SINGULAR;	! pollen
+pailis	Nf2-7;	! palisade; fortress; palace
+pairilis	Nf2-SINGULAR;	! paralysis
+paisinéir	Nm3-1;	! passenger
+paisinéireacht	Nf3-SINGULAR;	! passage (on boat); passage
+paisteáil	Nf3-SINGULAR;	! patching vt & i
+paistil	Nf2-7;	! pastille
+paiteog	Nf2-1;	! pat; plumb creature
+paiteolaíocht	Nf3-SINGULAR;	! pathology
+paitinn	Nf2-7;	! patent
+paltóg	Nf2-1;	! blow, wallop
+pancóg	Nf2-1;	! pancake
+pantaimím	Nf2-6;	! pantomime
+paraisít	Nf2-7;	! parasite
+paranóia	Nf4-SINGULAR;	! paranoia
+paratrúipéir	Nm3-1;	! paratrooper
+pardóg	Nf2-1;	! (harness) pad; pannier
+parlaimint	Nf2-7;	! parliament
+paráid	Nf2-7;	! parade
+patraisc	Nf2-7;	! partridge
+patuaire	Nf4-SINGULAR;	! tepidity; apathy
+peannaid	Nf2-SINGULAR;	! penance; expiation; torment; punishment
+peannaireacht	Nf3-SINGULAR;	! penmanship
+pearsantacht	Nf3-SINGULAR;	! personality
+pearóid	Nf2-7;	! parrot
+peataireacht	Nf3-SINGULAR;	! petting; childish behaviour
+peictin	Nf2-SINGULAR;	! pectin
+peidléir	Nm3-1;	! pedlar
+peil	Nf2-6;	! football
+peileadóir	Nm3-1;	! footballer
+peinicillin	Nf2-SINGULAR;	! penicillin
+peiriúic	Nf2-7;	! peruke, periwig
+peirsil	Nf2-SINGULAR;	! parsley
+peirspictíocht	Nf3-SINGULAR;	! perspective
+pianpháis	Nf2-SINGULAR;	! anguish; agony
+pianseirbhís	Nf2-SINGULAR;	! penal servitude
+pianódóir	Nm3-1;	! pianist
+piardóg	Nf2-1;	! crawfish
+pic	Nf2-SINGULAR;	! pitch, chomh dubh le
+picil	Nf2-7;	! pickle
+picnic	Nf2-7;	! picnic
+pictiúrlann	Nf2-1;	! picture-house, cinema
+piléarlann	Nf2-1;	! magazine (of gun)
+pinsinéir	Nm3-1;	! pensioner
+piocóid	Nf2-7;	! pickaxe
+piolóid	Nf2-7;	! pillory; torment
+piongain	Nf2-7;	! penguin
+pionsóir	Nm3-1;	! fencer, swordsman
+pionsóireacht	Nf3-SINGULAR;	! fencing
+piorróg	Nf2-1;	! pear-tree
+pirimid	Nf2-1;	! pyramid
+piréis	Nf2-SINGULAR;	! pyrex
+piseog	Nf2-1;	! charm, spell; superstition
+pistil	Nf2-7;	! pistil
+piteog	Nf2-1;	! effeminate man, sissy
+pióg	Nf2-1;	! pie
+placaint	Nf2-7;	! placenta
+plandáil	Nf3-SINGULAR;	! plantation, P~ Uladh the
+plandóir	Nm3-1;	! planter
+pleidhcíocht	Nf3-SINGULAR;	! fooling; tomfoolery
+plobaireacht	Nf3-SINGULAR;	! blubbering; babbling, incoherent speech
+plocóid	Nf2-7;	! plug, bung
+pluc	Nf2-1;	! (round) cheek; mouthful; bulge;
+pluiméir	Nm3-1;	! plumber
+pluiméireacht	Nf3-SINGULAR;	! plumbing
+pluis	Nf2-SINGULAR;	! plush
+pláistéir	Nm3-1;	! plasterer
+pláistéireacht	Nf3-SINGULAR;	! plaster-work
+plásántacht	Nf3-SINGULAR;	! blandness, smoothness
+plásóg	Nf2-1;	! level spot, lawn, green
+plátáil	Nf3-SINGULAR;	! plating, sheeting, armour vt
+pléadáil	Nf3-SINGULAR;	! plea; disputation vt &
+pléascóg	Nf2-1;	! cracker
+pléireacht	Nf3-SINGULAR;	! gallivanting, revelry
+poblacht	Nf3-SINGULAR;	! republic
+poibleog	Nf2-1;	! poplar
+poiblitheoir	Nm3-1;	! publicist
+poiblíocht	Nf3-SINGULAR;	! publicity
+poimp	Nf2-6;	! pomp
+poimpéis	Nf2-SINGULAR;	! pomposity
+pointeáilteacht	Nf3-SINGULAR;	! neatness; punctiliousness; punctuality
+poitigéir	Nm3-1;	! chemist
+polaiteoir	Nm3-1;	! politician
+polaitéin	Nf2-SINGULAR;	! polythene
+polaitíocht	Nf3-SINGULAR;	! politics
+pollóg	Nf2-1;	! pollock
+pomagránait	Nf2-7;	! pomegranate
+poncaíocht	Nf3-SINGULAR;	! punctuation
+poncúlacht	Nf3-SINGULAR;	! punctuality
+pornagrafaíocht	Nf3-SINGULAR;	! pornography
+portaireacht	Nf3-SINGULAR;	! lilting
+portfheadaíl	Nf3-SINGULAR;	! whistling a tune
+portráid	Nf2-7;	! portrait
+postúlacht	Nf3-SINGULAR;	! self-importance, conceit
+potaireacht	Nf3-SINGULAR;	! pottery
+potais	Nf2-SINGULAR;	! potash
+pothrais	Nf2-SINGULAR;	! fricassée
+prabhait	Nf2-SINGULAR;	! pulp, mess
+prae	Nf4-SINGULAR;	! prey; acquisition, ní mór
+praghsáil	Nf3-SINGULAR;	! pricing, bidding
+praitinn	Nf2-7;	! parchment
+prapaireacht	Nf3-SINGULAR;	! uppishness, insolence
+preabaireacht	Nf3-SINGULAR;	! jumping, bouncing; liveliness
+preafáid	Nf2-7;	! preface (of Mass)
+prealáid	Nf2-7;	! prelate
+preasáil	Nf3-SINGULAR;	! press, buíon phreasála press
+preiceall	Nf2-7;	! dewlap; double chin
+pribhléid	Nf2-7;	! privilege
+printéir	Nm3-1;	! printer
+printéireacht	Nf3-SINGULAR;	! printing
+printíseacht	Nf3-SINGULAR;	! apprenticeship
+prionsabáltacht	Nf3-SINGULAR;	! moral principles; punctiliousness
+prionsacht	Nf3-SINGULAR;	! principality
+prióir	Nm3-1;	! prior
+prióireacht	Nf3-SINGULAR;	! priory
+probháid	Nf2-7;	! probate
+prochóg	Nf2-1;	! den; hovel
+prognóis	Nf2-7;	! prognosis
+proibhinse	Nf4-2;	! province
+proifid	Nf2-7;	! profit
+prosóid	Nf2-SINGULAR;	! prosody
+prásóg	Nf2-1;	! marzipan
+préimh	Nf2-6;	! premium
+príobháid	Nf2-7;	! privacy; private place
+príomhchathair	Nf5-2;	! gs -thrach pl -thracha
+príosúnacht	Nf3-SINGULAR;	! imprisonment
+prócáil	Nf3-SINGULAR;	! poking, probing
+próifíl	Nf2-7;	! profile
+próitéin	Nf2-7;	! protein
+prólatáireacht	Nf3-SINGULAR;	! proletariat(e)
+puchóid	Nf2-7;	! pustule
+puilpid	Nf2-7;	! pulpit
+punann	Nf2-1;	! sheaf
+purgadóir	Nf3-SINGULAR;	! purgatory
+purgadóireacht	Nf3-SINGULAR;	! purgatorial pains
+purgóid	Nf2-7;	! purgative; drench, ~ aisig
+puth	Nf2-1;	! puff, whiff, níl ann
+puthaíl	Nf3-SINGULAR;	! puffing
+putóg	Nf2-1;	! gut, intestine; pudding
+pábháil	Nf3-SINGULAR;	! paving, pavement vt pave
+págántacht	Nf3-SINGULAR;	! paganism
+páipéaróir	Nm3-1;	! paper-hanger
+páirtíocht	Nf3-SINGULAR;	! partnership; fellowship, association, i
+páis	Nf2-SINGULAR;	! passion, suffering, Domhnach na
+páistiúlacht	Nf3-SINGULAR;	! childishness
+pápacht	Nf3-SINGULAR;	! papacy
+pátrúnacht	Nf3-SINGULAR;	! patronage
+péac	Nf2-1;	! peak, point; sprout; thrust,
+péacóg	Nf2-1;	! peacock, peafowl
+péinteáil	Nf3-SINGULAR;	! painting, paint-work vt &
+péintéir	Nm3-1;	! painter
+péintéireacht	Nf3-SINGULAR;	! painting
+péirse	Nf4-2;	! (fish) perch
+péitseog	Nf2-1;	! peach
+píobaireacht	Nf3-SINGULAR;	! piping, playing on bagpipes;
+píopáil	Nf3-SINGULAR;	! wheezing; choking
+póg	Nf2-1;	! kiss
+póirseáil	Nf3-SINGULAR;	! rummaging, searching, groping
+póirtéir	Nm3-1;	! (person) porter
+póitseáil	Nf3-SINGULAR;	! poaching vt & i
+pónaire	Nf4-2;	! bean
+púir	Nf2-SINGULAR;	! loss, tragedy
+púráil	Nf3-SINGULAR;	! beating, trouncing
+púróg	Nf2-1;	! round stone, pebble; bead
+rabhlóg	Nf2-1;	! tongue-twister
+racánaíocht	Nf3-SINGULAR;	! rowdyism
+radagrafaíocht	Nf3-SINGULAR;	! radiography
+radaighníomhaíocht	Nf3-SINGULAR;	! radioactivity
+radaireacht	Nf3-SINGULAR;	! ranting; revelling; flirting
+radaitheoir	Nm3-1;	! radiator
+radaíocht	Nf3-SINGULAR;	! radiation
+raic	Nf2-SINGULAR;	! wreck, wreckage, ~ (mhara)
+raiceáil	Nf3-SINGULAR;	! wreck
+raideog	Nf2-1;	! bog-myrtle
+raideolaíocht	Nf3-SINGULAR;	! radiology
+raidhse	Nf4-SINGULAR;	! abundance
+raidis	Nf2-7;	! radish
+raimhre	Nf4-SINGULAR;	! thickness, fatness
+raiméis	Nf2-SINGULAR;	! nonsense, rigmarole
+raingléis	Nf2-7;	! ~ tí ramshackle house
+rainseoir	Nm3-1;	! rancher
+rangabháil	Nf3-SINGULAR;	! participle
+rannaireacht	Nf3-SINGULAR;	! composing verses; versification
+rannpháirt	Nf2-SINGULAR;	! participation, part, share
+rannóg	Nf2-1;	! section
+rapsóid	Nf2-7;	! rhapsody
+rath	Nm3-SINGULAR;	! prosperity; abundance; usefulness, good,
+reacaireacht	Nf3-SINGULAR;	! selling, offering for sale;
+reachtaíocht	Nf3-SINGULAR;	! legislation
+reachtóir	Nm3-1;	! lawgiver, legislator
+reilig	Nf2-7;	! graveyard
+reisimint	Nf2-7;	! regiment
+reitine	Nf4-2;	! retina
+reitric	Nf2-SINGULAR;	! rhetoric
+reodóg	Nf2-1;	! icicle
+reoiteog	Nf2-1;	! ice-cream
+reáchtáil	Nf3-SINGULAR;	! running, damhsa a ~
+riabh	Nf2-1;	! gs réibhe stripe, streak
+riabhóg	Nf2-1;	! pipit
+riailbhéas	Nm3-8;	! gs & npl ~a
+rialaitheoir	Nm3-1;	! (device) control
+rialtacht	Nf3-SINGULAR;	! regularity; religious life
+rialtóir	Nm3-1;	! (person) ruler
+rialóir	Nm3-1;	! (implement) ruler
+riarthóir	Nm3-1;	! administrator; dispenser
+riast	Nm3-3;	! welt; streak, stripe
+ridireacht	Nf3-SINGULAR;	! knighthood; chivalry
+righneáil	Nf2-SINGULAR;	! lingering, loitering
+rinceoir	Nm3-1;	! dancer
+rinseáil	Nf3-SINGULAR;	! rinse
+riospráid	Nf2-SINGULAR;	! respiration
+rithim	Nf2-7;	! rhythm
+robáil	Nf3-SINGULAR;	! robbery vt & i
+roghnóir	Nm3-1;	! selector
+roillic	Nf2-7;	! rowlock
+roinnteoir	Nm3-1;	! divider; dispenser
+rollóir	Nm3-1;	! (mechanical) roller; child's hoop
+rondáil	Nf3-SINGULAR;	! rundale, runrig
+rop	Nm3-2;	! thrust, stab; dart, dash
+ropaireacht	Nf3-SINGULAR;	! stabbing, violence; thieving; villainy
+rosaid	Nf2-7;	! whitlow
+roth	Nm3-3;	! wheel
+rothaíocht	Nf3-SINGULAR;	! cycling
+ruachan	Nm3-SINGULAR;	! reddening
+ruacht	Nf3-SINGULAR;	! redness (of hair)
+ruaim	Nf2-SINGULAR;	! red dye; dye-wood; reddish
+ruaimneacht	Nf3-SINGULAR;	! discolouration
+ruibh	Nf2-SINGULAR;	! sulphur
+ruibh	Nf2-SINGULAR;	! venom, sting; eagerness
+ruibhchloch	Nf2-1;	! brimstone
+ruipleog	Nf2-1;	! tripe
+ruithne	Nf4-SINGULAR;	! radiance, glitter, ray of
+ruóg	Nf2-1;	! cord, twine
+ráchairt	Nf2-SINGULAR;	! run, ~ ar rud
+ráithe	Nf4-2;	! three-month period, quarter, season
+rámh	Nm3-3;	! oar
+rámhaille	Nf4-2;	! raving, delirium; fancies, ~
+rámhainn	Nf2-7;	! spade
+rámhaíocht	Nf3-SINGULAR;	! rowing; oarsmanship
+rámhlong	Nf2-1;	! galley
+rásaíocht	Nf3-SINGULAR;	! racing
+ráthaíocht	Nf3-SINGULAR;	! guarantee
+ráthóir	Nm3-1;	! guarantor
+réabhlóid	Nf2-7;	! revolution
+réabóir	Nm3-1;	! violator
+réadlann	Nf2-1;	! observatory
+réalteolaíocht	Nf3-SINGULAR;	! astronomy
+réaltóg	Nf2-1;	! (small) star
+réamhaisnéis	Nf2-SINGULAR;	! forecast
+réamhaisnéiseoir	Nm3-1;	! forecaster
+réamhaithris	Nf2-SINGULAR;	! prediction vt & i
+réamhghabháil	Nf3-SINGULAR;	! anticipation
+réidhe	Nf4-SINGULAR;	! smoothness, levelness; easiness, readiness;
+réise	Nf4-2;	! span
+réiteoir	Nm3-1;	! arbitrator; conciliator; referee
+ríl	Nf2-6;	! pl ~eanna, (dance) reel
+ríochan	Nf3-SINGULAR;	! stretching; tautness; restraint, control
+ríocht	Nf3-SINGULAR;	! kingdom
+ríog	Nf2-1;	! fit, spasm; impulse
+ríomh	Nm3-SINGULAR;	! enumeration; calculation; narration vt
+ríomhaireacht	Nf3-SINGULAR;	! counting; calculation; computation
+ríomhchláraitheoir	Nm3-1;	! computer programmer
+ríon	Nf3-6;	! pl ~acha queen; noble
+ríospráid	Nf2-SINGULAR;	! respiration
+rís	Nf2-SINGULAR;	! rice
+ríshlat	Nf2-1;	! sceptre
+rístíocht	Nf3-SINGULAR;	! idling, lounging
+ródaíocht	Nf3-SINGULAR;	! wayfaring, travelling; riding at
+rógaireacht	Nf3-SINGULAR;	! roguery
+rómánsaíocht	Nf3-SINGULAR;	! romanticism; romancing
+rósóg	Nf2-1;	! rose-tree
+rúibric	Nf2-7;	! rubric
+rúiléid	Nf2-7;	! roulette
+rúnaíocht	Nf3-SINGULAR;	! secretarial work; secretariat
+rúndacht	Nf3-SINGULAR;	! secrecy
+rúnscríbhinn	Nf2-7;	! secret writing, cipher
+sabaitéir	Nm3-1;	! saboteur
+sabaitéireacht	Nf3-SINGULAR;	! sabotage
+sabóid	Nf2-SINGULAR;	! sabbath
+sacrailéid	Nf2-7;	! sacrilege
+sacraimint	Nf2-7;	! sacrament
+sacraisteoir	Nm3-1;	! sacristan
+sadhlann	Nf2-1;	! silo
+sagartacht	Nf3-SINGULAR;	! priesthood
+saidléir	Nm3-1;	! saddler
+saifír	Nf2-7;	! sapphire
+saighdeoir	Nm3-1;	! archer; inciter, An Saighdeoir
+saighdeoireacht	Nf3-SINGULAR;	! archery
+saighdiúireacht	Nf3-SINGULAR;	! soldiering; military service; courage,
+saighead	Nf2-1;	! gs -ghde arrow; bolt;
+saighean:saighn	Nf2-7;	! gs -ghne pl -ghní
+saighneoireacht	Nf3-SINGULAR;	! seine-fishing
+saill	Nf2-SINGULAR;	! salted meat; fat (meat)
+saineolaíocht	Nf3-SINGULAR;	! specialization
+saint	Nf2-SINGULAR;	! greed, covetousness; great desire
+saithe	Nf4-2;	! swarm (of bees, etc)
+salmaireacht	Nf3-SINGULAR;	! psalm-singing; prating
+saltair	Nf5-2;	! gs -trach, pl -tracha
+samhlaoid	Nf2-1;	! figurative illustration pl imagery
+samhlaíocht	Nf3-SINGULAR;	! imagination
+sanasaíocht	Nf3-SINGULAR;	! etymology
+sanatóir	Nm3-1;	! sanatorium
+sanctóir	Nm3-1;	! sanctuary (of church)
+saofacht	Nf3-SINGULAR;	! waywardness, aberration; perversity
+saoirseacht	Nf3-SINGULAR;	! craftsmanship, ag ~ working
+saoisteog	Nf2-1;	! low soft seat, pouf
+saoithiúlacht	Nf3-SINGULAR;	! learning, wisdom
+saolré	Nf4-6;	! life cycle
+saoltacht	Nf3-SINGULAR;	! worldly matters; worldliness
+saontacht	Nf3-SINGULAR;	! naivety, gullibility
+saorshealbhóir	Nm3-1;	! freeholder
+saorsheilbh	Nf2-1;	! freehold
+saoráid	Nf2-7;	! ease, facility; freedom from
+saoránacht	Nf3-SINGULAR;	! citizenship
+saotharlann	Nf2-1;	! laboratory
+saraiste	Nf4-SINGULAR;	! serge
+saranáid	Nf2-7;	! serenade
+satailt	Nf2-SINGULAR;	! tread, tramp
+satailít	Nf2-7;	! satellite
+sathaoide	Nf4-2;	! (fire-)damper
+saíocht	Nf3-SINGULAR;	! learning, erudition
+scabhaitéir	Nm3-1;	! blackguard
+scabhtáil	Nf3-SINGULAR;	! scouting
+scaglann	Nf2-1;	! refinery
+scaibéis	Nf2-SINGULAR;	! scabies
+scaimh	Nf2-6;	! shavings, filings; snarl
+scal	Nf2-1;	! burst, flash, blast vi
+scamhóg	Nf2-1;	! lung
+scannánaíocht	Nf3-SINGULAR;	! filming
+scanóir	Nm3-1;	! scanner
+scaob	Nf2-1;	! scoop; shovelful vt scoop
+scaoilteacht	Nf3-SINGULAR;	! looseness; laxity; diarrhoea
+scaoth	Nf2-1;	! swarm
+scaothaireacht	Nf3-SINGULAR;	! bombast
+scaraoid	Nf2-7;	! table-cloth, ~ leapa bed
+scarbháil	Nf3-SINGULAR;	! hardening, drying, crustation vi
+scarlóid	Nf2-SINGULAR;	! scarlet
+sceachóir	Nm3-1;	! haw
+scead	Nf2-1;	! blaze (on animal, tree);
+sceallóg	Nf2-1;	! chip; thin slice
+scealp	Nf2-1;	! splinter vt & i
+sceamh	Nf2-6;	! & vi yelp, squeal
+sceamhaíl	Nf3-SINGULAR;	! yelping, squealing
+sceanairt	Nf2-SINGULAR;	! cuttings, peelings, parings; (surgical)
+sceart	Nf2-1;	! pot-belly
+sceimheal:sceimheal	Nf5-2b;	! gs -mhle pl -mhleacha
+sceimhlitheoir	Nm3-1;	! terrorist
+sceireog	Nf2-1;	! fib
+sceith	Nf2-6;	! vomit; spawn(ing); overflow; discharge,
+sciaitíce	Nf4-SINGULAR;	! sciatica
+scian	Nf2-12;	! gs -ine pl sceana
+sciath	Nf2-1;	! gs scéithe shield
+scidil	Nf2-7;	! skittle
+scigaithris	Nf2-SINGULAR;	! parody(ing), burlesque
+scige	Nf4-SINGULAR;	! giggling; jeering; derision
+scil	Nf2-6;	! pl -eanna skill
+sciotaíl	Nf3-SINGULAR;	! tittering, giggling
+scipéir	Nm3-1;	! skipper
+scitsifréine	Nf4-SINGULAR;	! schizophrenia
+sciúch	Nf2-1;	! windpipe, throat; voice vt
+sciúrsáil	Nf3-SINGULAR;	! scourging; affliction vt scourge,
+sclábhaíocht	Nf3-SINGULAR;	! slavery; drudgery; labour
+scléaróis	Nf2-SINGULAR;	! sclerosis
+scolaíocht	Nf3-SINGULAR;	! schooling, school education
+scolfairt	Nf2-SINGULAR;	! shouting, guffawing; (loud) bird-song
+scológ	Nf2-1;	! farmer; hard-working young man
+sconnóg	Nf2-1;	! squirt, splash
+scoraíocht	Nf3-SINGULAR;	! social evening
+scothóg	Nf2-1;	! tassel
+screamh	Nf2-1;	! coating, crust, scum
+screamhóg	Nf2-1;	! crust, flake
+scrimisc	Nf2-7;	! scrimmage
+scriobláil	Nf3-SINGULAR;	! scribble, scribbling
+scriostóir	Nm3-1;	! destroyer; devastator
+scroblachóir	Nm3-1;	! scavenger
+scrábáil	Nf3-SINGULAR;	! scribble, scrawl
+scréachóg	Nf2-1;	! ~ choille jay, ~
+scríbhinn	Nf2-7;	! writing; written document; inscription
+scríbhneoireacht	Nf3-SINGULAR;	! writing; literary work
+scríob	Nf2-1;	! scrape, scratch, score; effort,
+scríoblíne	Nf4-3;	! pl -nte ar an
+scrúdaitheoir	Nm3-1;	! examiner
+scuab	Nf2-1;	! broom, brush; sheaf; bundle
+scuabáil	Nf3-SINGULAR;	! shuffling
+scuaine	Nf4-2;	! drove, flock; train; queue
+scuais	Nf2-SINGULAR;	! squash(-rackets)
+scubaid	Nf2-7;	! hussy
+sculcaireacht	Nf3-SINGULAR;	! skulking
+scáinne	Nf4-2;	! skein
+scéalaíocht	Nf3-SINGULAR;	! story-telling; tale-bearing
+scéimh	Nf2-6;	! beauty; appearance
+scéiméir	Nm3-1;	! schemer, intriguer
+scéin	Nf2-SINGULAR;	! fright; wild look; wildness
+scíth	Nf2-SINGULAR;	! tiredness, fatigue; rest
+scóid	Nf2-SINGULAR;	! showiness, gaudiness
+scóip	Nf2-SINGULAR;	! scope; ambition; eagerness; elation
+seacain	Nf2-7;	! sequin
+seachaint	Nf3-SINGULAR;	! avoidance; evasion, guardedness
+seacláid	Nf2-7;	! chocolate
+sead	Nf2-1;	! nest
+sead	Nf2-1;	! shad
+seadóg	Nf2-1;	! grapefruit
+seafaid	Nf2-7;	! heifer
+seafóid	Nf2-SINGULAR;	! nonsense
+seaghais	Nf2-SINGULAR;	! pleasure, delight
+sealaíocht	Nf3-SINGULAR;	! alternating, taking turns; alternation
+sealbhaíocht	Nf3-SINGULAR;	! possession, tenure
+sealbhóir	Nm3-1;	! occupier; possessor, holder
+sealgaireacht	Nf3-SINGULAR;	! hunting; foraging
+seallóid	Nf2-7;	! shallot
+seamair:seimr	Nf2-12;	! gs seimre npl -mra
+seamróg	Nf2-1;	! shamrock
+seanadóir	Nm3-1;	! senator
+seandacht	Nf3-1;	! antiquity pl antiques
+seandálaíocht	Nf3-SINGULAR;	! archaeology
+seanfhondúir	Nm3-1;	! old inhabitant; old-timer
+seanléim	Nf2-SINGULAR;	! bheith ar do sheanléim
+seanmháthair	Nf5-4;	! gs -ar pl -áithreacha
+seanmóir	Nf3-SINGULAR;	! sermon; homily
+seanmóireacht	Nf3-SINGULAR;	! preaching; sermonizing
+seansailéir	Nm3-1;	! chancellor
+seanóir	Nm3-1;	! old person; senior, elder
+searc	Nf2-1;	! love; beloved one
+seascacht	Nf3-SINGULAR;	! barrenness; dryness (of cattle)
+seascaireacht	Nf3-SINGULAR;	! snugness, bheith ar do
+seasmain	Nf2-7;	! jasmine
+seasmhacht	Nf3-SINGULAR;	! steadfastness; firmness, constancy
+seiceadóir	Nm3-1;	! executor; warden, watchman; wretch
+seicin	Nf2-SINGULAR;	! gs -cne integument, membrane
+seifteoir	Nm3-1;	! provider; resourceful person
+seile	Nf4-2;	! spit; saliva
+seilg	Nf2-7;	! hunt, chase; game, quarry;
+seinge	Nf4-SINGULAR;	! slimness, slenderness
+seinm	Nf3-SINGULAR;	! playing of musical instrument;
+seinnteoir	Nm3-1;	! player, performer (of music),
+seirbhe	Nf4-SINGULAR;	! bitterness, sourness, acidity
+seirbheáil	Nf3-SINGULAR;	! service; provision vt serve
+seiris	Nf2-7;	! sherry
+seithe	Nf4-2;	! skin, hide
+seitheadóir	Nm3-1;	! taxidermist
+seitríl	Nf3-SINGULAR;	! sniggering
+seodóir	Nm3-1;	! jeweller
+seodóireacht	Nf3-SINGULAR;	! jewelling; jewellery (business)
+seoid	Nf2-SINGULAR;	! npl -oda gpl -od    FIX PLURALS
+seoltóir	Nm3-1;	! basking-shark
+seoltóir	Nm3-1;	! sailor; sender, remitter; drover
+seoltóireacht	Nf3-SINGULAR;	! sailing
+seomradóir	Nm3-1;	! chamberlain
+!!! REMOVED TEMPORARILY - CAUSING PROBLEM WITH PRON siad	Nm3-3;	! growth, swelling
+sianaíl	Nf3-SINGULAR;	! whining, squealing
+sibhialtacht	Nf3-SINGULAR;	! civilization; civility
+sifilis	Nf2-7;	! syphilis
+siléig	Nf2-SINGULAR;	! dilatoriness, procrastination, neglect
+simpleoir	Nm3-1;	! simpleton
+simplíocht	Nf3-SINGULAR;	! simplicity; simple-mindedness
+siméadracht	Nf3-SINGULAR;	! symmetry
+sin-seanmháthair	Nf5-4;	! gs -ar pl -áithreacha
+sinc	Nf2-SINGULAR;	! zinc
+sindeacáit	Nf2-7;	! syndicate
+sine	Nf4-2;	! nipple, teat, ~ siain
+sinsearacht	Nf3-SINGULAR;	! seniority; ancestry
+sintéis	Nf2-7;	! synthesis
+siocair	Nf5-2;	! gs -crach pl -cracha
+siollóg	Nf2-1;	! boast, níl ann ach
+siombail	Nf2-7;	! symbol
+sionagóg	Nf2-1;	! synagogue
+siopadóir	Nm3-1;	! shopkeeper
+siopadóireacht	Nf3-SINGULAR;	! shopping
+siringe	Nf4-2;	! syringa
+sirtheoir	Nm3-1;	! seeker; petitioner; beggar; prowler;
+sirtheoireacht	Nf3-SINGULAR;	! seeking; begging; prowling; prospecting
+sióg	Nf2-1;	! fairy
+siúinéir	Nm3-1;	! joiner; carpenter
+siúinéireacht	Nf3-SINGULAR;	! joinery; carpentry
+siúlóid	Nf2-7;	! walk(ing), stroll
+siúlóir	Nm3-1;	! walker; itinerant, wanderer
+siúr	Nf5-1;	! gs ~ach pl ~acha
+slacht	Nm3-SINGULAR;	! finish, good appearance, tidiness
+slad	Nm3-2;	! plunder, loot; devastation vt
+slaig	Nf2-SINGULAR;	! slag
+slaimiceáil	Nf3-SINGULAR;	! messing; gobbling
+slat	Nf2-1;	! rod; cane; rail; (measure)
+sleamchúis	Nf2-SINGULAR;	! remissness, negligence
+sleádóir	Nm3-1;	! spearman; turf-cutter
+slisneoir	Nm3-1;	! slicer
+slogaide	Nf4-2;	! swallow-hole; gullet
+slogóg	Nf2-1;	! gulp, swig, draught
+sloinnteoir	Nm3-1;	! genealogist
+sluasaid:sluaist	Nf2-7;	! gs -uaiste pl -uaistí
+sluaíocht	Nf3-SINGULAR;	! (military) expedition
+sláine	Nf4-SINGULAR;	! wholeness; healthiness
+sláintíocht	Nf3-SINGULAR;	! sanitation
+slánaitheoir	Nm3-1;	! redeemer, saviour
+slánaíocht	Nf3-SINGULAR;	! indemnity, guarantee
+slándáil	Nf3-SINGULAR;	! security
+slánlus	Nm3-2;	! (ribwort) plantain
+slánuimhir	Nf5-2;	! gs -mhreach pl -mhreacha
+sléibhteoir	Nm3-1;	! mountaineer
+sléibhteoireacht	Nf3-SINGULAR;	! mountaineering
+slíodóir	Nm3-1;	! sly person, sneak
+slíodóireacht	Nf3-SINGULAR;	! sneaking, slyness
+slíomadóir	Nm3-1;	! smooth, hypocritically friendly, person
+slíomadóireacht	Nf3-SINGULAR;	! smoothness, flattery, dissimulation
+slócht	Nm3-SINGULAR;	! hoarseness vt & i
+smailleac	Nf2-1;	! smack
+smaointeoir	Nm3-1;	! thinker
+smaoisíl	Nf3-SINGULAR;	! snivelling
+smaragaid	Nf2-7;	! emerald
+smeachaíl	Nf3-SINGULAR;	! clicking (of tongue); smacking
+smeachóid	Nf2-7;	! live coal, ember
+smoirt	Nf2-SINGULAR;	! rust (on grain crops)
+smol	Nm1-1;	! blight, decay vt &
+smuigléir	Nm3-1;	! smuggler
+smuigléireacht	Nf3-SINGULAR;	! smuggling
+sméar	Nf2-1;	! (black)berry, ~ mhullaigh an
+sméaróid	Nf2-7;	! live coal, ember, ~
+smúit	Nf2-SINGULAR;	! smoke; mist; gloom; dust
+smúrthacht	Nf3-SINGULAR;	! nosing, sniffing; prowling, ag
+snagaireacht	Nf3-SINGULAR;	! gasping, sobbing; stammering; hiccuping;
+snas	Nm3-2;	! polish, good appearance; accent;
+sniog	Nf2-1;	! drop vt milk dry,
+snoiteacht	Nf3-SINGULAR;	! (of shape, figure) cleanness,
+snoíodóir	Nm3-1;	! cutter, carver, sculptor
+snoíodóireacht	Nf3-SINGULAR;	! cutting, carving, sculpturing
+snámh	Nm3-SINGULAR;	! swim(ming); swimming-stroke; (of ship)
+snámhacht	Nf3-SINGULAR;	! buoyancy
+snámhaíocht	Nf3-SINGULAR;	! crawling, creeping, dawdling
+snámhraic	Nf2-SINGULAR;	! flotsam
+snámhóir	Nm3-1;	! swimmer
+snáthaid	Nf2-7;	! needle; indicator, ~ mhór
+sní	Nf4-SINGULAR;	! flow; pouring; permeation
+sníomh	Nm3-SINGULAR;	! spinning; twisting, twining; strain;
+sochaí	Nf4-4;	! multitude; social community, society
+socheolaíocht	Nf3-SINGULAR;	! sociology
+socracht	Nf3-SINGULAR;	! quietness, calmness; ease, rest
+sodamacht	Nf3-SINGULAR;	! sodomy
+sodóg	Nf2-1;	! soda-cake; buxom girl
+soghluaisteacht	Nf3-SINGULAR;	! mobility; transience; accessibility; responsiveness,
+soilse	Nf4-SINGULAR;	! brightness, light; flash of
+soiléireacht	Nf3-SINGULAR;	! clarity, distinctness; obviousness
+soiléirse	Nf4-2;	! axiom
+soineann	Nf2-SINGULAR;	! calmness, fair weather; serenity
+solaoid	Nf2-7;	! illustration, example
+sollúntacht	Nf3-SINGULAR;	! solemnity
+sonraíocht	Nf3-SINGULAR;	! specification; remarkableness; peculiarity, abnormality
+sonáid	Nf2-7;	! sonata
+sonóg	Nf2-1;	! mascot
+sorcha	Nf4-SINGULAR;	! brightness a3 bright; cheerful
+sorcóir	Nm3-1;	! cylinder
+sornóg	Nf2-1;	! stove, range
+spairn	Nf2-SINGULAR;	! fight, struggle, contention vt
+spaisteoireacht	Nf3-SINGULAR;	! strolling, sauntering
+spallaíocht	Nf3-SINGULAR;	! flirting, philandering; bickering, ~
+sparánacht	Nf3-SINGULAR;	! bursary
+speabhraíd	Nf2-7;	! hallucination pl illusions, ravings
+speal	Nf2-1;	! scythe vt & i
+spealadóir	Nm3-1;	! scytheman, mower
+speisialtacht	Nf3-1;	! speciality
+speisialtóir	Nm3-1;	! specialist
+spiaireacht	Nf3-SINGULAR;	! spying, espionage; informing (ar
+spideog	Nf2-1;	! robin
+spiléireacht	Nf3-SINGULAR;	! fishing with trawl-line
+spinéireacht	Nf3-SINGULAR;	! spinning (for fish)
+spiogóid	Nf2-7;	! spigot
+spioradáltacht	Nf3-SINGULAR;	! spirituality
+spioróg	Nf2-1;	! sparrow-hawk
+splinceáil	Nf3-SINGULAR;	! squinting
+splíontaíocht	Nf3-SINGULAR;	! maltreatment; hardship
+sprang	Nf2-1;	! four-pronged fork
+spreab	Nf2-1;	! spadeful
+spreagthóir	Nm3-1;	! inciter, prompter; stimulant
+spreang	Nm3-2;	! jump, bound; impulse; fit
+spreotáil	Nf3-SINGULAR;	! hacking; chipping; messing, ná
+spriocúlacht	Nf3-SINGULAR;	! promptness, punctuality
+sprionlaitheacht	Nf3-SINGULAR;	! meanness, miserliness
+sprionlóir	Nm3-1;	! miser, skinflint
+sprochaille	Nf4-SINGULAR;	! wattle; dewlap; double chin,
+spruschaint	Nf2-SINGULAR;	! small-talk, chatter
+spré	Nf4-6;	! cattle; property, wealth; dowry
+spréiteoir	Nm3-1;	! spreader
+spuirse	Nf4-2;	! spurge
+spád	Nf2-1;	! spade
+spág	Nf2-1;	! big, clumsy, foot
+spáráil	Nf3-SINGULAR;	! sparing, economy vt &
+spáslong	Nf2-1;	! spaceship
+spásáil	Nf3-SINGULAR;	! spacing vt space
+spéacláireacht	Nf3-SINGULAR;	! speculation
+spéirling	Nf2-7;	! (thunder-)storm; violence, strife
+spéirlint	Nf2-7;	! sand-eel, ~ (mhara, fharraige)
+spíd	Nf2-SINGULAR;	! aspersion, detraction, slander
+spúnóg	Nf2-1;	! spoon(ful)
+srann	Nf2-1;	! snore; snort; humming sound
+srathair	Nf5-2;	! gs -thrach pl -thracha
+sreabh	Nf2-1;	! stream; flow; trickle, ~
+sreang	Nf2-1;	! string; wire, cord
+sreangshúil	Nf2-3;	! gpl -úl bloodshot eye
+srubh	Nf2-1;	! snout, ~ lao snapdragon
+sráideog	Nf2-1;	! shake-down, pallet
+srón	Nf2-1;	! nose; prow; projection
+srónaíl	Nf3-SINGULAR;	! nasality; nasalization; inquisitiveness; snuggling
+srúill	Nf2-7;	! river, stream; current; tidal
+staidiúir	Nf2-7;	! pose, posture
+stainc	Nf2-SINGULAR;	! huffiness, pique, spite
+staitistic	Nf2-7;	! statistic(s)
+stalcacht	Nf3-SINGULAR;	! stubbornness, sulkiness; stiffness, stodginess
+stang	Nf2-1;	! pin, peg; dowel; rood
+stangaireacht	Nf3-SINGULAR;	! haggling; quibbling; shirking, idling
+starraic	Nf2-7;	! peak, prominence; pinnacle (of
+staróg	Nf2-1;	! anecdote, yarn
+stiléir	Nm3-1;	! distiller
+stiléireacht	Nf3-SINGULAR;	! distilling; poteen-making
+stiúir	Nf5-1;	! gs -úrach pl -úracha
+stiúrthóir	Nm3-1;	! steersman; conductor; director, controller
+stocaireacht	Nf3-SINGULAR;	! trumpeting; blowing one's own
+stopainn	Nf2-SINGULAR;	! stoppage, obstruction
+straibhéis	Nf2-SINGULAR;	! ostentation, show
+straidhn	Nf2-SINGULAR;	! strain; frenzy, fury
+straigléir	Nm3-1;	! straggler
+strainséarthacht	Nf3-SINGULAR;	! strangeness; reserve, shyness
+strainséir	Nm3-1;	! stranger
+straitéis	Nf2-7;	! strategy
+streachailt	Nf2-SINGULAR;	! struggle against difficulties
+streancánacht	Nf3-SINGULAR;	! strumming, scraping
+streill	Nf2-SINGULAR;	! foolish grin; simper, smirk
+stroighin	Nf2-SINGULAR;	! gs -ghne cement
+strácáil	Nf3-SINGULAR;	! striving, struggling
+stríoc	Nf2-1;	! streak, stripe; stroke; parting
+stuacacht	Nf3-SINGULAR;	! sulkiness, stubbornness
+stuaim	Nf2-SINGULAR;	! self-control, good sense, prudence;
+stuaire	Nf4-2;	! handsome woman
+stuáil	Nf3-SINGULAR;	! stowage; stuffing, padding; stor
+stáir	Nf2-9;	! pl -ártha spell, stretch;
+státaireacht	Nf3-SINGULAR;	! statesmanship
+státseirbhís	Nf2-7;	! civil service
+stíbheadóir	Nm3-1;	! stevedore
+stíoróip	Nf2-7;	! stirrup
+stócáil	Nf3-SINGULAR;	! preparation(s) vt & i
+stóinsitheacht	Nf3-SINGULAR;	! stubbornness, toughness
+stórthóir	Nm3-1;	! warehouseman
+suaill	Nf2-SINGULAR;	! (sea-)swell
+suaiteacht	Nf3-SINGULAR;	! confusion, agitation; exhaustion
+suaiteoir	Nm3-1;	! mixer; agitator, disturber
+suanmhaireacht	Nf3-SINGULAR;	! sleepiness, drowsiness, somnolence
+suantraí	Nf4-4;	! lullaby
+suathaireacht	Nf3-SINGULAR;	! massage
+subh	Nf2-1;	! jam
+substaint	Nf2-7;	! substance; solid worth; property,
+sufraigéid	Nf2-7;	! suffragette
+suilfíd	Nf2-7;	! sulphide
+suimint	Nf2-SINGULAR;	! cement
+suirbhéir	Nm3-1;	! surveyor
+suirbhéireacht	Nf3-SINGULAR;	! survey(-ing)
+suirplís	Nf2-7;	! surplice
+suirí	Nf4-SINGULAR;	! wooing, courting
+sulfáit	Nf2-7;	! sulphate
+sursaing	Nf2-7;	! surcingle, girdle
+suthaireacht	Nf3-SINGULAR;	! guzzling, gluttony
+suáilce	Nf4-2;	! virtue; efficacy; joy, pleasure
+svaeid	Nf2-SINGULAR;	! suede
+sábháil	Nf3-SINGULAR;	! saving; rescue; security, tá
+sábháilteacht	Nf3-SINGULAR;	! safety
+sácráil	Nf3-SINGULAR;	! consecration
+sácráilteacht	Nf3-SINGULAR;	! ease, self-indulgence
+sáile	Nf4-SINGULAR;	! ease, comfort; self-indulgence; luxuriant
+sáimhe	Nf4-SINGULAR;	! peacefulness, tranquillity
+sáiste	Nf4-2;	! (herb) sage
+sáith	Nf2-SINGULAR;	! feed, fill; enough
+sámh	Nf2-SINGULAR;	! tranquillity; rest a1 tranquil;
+sáraíocht	Nf3-SINGULAR;	! contending; disputation, argument
+sárchéim	Nf2-6;	! (grammar) superlative
+sárocsaíd	Nf2-SINGULAR;	! peroxide
+sástacht	Nf3-SINGULAR;	! satisfaction, ease; willingness; handiness
+séantóir	Nm3-1;	! denier; apostate, renegade
+séideog	Nf2-1;	! puff; sniff, snort
+séiléir	Nm3-1;	! gaoler
+séimeantaic	Nf2-SINGULAR;	! semantics
+séitéireacht	Nf3-SINGULAR;	! cheating
+síceolaíocht	Nf3-SINGULAR;	! psychology
+síciatracht	Nf3-SINGULAR;	! psychiatry
+síleáil	Nf3-1;	! ceiling; wainscotting; partition (in
+sínitheoir	Nm3-1;	! signatory
+sínteoireacht	Nf3-SINGULAR;	! stretching; lolling, lazing, ~
+síntiúsóir	Nm3-1;	! subscriber
+síob	Nf2-1;	! drift; gust; ride, lift
+síocanailís	Nf2-SINGULAR;	! psychoanalysis
+síocháin	Nf3-SINGULAR;	! peace
+síog	Nf2-1;	! streak; seam, lode vt
+síoladóir	Nm3-1;	! sower
+síollann	Nf2-1;	! ovary
+síomóntacht	Nf3-SINGULAR;	! simony
+síoraíocht	Nf3-SINGULAR;	! eternity; permanence; constancy
+síoróip	Nf2-7;	! syrup
+sípris	Nf2-SINGULAR;	! crape
+sípéir	Nm3-1;	! shepherd; sheep-dog, collie
+síth	Nf2-SINGULAR;	! peace
+sócmhainn	Nf2-7;	! asset
+sócmhainneacht	Nf3-SINGULAR;	! solvency
+sóid	Nf2-6;	! soda
+sóinseáil	Nf3-SINGULAR;	! & vt & i
+sólaisteoir	Nm3-1;	! confectioner
+súdaireacht	Nf3-SINGULAR;	! cajoling; toadyism
+súdaireacht	Nf3-SINGULAR;	! tanning
+súilaithne	Nf4-SINGULAR;	! tá ~ agam uirthi
+súisteáil	Nf3-SINGULAR;	! flailing, threshing; beating vt
+súmadóir	Nm3-1;	! tadpole
+súmóg	Nf2-1;	! sip, draught
+tabharthóir	Nm3-1;	! giver, donor
+tacóid	Nf2-7;	! tack, ~ ordóige drawing-pin,
+taibhdhearc	Nf2-SINGULAR;	! T~ na Gaillimhe the
+taidhleoir	Nm3-1;	! diplomat, diplomatist
+taidhleoireacht	Nf3-SINGULAR;	! diplomacy
+taighdeoir	Nm3-1;	! researcher
+tainnin	Nf2-7;	! tannin
+taipéis	Nf2-7;	! tapestry
+tairbhe	Nf4-2;	! benefit, profit, de thairbhe
+tairgeoir	Nm3-1;	! offerer, bidder
+tairise	Nf4-SINGULAR;	! loyalty; reliability
+tairngreacht	Nf3-SINGULAR;	! prophecy
+taisce	Nf4-2;	! store, treasure, hoard; treasury,
+taisceoir	Nm3-1;	! saver, hoarder; depositor
+taiscthéitheoir	Nm3-1;	! storage heater
+taiscéalaíocht	Nf3-SINGULAR;	! reconnoitring; exploration, reconnaissance
+taise	Nf4-2;	! wraith; apparition pl relics
+taise	Nf4-SINGULAR;	! dampness, humidity; tenderness, mildness;
+taisléine	Nf4-3;	! pl -nte shroud
+taisme	Nf4-2;	! accident, mishap, de thaisme
+taithíocht	Nf3-SINGULAR;	! familiarity, intimacy
+tallann	Nf2-1;	! talent, gift; impulse, fit,
+talmhaíocht	Nf3-SINGULAR;	! agriculture
+tanalacht	Nf3-SINGULAR;	! shallow, shallowness
+tanaíocht	Nf3-SINGULAR;	! thinness, sparseness; shallowness
+taobhaitheoir	Nm3-1;	! supporter, sympathizer
+taoide	Nf4-2;	! tide
+tapóg	Nf2-1;	! nerviness; sudden impulse
+tapúlacht	Nf3-SINGULAR;	! speediness
+taraif	Nf2-7;	! tariff
+tarbhadóir	Nm3-1;	! toreador
+tarcaisne	Nf4-2;	! contempt; insult
+targaid	Nf2-7;	! target
+tarracóir	Nm3-1;	! tractor
+tarraingeoireacht	Nf3-SINGULAR;	! drawing, illustration
+tarraingteacht	Nf3-SINGULAR;	! attractiveness, appeal
+tarrtháil	Nf3-SINGULAR;	! rescue; help; deliverance; salvage
+tascóireacht	Nf3-SINGULAR;	! piecework
+tathant	Nm3-SINGULAR;	! incitement, exhortation
+teacht	Nm3-SINGULAR;	! approach, arrival; growth; access;
+teachtaireacht	Nf3-SINGULAR;	! message, errand, ~ an
+teagascóir	Nm3-1;	! tutor, instructor
+teaglaim	Nf3-SINGULAR;	! collection, gathering; combination
+teagmháil	Nf3-SINGULAR;	! meeting, encounter; communication; contact
+teamhair	Nf5-2;	! gs -mhrach pl -mhracha
+teamplóir	Nm3-1;	! templar
+teanchair	Nf2-7;	! tongs; pincers; pliers, forceps
+teangeolaíocht	Nf3-SINGULAR;	! linguistics
+teann	Nm3-8;	! gs & npl ~a
+teanntaíocht	Nf3-SINGULAR;	! grant-in-aid, subvention
+teannóg	Nf2-1;	! tendril
+teasaíocht	Nf3-SINGULAR;	! heat, warmth; passion; hot
+teasc	Nf2-1;	! disc; discus
+teascóg	Nf2-1;	! sector
+teibíocht	Nf3-SINGULAR;	! abstract quality, abstraction
+teicneoir	Nm3-1;	! technician
+teicneolaíocht	Nf3-SINGULAR;	! technology
+teicniúlacht	Nf3-SINGULAR;	! technicality
+teicníc	Nf2-7;	! technique
+teicníocht	Nf3-SINGULAR;	! technique
+teile	Nf4-2;	! lime, linden
+teileapaite	Nf4-SINGULAR;	! telepathy
+teilgcheárta	Nf4-1;	! foundry
+teilgeoir	Nm3-1;	! thrower; pitcher, ~ scannán
+teinne	Nf4-SINGULAR;	! tightness, rigidity; solidity; hardness
+teip	Nf2-6;	! failure vi fail
+teirce	Nf4-SINGULAR;	! scarcity; sparseness; lack
+teiriléin	Nf2-SINGULAR;	! terylene
+teiripe	Nf4-2;	! therapy
+teiscinn	Nf2-SINGULAR;	! open sea
+teistiméireacht	Nf3-SINGULAR;	! testimony; testimonial, reference; certificate
+teocht	Nf3-SINGULAR;	! warmth, heat; temperature
+teoiric	Nf2-7;	! theory
+teoirim	Nf2-7;	! theorem
+teorainn	Nf5-4;	! gs -ann pl ~eacha
+tiachóg	Nf2-1;	! wallet, satchel
+tiargáil	Nf3-SINGULAR;	! preparing; preparatory work
+tiaráil	Nf3-SINGULAR;	! toiling, slogging; laborious work
+time	Nf4-SINGULAR;	! tenderness; weakness
+timireacht	Nf3-SINGULAR;	! doing odd jobs; chores
+timpeallacht	Nf3-SINGULAR;	! surroundings, environment
+timpireacht	Nf3-1;	! anus
+timpiste	Nf4-2;	! accident, mishap
+tincéireacht	Nf3-SINGULAR;	! tinkering
+tintríocht	Nf3-SINGULAR;	! fieriness, hot temper
+tíocht+CC	Nm3-SINGULAR;	! approach, arrival; growth; access; (Added CW 09/08)
+tiomnóir	Nm3-1;	! testator
+tionsclaíocht	Nf3-SINGULAR;	! industrialism
+tionscnóir	Nm3-1;	! beginner; originator; promoter
+tionóisc	Nf2-1;	! accident, mishap
+tionóntacht	Nf3-SINGULAR;	! tenancy
+tithíocht	Nf3-SINGULAR;	! housing, house-building
+tiúilip	Nf2-7;	! tulip
+tláithínteacht	Nf3-SINGULAR;	! soft-spokenness; wheedling
+tnúth	Nm3-SINGULAR;	! envy; expectation, longing vt
+tobacadóir	Nm3-1;	! tobacconist
+tobainne	Nf4-SINGULAR;	! suddenness, unexpectedness; hastiness
+tochailt	Nf2-SINGULAR;	! digging, excavation; uprooting
+tochaltóir	Nm3-1;	! digger, excavator; burrower
+tocht	Nm3-2;	! deep emotion; (intestinal) obstruction
+todhchaí	Nf4-SINGULAR;	! future, sa ~ in
+todóg	Nf2-1;	! cigar
+toghchánaíocht	Nf3-SINGULAR;	! electioneering
+toghthóir	Nm3-1;	! elector
+toghthóireacht	Nf3-SINGULAR;	! electorate
+toice	Nf4-2;	! hussy, wench
+toice	Nf4-SINGULAR;	! wealth, prosperity
+toighis	Nf2-SINGULAR;	! gs -ghse taste, fancy
+toilíocht	Nf3-SINGULAR;	! willingness, consent
+tointeáil	Nf3-SINGULAR;	! shuttling, seirbhís tointeála shuttle
+toirceoil	Nf3-SINGULAR;	! boar's flesh, brawn
+toirchim	Nf2-SINGULAR;	! heavy sleep; torpidity
+toirm	Nf2-SINGULAR;	! tumult, tramp
+toirnéis	Nf2-SINGULAR;	! noise, commotion
+toirtiúlacht	Nf3-SINGULAR;	! bulkiness
+toirtéis	Nf2-SINGULAR;	! haughtiness, self-importance; pride
+toirtís	Nf2-7;	! tortoise
+toit	Nf2-6;	! smoke; vapour
+tolglann	Nf2-1;	! lounge (of bar, etc)
+tomhailt	Nf2-SINGULAR;	! consumption (of food, drink)
+tomhaltóir	Nm3-1;	! consumer; big eater
+tondath	Nm3-SINGULAR;	! timbre
+tonnadóir	Nm3-1;	! tundish, funnel
+tonnaíl	Nf3-SINGULAR;	! waving, rippling; undulation
+topagrafaíocht	Nf3-SINGULAR;	! topography
+tormáil	Nf3-SINGULAR;	! rumble
+tornóg	Nf2-1;	! kiln
+torthóir	Nm3-1;	! fruiterer
+torthúlacht	Nf3-SINGULAR;	! fruitfulness, fertility, richness
+tortóg	Nf2-1;	! hummock, tussock
+tosaitheoir	Nm3-1;	! beginner
+tosaíocht	Nf3-SINGULAR;	! precedence, priority
+toscaireacht	Nf3-1;	! delegation, deputation
+tost	Nm3-2;	! silence, bí i do
+tostaíl	Nf3-SINGULAR;	! silence, taciturnity
+tostóir	Nm3-1;	! silencer
+traenáil	Nf3-SINGULAR;	! training vt & i
+tragóid	Nf2-7;	! tragedy
+traidhfil	Nf4-SINGULAR;	! trifle
+traigéide	Nf4-2;	! (theatre) tragedy
+traimil:traiml	Nf2-7;	! gs -mle pl -mlí
+trasnaíocht	Nf3-SINGULAR;	! contradiction, interference
+trasnáil	Nf3-SINGULAR;	! crossing, traversing; contradicting, interrupting
+trasraitheoir	Nm3-1;	! transistor
+treas	Nm3-8;	! gs & npl ~a
+treas	Nm3-8;	! gs & npl ~a
+treighid:treighd	Nf2-6;	! gs -ghde pl -ghdeanna
+treise	Nf4-SINGULAR;	! strength, dominance; force, emphasis,
+treodóireacht	Nf3-SINGULAR;	! orienteering
+triail	Nf5-1;	! gs -alach pl -alacha
+triantánacht	Nf3-SINGULAR;	! trigonometry
+trilis:trils	Nf2-13;	! gs & pl -lse
+triológ	Nf2-1;	! trilogy
+triomacht	Nf3-SINGULAR;	! dryness, aridity
+triomadóir	Nm3-1;	! dryer
+triptic	Nf2-7;	! triptych; triptique
+troch	Nm3-8;	! gs & npl ~a
+troid	Nf3-SINGULAR;	! & vt & i
+troime	Nf4-SINGULAR;	! heaviness, weightiness
+tromaíocht	Nf3-SINGULAR;	! condemnation, censure, ~ a
+trombóis	Nf2-SINGULAR;	! thrombosis
+truaill	Nf2-7;	! sheath; covering, case
+truamhéala	Nf4-SINGULAR;	! plaintiveness; pity, compassion
+truaínteacht	Nf3-SINGULAR;	! talking piteously, making a
+trucaid	Nf2-7;	! kit-bag
+trucail	Nf2-7;	! truck, trolley; cart pl
+truflais	Nf2-SINGULAR;	! rubbish, trash
+trumpadóir	Nm3-1;	! trumpeter
+trunc	Nm3-3;	! trunk
+truslóg	Nf2-1;	! hop; long stride, lope
+tráchtaireacht	Nf3-SINGULAR;	! commenting; commentary
+tráchtáil	Nf3-SINGULAR;	! trade, commerce
+trádáil	Nf3-SINGULAR;	! trade
+tráiteoir	Nm3-1;	! beachcomber
+trálaeireacht	Nf3-SINGULAR;	! trawling
+tráthúlacht	Nf3-SINGULAR;	! timeliness, opportuneness; aptness, wittiness
+tréad	Nm3-8;	! gs & npl ~a
+tréadaíocht	Nf3-SINGULAR;	! herding
+tréadlitir	Nf5-2;	! gs -treach pl -treacha
+tréas	Nm3-SINGULAR;	! treason; disloyalty
+tréatúir	Nm3-1;	! traitor
+tréigtheoir	Nm3-1;	! deserter
+tréine	Nf4-SINGULAR;	! strength, power; intensity
+trócaire	Nf4-SINGULAR;	! mercy; leniency, compassion
+trópaic	Nf2-7;	! tropic
+trúig	Nf2-SINGULAR;	! cause, occasion
+trúipéir	Nm3-1;	! trooper
+tuadóir	Nm3-1;	! axe-man, hewer
+tuailm	Nf2-7;	! (mechanical) spring
+tuaiplis	Nf2-7;	! blunder
+tuairimíocht	Nf3-SINGULAR;	! guessing; guess-work, speculation
+tuairisceoir	Nm3-1;	! reporter, correspondent
+tuairteoir	Nm3-1;	! bumper (of car)
+tuaslagóir	Nm3-1;	! solvent
+tuath	Nf2-1;	! country, territory; laity; rural
+tuatheolaíocht	Nf3-SINGULAR;	! rural science
+tuathghríosóir	Nm3-1;	! demagogue
+tubaiste	Nf4-2;	! calamity, disaster
+tuile	Nf4-3;	! pl -lte flood, flow
+tuire	Nf4-SINGULAR;	! dryness, aridity; dullness
+tuirlingt	Nf2-7;	! gs -gthe descent, landing
+tuirse	Nf4-SINGULAR;	! tiredness, fatigue; sorrow
+tuismeá	Nf4-8;	! horoscope
+tumadóir	Nm3-1;	! diver
+turasóir	Nm3-1;	! tourist
+turasóireacht	Nf3-SINGULAR;	! journeying; touring; tourism
+turcaid	Nf2-7;	! turquoise
+turnaimint	Nf2-7;	! tournament
+turraing	Nf2-7;	! rush, dash; attack; thrust;
+tuth	Nf2-SINGULAR;	! odour, stench
+tuthóg	Nf2-1;	! puff, fart
+tuí	Nf4-SINGULAR;	! thatch; straw
+tuíodóir	Nm3-1;	! thatcher
+tábhacht	Nf3-SINGULAR;	! importance; substance
+tábhairneoir	Nm3-1;	! tavern-keeper, publican
+táimhe	Nf4-SINGULAR;	! torpidity; lethargy
+táiplis	Nf2-SINGULAR;	! backgammon-board, ~ (bheag) draughts,
+táire	Nf4-SINGULAR;	! meanness, sordidness
+táirgeoir	Nm3-1;	! producer
+táirgiúlacht	Nf3-SINGULAR;	! productivity
+támh	Nf2-1;	! trance; stupor, lethargy, ~
+tástáil	Nf3-SINGULAR;	! taste, sample; test, trial
+téac	Nf2-SINGULAR;	! teak
+téarmaíocht	Nf3-SINGULAR;	! terminology
+téigle	Nf4-SINGULAR;	! calmness, stillness
+téirim	Nf2-SINGULAR;	! urgency, haste
+téisclim	Nf2-SINGULAR;	! preparing; preparations
+téitheoir	Nm3-1;	! heater
+tí	Nf4-SINGULAR;	! ar ~ in pursuit
+tím	Nf2-SINGULAR;	! thyme
+tíorántacht	Nf3-SINGULAR;	! tyranny, oppression
+!!tírdhreach	Nm3-8;	! gs & npl ~a
+tírdhreach:tír^CBdreach	Nm3-8;	! gs & npl ~a    ***
+tíreolaíocht	Nf3-SINGULAR;	! geography
+tírghráthóir	Nm3-1;	! patriot
+tíriúlacht	Nf3-SINGULAR;	! homeliness, sociability
+tógaíocht	Nf3-SINGULAR;	! excitement; notions
+tógáil	Nf3-SINGULAR;	! lifting, raising, taking, ~
+tóineáil	Nf3-SINGULAR;	! rearing (on hind legs)
+tóireadóir	Nm3-1;	! probe
+tóraíocht	Nf3-SINGULAR;	! pursuit; hunt, search
+túis	Nf2-SINGULAR;	! incense
+uachais	Nf2-7;	! burrow; den
+uachtarlann	Nf2-1;	! creamery
+uachtaránacht	Nf3-SINGULAR;	! presidency; authority, power
+uachtóir	Nm3-1;	! testator
+uail	Nf2-SINGULAR;	! group, flock
+uaillbhreas	Nm3-8;	! gs & npl ~a
+uaimheadóireacht	Nf3-SINGULAR;	! exploration of caves; potholing
+uaimheolaíocht	Nf3-SINGULAR;	! speleology
+uaine	Nf4-2;	! (vivid) green; verdure a3
+uaineoil	Nf3-SINGULAR;	! (meat) lamb
+uainíocht	Nf3-SINGULAR;	! alternation; rotation, bhí siad
+uaireadóir	Nm3-1;	! watch
+uaisleacht	Nf3-SINGULAR;	! nobility, gentility
+uallfairt	Nf2-7;	! howl, yell; grunt
+uasaicme	Nf4-2;	! upper class, aristocracy
+uaschamóg	Nf2-1;	! apostrophe
+uaschúirt	Nf2-6;	! superior court
+uchtóg	Nf2-1;	! armful; small heap; bump
+uige	Nf4-2;	! woven fabric, web, ~
+uiliteoir	Nm3-1;	! omnivore
+uilíocht	Nf3-SINGULAR;	! universality
+uimhearthacht	Nf3-SINGULAR;	! numeracy
+uimhríocht	Nf3-SINGULAR;	! arithmetic
+uinge	Nf4-2;	! ~ óir, airgid ounce
+uireasa	Nf4-SINGULAR;	! lack, deficiency, absence, d'~
+uirlis	Nf2-7;	! tool, implement
+uirísle	Nf4-SINGULAR;	! lowliness, humility; baseness, servility
+uisciúlacht	Nf3-SINGULAR;	! wateriness
+uisinn	Nf2-7;	! (of head) temple
+uiséir	Nm3-1;	! usher
+ulcha	Nf4-1;	! beard
+ullmhóid	Nf2-7;	! preparation
+ulpóg	Nf2-1;	! (bout of) infectious disease
+ulóg	Nf2-1;	! pulley
+umhlaíocht	Nf3-SINGULAR;	! humility; obedience, ~ do
+upa	Nf4-1;	! love-charm, philtre
+uraiceacht	Nm3-SINGULAR;	! first instruction; elements, ~
+urghabháil	Nf3-SINGULAR;	! seizure (of property)
+urghaire	Nf4-2;	! injunction; interdict
+urlabhra	Nf4-1;	! faculty of speech; utterance;
+urlabhraíocht	Nf3-SINGULAR;	! articulation
+urlios	Nm3-4;	! gs -leasa forecourt, front
+urnaí	Nf4-4;	! prayer, ag ~ praying
+urraim	Nf2-SINGULAR;	! respect, esteem
+urramacht	Nf3-SINGULAR;	! respectfulness, reverence
+urrann	Nf2-1;	! compartment
+urraíocht	Nf3-SINGULAR;	! suretyship
+urróg	Nf2-1;	! heave, jerk
+urrúntacht	Nf3-SINGULAR;	! strength, robustness
+urthrá	Nf4-8;	! foreshore
+vacsaín	Nf2-7;	! vaccine
+vaidhtéir	Nm3-1;	! groomsman; coastguard
+vaimpír	Nf2-7;	! vampire
+vallait	Nf2-7;	! wallet
+vatacht	Nf3-SINGULAR;	! wattage
+vearnais	Nf2-7;	! varnish
+veidhleadóir	Nm3-1;	! violinist
+veidhleadóireacht	Nf3-SINGULAR;	! playing the violin
+veigeatóir	Nm3-1;	! vegetarian
+veilbhit	Nf2-SINGULAR;	! velvet
+vinil	Nf2-SINGULAR;	! vinyl
+vióla	Nf4-1;	! viola
+voil	Nf2-SINGULAR;	! voile
+válcaeireacht	Nf3-SINGULAR;	! walking, strolling
+véarsaíocht	Nf3-SINGULAR;	! versification; verse
+víosa	Nf4-1;	! visa
+vótáil	Nf3-SINGULAR;	! voting, poll vt &
+zó-eolaíocht	Nf3-SINGULAR;	! zoology
+Éabha	Nf4-SINGULAR;	! Eve, síol ~ the
+ábaltacht	Nf3-SINGULAR;	! ability
+ábhacht	Nf3-SINGULAR;	! jocosity, drollery
+ábhaillí	Nf4-SINGULAR;	! playfulness, mischief
+áibhirseoir	Nm3-1;	! adversary, (the) Devil
+áibhéil	Nf2-SINGULAR;	! exaggeration
+áiféis	Nf2-SINGULAR;	! exaggeration; nonsense
+áilleacht	Nf3-SINGULAR;	! beauty; delight
+áilteoir	Nm3-1;	! trickster, practical joker
+áilteoireacht	Nf3-SINGULAR;	! tricking, joking
+áineas	Nm3-SINGULAR;	! sport, delight
+áirc	Nf2-SINGULAR;	! ark
+áirge	Nf4-2;	! useful article, asset
+áirse	Nf4-2;	! arch
+áisiúlacht	Nf3-SINGULAR;	! convenience, utility
+áiteoireacht	Nf3-SINGULAR;	! arguing; argumentation
+áititheoir	Nm3-1;	! occupier; arguer
+áitritheoir	Nm3-1;	! inhabitant
+ámharaí	Nf4-SINGULAR;	! ar ~ an tsaoil
+ámóg	Nf2-1;	! hammock
+áraslann	Nf2-1;	! block of flats
+ársaitheoir	Nm3-1;	! antiquarian
+ársaíocht	Nf3-SINGULAR;	! old age; antiquarianism
+éabhlóid	Nf2-SINGULAR;	! evolution
+éacht	Nm3-3;	! feat; achievement
+éad	Nm3-SINGULAR;	! jealousy, envy, in ~
+éadaitheoir	Nm3-1;	! clothier, draper
+éadoimhneacht	Nf3-SINGULAR;	! shallowness
+éadroime	Nf4-SINGULAR;	! lightness; airiness; giddiness
+éadáil:éadál	Nf3-6;	! acquisition; profit; spoil; wealth,
+éadóigh	Nf2-SINGULAR;	! unlikely place, thing, is
+éag	Nm3-8;	! death; numbness, dul in
+éagmais	Nf2-SINGULAR;	! absence; want, bheith in
+éagnairc	Nf2-SINGULAR;	! requiem
+éagothroime	Nf4-SINGULAR;	! unevenness, unbalance; inequality
+éagruth	Nm3-2;	! shapelessness; deformity; decay, dul
+éagsúlacht	Nf3-1;	! unlikeness; variation; strangeness
+éaguimhne	Nf4-SINGULAR;	! oblivion
+éalang	Nf2-1;	! defect, weak spot, ~
+éaneolaíocht	Nf3-SINGULAR;	! ornithology
+éanlaith	Nf2-SINGULAR;	! birds, fowl
+éanlann	Nf2-1;	! aviary
+éarlais	Nf2-7;	! earnest (money); deposit
+éascaíocht	Nf3-SINGULAR;	! speed; nimbleness; fluency; readiness
+éiceolaíocht	Nf3-SINGULAR;	! ecology
+éide	Nf4-2;	! clothes, dress; livery, in
+éifeacht	Nf3-1;	! significance; force, effect; value;
+éigeandáil	Nf3-SINGULAR;	! emergency
+éiginnteacht	Nf3-SINGULAR;	! uncertainty, indefiniteness; indecision
+éigríoch	Nf2-SINGULAR;	! infinity
+éigse	Nf4-2;	! learning, poetry; (assembly of)
+éilitheoir	Nm3-1;	! claimant; complainant, plaintiff
+éiric	Nf2-7;	! reparation, retribution; compensation, reward
+éirim	Nf2-7;	! scope; drift; inclination; talent,
+éislinn	Nf2-7;	! vulnerable spot; flaw
+éisteoir	Nm3-1;	! listener, hearer
+éitir	Nf2-SINGULAR;	! strength, vigour
+íle	Nf4-SINGULAR;	! oil
+íoc	Nf2-1;	! healing, cure, ~ leighis
+íoc	Nm3-3;	! payment; charge, rate; requital,
+íocaíocht	Nf3-SINGULAR;	! paying; payment
+íoclann	Nf2-1;	! dispensary
+íocshláinte	Nf4-2;	! balm, balsam, restorative
+íocóir	Nm3-1;	! payer
+íonacht	Nf3-SINGULAR;	! purity
+íontóir	Nm3-1;	! purifier
+íorpais	Nf2-SINGULAR;	! dropsy; venom, tá an
+íoróin	Nf2-SINGULAR;	! irony
+íota	Nf4-SINGULAR;	! (great) thirst; ardent desire
+ísleacht	Nf3-SINGULAR;	! lowness, lowliness
+ócht	Nf3-SINGULAR;	! virginity
+ócáid	Nf2-7;	! occasion; incident, níl ~
+ógchiontóir	Nm3-1;	! juvenile delinquent
+ógh	Nf2-1;	! virgin, Muire Ó~ the
+óinmhid	Nf2-7;	! simpleton; jester, buffoon
+óltóir	Nm3-1;	! drinker
+óráid	Nf2-7;	! oration, speech
+óráidíocht	Nf3-SINGULAR;	! oratory
+ósais	Nf2-7;	! oasis
+óspairt	Nf2-7;	! mishap, injury
+óstaíocht	Nf3-SINGULAR;	! lodging, entertainment, for travellers
+óstlann	Nf2-1;	! hotel
+óstóir	Nm3-1;	! innkeeper; publican
+údaracht	Nf3-SINGULAR;	! authenticity
+úinéir	Nm3-1;	! owner, proprietor
+úinéireacht	Nf3-SINGULAR;	! ownership, proprietorship
+úir	Nf2-SINGULAR;	! earth, soil, dul san
+úire	Nf4-SINGULAR;	! freshness, newness, déan as
+úllóg	Nf2-1;	! apple charlotte
+úmadóir	Nm3-1;	! harness-maker
+únfairt	Nf2-SINGULAR;	! wallowing; rolling about, ag
+úrnuacht	Nf3-SINGULAR;	! freshness, novelty
+úrscéalaíocht	Nf3-SINGULAR;	! novel-writing; novel genre
+úsaireacht	Nf3-SINGULAR;	! usury
+úsáideoir	Nm3-1;	! user, consumer
+útamáil	Nf3-SINGULAR;	! fumbling, groping; pottering, ag

@@ -1,0 +1,19 @@
+#--------------------------------------------
+# last guesser for unknown sequences of symbols 
+# Elaine Uí Dhonnchadha
+# 2005
+#--------------------------------------------
+clear stack
+# all letters need to be defined..
+define Letter [A|Á|B|C|D|E|É|F|G|H|I|Í|J|K|L|M|N|O|Ó|P|Q|R|S|T|U|Ú|V|W|X|Y|Z |a|á|b|c|d|e|é|f|g|h|i|í|j|k|l|m|n|o|ó|p|q|r|s|t|u|ú|v|w|x|y|z|%_|%-|%$|¥|¢|À|Â|Ã|Ä|Å|Æ|Ç|È|Ê|Ë|Ì|Î|Ï|Ñ|Ò|Ô|Õ|Ö|Ø|Ù|Û|Ü|Ý|ß|à|â|ã|ä|å|æ|ç|è|ê|ë|ì|î|ï|ð|ñ|ò|ô|õ|ö|ø|ù|û|ü|ý|ÿ|§|¨|%~|%@|%0| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |%'];
+
+#define Letter [A|Á|B|C|D|E|É|F|G|H|I|Í|J|K|L|M|N|O|Ó|P|Q|R|S|T|U|Ú|V|W|X|Y|Z|a|á|b|c|d|e|é|f|g|h|i|í|j|k|l|m|n|o|ó|p|q|r|s|t|u|ú|v|w|x|y|z];
+
+define Word [Letter+] "+Guess":0 "+Unknown":0 "+Noun":0 ;
+
+read regex Word ;
+echo << saving bin/guess_unknown.fst to file >>
+save stack bin/guess_unknown.fst
+                                                                                
+echo << Unknown Guesser Complete >>
+

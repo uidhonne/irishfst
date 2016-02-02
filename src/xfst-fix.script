@@ -1,0 +1,391 @@
+# REMOVE UNWANTED STRINGS
+
+# (1) REMOVE THE OVERGENERATION OF INDEFINITE FORM OF VOCATIVE PLURAL
+clear stack
+read regex ~$[%+Voc %+Pl [%+Idf|%+Poss]] .o. @"int/temp-all.fst";
+save stack int/fix1.fst
+
+# (2) REMOVE UNWANTED ECLIPSED VOCATIVES
+# there should be no Voc form with Eclipsis 
+clear stack
+read regex ~$[%+Voc ?* %+Pl %+Ecl] .o.  @"int/fix1.fst";
+save stack int/fix2.fst
+
+
+# (3) FIX SOME STRINGS WHICH WERE GENERATED ACCORDING TO THE GENERAL RULES BUT 
+#     WHICH ARE IN FACT IRREGULAR
+clear stack
+
+define Bad	[[{tonn} %+Noun %+Fem %+Gen %+Pl]		! (d)tonnta - doesn't append "ta"
+		|[{crios} %+Noun %+Masc ?+ %+Pl]		! (g)creasanna - "io" doesn't change to "ea"
+		|[{ceann} %+Noun %+Masc %+Voc %+Sg]	! a cheann not a chinn
+		|[{pobal} %+Noun %+Masc %+Voc %+Sg]	! a phobal not a phobail
+		|[{rún} %+Noun %+Masc %+Voc %+Sg]		! a rún not a rúin
+		|[{stór} %+Noun %+Masc %+Voc %+Sg]		! a stór not a stóir
+		|[{abhainn} %+Noun %+Fem ?+ %+Pl]		! aibhneacha not aibhnneacha
+		|[{bráthair} %+Noun %+Masc ?+ %+Pl]		!
+		|[{teanga} %+Noun %+Fem ?+ %+Pl]		! 
+		|[{roinnt} %+Noun %+Fem ?+ %+Pl]		! 
+		|[{toradh} %+Noun %+Masc ?+ %+Pl]		! 
+		|[{ainm} %+Noun %+Masc ?+ %+Pl]			! 
+		|[{croí} %+Noun %+Masc ?+ %+Pl]			!
+		|[{dlí} %+Noun %+Masc ?+ %+Pl]			!
+		|[{rí} %+Noun %+Masc ?+ %+Pl]			!
+		|[{brí} %+Noun %+Fem ?+ %+Pl]			!
+		|[{ubh} %+Noun %+Fem ?+ %+Pl]			! uibheacha not ubhacha
+		|[{caoi} %+Noun %+Fem ?+ %+Pl]			!
+		|[{gnó} %+Noun %+Masc ?+ %+Pl]			!
+		|[{tráthnóna} %+Noun %+Masc ?+ %+Pl]	!
+		|[{contae} %+Noun %+Masc ?+ %+Pl]		!
+		|[{cliabh} %+Noun %+Masc %+Com %+Pl]
+		|[{cliabh} %+Noun %+Masc %+Gen %+Sg]
+		|[{beithíoch} %+Noun %+Masc %+Com %+Pl]
+		|[{beithíoch} %+Noun %+Masc %+Gen %+Sg]
+		|[{díbirt} %+Noun %+Fem %+Gen %+Sg]
+		|[{obair} %+Noun %+Fem %+Gen %+Sg]		! na hoibre not hobrach
+		|[{cearc} %+Noun %+Fem %+Gen %+Sg]		! na circe not ceirce
+		|[{tarlaigh} %+Verb %+VTI %+PastInd %+Len]	! tharla not tharlaigh
+		|[{tarlaigh} %+Verb %+VTI %+PastInd %+Neg %+Len]
+		|[{tarlaigh} %+Verb %+VTI %+PastInd %+NegQ %+Len]
+		|[{tarlaigh} %+Verb %+VTI %+PastInd %+Q %+Len]
+		|[{furasta} %+Adj %+Comp]	! fusa not furasta
+		|[{fada} %+Adj %+Comp]	! faide not fada
+		|[{olc} %+Adj %+Comp]	! measa not oilce
+		|[{feithicil} %+Noun %+Fem %+Com %+Sg]
+#		|[{fidil} %+Noun %+Fem %+Com %+Sg]
+		|[{caibidil} %+Noun %+Fem %+Com %+Sg]
+#		|[{paidir} %+Noun %+Fem %+Com %+Sg]
+		|[{treighid} %+Noun %+Fem %+Com %+Sg]
+#		|[{faighin} %+Noun %+Fem %+Com %+Sg]
+#		|[{faighin} %+Noun %+Fem %+Com %+Sg]
+		|[{saighean} %+Noun %+Fem %+Com %+Sg]
+#		|[{daighear} %+Noun %+Fem %+Com %+Sg]
+#		|[{ladhar} %+Noun %+Fem %+Com %+Sg]
+		|[{meadar} %+Noun %+Fem %+Gen %+Sg]
+#		|[{sceimheal} %+Noun %+Fem %+Com %+Sg]
+		|[{traimil} %+Noun %+Fem %+Com %+Sg]
+		|[{leithinis} %+Noun %+Fem %+Com %+Sg]
+		|[{caingean} %+Noun %+Fem %+Com %+Sg]
+		|[{trilis} %+Noun %+Fem %+Com %+Sg]
+		|[{geimheal} %+Noun %+Fem %+Com %+Sg]
+		|[{aolchoinneal} %+Noun %+Fem %+Com %+Sg]
+		|[{coinneal} %+Noun %+Fem %+Com %+Sg]
+		|[{ceolfhoireann} %+Noun %+Fem %+Com %+Sg]
+#		|[{meitheal} %+Noun %+Fem %+Com %+Sg]
+		|[{aibítir} %+Noun %+Fem %+Com %+Sg]
+		|[{sluasaid} %+Noun %+Fem %+Com %+Sg]
+		|[{dabhach} %+Noun %+Fem %+Com %+Sg]
+		|[{fothair} %+Noun %+Fem %+Com %+Pl]
+		|[{fothair} %+Noun %+Fem %+Voc %+Pl]
+		|[{fothair} %+Noun %+Fem %+Gen %+Strong %+Pl]
+		|[{inis} %+Noun %+Fem %+Com %+Sg]
+		|[{seamair} %+Noun %+Fem %+Com %+Sg]
+		|[{domhain} %+Noun %+Fem %+Com %+Sg]
+		|[{admháil} %+Noun %+Fem %+Com %+Sg]
+		|[{éadáil} %+Noun %+Fem %+Com %+Sg]
+		|[{bréifin} %+Noun %+Fem %+Com %+Sg]
+#		|[{crithir} %+Noun %+Fem %+Com %+Sg]
+		|[{mionn} %+Noun %+Masc %+Com %+Pl]
+		|[{abair} %+Verbal %+Noun %+hPref]
+		|[{tóg} %+Verbal %+Noun %+Gen]
+		|[{mór} %+Adj %+Comp]
+#		|[[{dearg} %+Adj %+Fem %+Gen %+Sg]:{dirge}]
+#		|[{dearg} %+Adj %+Comp]:{dirge}
+#		|[{bándearg} %+Adj %+Fem %+Gen %+Sg]:{bándirge}
+#		|[{bándearg} %+Adj %+Comp]:{bándirge}
+#		|[{liathdhearg} %+Adj %+Fem %+Gen %+Sg]:{liathdhirge}
+#		|[{liathdhearg} %+Adj %+Comp]:{liathdhirge}
+#		|[{maith} %+Adj %+Comp]:{maithe}
+#		|[{maith} %+Adj %+Comp %+Len]:{mhaithe}
+#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# TEMPORARY REMOVAL OF UNLIKELY ANALYSES FOR MANUAL DISAMB
+#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+		|[{éigh} %+Verb %+VI %+PresSubj %+Neg]
+		|[{nigh} %+Verb %+VTI %+PresSubj ?*]
+#		|[{nigh} %+Verbal ?*]
+#		|[{ní} %+Noun ?*]
+		];
+#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# add micheil -> michíl, muineál -> muiníl
+# thittí -> 
+
+define Good	[[{tonn} %+Noun %+Fem %+Gen %+Weak %+Pl %+DefArt]:{dtonn}
+		|[{tonn} %+Noun %+Fem %+Gen %+Weak %+Pl]:{tonn}
+		|[{crios} %+Noun %+Masc %+Com %+Pl %+DefArt]:{criosanna}
+		|[{crios} %+Noun %+Masc %+Com %+Pl %+Len]:{chriosanna}
+		|[{crios} %+Noun %+Masc %+Com %+Pl]:{criosanna}
+		|[{crios} %+Noun %+Masc %+Gen %+Strong %+Pl %+DefArt]:{gcriosanna}
+		|[{crios} %+Noun %+Masc %+Gen %+Strong %+Pl]:{criosanna}
+		|[{crios} %+Noun %+Masc %+Voc %+Pl %+DefArt]:{chriosanna}
+		|[{ceann} %+Noun %+Masc %+Voc %+Sg]:{cheann}
+		|[{pobal} %+Noun %+Masc %+Voc %+Sg]:{phobal}
+		|[{rún} %+Noun %+Masc %+Voc %+Sg]:{rún}
+		|[{stór} %+Noun %+Masc %+Voc %+Sg]:{stór}
+		|[{abhainn} %+Noun %+Fem %+Com %+Pl %+DefArt]:{haibhneacha}
+		|[{abhainn} %+Noun %+Fem %+Com %+Pl]:{aibhneacha}
+		|[{abhainn} %+Noun %+Fem %+Gen %+Strong %+Pl %+DefArt]:{n-aibhneacha}
+		|[{abhainn} %+Noun %+Fem %+Gen %+Strong %+Pl]:{aibhneacha}
+		|[{abhainn} %+Noun %+Fem %+Voc %+Pl %+DefArt]:{aibhneacha}
+		|[{ubh} %+Noun %+Fem %+Com %+Pl %+DefArt]:{huibheacha}
+		|[{ubh} %+Noun %+Fem %+Com %+Pl]:{uibheacha}
+		|[{ubh} %+Noun %+Fem %+Gen %+Strong %+Pl %+DefArt]:{n-uibheacha}
+		|[{ubh} %+Noun %+Fem %+Gen %+Strong %+Pl]:{uibheacha}
+		|[{ubh} %+Noun %+Fem %+Voc %+Pl %+DefArt]:{uibheacha}
+		|[{bráthair} %+Noun %+Masc %+Com %+Pl %+DefArt]:{bráithre}
+		|[{bráthair} %+Noun %+Masc %+Com %+Pl %+Len]:{bhráithre}
+		|[{bráthair} %+Noun %+Masc %+Com %+Pl]:{bráithre}
+		|[{bráthair} %+Noun %+Masc %+Gen %+Strong %+Pl %+DefArt]:{mbráithre}
+		|[{bráthair} %+Noun %+Masc %+Gen %+Strong %+Pl]:{bráithre}
+		|[{bráthair} %+Noun %+Masc %+Voc %+Pl %+DefArt]:{bhráithre}
+#!!		|[{bliain} %+Noun %+Fem %+Com %+Num %+DefArt]:{bliana}
+		|[{teanga} %+Noun %+Fem %+Com %+Pl %+DefArt]:{teangacha}
+		|[{teanga} %+Noun %+Fem %+Com %+Pl %+Len]:{theangacha}
+		|[{teanga} %+Noun %+Fem %+Com %+Pl]:{teangacha}
+		|[{teanga} %+Noun %+Fem %+Gen %+Strong %+Pl %+DefArt]:{dteangacha}
+		|[{teanga} %+Noun %+Fem %+Gen %+Strong %+Pl]:{teangacha}
+		|[{teanga} %+Noun %+Fem %+Voc %+Pl %+DefArt]:{theangacha}
+		|[{roinnt} %+Noun %+Fem %+Com %+Pl %+DefArt]:{rannta}
+		|[{roinnt} %+Noun %+Fem %+Com %+Pl]:{rannta}
+		|[{roinnt} %+Noun %+Fem %+Gen %+Strong %+Pl %+DefArt]:{rannta}
+		|[{roinnt} %+Noun %+Fem %+Gen %+Strong %+Pl]:{rannta}
+		|[{roinnt} %+Noun %+Fem %+Voc %+Pl %+DefArt]:{rannta}
+		|[{toradh} %+Noun %+Masc %+Com %+Pl %+DefArt]:{torthaí}
+		|[{toradh} %+Noun %+Masc %+Com %+Pl %+Len]:{thorthaí}
+		|[{toradh} %+Noun %+Masc %+Com %+Pl]:{torthaí}
+		|[{toradh} %+Noun %+Masc %+Gen %+Strong %+Pl %+DefArt]:{dtorthaí}
+		|[{toradh} %+Noun %+Masc %+Gen %+Strong %+Pl]:{torthaí}
+		|[{toradh} %+Noun %+Masc %+Voc %+Pl %+DefArt]:{thorthaí}
+		|[{ainm} %+Noun %+Masc %+Com %+Pl %+DefArt]:{hainmneacha}
+		|[{ainm} %+Noun %+Masc %+Com %+Pl]:{ainmneacha}
+		|[{ainm} %+Noun %+Masc %+Gen %+Strong %+Pl %+DefArt]:{n-ainmneacha}
+		|[{ainm} %+Noun %+Masc %+Gen %+Strong %+Pl]:{ainmneacha}
+		|[{ainm} %+Noun %+Masc %+Voc %+Pl %+DefArt]:{ainmneacha}
+		|[{croí} %+Noun %+Masc %+Com %+Pl %+DefArt]:{croíthe}
+		|[{croí} %+Noun %+Masc %+Com %+Pl %+Len]:{chroíthe}
+		|[{croí} %+Noun %+Masc %+Com %+Pl]:{croíthe}
+		|[{croí} %+Noun %+Masc %+Gen %+Strong %+Pl %+DefArt]:{gcroíthe}
+		|[{croí} %+Noun %+Masc %+Gen %+Strong %+Pl]:{croíthe}
+		|[{croí} %+Noun %+Masc %+Voc %+Pl %+DefArt]:{chroíthe}
+		|[{dlí} %+Noun %+Masc %+Com %+Pl %+DefArt]:{dlíthe}
+		|[{dlí} %+Noun %+Masc %+Com %+Pl]:{dlíthe}
+		|[{dlí} %+Noun %+Masc %+Gen %+Strong %+Pl %+DefArt]:{ndlíthe}
+		|[{dlí} %+Noun %+Masc %+Gen %+Strong %+Pl]:{dlíthe}
+		|[{dlí} %+Noun %+Masc %+Voc %+Pl %+DefArt]:{dhlíthe}
+		|[{rí} %+Noun %+Masc %+Com %+Pl %+DefArt]:{ríthe}
+		|[{rí} %+Noun %+Masc %+Com %+Pl]:{ríthe}
+		|[{rí} %+Noun %+Masc %+Gen %+Strong %+Pl %+DefArt]:{ríthe}
+		|[{rí} %+Noun %+Masc %+Gen %+Strong %+Pl]:{ríthe}
+		|[{rí} %+Noun %+Masc %+Voc %+Pl %+DefArt]:{ríthe}
+		|[{brí} %+Noun %+Fem %+Com %+Pl %+DefArt]:{bríonna}
+		|[{brí} %+Noun %+Fem %+Com %+Pl %+Len]:{bhríonna}
+		|[{brí} %+Noun %+Fem %+Com %+Pl]:{bríonna}
+		|[{brí} %+Noun %+Fem %+Gen %+Strong %+Pl %+DefArt]:{mbríonna}
+		|[{brí} %+Noun %+Fem %+Gen %+Strong %+Pl]:{bríonna}
+		|[{brí} %+Noun %+Fem %+Voc %+Pl %+DefArt]:{bhríonna}
+		|[{caoi} %+Noun %+Fem %+Com %+Pl %+DefArt]:{caíonna}
+		|[{caoi} %+Noun %+Fem %+Com %+Pl %+Len]:{chaíonna}
+		|[{caoi} %+Noun %+Fem %+Com %+Pl]:{caíonna}
+		|[{caoi} %+Noun %+Fem %+Gen %+Strong %+Pl %+DefArt]:{gcaíonna}
+		|[{caoi} %+Noun %+Fem %+Gen %+Strong %+Pl]:{caíonna}
+		|[{caoi} %+Noun %+Fem %+Voc %+Pl %+DefArt]:{chaíonna}
+		|[{gnó} %+Noun %+Masc %+Com %+Pl %+DefArt]:{gnóthaí}
+		|[{gnó} %+Noun %+Masc %+Com %+Pl %+Len]:{ghnóthaí}
+		|[{gnó} %+Noun %+Masc %+Com %+Pl]:{gnóthaí}
+		|[{gnó} %+Noun %+Masc %+Com %+Pl %+Len]:{ghnóthaí}
+		|[{gnó} %+Noun %+Masc %+Gen %+Strong %+Pl %+DefArt]:{ngnóthaí}
+		|[{gnó} %+Noun %+Masc %+Gen %+Strong %+Pl]:{gnóthaí}
+		|[{gnó} %+Noun %+Masc %+Voc %+Pl %+DefArt]:{ghnóthaí}
+		|[{tráthnóna} %+Noun %+Masc %+Com %+Pl %+DefArt]:{tráthnónta}
+		|[{tráthnóna} %+Noun %+Masc %+Com %+Pl %+Len]:{thráthnónta}
+		|[{tráthnóna} %+Noun %+Masc %+Com %+Pl]:{tráthnónta}
+		|[{tráthnóna} %+Noun %+Masc %+Gen %+Strong %+Pl %+DefArt]:{dtráthnónta}
+		|[{tráthnóna} %+Noun %+Masc %+Gen %+Strong %+Pl]:{tráthnónta}
+		|[{tráthnóna} %+Noun %+Masc %+Voc %+Pl %+DefArt]:{thráthnónta}
+		|[{contae} %+Noun %+Masc %+Com %+Pl %+DefArt]:{contaetha}
+		|[{contae} %+Noun %+Masc %+Com %+Pl %+Len]:{chontaetha}
+		|[{contae} %+Noun %+Masc %+Com %+Pl]:{contaetha}
+		|[{contae} %+Noun %+Masc %+Gen %+Strong %+Pl %+DefArt]:{gcontaetha}
+		|[{contae} %+Noun %+Masc %+Gen %+Strong %+Pl]:{contaetha}
+		|[{contae} %+Noun %+Masc %+Voc %+Pl %+DefArt]:{chontaetha}
+		|[{cliabh} %+Noun %+Masc %+Com %+Pl %+DefArt]:{cléibh}
+		|[{cliabh} %+Noun %+Masc %+Com %+Pl %+Len]:{chléibh}
+		|[{cliabh} %+Noun %+Masc %+Com %+Pl]:{cléibh}
+		|[{cliabh} %+Noun %+Masc %+Gen %+Sg %+DefArt]:{chléibh}
+		|[{cliabh} %+Noun %+Masc %+Gen %+Sg]:{cléibh}
+		|[{beithíoch} %+Noun %+Masc %+Com %+Pl %+DefArt]:{beithígh}
+		|[{beithíoch} %+Noun %+Masc %+Com %+Pl %+Len]:{bheithígh}
+		|[{beithíoch} %+Noun %+Masc %+Com %+Pl]:{beithígh}
+		|[{beithíoch} %+Noun %+Masc %+Gen %+Sg %+DefArt]:{bheithígh}
+		|[{beithíoch} %+Noun %+Masc %+Gen %+Sg]:{beithígh}
+		|[{díbirt} %+Noun %+Fem %+Gen %+Sg %+DefArt]:{díbeartha}
+		|[{díbirt} %+Noun %+Fem %+Gen %+Sg]:{díbeartha}
+		|[{obair} %+Noun %+Fem %+Gen %+Sg]:{oibre}
+		|[{obair} %+Noun %+Fem %+Gen %+Sg %+DefArt]:{hoibre}
+		|[{cearc} %+Noun %+Fem %+Gen %+Sg]:{circe}
+		|[{cearc} %+Noun %+Fem %+Gen %+Sg %+DefArt]:{circe}
+		|[{cearc} %+Noun %+Fem %+Gen %+Sg %+Len]:{chirce}
+		|[{cearc} %+Noun %+Fem %+Gen %+Sg %+Ecl]:{gcirce}
+#		|[{cuid} %+Noun %+Fem %+Com %+Pl]:{codanna}
+#		|[{cuid} %+Noun %+Fem %+Com %+Pl %+DefArt]:{codanna}
+#		|[{cuid} %+Noun %+Fem %+Com %+Pl %+Len]:{chodanna}
+#		|[{cuid} %+Noun %+Fem %+Gen %+Strong %+Pl]:{codanna}
+#		|[{cuid} %+Noun %+Fem %+Gen %+Strong %+Pl %+DefArt]:{gcodanna}
+#		|[{cuid} %+Noun %+Fem %+Voc %+Pl %+DefArt]:{chodanna}
+		|[{fuil} %+Noun %+Fem %+Com %+Pl]:{fola}
+		|[{fuil} %+Noun %+Fem %+Com %+Pl %+DefArt]:{fola}
+		|[{fuil} %+Noun %+Fem %+Com %+Pl %+Len]:{fhola}
+		|[{fuil} %+Noun %+Fem %+Gen %+Strong %+Pl]:{fola}
+		|[{fuil} %+Noun %+Fem %+Gen %+Strong %+Pl %+DefArt]:{bhfola}
+		|[{fuil} %+Noun %+Fem %+Voc %+Pl %+DefArt]:{fhola}
+		|[{draíocht} %+Noun %+Fem %+Com %+Pl]:{draíochta}
+		|[{draíocht} %+Noun %+Fem %+Com %+Pl %+DefArt]:{draíochta}
+		|[{draíocht} %+Noun %+Fem %+Com %+Pl %+Len]:{dhraíochta}
+		|[{draíocht} %+Noun %+Fem %+Gen %+Strong %+Pl]:{draíochta}
+		|[{draíocht} %+Noun %+Fem %+Gen %+Strong %+Pl %+DefArt]:{ndraíochta}
+		|[{draíocht} %+Noun %+Fem %+Voc %+Pl %+DefArt]:{dhraíochta}
+		|[{gabháil} %+Noun %+Fem %+Com %+Pl]:{gabhálacha}
+		|[{gabháil} %+Noun %+Fem %+Com %+Pl %+DefArt]:{gabhálacha}
+		|[{gabháil} %+Noun %+Fem %+Com %+Pl %+Len]:{ghabhálacha}
+		|[{gabháil} %+Noun %+Fem %+Gen %+Strong %+Pl]:{gabhálacha}
+		|[{gabháil} %+Noun %+Fem %+Gen %+Strong %+Pl %+DefArt]:{ngabhálacha}
+		|[{gabháil} %+Noun %+Fem %+Voc %+Pl %+DefArt]:{ghabhálacha}
+		|[{tarlaigh} %+Verb %+VTI %+PastInd %+Len]:{tharla}	! tharla not tharlaigh
+		|[{tarlaigh} %+Verb %+VTI %+PastInd %+Neg %+Len]:{tharla}	! 
+		|[{tarlaigh} %+Verb %+VTI %+PastInd %+NegQ %+Len]:{tharla}	! 
+		|[{tarlaigh} %+Verb %+VTI %+PastInd %+Q %+Len]:{tharla}
+		|[{feithicil} %+Noun %+Fem %+Com %+Sg]:{feithicil}
+		|[{feithicil} %+Noun %+Fem %+Com %+Sg %+Len]:{fheithicil}
+		|[{feithicil} %+Noun %+Fem %+Com %+Sg %+Ecl]:{bhfeithicil}
+#		|[{fidil} %+Noun %+Fem %+Com %+Sg]:{fidil}
+#		|[{fidil} %+Noun %+Fem %+Com %+Sg %+Len]:{fhidil}
+#		|[{fidil} %+Noun %+Fem %+Com %+Sg %+Ecl]:{bhfidil}
+		|[{caibidil} %+Noun %+Fem %+Com %+Sg]:{caibidil}
+		|[{caibidil} %+Noun %+Fem %+Com %+Sg %+Len]:{chaibidil}
+		|[{caibidil} %+Noun %+Fem %+Com %+Sg %+Ecl]:{gcaibidil}
+#		|[{paidir} %+Noun %+Fem %+Com %+Sg]:{paidir}
+#		|[{paidir} %+Noun %+Fem %+Com %+Sg %+Len]:{phaidir}
+#		|[{paidir} %+Noun %+Fem %+Com %+Sg %+Ecl]:{bpaidir}
+		|[{treighid} %+Noun %+Fem %+Com %+Sg]:{treighid}
+		|[{treighid} %+Noun %+Fem %+Com %+Sg %+Len]:{threighid}
+		|[{treighid} %+Noun %+Fem %+Com %+Sg %+Ecl]:{dtreighid}
+#		|[{faighin} %+Noun %+Fem %+Com %+Sg]:{faighin}
+#		|[{faighin} %+Noun %+Fem %+Com %+Sg %+Len]:{fhaighin}
+#		|[{faighin} %+Noun %+Fem %+Com %+Sg %+Ecl]:{bhfaighin}
+		|[{saighean} %+Noun %+Fem %+Com %+Sg]:{saighean}
+		|[{saighean} %+Noun %+Fem %+Com %+Sg %+Len]:{shaighean}
+		|[{saighean} %+Noun %+Fem %+Com %+Sg]:{tsaighean}
+#		|[{daighear} %+Noun %+Fem %+Com %+Sg]:{daighear}
+#		|[{daighear} %+Noun %+Fem %+Com %+Sg %+Len]:{dhaighear}
+#		|[{daighear} %+Noun %+Fem %+Com %+Sg %+Ecl]:{ndaighear}
+#		|[{ladhar} %+Noun %+Fem %+Com %+Sg]:{ladhar}
+		|[{meadar} %+Noun %+Fem %+Gen %+Sg]:{meidre}
+		|[{meadar} %+Noun %+Fem %+Gen %+Sg %+Len]:{mheidre}
+		|[{meadar} %+Noun %+Fem %+Gen %+Sg %+Ecl]:{meidre}
+#		|[{sceimheal} %+Noun %+Fem %+Com %+Sg]:{sceimheal}
+#		|[{sceimheal} %+Noun %+Fem %+Com %+Sg]:{tsceimheal}
+		|[{traimil} %+Noun %+Fem %+Com %+Sg]:{traimil}
+		|[{traimil} %+Noun %+Fem %+Com %+Sg %+Len]:{thraimil}
+		|[{traimil} %+Noun %+Fem %+Com %+Sg %+Ecl]:{dtraimil}
+		|[{inis} %+Noun %+Fem %+Com %+Sg]:{inis}
+		|[{leithinis} %+Noun %+Fem %+Com %+Sg]:{leithinis}
+		|[{caingean} %+Noun %+Fem %+Com %+Sg]:{caingean}
+		|[{caingean} %+Noun %+Fem %+Com %+Sg %+Len]:{chaingean}
+		|[{caingean} %+Noun %+Fem %+Com %+Sg %+Ecl]:{gcaingean}
+		|[{trilis} %+Noun %+Fem %+Com %+Sg]:{trilis}
+		|[{trilis} %+Noun %+Fem %+Com %+Sg %+Len]:{thrilis}
+		|[{trilis} %+Noun %+Fem %+Com %+Sg %+Ecl]:{dtrilis}
+		|[{geimheal} %+Noun %+Fem %+Com %+Sg]:{geimheal}
+		|[{geimheal} %+Noun %+Fem %+Com %+Sg %+Len]:{gheimheal}
+		|[{geimheal} %+Noun %+Fem %+Com %+Sg %+Ecl]:{ngeimheal}
+		|[{aolchoinneal} %+Noun %+Fem %+Com %+Sg]:{aolchoinneal}
+		|[{aolchoinneal} %+Noun %+Fem %+Com %+Sg %+hPref]:{haolchoinneal}
+		|[{coinneal} %+Noun %+Fem %+Com %+Sg]:{coinneal}
+		|[{coinneal} %+Noun %+Fem %+Com %+Sg %+Len]:{choinneal}
+		|[{coinneal} %+Noun %+Fem %+Com %+Sg %+Ecl]:{gcoinneal}
+		|[{ceolfhoireann} %+Noun %+Fem %+Com %+Sg]:{ceolfhoireann}
+		|[{ceolfhoireann} %+Noun %+Fem %+Com %+Sg %+Len]:{cheolfhoireann}
+		|[{ceolfhoireann} %+Noun %+Fem %+Com %+Sg %+Ecl]:{gceolfhoireann}
+#		|[{meitheal} %+Noun %+Fem %+Com %+Sg]:{meitheal}
+#		|[{meitheal} %+Noun %+Fem %+Com %+Sg %+Len]:{mheitheal}
+		|[{aibítir} %+Noun %+Fem %+Com %+Sg]:{aibítir}
+		|[{sluasaid} %+Noun %+Fem %+Com %+Sg]:{sluasaid}
+		|[{sluasaid} %+Noun %+Fem %+Com %+Sg]:{tsluasaid}
+		|[{dabhach} %+Noun %+Fem %+Com %+Sg]:{dabhach}
+		|[{dabhach} %+Noun %+Fem %+Com %+Sg %+Len]:{dhabhach}
+		|[{dabhach} %+Noun %+Fem %+Com %+Sg %+Ecl]:{ndabhach}
+		|[{fothair} %+Noun %+Fem %+Com %+Pl %+DefArt]:{foithreacha}
+		|[{fothair} %+Noun %+Fem %+Com %+Pl %+Len]:{fhoithreacha}
+		|[{fothair} %+Noun %+Fem %+Com %+Pl %+Ecl]:{bhfoithreacha}
+		|[{fothair} %+Noun %+Fem %+Gen %+Strong %+Pl]:{foithreacha}
+		|[{fothair} %+Noun %+Fem %+Gen %+Strong %+Pl %+Len]:{fhoithreacha}
+		|[{fothair} %+Noun %+Fem %+Gen %+Strong %+Pl %+DefArt]:{bhfoithreacha}
+		|[{fothair} %+Noun %+Fem %+Gen %+Strong %+Pl %+Ecl]:{bhfoithreacha}
+		|[{fothair} %+Noun %+Fem %+Voc %+Pl %+Len]:{fhoithreacha}
+		|[{seamair} %+Noun %+Fem %+Com %+Sg]:{seamair}
+		|[{seamair} %+Noun %+Fem %+Com %+Sg]:{tseamair}
+		|[{domhain} %+Noun %+Fem %+Com %+Sg]:{domhain}
+		|[{domhain} %+Noun %+Fem %+Com %+Sg %+Len]:{dhomhain}
+		|[{domhain} %+Noun %+Fem %+Com %+Sg %+Ecl]:{ndomhain}
+		|[{admháil} %+Noun %+Fem %+Com %+Sg]:{admháil}
+		|[{admháil} %+Noun %+Fem %+Com %+Sg %+hPref]:{hadmháil}
+		|[{éadáil} %+Noun %+Fem %+Com %+Sg]:{éadáil}
+		|[{éadáil} %+Noun %+Fem %+Com %+Sg %+hPref]:{héadáil}
+		|[{bréifin} %+Noun %+Fem %+Com %+Sg]:{bréifin}
+		|[{bréifin} %+Noun %+Fem %+Com %+Sg %+Len]:{bhréifin}
+		|[{bréifin} %+Noun %+Fem %+Com %+Sg %+Ecl]:{mbréifin}
+#		|[{crithir} %+Noun %+Fem %+Com %+Sg]:{crithir}
+#		|[{crithir} %+Noun %+Fem %+Com %+Sg %+Len]:{chrithir}
+#		|[{crithir} %+Noun %+Fem %+Com %+Sg %+Ecl]:{gcrithir}
+		|[{mionn} %+Noun %+Masc %+Gen %+Weak %+Pl]:{mionn}
+		|[{mionn} %+Noun %+Masc %+Gen %+Weak %+Pl %+DefArt]:{mionn}
+		|[{furasta} %+Adj %+Comp]:{fusa}		! not furasta
+		|[{furasta} %+Adj %+Comp %+Len]:{fhusa}	
+		|[{fada} %+Adj %+Comp]:{faide} 			! not fada
+		|[{fada} %+Adj %+Comp %+Len]:{fhaide}		
+		|[{olc} %+Adj %+Comp]:{measa}			! not oilce
+		|[{mór} %+Adj %+Comp]:{mó}			! not móire
+		|[{olc} %+Adj %+Comp %+Len]:{mheasa}	
+
+];
+
+# REMOVE THE BAD STRINGS FROM THE EXISTING NETWORK
+read regex ~$[Bad] .o. @"int/fix2.fst";
+
+
+# CREATE A NEW NETWORK OF GOOD REPLACEMENT STRINGS
+read regex Good;
+
+# COMBINE THE TWO NETWORKS
+union net
+save stack int/fix3.fst
+clear stack
+# this looks at upper level and removes tag from upper level => it cannot tell what surface looks like
+#read regex [[] <- %+hPref || .#. [a|e|i|o|u|á|é|í|ó|ú|b|c|d|f|g|j|l|m|n|p|q|r|s|t|v|w|x|y|z|A|E|I|O|U|Á|É|Í|Ó|Ú|B|C|D|F|G|H|J|K|L|M|N|P|Q|R|S|T|V|W|X|Y|Z] ?+ _ ] .o. @"int/fix3.fst" ;
+# can at least remove hPref from all non vowel-initial words ...
+read regex [[] <- %+hPref || .#. [b|c|d|f|g|h|j|l|m|n|p|q|r|s|t|v|w|x|y|z|B|C|D|F|G|H|J|K|L|M|N|P|Q|R|S|T|V|W|X|Y|Z] ?+ _ ] .o. @"int/fix3.fst" ;
+save stack int/fix3.fst
+
+# TESTING !!!!!!
+# REMOVING THIS TO ALLOW úsáid+Verbal+Noun+Len
+# 21/08/2006
+#clear stack
+#read regex [[] <- %+Len || .#. [a|e|i|o|u|á|é|í|ó|ú|A|E|I|O|U|Á|É|Í|Ó|Ú] ?+ _ ] .o. @"int/fix3.fst" ;
+
+echo <<< saving flash >>>
+save stack int/flash.fst
+
+clear stack
+read regex @"int/flash.fst" .o. @"int/ftidy.fst";
+#define AllInclusive;
+
+echo <<< saving all >>>
+#clear stack
+#read regex ~$[%+Guess] .o. AllInclusive;
+save stack bin/all.fst
+
+#echo <<< saving guessn.fst >>>
+#clear stack
+#read regex $[%+Guess] .o. AllInclusive;
+#save stack bin/guessn.fst
+
+

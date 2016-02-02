@@ -1,0 +1,51 @@
+# THIS IS INCLUDED IN ALL.FST
+# Uru + Cap normalisation
+# #
+
+echo <<< defining URUS >>>
+define uruB b (->) B || .#. m _ ;
+define uruC c (->) C || .#. g _ ;
+define uruD d (->) D || .#. n _ ;
+define uruF f (->) F || .#. b h _ ;
+define uruG g (->) G || .#. n _ ;
+define uruP p (->) P || .#. b _ ;
+define uruS s (->) S || .#. t _ ;
+define uruT t (->) T || .#. d _ ;
+ 
+echo <<< defining VOWELPREFIXESS >>>
+
+! t-aire can be tAire 
+! therefore "-a" becomes "A" i.e %- a (->) A
+
+define ntVowel %- a (->) A, %- e (->) E, %- i (->) I, %- o (->) O, %- u (->) U, 
+%- á (->) Á, %- é (->) É, %- í (->) Í, %- ó (->) Ó, %- ú (->) Ú || .#. [n|t] _ ;
+
+! can have le hÁine, na hÉireann etc.
+define hVowel a (->) A, e (->) E, i (->) I, o (->) O, u (->) U, 
+á (->) Á, é (->) É, í (->) Í, ó (->) Ó, ú (->) Ú || .#. h  _ ;
+
+push uruB
+push uruC
+push uruD
+push uruG
+push uruF
+push uruG
+push uruP
+push uruS
+push uruT
+push ntVowel
+push hVowel
+
+!! NOW COMPOSED IN LOOKUP.SCRIPT
+!!read regex uruB .o. uruC .o. uruD .o. uruG .o. uruF .o. uruG .o. uruP .o. uruS .o. uruT .o. ntVowel .o. hVowel .o. @"int/fixed.fst";
+
+read regex uruB .o. uruC .o. uruD .o. uruG .o. uruF .o. uruG .o. uruP .o. uruS .o. uruT .o. ntVowel .o. hVowel ;
+
+save stack bin/urucaps.fst
+
+echo <<< COMPOSING >>>
+clear stack
+
+read regex @"bin/all.fst" .o. @"bin/urucaps.fst"; 
+save stack bin/urucaps-all.fst
+

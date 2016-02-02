@@ -1,0 +1,132 @@
+!**************************************************************************
+ 
+LEXICON V2-BR	! 2nd. Conjugation - broad
+
+0:^aigh	V2-BR-0;
+
+!**************************************************************************
+ 
+LEXICON V2-SL	! 2nd. Conjugation - slender
+
+0:^Caol^igh	V2-BR-0;
+
+!**************************************************************************
+ 
+LEXICON V2-BR-sync	! 2nd. Conjugation - broad - syncopated
+
+0:^Coim	V2-BR-0;
+
+!**************************************************************************
+ 
+LEXICON V2-SL-sync	! 2nd. Conjugation - slender - syncopated
+
+0:^Caol^Coim	V2-BR-0;
+
+!**************************************************************************
+
+LEXICON V2-BR-0	! 2nd. Conjugation - broad
+					
++PresInd:^Verb 	V2-BR-PresInd;	!*** Modh Táscach - Indicative Mood
++PastInd:^Verb		V2-BR-PastInd;
++FutInd:^Verb		V2-BR-FutInd;
++PastImp:^Verb		V2-BR-PastImp;	
+					
+
++Cond:^Verb		V2-BR-Cond;	!*** Modh Coinníollach - Condit. Mood
+
+					
++PresSubj:^Verb	V2-BR-PresSubj;	!*** Modh Foshuiteach - Subjunctive Mood
+!!!!+Verb+PastSubj:^Verb	V2-BR-PastSubj;
+
+					
++Imper:^Verb		V2-BR-Imper;	!*** Modh Ordaitheach - Imperative Mood
+
+
+LEXICON V2-BR-PresInd		! Present Tense - Aimsir Láithreach
+0:aíonn		NegQ;
++1P+Sg:aím	NegQ;
++1P+Sg+Emph:aímse	NegQ;
++1P+Pl:aímid	NegQ;
++1P+Pl+Emph:aímidne	NegQ;
++Auto:aítear	NegQ;		! +Auto = Autonomous - saor briathar
++Rel:aíos^Sé	#;		! a choiglíos
+
+LEXICON V2-BR-PastInd		! Past Tense - Aimsir Chaite
+
++1P+Sg:aíos	NegQPast;		! 14 Feb
+0:^Fr		NegQPast;	! 
++1P+Pl:aíomar	NegQPast;
++1P+Pl+Emph:aíomarna	NegQPast;
++3P+Pl:aíodar	NegQPast;
++Auto:aíodh	NegQSaor;		
+
+LEXICON V2-BR-FutInd		! Future Tense - Aimsir Fháistineach
++1P+Sg:aíos	NegQ;		! 14 Feb
+0:óidh		NegQ;
++1P+Pl:óimid	NegQ;
++1P+Pl+Emph:óimidne	NegQ;
++Auto:ófar	NegQ;		
++Rel:ós^Sé	#;		! a chosnós
+
+LEXICON V2-BR-PastImp		! Imperfect  - Aimsir Ghnáthchaite ( past hab.)
+0:aíodh		NegQLen;
++1P+Sg:aínn		NegQLen;
++1P+Sg+Emph:aínnse		NegQLen;
++2P+Sg:aíteá		NegQLen;
+!!!+3P+Sg:aíodh		NegQLen;
++1P+Pl:aímis		NegQLen;
++1P+Pl+Emph:aímisne		NegQLen;
+!!!+2P+Pl:aíodh		NegQLen;
++3P+Pl:aídís		NegQLen;
++Auto:aítí 		NegQLen;		
+
+LEXICON V2-BR-Cond		! Conditional Mood - Modh Coinníollach
+
+0:ódh		#; ! munster variation
+0:ódh		NegQLen;
++1P+Sg:óinn		NegQLen;
++1P+Sg+Emph:óinnse		NegQLen;
++1P+Sg:óinn		NegQLen;
++2P+Sg:ófá		NegQLen;
++2P+Sg+Emph:ófása		NegQLen;
+!!!!+3P+Sg:ódh		NegQLen;
++1P+Pl:óimis		NegQLen;
++1P+Pl+Emph:óimisne		NegQLen;
+!!!!+2P+Pl:ódh		NegQLen;
++3P+Pl:óidís		NegQLen;
++Auto:ófaí 		NegQLen;		
+
+
+LEXICON V2-BR-PresSubj		! Present Subj. Mood - Modh Foshuiteach Láith.
+0:aí		NegSubj;
++1P+Pl:aímid	NegSubj;
++1P+Pl+Emph:aímidne	NegSubj;
++Auto:aítear	NegSubj;		
+
+LEXICON V2-BR-PastSubj		! Past Subjunctive Mood - Modh Foshuit. Caite
+
++1P+Sg:aínn	NegQLen;
++1P+Sg+Emph:aínnse	NegQLen;
++2P+Sg:aíteá	NegQLen;
++3P+Sg:aíodh	NegQLen;
++1P+Pl:aímis	NegQLen;
++1P+Pl+Emph:aímisne	NegQLen;
++2P+Pl:aíodh	NegQLen;
++3P+Pl:aídís	NegQLen;
++Auto:aítí 	NegQLen;		
+
+LEXICON V2-BR-Imper		! Imperative Mood - Modh Ordaitheach
+
++1P+Sg:aím	NegImper;
++1P+Sg+Emph:aímse	NegImper;
++2P+Sg:^Fr	NegImper;
++3P+Sg:aíodh	NegImper;
++1P+Pl:aímis	NegImper;
++1P+Pl+Emph:aímisne	NegImper;
++2P+Pl:aígí	NegImper;
++3P+Pl:aídís	NegImper;
++Auto:aítear 	NegImper;		
+
+
+!***************************************************************************
+END

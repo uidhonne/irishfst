@@ -1,0 +1,456 @@
+!**************************************************************************
+!!!! removed PastSubj 
+
+LEXICON V1-SL	! 1st. Conjugation - slender
+
++PastInd+1P+Sg:^Verbis	NegQPast;	! variation shílis as well as shíleas
+0:^Caol	V1-BR;
+
+!**************************************************************************
+
+LEXICON V1-BR	! 1st. Conjugation - broad
+					
++PresInd:^Verb		V1b-PresInd;	!*** Modh Táscach - Indicative Mood
++PastInd:^Verb		V1b-PastInd;
++FutInd:^Verb		V1b-FutInd;
++PastImp:^Verb		V1b-PastImp;	
+					
+
++Cond:^Verb		V1b-Cond;	!*** Modh Coinníollach - Condit. Mood
+
+					
++PresSubj:^Verb		V1b-PresSubj;	!*** Modh Foshuiteach - Subjunctive Mood
+!!!!!+Verb+PastSubj:^Verb		V1b-PastSubj;
+
+					
++Imper:^Verb		V1b-Imper;	!*** Modh Ordaitheach - Imperative Mood
+
+
+LEXICON V1b-PresInd		! Present Tense - Aimsir Láithreach
+0:ann		NegQ;
++1P+Sg:aim	NegQ;
++1P+Sg+Emph:aimse	NegQ;
++1P+Pl:aimid	NegQ;
++1P+Pl+Emph:aimidne	NegQ;
++Auto:tar	NegQ;		! +Auto = Autonomous - saor briathar
++Rel:as^Sé		#;
+
+LEXICON V1b-PastInd		! Past Tense - Aimsir Chaite
+		NegQPast;
++1P+Sg:as	NegQPast;	! 14 Feb
++1P+Pl:amar	NegQPast;
++1P+Pl+Emph:amarna	NegQPast;
++3P+Pl:adar	NegQPast;
++Auto:adh	NegQSaor;		
+
+LEXICON V1b-FutInd		! Future Tense - Aimsir Fháistineach
++1P+Sg:fad	NegQ;	! 14 Feb
+0:faidh		NegQ;
++1P+Pl:faimid	NegQ;
++1P+Pl+Emph:faimidne	NegQ;
++Auto:far	NegQ;		
++Rel:fas^Sé	#;
+
+LEXICON V1b-PastImp		! Imperfect  - Aimsir Ghnáthchaite ( past hab.)
+0:adh		NegQLen;
++1P+Sg:ainn		NegQLen;
++1P+Sg+Emph:ainnse		NegQLen;
++2P+Sg:tá		NegQLen;
+!!!!+3P+Sg:adh		NegQLen;
++1P+Pl:aimis		NegQLen;
++1P+Pl+Emph:aimisne		NegQLen;
+!!!!+2P+Pl:adh		NegQLen;
++3P+Pl:aidís		NegQLen;
++Auto:taí 		NegQLen;		
+
+LEXICON V1b-Cond		! Conditional Mood - Modh Coinníollach
+
++CM:fadh		#;	! munster variation
+0:fadh		NegQLen;
++1P+Sg:fainn		NegQLen;
++1P+Sg+Emph:fainnse		NegQLen;
++2P+Sg:fá		NegQLen;
++2P+Sg+Emph:fása		NegQLen;
+!!!+3P+Sg:fadh		NegQLen;
++1P+Pl:faimis		NegQLen;
++1P+Pl+Emph:faimisne		NegQLen;
+!!!+2P+Pl:fadh		NegQLen;
++3P+Pl:faidís		NegQLen;
++Auto:faí 		NegQLen;		
+
+LEXICON V1b-PresSubj		! Present Subj. Mood - Modh Foshuiteach Láith.
+0:a		NegSubj;
++1P+Pl:aimid	NegSubj;
++1P+Pl+Emph:aimidne	NegSubj;
++Auto:tar	NegSubj;		
+
+LEXICON V1b-PastSubj		! Past Subjunctive Mood - Modh Foshuit. Caite
+
++1P+Sg:ainn	NegQLen;
++1P+Sg+Emph:ainnse	NegQLen;
++2P+Sg:tá	NegQLen;
++3P+Sg:adh	NegQLen;
++1P+Pl:aimis	NegQLen;
++1P+Pl+Emph:aimisne	NegQLen;
++2P+Pl:adh	NegQLen;
++3P+Pl:aidís	NegQLen;
++Auto:taí 	NegQLen;		
+
+LEXICON V1b-Imper		! Imperative Mood - Modh Ordaitheach
+
++1P+Sg:aim	NegImper;
++1P+Sg+Emph:aimse	NegImper;
++2P+Sg:0	NegImper;
++3P+Sg:adh	NegImper;
++1P+Pl:aimis	NegImper;
++1P+Pl+Emph:aimisne	NegImper;
++2P+Pl:aigí	NegImper;
++3P+Pl:aidís	NegImper;
++Auto:tar 	NegImper;
+
+
+!***************************************************************************
+LEXICON V1-BR-LV	! 1st. Conjugation - ! Broad F Slender T 
+                	! ending in  áigh, eoigh, óigh, uaigh, úigh
+
+					
+
++PresInd:^igh^Verb	V1xa-PresInd;	!*** Modh Táscach - Indicative Mood
++PastInd:0		V1xa-PastInd;
++FutInd:^igh^Verb	V1xa-FutInd;
++PastImp:^igh^Verb	V1xa-PastImp;	
+					
+
++Cond:^igh^Verb	V1xa-Cond;		!*** Modh Coinníollach - Condit. Mood
+
+					
++PresSubj:^igh^Verb	V1xa-PresSubj;	!*** Modh Foshuiteach - Subjunctive Mood
+!!!!!+Verb+PastSubj:^igh^Verb	V1xa-PastSubj;
+
+					
++Imper:0		V1xa-Imper;	!*** Modh Ordaitheach - Imperative Mood
+
+
+LEXICON V1xa-PresInd		! Present Tense - Aimsir Láithreach
++1P+Sg:im	NegQ;
++1P+Sg+Emph:imse	NegQ;
+0:nn		NegQ;
++1P+Pl:imid	NegQ;
++1P+Pl+Emph:imidne	NegQ;
++Auto:itear	NegQ;		! +Auto = Autonomous - saor briathar
++Rel:s^Sé		#;	! e.g. a dhós
+
+LEXICON V1xa-PastInd		! Past Tense - Aimsir Chaite
+
++1P+Sg:s		NegQPast;	! 14 Feb
+0:^Verb			NegQPast;
++1P+Pl:^igh^Verbmar		NegQPast;
++Auto:^igh^Verbdh		NegQSaor;		
+
+LEXICON V1xa-FutInd		! Future Tense - Aimsir Fháistineach
+	V1b-FutInd;	
+
+LEXICON V1xa-PastImp		! Imperfect  - Aimsir Ghnáthchaite ( past hab.)
+0:dh	NegQLen;
++1P+Sg:inn	NegQLen;
++1P+Sg+Emph:innse	NegQLen;
++2P+Sg:iteá	NegQLen;
+!!!!+3P+Sg:dh	NegQLen;
++1P+Pl:imis	NegQLen;
++1P+Pl+Emph:imisne	NegQLen;
+!!!!+2P+Pl:dh	NegQLen;
++3P+Pl:idís	NegQLen;
++Auto:ití 	NegQLen;		
+
+LEXICON V1xa-Cond		! Conditional Mood - Modh Coinníollach
+	V1b-Cond;
+	
+LEXICON V1xa-PresSubj		! Present Subj. Mood - Modh Foshuiteach Láith.
+		NegSubj;
++1P+Pl:imid	NegSubj;
++1P+Pl+Emph:imidne	NegSubj;
++Auto:itear	NegSubj;		
+
+LEXICON V1xa-PastSubj		! Past Subjunctive Mood - Modh Foshuit. Caite
++1P+Sg:inn	NegQLen;
++1P+Sg+Emph:innse	NegQLen;
++2P+Sg:iteá	NegQLen;
++3P+Sg:dh	NegQLen;
++1P+Pl:imis	NegQLen;
++1P+Pl+Emph:imisne	NegQLen;
++2P+Pl:dh	NegQLen;
++3P+Pl:idís	NegQLen;
++Auto:ití 	NegQLen;		
+		
+
+LEXICON V1xa-Imper		! Imperative Mood - Modh Ordaitheach
+
++1P+Sg:^igh^Verbim		NegImper;
++2P+Sg:0			NegImper;
++3P+Sg:^igh^Verbdh		NegImper;
++1P+Pl:^igh^Verbimis	NegImper;
++2P+Pl:^igh^Verbigí		NegImper;
++3P+Pl:^igh^Verbidís	NegImper;
++Auto:^igh^Verbitear 	NegImper;		
+
+
+!***************************************************************************
+LEXICON V1-SL-LV	! 1st. Conjugation - ! Slender F Slender T 
+                	! ending in  -éigh
+
+					
+
++PresInd:^igh^Verb	V1xb-PresInd;	!*** Modh Táscach - Indicative Mood
++PastInd:0		V1xb-PastInd;
++FutInd:^igh^Verb	V1xb-FutInd;
++PastImp:^igh^Verb	V1xb-PastImp;	
+					
+
++Cond:^igh^Verb		V1xb-Cond;	!*** Modh Coinníollach - Condit. Mood
+
+					
++PresSubj:^igh^Verb	V1xb-PresSubj;	!*** Modh Foshuiteach - Subjunctive Mood
+!!!!!+Verb+PastSubj:^igh^Verb	V1xb-PastSubj;
+
+					
++Imper:0		V1xb-Imper;	!*** Modh Ordaitheach - Imperative Mood
+
+
+LEXICON V1xb-PresInd		! Present Tense - Aimsir Láithreach
++1P+Sg:im	NegQ;
++1P+Sg+Emph:imse	NegQ;
+0:ann		NegQ;
++1P+Pl:imid	NegQ;
++1P+Pl+Emph:imidne	NegQ;
++Auto:itear	NegQ;	! +Auto = Autonomous - saor briathar
++Rel:as^Sé	#;	! a phléas
+
+LEXICON V1xb-PastInd		! Past Tense - Aimsir Chaite
+
++1P+Sg:^igh^Verbas		NegQPast;	! 14 Feb
+0:^Verb			NegQPast;
++1P+Pl:^igh^Verbamar	NegQPast;
++3P+Pl:^igh^Verbadar	NegQPast;
++Auto:^igh^Verbadh		NegQSaor;		
+
+LEXICON V1xb-FutInd		! Future Tense - Aimsir Fháistineach
++1P+Sg:ifad	NegQ;	! ?????  14 Feb
+0:ifidh		NegQ;
++1P+Pl:ifimid	NegQ;
++1P+Pl+Emph:ifimidne	NegQ;
++Auto:ifear	NegQ;	
++Rel:ifeas^Sé		#;
+
+LEXICON V1xb-PastImp		! Imperfect  - Aimsir Ghnáthchaite ( past hab.)
+0:adh	NegQLen;
++1P+Sg:inn	NegQLen;
++1P+Sg+Emph:innse	NegQLen;
++2P+Sg:iteá	NegQLen;
+!!!+3P+Sg:adh	NegQLen;
++1P+Pl:imis	NegQLen;
++1P+Pl+Emph:imisne	NegQLen;
+!!!+2P+Pl:adh	NegQLen;
++3P+Pl:idís	NegQLen;
++Auto:ití 	NegQLen;		
+
+
+LEXICON V1xb-Cond		! Conditional Mood - Modh Coinníollach
++CM:ifeadh		#; ! munster variation
+0:ifeadh		NegQLen;
++1P+Sg:ifinn		NegQLen;
++1P+Sg+Emph:ifinnse		NegQLen;
++2P+Sg:ifeá		NegQLen;
+!!!!+3P+Sg:ifeadh		NegQLen;
++1P+Pl:ifimis		NegQLen;
++1P+Pl+Emph:ifimisne		NegQLen;
+!!!!+2P+Pl:ifeadh		NegQLen;
++3P+Pl:ifidís		NegQLen;
++Auto:ifí		NegQLen;
+
+	
+LEXICON V1xb-PresSubj		! Present Subj. Mood - Modh Foshuiteach Láith.
+        V1xa-PresSubj;   	
+
+LEXICON V1xb-PastSubj		! Past Subjunctive Mood - Modh Foshuit. Caite
++1P+Sg:inn	NegQLen;
++1P+Sg+Emph:innse	NegQLen;
++2P+Sg:iteá	NegQLen;
++3P+Sg:adh	NegQLen;
++1P+Pl:imis	NegQLen;
++1P+Pl+Emph:imisne	NegQLen;
++2P+Pl:adh	NegQLen;
++3P+Pl:idís	NegQLen;
++Auto:ití 	NegQLen;
+
+LEXICON V1xb-Imper		! Imperative Mood - Modh Ordaitheach
+
++1P+Sg:^igh^Verbim		NegImper;
++2P+Sg:0		NegImper;
++3P+Sg:^igh^Verbadh		NegImper;
++1P+Pl:^igh^Verbimis		NegImper;
++2P+Pl:^igh^Verbigí		NegImper;
++3P+Pl:^igh^Verbidís		NegImper;
++Auto:^igh^Verbitear 	NegImper;
+
+!***************************************************************************
+LEXICON V1-SV	! 1st. Conjugation - ! Slender F Slender T 
+                ! ending in  -éigh
+
+					
+
++PresInd:^igh^Verb	V1xc-PresInd;	!*** Modh Táscach - Indicative Mood
++PastInd:0		V1xc-PastInd;
++FutInd:^igh^Verb	V1xc-FutInd;
++PastImp:^igh^Verb	V1xc-PastImp;	
+					
+
++Cond:^igh^Verb		V1xc-Cond;	!*** Modh Coinníollach - Condit. Mood
+
+					
++PresSubj:^igh^Verb	V1xc-PresSubj;	!*** Modh Foshuiteach - Subjunctive Mood
+!!!!!+Verb+PastSubj:^igh^Verb	V1xc-PastSubj;
+
+					
++Imper:0		V1xc-Imper;	!*** Modh Ordaitheach - Imperative Mood
+
+
+LEXICON V1xc-PresInd		! Present Tense - Aimsir Láithreach
++1P+Sg:ím	NegQ;
++1P+Sg+Emph:ímse	NegQ;
+0:íonn		NegQ;
++1P+Pl:ímid	NegQ;
++1P+Pl+Emph:ímidne	NegQ;
++Auto:itear	NegQ;		! +Auto = Autonomous - saor briathar
++Rel:íos^Sé	#;
+
+LEXICON V1xc-PastInd		! Past Tense - Aimsir Chaite
++1P+Sg:^igh^Verbíos		NegQPast;	! 14 Feb
+0:^Verb			NegQPast;
++1P+Pl:^igh^Verbíomar	NegQPast;
++Auto:^igh^Verbíodh		NegQSaor;
+
+LEXICON V1xc-FutInd		! Future Tense - Aimsir Fháistineach
++1P+Sg:íos	NegQ;	! 14 Feb
+0:ífidh		NegQ;
++1P+Pl:ífimid	NegQ;
++1P+Pl+Emph:ífimidne	NegQ;
++Auto:ífear	NegQ;	
++Rel:ífeas^Sé	#;	
+
+
+LEXICON V1xc-PastImp		! Imperfect  - Aimsir Ghnáthchaite ( past hab.)
+0:íodh	NegQLen;
++1P+Sg:ínn^Sé	NegQ;
++1P+Sg+Emph:ínnse^Sé	NegQ;
++2P+Sg:iteá	NegQLen;
+!!!!+3P+Sg:íodh	NegQLen;
++1P+Pl:ímis	NegQLen;
++1P+Pl+Emph:ímisne	NegQLen;
+!!!!+2P+Pl:íodh	NegQLen;
++3P+Pl:ídís	NegQLen;
++Auto:ití 	NegQLen;		
+
+
+LEXICON V1xc-Cond		! Conditional Mood - Modh Coinníollach
++CM:ífeadh		#;	! munster variation
+0:ífeadh		NegQLen;
++1P+Sg:ífinn		NegQLen;
++1P+Sg+Emph:ífinnse		NegQLen;
++2P+Sg:ífeá		NegQLen;
+!!!+3P+Sg:ífeadh		NegQLen;
++1P+Pl:ífimis		NegQLen;
++1P+Pl+Emph:ífimisne		NegQLen;
+!!!+2P+Pl:ífeadh		NegQLen;
++3P+Pl:ífidís		NegQLen;
++Auto:ífí 		NegQLen;		
+
+	
+LEXICON V1xc-PresSubj		! Present Subj. Mood - Modh Foshuiteach Láith.
+0:í		NegSubj;
++1P+Pl:ímid	NegSubj;
++1P+Pl+Emph:ímidne	NegSubj;
++Auto:itear	NegSubj;		
+
+
+
+LEXICON V1xc-PastSubj		! Past Subjunctive Mood - Modh Foshuit. Caite
++1P+Sg:ínn	NegQLen;
++1P+Sg+Emph:ínnse	NegQLen;
++2P+Sg:iteá	NegQLen;
++3P+Sg:íodh	NegQLen;
++1P+Pl:ímis	NegQLen;
++1P+Pl+Emph:ímisne	NegQLen;
++2P+Pl:íodh	NegQLen;
++3P+Pl:ídís	NegQLen;
++Auto:ití 	NegQLen;		
+		
+
+LEXICON V1xc-Imper		! Imperative Mood - Modh Ordaitheach
+
++1P+Sg:^igh^Verbím		NegImper;
++2P+Sg:0			NegImper;
++3P+Sg:^igh^Verbíodh	NegImper;
++1P+Pl:^igh^Verbímis	NegImper;
++2P+Pl:^igh^Verbígí		NegImper;
++3P+Pl:^igh^Verbídís	NegImper;
++Auto:^igh^Verbitear 	NegImper;		
+
+!**************************************************************************
+! NO LONGER USED - V1-SL-BR should now be used 
+LEXICON V1-SL-X		! 1st. Conjugation - slender becomes broad
+
+0:^Lea	V1-BR;
+!**************************************************************************
+! NEW  15/05/08 
+LEXICON V1-SL-BR-sync	! 1st. Conjugation - slender is sync. and becomes broad
+			! except Imperative 2P Sg remains slender AND
+			! all Past remains slender except 1P Pl
+0:^Coim		V1-SL-BR;
+!**************************************************************************
+! NEW  02/05/08 
+LEXICON V1-SL-BR	! 1st. Conjugation - slender becomes broad
+			! except Imperative 2P Sg remains slender AND
+			! all Past remains slender except 1P Pl
+
+					!*** 2 NEW CATEGORIES 02/05/2008
++Imper:0		V1xd-Imper;	!*** BROADEN ALL EXCEPT 2P Sg
++PastInd:0		V1xd-PastInd;	!*** ALL STAY SLENDER EXCEPT 1P Pl
+					
++PresInd:^Lea^Verb	V1b-PresInd;	!*** BROADEN 
++FutInd:^Lea^Verb	V1b-FutInd;	!*** BROADEN 
++PastImp:^Lea^Verb	V1b-PastImp;	!*** BROADEN 
+
++Cond:^Lea^Verb		V1b-Cond;	!*** BROADEN
+					
++PresSubj:^Lea^Verb		V1b-PresSubj;	!*** BROADEN
+!!!!!+Verb+PastSubj:^Verb	V1b-PastSubj;
+
+LEXICON V1xd-Imper		! Imperative Mood - Modh Ordaitheach
+
++1P+Sg:^Lea^Verbaim		NegImper;
++1P+Sg+Emph:^Lea^Verbaimse	NegImper;
++2P+Sg:^Verb			NegImper;
++3P+Sg:^Lea^Verbadh		NegImper;
++1P+Pl:^Lea^Verbaimis		NegImper;
++1P+Pl+Emph:^Leaaimisne		NegImper;
++2P+Pl:^Lea^Verbaigí		NegImper;
++3P+Pl:^Lea^Verbaidís		NegImper;
++Auto:^Leatar 			NegImper;
+					
+LEXICON V1xd-PastInd		! Past Tense - Aimsir Chaite
+0:^Verb				NegQPast;
++1P+Sg:^Verbeas			NegQPast;	! 14 Feb
++1P+Pl:^Lea^Verbamar		NegQPast;
++1P+Pl+Emph:^Lea^Verbamarna	NegQPast;
++3P+Pl:^Verbeadar		NegQPast;
++Auto:^Verbeadh			NegQSaor;		
+
+!**************************************************************************
+ 
+LEXICON V1-SL-LC		! 1st. Conjugation - slender becomes broad except where
+			! the ending starts with t
+0:^LC	V1-BR;
+
+
+
+!***************************************************************************

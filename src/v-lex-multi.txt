@@ -1,0 +1,79 @@
+!****************************************************************************
+! Briathra Gaeilge
+! E. Uí Dhonnchadha
+! (c) 2001
+! (1) New Irish Grammar by The Christian Brothers  
+! (2) Gramadach na Gaeilge agus Litriú na Gaeilge - An Caighdeán Oifigiúil
+! (3) Foclóir Póca - An Gúm
+! (4) Nuachúrsa Gaeilge na mBráithre Críostaí
+! (5) Ó Dónaill Irish-English Dictionary
+!
+!****************************************************************************
+Multichar_Symbols
+
++Verb
++VT		! transitive
++VD		! ditransitive
++VI		! intransitive
++VTI		! transitive & intransitive
++Vow		! vowel-initial : used to allow past-tense Len e.g. d´ith
+
++1P +2P +3P 	! First, second and third person
++Auto		! Autonomous 
+
++Sg +Pl		! Singular and Plural
+
+! Indicative Mood - Modh Táscach 
+
++PresInd	! Present Indicative
++PastInd	! Past Indicative
++FutInd		! Future Indicative
+!+ImpInd		! Imperfect Indicative
++PastImp	! Past Imperfect Indicative
+
+! Conditional Mood 
+
++Cond		! 
+
+! Subjunctive Mood - Modh Foshuiteach
+
++PresSubj	! Present Subjunctive
++PastSubj	! Past Subjunctive
+
+! Imperative  Mood - Modh Ordaitheach
+
++Imper		! 
++Neg		! Negative
++Q		! Interrogative
++NegQ		! 
++Emph
++Len
++Ecl
+!--------------------------------------------------------------------------------
+^Verb
+^VN
+^Sé		! Séimhiú (Lenite, soften)
+^Caol		! Caolaítear an deireadh (Slenderise the ending)
+^Lea		! Leathnaítear an tús (Broaden the root)
+^LeaS		! Leathnaítear an tús mura dtosnaíonn an foirceann le "t"
+^LC		! leathan/Caol: Leathnaítear an tús mura dtosnaíonn an foirceann le "t"
+
+
+
+^igh 		! remove -igh ending
+^aigh 		! remove -aigh ending
+^Coim		! Coimriú (syncopation)
+^Fr		! Fréamh (root) use root - i.e.don't syncopate in these cases 
+^Urú
+^Do		! d' before Past Past Imperfect (gnáthchaite0 and conditional
+^hv		! h before vowel e.g. ná hólaigí ...
+LEXICON Root
+        VerbsC1A;		! ORIGINAL TEST LEXICON
+        VerbsC2A;		! ORIGINAL TEST LEXICON
+	VerbsB;			! verbs
+	VerbsC;			! FP verbs
+	Verbs-FGB1;		! FGB verbs
+	Verbs-FGB2;		! FGB verbs
+	Verb-Variants;		! FGB verb variants
+	VerbsEqualVariants;	! FGB verb = variants
+

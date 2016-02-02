@@ -1,0 +1,97 @@
+! INTERJECTIONS
+! EUD 2011
+! FILLED PAUSES (CHILDES term)
+! COMMUNICATORS (CHILDES term)
+! SIMPLE EVENTS (CHILDES term)
+! Unknown/unintelligible/inaudible
+
+
+Multichar_Symbols
+
++Itj		!  Interjection
++Filler		!  Filled Pause (eh, em,
++Cmc		!  Communicator (yeah, y'know)
++Event		!  Simple Event (laugh, sneeze etc.)
++Xxx		!  Indecipherable speech	
+
+LEXICON Root
+	Interjections;
+	Fillers;
+	Communicators;
+	Events;
+
+LEXICON Interjections
+xxx+Xxx:xxx			#;
+
+á+Itj:á				#;
+áh+Itj:áh			#;	!!! Hartmann
+abú+Itj:abú			#;
+áiméan+Itj:áiméan		#;
+ambaiste+Itj:ambaiste	#;
+ara+Itj:ara			#;
+bhuel+Itj:bhuel			#;
+bhail+Itj:bhail			#;
+bhoil+Itj:bhoil			#;	!!! Hartmann
+faraor+Itj:faraor		#;
+hurá+Itj:hurá			#;
+leoga+Itj:leoga			#;
+monuar+Itj:monuar		#;
+muise+Itj:muise			#;
+ó+Itj:ó				#;
+óh+Itj:óh			#;	!!! Hartmann
+och+Itj:och			#;
+ochón+Itj:ochón			#;
+oró+Itj:oró			#;
+heileo+Itj:Heileo		#;
+haló+Itj:Haló			#;
+
+! FILLED PAUSES
+LEXICON Fillers	
+
+ah+Filler:ah			#;	!!!  GALA
+oh+Filler:oh			#;	!!!  GALA
+aha+Filler:aha			#;	!!!  GALA
+eh+Filler:eh			#;	!!!  GALA
+em+Filler:em			#;	!!!  GALA
+um+Filler:um			#;	!!!  GALA
+mm+Filler:mm			#;	!!!  GALA
+hm+Filler:hm			#;	!!!  GALA
+mhm+Filler:mhm			#;	!!!  GALA
+uhuh+Filler:uhuh		#;	!!!  GALA
+uhoh+Filler:uhoh		#;	!!!  GALA
+uh+Filler:uh			#;	!!!  GALA
+
+LEXICON Communicators
+an_dtuigeann_tú+Cmc:an_dtuigeann_tú	#;
+<m a r %_:%  a %_:%  d é a r f á %+Cmc:0>	#;
+<f a i r  %_:%  p l a y %+Cmc:0>		#;
+<k n o w %_:%  w h a t %_:%  I %_:%  m e a n %+Cmc:0>	#;
+<I %_:%  m e a n %+Cmc:0>		#;
+<I %_:%  s u p p o s e %+Cmc:0>		#;
+<y o u %_:%  k n o w %+Cmc:0>		#;
+
+anyway+Cmc:anyway			#;
+anyways+Cmc:anyways			#;
+aye+Cmc:aye				#;
+but+Cmc:but				#;
+bydad+Cmc:bydad				#;
+lovely+Cmc:lovely			#;
+just+Cmc:just				#;
+now+Cmc:now				#;
+ok+Cmc:ok				#;
+since+Cmc:since				#;
+so+Cmc:so@eng				#;
+yeah+Cmc:yeah				#;
+well+Cmc:well				#;
+
+
+LEXICON Events
+@=broim+Event:@=broim			#; ! fart
+@=brúcht+Event:@=brúcht			#; ! belch
+@=caoineadh+Event:@=caoineadh		#; ! cry
+@=casacht+Event:@=casacht		#; ! cough
+@=gáire+Event:@=gáire			#; ! laugh
+@=fuaim+Event:@=fuaim			#; ! other sound
+@=méanfach+Event:@=méanfach		#; ! yawn
+@=sraoth+Event:@=sraoth			#; ! sneeze
+@=clic+Event:@=clic			#; ! click

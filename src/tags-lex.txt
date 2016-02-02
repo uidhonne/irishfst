@@ -1,0 +1,66 @@
+!***********************************************************************
+! XML Tags
+! E Uí Dhonnchadha
+!***********************************************************************
+Multichar_Symbols
+
++XMLTag		! 
+
+LEXICON Root
+	XMLTags;
+
+LEXICON XMLTags
+
+!!!<p>
+%<p%>+XMLTag:%<p%>	#;
+!!!</p>
+%<%/p%>+XMLTag:%<%/p%>	#;
+
+!!!<title>
+%<title%>+XMLTag:%<title%>	#;
+!!!</title>
+%<%/title%>+XMLTag:%<%/title%>	#;
+
+!!!</Turn>
+%<%/Turn%>+XMLTag:%<%/Turn%>	#;
+
+!!!</speaker_turn>
+%<%/speaker_turn%>+XMLTag:%<%/speaker_turn%>	#;
+
+!!!<caption>
+%<caption%>+XMLTag:%<caption%>	#;
+!!!</caption>
+%<%/caption%>+XMLTag:%<%/caption%>	#;
+
+!!!<head>
+%<head%>+XMLTag:%<head%>	#;
+!!!</head>
+%<%/head%>+XMLTag:%<%/head%>	#;
+
+%<s%>+XMLTag:%<s%>	#;
+%<%/s%>+XMLTag:%<%/s%>	#;
+
+!!!</div>
+%<%/div%>+XMLTag:%<%/div%>	#;
+%<div% type% %=% %'unspec%'%/%>+XMLTag:%<div% type% %=% %'unspec%'%/%>	#;
+%<div% type% %=% %'unspec%'%>+XMLTag:%<div% type% %=% %'unspec%'%>	#;
+%<div% type%=% %'section%'% n%=+XMLTag:%<div% type%=% %'section%'% n%=	#;
+
+!!!<gap desc='english text'/>+XMLTag:<gap desc='english text'/>
+%<gap%/%>+XMLTag:%<gap%/%>	#;
+%<gap%>+XMLTag:%<gap%>	#;
+%<gap% desc%=%'english% text%'%/%>+XMLTag:%<gap% desc%=%'english% text%'%/%>	#;
+%<gap% desc%=%'german% text%'%/%>+XMLTag:%<gap% desc%=%'german% text%'%/%>	#;
+%<gap% desc%=%'english%'%/%>+XMLTag:%<gap% desc%=%'english%'%/%>	#;
+%<gap% desc%=%'french%'%/%>+XMLTag:%<gap% desc%=%'french%'%/%>	#;
+%<gap% desc%=%'german%'%/%>+XMLTag:%<gap% desc%=%'german%'%/%>	#;
+%<gap% desc%=%'spanish%'%/%>+XMLTag:%<gap% desc%=%'spanish%'%/%>	#;
+%<gap% desc%=%'welsh%'%/%>+XMLTag:%<gap% desc%=%'welsh%'%/%>	#;
+%<gap% desc%=%'glossary%'%/%>+XMLTag:%<gap% desc%=%'glossary%'%/%>	#;
+%<gap% desc%=%'bibl%'%/%>+XMLTag:%<gap% desc%=%'bibl%'%/%>	#;
+%<gap% desc%=%'table%'%/%>+XMLTag:%<gap% desc%=%'table%'%/%>	#;
+%<gap% desc%=%'note%'%/%>+XMLTag:%<gap% desc%=%'note%'%/%>	#;
+%<gap% desc%=%'contact_info%'%/%>+XMLTag:%<gap% desc%=%'contact_info%'%/%>	#;
+
+%<l%>+XMLTag:%<l%>	#;
+%<%/l%>+XMLTag:%<%/l%>	#;

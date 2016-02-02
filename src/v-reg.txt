@@ -1,0 +1,98 @@
+! Verb (Gaeilge) Replace Rules
+! Elaine Uí Dhonnchadha
+! 
+! (c) 2001 - NEW
+! 2005 - new vn/va triggers
+!***************************************************************************
+!read regex
+! PastInd & Imper use stem
+regex [i g h -> [%^FT] || _ (%^Caol) %^igh ?* %^Verb [[\%^Fr]|.#.]] 
+.o.
+[%^igh ->[]]
+.o.
+[a i g h -> [%^FT] || _ %^aigh ?* %^Verb [\%^Fr]]
+.o.
+[%^aigh ->[]]
+.o.
+!! Verbal Noun Gen
+[á i l t e -> %^FT á l a || _ %^áil %^Verb ] 
+.o.
+[%^áil ->[]]
+.o.
+! Verbal Adjectives
+[t h -> [%^FT] || _ %^th %^Verb ]
+.o.
+! th -> te 
+[%^th ->[]]
+.o.
+! bh/gh/mh -> fa
+[b h -> [%^FT] ,
+g h -> [%^FT] ,
+m h -> [%^FT] || _ %^bgmh %^Verb ]
+.o.
+[%^bgmh ->[]]
+.o.
+
+! 2nd. Conjugation Syncopation of Stem
+
+[a i l -> %^FY l || _ %^Coim %^Verb [\%^Fr]]
+.o.
+[a i n -> %^FY n || _ %^Coim %^Verb [\%^Fr]]
+.o.
+[a i r -> %^FY r || _ %^Coim %^Verb [\%^Fr]]
+.o.
+[a i s -> %^FY s || _ %^Coim %^Verb [\%^Fr]]
+.o.
+[i l -> %^FY l || _ %^Caol %^Coim %^Verb [\%^Fr]]
+.o.
+[i n -> %^FY n || _ %^Caol %^Coim %^Verb [\%^Fr]]
+.o.
+[i r -> %^FY r || _ %^Caol %^Coim %^Verb [\%^Fr]]
+.o.
+[i s -> %^FY s || _ %^Caol %^Coim %^Verb [\%^Fr]]
+.o.
+[%^Coim ->[]]
+.o.
+[%^Fr ->[]]
+.o.
+
+! 1st Conjugation Slender Stems => broaden stems; leave slender for t endings
+
+[%^LC -> %^Caol || _ %^Verb [t|.#.]]
+.o.
+[i -> [%^FB ] || ?+ _ ? %^LC  %^Verb]
+.o.
+[%^LC -> 0 ]
+.o.
+
+! 1st Conjugation Slender Stems => slenderise endings ! order is important
+
+
+[a i -> %^FS i || %^Caol %^Verb [f|t]* _ ?+]
+.o.
+[a í -> %^FS í || %^Caol %^Verb [f|t]* _  ?* .#.]
+.o.
+[a  -> %^FS e || %^Caol %^Verb [f|t]* _  .#.]
+.o.
+[á  -> %^FS e á || %^Caol %^Verb [f|t]* _  .#.]
+.o.
+[a  -> %^FS e a || %^Caol %^Verb [f|t]* _ ?+] ! f/t - to prevent  amar - eamear
+.o.
+[ó   -> %^FS e o || %^Caol %^Verb [f|t]* _ ?+] 
+.o.
+[%^Caol -> []]
+.o.
+
+! 1st Conjugation Slender Stems => broaden root eg sábháil
+
+[i -> [%^FB ] || _ ? %^Lea]
+.o.
+[%^Lea -> []]
+.o.
+[%^Verb -> []]
+
+.o.
+
+[%^VAdj -> [] ]		!TEMPORARY - VERBAL ADJS. AND VERBAL NOUNS
+			!            IN 2 MUST BE SORTED OUT
+;

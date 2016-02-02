@@ -1,0 +1,353 @@
+!****************************************************************************
+!  Na Forainmneacha Pearsanta 		- The Personal Pronouns (mé,tú, sé, sí..)
+!  Na Forainmneacha Éiginnte 		- Indefinite Pronouns (ceachtar, cibé ...)
+!
+!  E. Uí Dhonnchadha
+! 
+! (1) New Irish Grammar by The Christian Brothers  
+! (2) Gramadach na Gaeilge agus Litriú na Gaeilge - An Caighdeán Oifigiúil
+! (3) Foclóir Póca - An Gúm
+! (4) Nuachúrsa Gaeilge na mBráithre Críostaí
+! (5) Ó Dónaill Irish-English Dictionary
+!
+! Pronominals - words which act like pronouns
+!****************************************************************************
+
+Multichar_Symbols
+
++Pron		! Pronoun
++Pro		! Pronoun with Copula
+
++Prep		! Prepositional pronoun
++Pers		! Personal
++Emph		! Emphatic (Contrastive) form of personal pronoun 
++Ref		! Reflexive
++Idf		! Indefinite
++Dem		! Demonstrative
+!!+Q		! Interrogative
+!!+Art		! 
++hPref		!
++1P +2P +3P	! first, second or third person
++Fem		! feminine gender
++Masc		! masculine gender
+
++Sg +Pl		! singular or plural in number
+
+
+!!+VerbSubj	!  sí, sé and siad are used only when pron follows predicate verb in 
+!! Subj is used for subjunctive
++Sbj	!  sí, sé and siad are used only when pron follows predicate verb in 
+		!  subject position eg Chuaigh SÍ amach (She went out), 
+		!  but Téigh gan Í (Go without her)
+!!!+Obj		! obj pronoun
++CU 
++CM
++CC
+
++Cop
+!---------------------------------------------------------------------------
+
+LEXICON Root
+        Personal_Pronouns;
+ 
+!***************************************************************************
+
+LEXICON Personal_Pronouns
+
+mé+Pron+Pers+1P+Sg:mé				#;	! me
+tú+Pron+Pers+2P+Sg:tú				#;	! you
+tú+Pron+Pers+2P+Sg+Len:thú				#;	! you
+
+sí+Pron+Pers+3P+Sg+Fem+Sbj:sí	#;	! she
+í+Pron+Pers+3P+Sg+Fem:í				#;	! she/her
+í+Pron+Pers+3P+Sg+Fem+hPref:hí		#;	! (not) she/her
+
+sé+Pron+Pers+3P+Sg+Masc+Sbj:sé	#;	! he
+é+Pron+Pers+3P+Sg+Masc:é			#;	! he
+é+Pron+Pers+3P+Sg+Masc+hPref:hé			#;	! (not) he
+
+sinn+Pron+Pers+1P+Pl:sinn			#;	! we
+muid+Pron+Pers+1P+Pl:muid			#;	! we
+
+sibh+Pron+Pers+2P+Pl:sibh			#;	! you pl. (also ye or yous)
+
+siad+Pron+Pers+3P+Pl+Sbj:siad	#;	! they
+iad+Pron+Pers+3P+Pl:iad				#;	! they
+iad+Pron+Pers+3P+Pl:hiad			#;	! (not) they
+
+!!! SEE PREP-LEX á+Pron+Pers+3P+Obj:á			#;	!it as obj bhí siad á bhualadh
+
+ea+Pron+Pers+3P+Sg:ea					#;	! it
+ea+Pron+Pers+3P+Sg:hea					#;	! (not) it
+ea+Pron+Pers+3P+Sg:eadh					#;	! it
+
+!---------------------------------------------------------------------------
+! Contrastive 
+
+mé+Pron+Pers+1P+Sg+Emph:mise			#;	! me/myself
+tú+Pron+Pers+2P+Sg+Emph:tusa			#;	! you/yourself
+tú+Pron+Pers+2P+Sg+Emph+Len:thusa		#;	! you/yourself
+
+sí+Pron+Pers+3P+Sg+Fem+Sbj+Emph:sise	#;	! she
+í+Pron+Pers+3P+Sg+Fem+Emph:ise		#;	! she/herself
+
+sé+Pron+Pers+3P+Sg+Masc+Sbj+Emph:seisean	#;	! he
+é+Pron+Pers+3P+Sg+Masc+Emph:eisean			#;	! he
+
+sinn+Pron+Pers+1P+Pl+Sbj+Emph:sinne		#;	! we
+muid+Pron+Pers+1P+Pl+Emph:muide				#;	! we
+
+sibh+Pron+Pers+2P+Pl+Emph:sibhse			#;	! you pl. (also ye or yous)
+
+
+siad+Pron+Pers+3P+Pl+Sbj+Emph:siadsan		#;	! they/them
+iad+Pron+Pers+3P+Pl+Emph:iadsan				#;	! they
+
+!---------------------------------------------------------------------------
+! Reflexive 
+
+féin+Pron+Ref:féin				#;	! self
+féin+Pron+Ref+Len:fhéin				#;	! self
+
+!---------------------------------------------------------------------------
+! Indefinite
+! these can follow a preposition e.g de cheachtar
+ceachtar+Pron+Idf:ceachtar	#;	! any/either
+ceachtar+Pron+Idf+Len:cheachtar	#;	! any/either
+neachtar+Pron+Idf:neachtar	#;	! not any
+cibé+Pron+Idf:cibé		#;	! whoever whichever
+pé+Pron+Idf:pé			#;	! whoever
+!!!té+Pron+Idf:té	MOVED TO IRREG NOUNS AS IS USED WITH "AN"	#;	! person
+!---------------------------------------------------------------------------
+! Interrogative (added Feb 05) 
+!!!! ADDED COP SEPT 07
+!!!! Changed Pron to Pro in Copula forms to distinguish it from other Pron
+cad+Pron+Q:cad			#;	! what: cad a rinne sé?
+cad+Cop+Pro+Q:cad		#;	! what: cad is ainm duit?
+cad_chuige+CC+Cop+Pro+Q:tuige	#;	! what for
+cad_é+CU+Cop+Pro+Q:caidé	#;	! caidé mar atá tú
+cé+Pron+Q:cé			#;	! cé acu - which of them
+cé+Cop+Pro+Q:cé			#;	! cé a bhí ann - who was there?
+!!cé+Cop+Pro+Q+Art+Sg:cén		#;	! cé + an
+!! removed Pro from cén as noun complement is needed unlike cé
+!! also include Det Art Sg in det-lex for "a shonrú cén dáta" = which
+cé+Cop+Q+Art+Sg:cén		#;	! cé + an
+cé+Cop+Pro+Q:céard		#;	! cé + an + rud
+cé+Cop+Pro+Q+Cop:cér		#;	! cé + ar
+cé+Cop+Pro+Q+Cop:cérbh		#;	! cé + arbh
+
+!---------------------------------------------------------------------------
+!!!! DEMONSTRATIVE  !!!!! also in Determiners
+
+seo+Cop+Pro+Dem:Seo		#;	! this
+seo+Pron+Dem:seo		#;	! this
+seo+CM+Pron+Dem:so		#;	! this
+
+sin+Cop+Pro+Dem:sin		#;	! that
+sin+Pron+Dem:sin		#;	! that
+sin+Pron+Dem:san		#;	! that
+sin+Pron+Dem:shin		#;	! that e.g. ó shin
+siúd+Pron+Dem:siúd		#;	! those 
+siúd+Pron+Dem:iúd		#;	! those (usually with copula e.g. B'iúd
+sin+Pron+Dem:in			#;	! that (usually with copula e.g. B'in
+
+
+!---------------------------------------------------------------------------
+!---------------------------------------------------------------------------
+! PREPOSITIONAL PRONOUNS (CONJUGATED PREPOSITIONS)
+!
+
+ag+Pron+Prep+1P+Sg:agam				Emph_sa;	! at me
+ag+Pron+Prep+1P+Sg:a'm				Emph_sa;	! at me
+ag+Pron+Prep+2P+Sg:agat				Emph_sa;	! at you
+ag+Pron+Prep+2P+Sg:a'at				Emph_sa;	! at you
+ag+Pron+Prep+3P+Sg+Masc:aige		Emph_sean;	! at him
+ag+Pron+Prep+3P+Sg+Fem:aici			Emph_se;	! at her
+ag+Pron+Prep+1P+Pl:againn			Emph_e;		! at us
+ag+Pron+Prep+2P+Pl:agaibh			Emph_se;	! at you
+ag+Pron+Prep+3P+Pl:acu				Emph_san;	! at them
+ag+CC+Pron+Prep+3P+Pl:acub			Emph_san;	! at them
+
+ar+Pron+Prep+1P+Sg:orm				Emph_sa;  	! on me
+ar+Pron+Prep+2P+Sg:ort				Emph_sa;  	! on you
+ar+Pron+Prep+3P+Sg+Masc:air			Emph_sean;  ! on him
+ar+Pron+Prep+3P+Sg+Masc+hPref:hair			Emph_sean;  ! on him
+ar+Pron+Prep+3P+Sg+Fem:uirthi		Emph_se;  	! on her
+ar+Pron+Prep+1P+Pl:orainn			Emph_e;	  	! on us
+ar+Pron+Prep+2P+Pl:oraibh			Emph_se;  	! on you
+ar+Pron+Prep+3P+Pl:orthu			Emph_san;  	! on them
+
+as+Pron+Prep+1P+Sg:asam				Emph_sa;	! out of me
+as+Pron+Prep+2P+Sg:asat				Emph_sa;  	! out of you
+as+Pron+Prep+3P+Sg+Masc:as			Emph_san;  	! out of him
+as+Pron+Prep+3P+Sg+Fem:aisti		Emph_se;  	! out of her
+as+Pron+Prep+1P+Pl:asainn			Emph_e;  	! out of us
+as+Pron+Prep+2P+Pl:asaibh			Emph_se;  	! out of you
+as+Pron+Prep+3P+Pl:astu				Emph_san;	! out of them
+
+chuig+Pron+Prep+1P+Sg:chugam		Emph_sa;  	! to(wards) me
+chuig+Pron+Prep+2P+Sg:chugat		Emph_sa;	! to(wards) you
+chuig+Pron+Prep+3P+Sg+Masc:chuige	Emph_sean;  ! to(wards) him
+chuig+Pron+Prep+3P+Sg+Fem:chuici	Emph_se; 	! to(wards) her
+chuig+Pron+Prep+1P+Pl:chugainn		Emph_e;  	! to(wards) us
+chuig+Pron+Prep+2P+Pl:chugaibh		Emph_se;	! to(wards) you
+chuig+Pron+Prep+3P+Pl:chucu			Emph_san;	! to(wards) them
+
+de+Pron+Prep+1P+Sg:díom				Emph_sa;  	! from me
+de+Pron+Prep+2P+Sg:díot				Emph_sa;  	! from you
+de+Pron+Prep+3P+Sg+Masc:de			Emph_sean;  ! from him
+de+Pron+Prep+3P+Sg+Fem:di			Emph_se;  	! from her
+de+Pron+Prep+1P+Pl:dínn				Emph_e;  	! from us
+de+Pron+Prep+2P+Pl:díbh				Emph_se;  	! from you
+de+Pron+Prep+3P+Pl:díobh			Emph_san;  	! from them
+do+Pron+Prep+3P+Pl:daofa			Emph_san;  ! 
+
+!!! WITH SÉIMHIÚ !!!
+de+Pron+Prep+1P+Sg+Len:dhíom		Emph_sa;  	! from me
+de+Pron+Prep+2P+Sg+Len:dhíot		Emph_sa;  	! from you
+de+Pron+Prep+3P+Sg+Masc+Len:dhe		Emph_sean;  ! from him
+de+Pron+Prep+3P+Sg+Fem+Len:dhi		Emph_se;  	! from her
+de+Pron+Prep+1P+Pl+Len:dhínn		Emph_e;  	! from us
+de+Pron+Prep+2P+Pl+Len:dhíbh		Emph_se;  	! from you
+de+Pron+Prep+3P+Pl+Len:dhíobh		Emph_san;  	! from them
+
+do+Pron+Prep+1P+Sg:dom				Emph_sa;  	! to me
+do+CU+Pron+Prep+1P+Sg:domh			Emph_sa;  	! to me
+do+Pron+Prep+2P+Sg:duit				Emph_se;  	! to you
+do+Pron+Prep+3P+Sg+Masc:dó			Emph_san;  	! to him
+do+Pron+Prep+3P+Sg+Fem:di			Emph_se;  	! to her
+do+Pron+Prep+1P+Pl:dúinn			Emph_e;  	! to us
+do+Pron+Prep+2P+Pl:daoibh			Emph_se;  	! to you
+do+Pron+Prep+3P+Pl:dóibh			Emph_sean;  ! to them
+do+Pron+Prep+3P+Pl:dófa				Emph_sean;  ! to them
+
+!!! WITH SÉIMHIÚ !!!
+do+Pron+Prep+1P+Sg+Len:dhom				Emph_sa;  	! to me
+do+CU+Pron+Prep+1P+Sg+Len:dhomh			Emph_sa;  	! to me
+do+Pron+Prep+2P+Sg+Len:dhuit			Emph_se;  	! to you
+do+Pron+Prep+3P+Sg+Masc+Len:dhó			Emph_san;  	! to him
+do+Pron+Prep+3P+Sg+Fem+Len:dhi			Emph_se;  	! to her
+do+Pron+Prep+1P+Pl+Len:dhúinn			Emph_e;  	! to us
+do+Pron+Prep+2P+Pl+Len:dhaoibh			Emph_se;  	! to you
+do+Pron+Prep+3P+Pl+Len:dhóibh			Emph_sean;  ! to them
+
+faoi+Pron+Prep+1P+Sg:fúm			Emph_sa;  	! under me
+faoi+Pron+Prep+2P+Sg:fút			Emph_sa;  	! under you
+faoi+Pron+Prep+3P+Sg+Masc:faoi		Emph_sean;  ! under him
+faoi+CU+Pron+Prep+3P+Sg+Masc:fá		Emph_san;  ! under him
+faoi+Pron+Prep+3P+Sg+Masc:fé		Emph_san;  ! under him
+faoi+Pron+Prep+3P+Sg+Fem:fúithi		Emph_se;  	! under her
+faoi+Pron+Prep+3P+Sg+Fem:fúithe		Emph_se;  	! under her
+faoi+Pron+Prep+1P+Pl:fúinn			Emph_e;  	! under us
+faoi+Pron+Prep+2P+Pl:fúibh			Emph_se;  	! under you
+faoi+Pron+Prep+3P+Pl:fúthu			Emph_san;  	! under them
+
+fara+Pron+Prep+1P+Sg:faram			Emph_sa;	!  as well as me
+fara+Pron+Prep+2P+Sg:farat			Emph_sa;	!  as well as you
+fara+Pron+Prep+3P+Sg+Masc:fairis	Emph_sean;	!  as well as her
+fara+Pron+Prep+3P+Sg+Fem:farae		Emph_sa;	!  as well as him
+fara+Pron+Prep+1P+Pl:farainn		Emph_e;		!  as well as us
+fara+Pron+Prep+2P+Pl:faraibh		Emph_se;	!  as well as you
+fara+Pron+Prep+3P+Pl:faru			Emph_san;	!  as well as them
+
+i+Pron+Prep+1P+Sg:ionam				Emph_sa;	!  in me
+i+Pron+Prep+2P+Sg:ionat				Emph_sa;	!  in you
+i+Pron+Prep+3P+Sg+Masc:ann			Emph_san;	!  in him
+i+Pron+Prep+3P+Sg+Fem:inti			Emph_se;	!  in her
+i+Pron+Prep+1P+Pl:ionainn			Emph_e;		!  in us
+i+Pron+Prep+2P+Pl:ionaibh			Emph_se;	!  in you
+i+Pron+Prep+3P+Pl:iontu				Emph_san;	!  in them
+
+! singular forms are not combined eg idir mé is used for between me ..
+
+idir+Pron+Prep+1P+Pl:eadrainn		Emph_e;		!  between us
+idir+Pron+Prep+2P+Pl:eadraibh		Emph_se;	!  between you
+idir+Pron+Prep+3P+Pl:eatarthu		Emph_san;	!  between them
+
+ionsar+Pron+Prep+1P+Sg:ionsorm			Emph_sa; 	!  to me i.e. in my direction
+ionsar+Pron+Prep+2P+Sg:ionsort			Emph_sa;	!  to you
+ionsar+Pron+Prep+3P+Sg+Masc:ionsair  	Emph_sean;	!  to him
+ionsar+Pron+Prep+3P+Sg+Fem:ionsuirthi	Emph_se;	!  to her
+ionsar+Pron+Prep+1P+Pl:ionsorainn		Emph_e;		!  to us
+ionsar+Pron+Prep+2P+Pl:ionsoraibh		Emph_se;	!  to you
+ionsar+Pron+Prep+3P+Pl:ionsorthu		Emph_san;	!  to them
+
+le+Pron+Prep+1P+Sg:liom				Emph_sa;	!  with me
+le+Pron+Prep+2P+Sg:leat				Emph_sa;	!  with you
+le+Pron+Prep+3P+Sg+Masc:leis		Emph_sean;	!  with his
+le+Pron+Prep+3P+Sg+Fem:léi			Emph_se;	!  with her
+le+Pron+Prep+3P+Sg+Fem:léithe			Emph_se;	!  with her
+le+Pron+Prep+1P+Pl:linn				Emph_e;		!  with us
+le+Pron+Prep+2P+Pl:libh				Emph_se;	!  with you
+le+Pron+Prep+3P+Pl:leo				Emph_san;	!  with them
+
+ó+Pron+Prep+1P+Sg:uaim				Emph_se;	!  from me
+ó+Pron+Prep+2P+Sg:uait 				Emph_se;	!  from you
+ó+Pron+Prep+3P+Sg+Masc:uaidh		Emph_sean;	!  from him
+ó+Pron+Prep+3P+Sg+Fem:uaithi		Emph_se;	!  from her
+ó+Pron+Prep+3P+Sg+Fem:uaithe		Emph_se;	!  from her
+ó+Pron+Prep+1P+Pl:uainn				Emph_e;		!  from us
+ó+Pron+Prep+2P+Pl:uaibh				Emph_se;	!  from you
+ó+Pron+Prep+3P+Pl:uathu				Emph_san;	!  from them
+
+roimh+Pron+Prep+1P+Sg:romham		Emph_sa;	!  from me
+roimh+Pron+Prep+2P+Sg:romhat		Emph_sa;	!  from you
+roimh+Pron+Prep+3P+Sg+Masc:roimhe	Emph_sean;	!  from him
+roimh+CM+Pron+Prep+3P+Sg+Masc:roimis	Emph_sean;	!  from him
+roimh+Pron+Prep+3P+Sg+Fem:roimpi	Emph_se;	!  from her
+roimh+Pron+Prep+1P+Pl:romhainn		Emph_e;		!  from us
+roimh+Pron+Prep+2P+Pl:romhaibh		Emph_se;	!  from you
+roimh+Pron+Prep+3P+Pl:rompu			Emph_san;	!  from them
+
+seach+Pron+Prep+1P+Sg:seacham		Emph_sa; 	!  other than me
+seach+Pron+Prep+2P+Sg:seachad		Emph_sa; 	!  other than you
+seach+Pron+Prep+3P+Sg+Masc:seacha	Emph_san; 	!  other than him
+seach+Pron+Prep+3P+Sg+Fem:seacha	Emph_sa; 	!  other than her
+seach+Pron+Prep+1P+Pl:seachainn		Emph_e; 	!  other than us
+seach+Pron+Prep+2P+Pl:seachaibh		Emph_se; 	!  other than you
+seach+Pron+Prep+3P+Pl:seacha		Emph_san; 	!  other than them
+
+thar+Pron+Prep+1P+Sg:tharam			Emph_sa; 	!  over me
+thar+Pron+Prep+2P+Sg:tharat			Emph_sa; 	!  over you
+thar+Pron+Prep+3P+Sg+Masc:thairis	Emph_sean; 	!  over him
+thar+Pron+Prep+3P+Sg+Fem:thairsti	Emph_se; 	!  over her
+thar+Pron+Prep+1P+Pl:tharainn		Emph_e; 	!  over us
+thar+Pron+Prep+2P+Pl:tharaibh		Emph_se; 	!  over you
+thar+Pron+Prep+3P+Pl:tharstu		Emph_san; 	!  over them
+
+trí+Pron+Prep+1P+Sg:tríom			Emph_sa; 	!  through me
+trí+Pron+Prep+2P+Sg:tríot			Emph_sa; 	!  through you
+trí+Pron+Prep+3P+Sg+Masc:tríd		Emph_sean; 	!  through him
+trí+Pron+Prep+3P+Sg+Fem:tríthí		Emph_se; 	!  through her
+trí+Pron+Prep+1P+Pl:trínn			Emph_e; 	!  through us
+trí+Pron+Prep+2P+Pl:tríbh			Emph_se; 	!  through you
+trí+Pron+Prep+3P+Pl:tríothu			Emph_san; 	!  through them
+
+um+Pron+Prep+1P+Sg:umam				Emph_sa; 	!  about me
+um+Pron+Prep+2P+Sg:umat				Emph_sa; 	!  about you
+um+Pron+Prep+3P+Sg+Masc:uime		Emph_sean; 	!  about him
+um+Pron+Prep+3P+Sg+Fem:uimpi		Emph_se; 	!  about her
+um+Pron+Prep+1P+Pl:umainn			Emph_e; 	!  about us
+um+Pron+Prep+2P+Pl:umaibh			Emph_se; 	!  about you
+um+Pron+Prep+3P+Pl:umpu				Emph_san; 	!  about them
+
+
+LEXICON Emph_sa			! Broad: 1S & 2S & 3S(Fem) & 2P
++Emph:sa	#;
+#;
+
+LEXICON Emph_se			! Slender: 1S & 2S & 3S(Fem) & 2P
++Emph:se	#;
+#;
+
+LEXICON Emph_san		! Broad: 3S(Masc) & 3P
++Emph:san	#;
+#;
+
+LEXICON Emph_sean		! Slender: 3S(Masc) & 3P
++Emph:sean	#;
+#;
+
+LEXICON Emph_e			! Br/Sl: 1P
++Emph:e	#;
+#;

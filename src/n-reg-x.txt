@@ -1,0 +1,37 @@
+! Noun (Gaeilge) Replace Rules
+! Elaine Uí Dhonnchadha
+!
+! 2001
+! 2004 include ^FY flag with consonants 
+!***************************************************************************!
+! (1) Insert "^X" before the final vowel group of every word in the lexicon
+!***************************************************************************!
+! 
+define Vowel a|e|i|o|u|á|é|í|ó|ú|%^AO|%^IA|%^AE|%^UA;
+define Cons  b|c|d|f|g|h|j|k|l|m|n|p|q|r|s|t|v|w|x|y|z|%^FY;
+define Nountag  %^F|%^M|%^C|%^G|%^V;
+
+
+! @-> = match longest string of vowels
+! %^X... = insert ^X before the searched for text
+
+read regex Vowel+ @-> %^X... || _ Cons* [Nountag|%^Adj]
+
+!***************************************************************************!
+! (2) These markers are no longer required
+!***************************************************************************!
+
+.o.
+ %^M -> []
+.o.
+ %^F -> []
+.o.
+ %^C -> []
+.o.
+ %^G -> []
+.o.
+ %^V -> []
+.o.
+ %^Adj -> []
+;
+

@@ -1,0 +1,43 @@
+!! inserted +Len +Uru to distinguish between a bhíonn & a mbíonn Dir/Indir
+!! Rel clauses Dec 2004
+!
+!	CONTINUATION CLASSES COMMON TO VERBS 1 & 2
+!***************************************************************************
+
+LEXICON		NegQ
+#;
++Len:^Sé	#;
++Neg+Len:^Sé	#;
++NegQ+Ecl:^Urú	#;
++Q+Ecl:^Urú		#;
++Ecl:^Urú		#;
+
+LEXICON		NegQPast
++Len:^Sé	#;
+!!0:^Do		#;
++Neg+Len:^Sé	#;
++NegQ+Len:^Sé	#;
++Q+Len:^Sé	#;
+
+LEXICON		NegQSaor
+#;
++Neg:0		#;
++NegQ:0		#;
++Q:0		#;
+
+LEXICON		NegQLen
++Len:^Sé	#;
+!!0:^Do		#;
++Neg+Len:^Sé	#;
++NegQ+Len:^Sé	#;   !!!! is this correct - or should it be same as LEXICON NegQ ????
++Q+Ecl:^Urú	#;	! an mbriseann ?
++Ecl:^Urú	#;	! a mbriseann &rl.
+
+LEXICON		NegImper
+		#;
++Neg:^hv	#;	! ná hól
+
+LEXICON		NegSubj
++Ecl:^Urú		#;
++Neg+Len:^Sé	#;
+

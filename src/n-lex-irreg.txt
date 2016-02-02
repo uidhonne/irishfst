@@ -1,0 +1,1406 @@
+!**************************************************************************
+! Moirfeolaíocht na nAinmfhocail Gaeilge (Morphology of Irish Nouns)
+!**************************************************************************
+! IRREGULAR NOUNS
+!**************************************************************************
+! E. Uí Dhonnchadha 
+! January 2001
+! revisited Summer 2003 
+! and again Summer 2004
+!**************************************************************************
+
+!!!!!!!!!!!!!!!!!!!!!!!!!! IRREG
+
+
+!!!LEXICON NI-Compounds
+!!! THESE ARE NOW HANDLED BY PREFIX LEXICON 
+!!!domhain+Adj+comhrá:domhain^CB		NI-comhrá;
+!!!gnáth+Adj+duine:gnáth^CB		NI-duine;
+
+LEXICON NounsIrregular
+
+! FEMININE
+
+bean:		NI-bean;
+spéirbhean:spéir		NI-bean;
+stáidbhean:stáid		NI-bean;
+ógbhean:óg		NI-bean;
+bó:		NI-bó;
+foireann:	NI-foireann;
+deirfiúr:	NI-deirfiúr;
+leaba:		NI-leaba;
+mí:		NI-mí;
+talamh:		NI-talamhF;
+codladh: 	NI-codladh;	 ! gs -ata sleep, ~
+neamhchodladh:neamh^CB 	NI-codladh;	 ! insomnia ~
+obair:			NI-obair;
+drochobair:droch	NI-obair;
+ragobair:rag		NI-obair;
+tascobair:tasc		NI-obair;
+roinn:			NI-roinn;
+lónroinn:lón			NI-roinn;
+toghroinn:togh			NI-roinn;
+mór-roinn:mór-			NI-roinn;
+<m ó r %_:%  r:0 o:0 i:0 n:0 n:0>	NI-roinn;
+<M ó r %_:%  R:0 o:0 i:0 n:0 n:0>	NI-Roinn;
+fiacail:		NI-fiacail;
+!!clárfhiacail:clár^CB	NI-fiacail;
+diúlfhiacail:diúl^CB	NI-fiacail;
+starrfhiacail:starr^CB	NI-fiacail;
+cuigeann:		NI-cuigeann;
+bráid:			NI-bráid;
+abhainn:		NI-abhainn;
+craobh-abhainn:craobh-^CB		NI-abhainn;
+deoch:			NI-deoch;
+sail:			NI-sail;
+spré:			NI-spré; ! spread, splay
+olann:		NI-olann;
+líonolann:líon		NI-olann;	!lint
+faocha:		NI-faocha;
+caora:		NI-caora;
+lacha:		NI-lacha;
+crannlacha:crann		NI-lacha;
+praslacha:pras		NI-lacha;
+táin:		NI-táin;
+ára:		NI-ára;
+deacair:		NI-deacair;
+deabhaidh:	NI-deabhaidh;
+muir:		NI-muir;
+mórmhuir:mór^CB		NI-muir;
+ceannaghaidh:		NI-ceannaghaidh;
+leite:		NI-leite;
+toimhde:		NI-toimhde;
+díle:			NI-díle;
+ionga:			NI-ionga;
+araí:			NI-araí;
+aifirt:			NI-aifirt;
+corcair:		NI-corcair;
+goid:			NI-goid;
+mionghoid:mion^CB			NI-goid;
+sniodh:			NI-sniodh;
+mil:		NI-mil;
+roinnt:		NI-roinnt;
+ilroinnt:il		NI-roinnt;
+cionroinnt:cion		NI-roinnt;
+sprais:			NI-sprais;
+cóir:		NI-cóir;
+daigh:		NI-daigh;
+dáil:		NI-dáil;
+deoin:		NI-deoin;
+goin:		NI-goin;
+gualainn:	NI-gualainn;
+troigh:		NI-troigh;
+fraigh:		NI-fraigh;
+láí:		NI-láí;
+leis:		NI-leis;
+fala:		NI-fala;
+culaith:	NI-culaith;
+nóin:		NI-nóin;
+sliasaid:	NI-sliasaid;
+fairgsin:		NI-fairgsin;
+teasach:		NI-teasach;
+uaim:		NI-uaim;
+taobhuaim:taobh		NI-uaim;
+tuaim:t		NI-uaim;
+
+
+! MASCULINE
+
+fiche:		NI-fiche;
+daichead:	NI-daichead;
+!!bith:		NI-bith;
+dada:		NI-dada;
+comhrá:		NI-comhrá;
+conradh:	NI-conradh;
+dréachtchonradh:dréacht^CB	NI-conradh;
+saorchonradh:saor^CB	NI-conradh;
+dia:		NI-dia;
+bandia:ban		NI-dia;
+scrúdú:		NI-scrúdú;
+smaoineamh:	NI-smaoineamh;
+!!athsmaoineamh:ath^CB	NI-smaoineamh;
+duine:		NI-duine;
+!!seanduine:sean^CB		NI-duine;
+!!leathduine:leath^CB	NI-duine;
+!!foduine:fo^CB		NI-duine;
+!!neamhduine:neamh^CB	NI-duine;
+!!gnáthduine:gnáth^CB	NI-duine;
+!!corrdhuine:corr^CB	NI-duine;
+lá:		NI-lá;
+ceannlá:ceann		NI-lá;
+mac:		NI-mac;
+garmhac:gar		NI-mac;
+muineál:	NI-muineál;			! neck
+tada:		NI-tada;
+talamh:		NI-talamhM;
+teach:		NI-teach;
+díonteach:díon^CB		NI-teach;
+proinnteach:proinn^CB		NI-teach;
+cloigtheach:cloig^CB		NI-teach;
+cléirtheach:cléir^CB		NI-teach;
+cara:			NI-cara;
+eascara:eas		NI-cara;
+rúnchara:rún^CB		NI-cara;
+anamchara:anam^CB	NI-cara;
+aonach:		NI-aonach;
+iasc:		NI-iasc;
+gailliasc:gaill		NI-iasc;
+ollamh:		NI-ollamh;
+breitheamh:	NI-breitheamh;
+briathar:	NI-briathar;
+!!dobhriathar:do^CB	NI-briathar;
+gníomh:		NI-gníomh;
+!!ainghníomh:ain^CB		NI-gníomh;
+!!frithghníomh:frith^CB		NI-gníomh;
+leorghníomh:leor^CB		NI-gníomh; ! reparation, restitution
+laoch:		NI-laoch;
+crannlaoch:crann		NI-laoch; ! old soldier
+muileann:	NI-muileann;
+fraoch:		NI-fraoch;
+ioth:		NI-ioth;
+cine:		NI-cine;  ! pl -níocha race, fear
+scríobh:	NI-scríobh;
+coinscríobh:coin^CB	NI-scríobh;
+!!gearrscríobh:gearr^CB	NI-scríobh;
+ainm:		NI-ainm;
+cnuasainm:cnuas		NI-ainm;
+leasainm:leas		NI-ainm;
+logainm:log		NI-ainm;
+forainm:for		NI-ainm;
+rith:		NI-rith;
+táinrith:táin		NI-rith;
+sean:		NI-sean;
+neach:		NI-neach;
+rinn:		NI-rinn;
+gamhain:		NI-gamhain;
+!!sliocht:		NI-sliocht;
+!!ríshliocht:rí^CB		NI-sliocht;
+slios:			NI-slios;
+bonnbhualadh:		NI-bonnbhualadh;
+namhaid:		NI-namhaid;
+adhradh:		NI-adhradh;
+íoladhradh:íol		NI-adhradh;
+treabhadh:		NI-treabhadh;
+grafadh:		NI-grafadh;
+ionladh:		NI-ionladh;
+leadradh:		NI-leadradh;
+lionn:		NI-lionn;
+sciomradh:	NI-sciomradh;
+saobhadh:	NI-saobhadh;
+!!riocht:		NI-riocht;	! *** Nm3-3a
+!!bréagriocht:bréag	NI-riocht;	! *** Nm3-3a
+!!ainriocht:ain		NI-riocht;	! *** Nm3-3a
+scamhadh:		NI-scamhadh;
+riastradh:		NI-riastradh;
+toghadh:		NI-toghadh;
+triuch:		NI-triuch;
+cuach:		NI-cuach;
+lia:		NI-lia;
+uamhan:		NI-uamhan;
+péas:		NI-péas;
+dosaen:		NI-dosaen;
+!!monarc:		NI-monarc; SEE N4-12
+!!múisiam:		NI-múisiam SEE N4-12;
+giorria:		NI-giorria;
+easna:		NI-easna;
+claíomh:		NI-claíomh;
+marc-chlaíomh:marc-^CB		NI-claíomh;
+spraoi:			NI-spraoi;
+drámh:			NI-drámh;
+boladh:			NI-boladh;
+daichead:		NI-daichead;
+ceáfar:			NI-ceáfar;
+lagar:			NI-lagar;
+príomháidh:	NI-príomháidh;
+fáidh:		NI-fáidh;
+scaitheamh:	NI-scaitheamh;
+filleadh:	NI-filleadh;
+léana:		NI-léana;
+líonadh:	NI-líonadh;
+forlíonadh:	NI-forlíonadh;
+síneadh:		NI-síneadh;
+smearadh:		NI-smearadh;
+casadh:		NI-casadh;
+máistir:	NI-máistir;
+!!ardmháistir:ard^CB	NI-máistir;
+pámháistir:pá^CB	NI-máistir;
+fealsamh:		NI-fealsamh;
+tritheamh:	NI-tritheamh;
+ministir:	NI-ministir;
+grásta:		NI-grásta;
+dearg:		NI-dearg;
+corcairdhearg:corcair^CB	NI-dearg;
+earc:		NI-earc;
+each:		NI-each;
+biadh:		NI-biadh;
+iath:		NI-iath;
+!==========================================================================
+! CONTINUATION CLASSES FEMININE
+!==========================================================================
+LEXICON NI-fairgsin
++Noun+Fem+Com+Sg:fairgsin^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:fairgseana^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:fairgsine		Voc-initial;
+
+LEXICON NI-teasach
++Noun+Fem+Com+Sg:teasach^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:teascha^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:teasacha		Voc-initial;
+
+LEXICON NI-uaim
++Noun+Fem+Com+Sg:uaim^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:uama^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:uaim		Voc-initial;
++Noun+Fem+Com+Pl:uamanna^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:uamanna^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:uamanna	Voc-initial;
+
+LEXICON NI-sliasaid
++Noun+Fem+Com+Sg:sliasaid^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:sliasaide^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:sliasaid		Voc-initial;
++Noun+Fem+Com+Pl:sliasta^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:sliasta^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:sliasta	Voc-initial;
+
+LEXICON NI-nóin
++Noun+Fem+Com+Sg:nóin^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:nóna^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:nóin		Voc-initial;
++Noun+Fem+Com+Pl:nónta^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:nónta^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:nónta	Voc-initial;
+
+LEXICON NI-culaith
++Noun+Fem+Com+Sg:culaith^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:culaithe^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:culaith		Voc-initial;
++Noun+Fem+Com+Pl:cultacha^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:cultacha^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:cultacha	Voc-initial;
+
+LEXICON NI-fala
++Noun+Fem+Com+Sg:fala^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:fala^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:fala		Voc-initial;
++Noun+Fem+Com+Pl:falta^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:falta^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:falta	Voc-initial;
+
+LEXICON NI-leis
++Noun+Fem+Com+Sg:leis^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:leise^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:leis		Voc-initial;
++Noun+Fem+Com+Pl:leasracha^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:leasracha^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:leasracha	Voc-initial;
+
+LEXICON NI-láí
++Noun+Fem+Com+Sg:láí^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:láí^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:láí		Voc-initial;
++Noun+Fem+Com+Pl:lánta^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:lánta^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:lánta	Voc-initial;
+
+LEXICON NI-fraigh
++Noun+Fem+Com+Sg:fraigh^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:fraighe^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:fraigh		Voc-initial;
++Noun+Fem+Com+Pl:fraitheacha^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:fraitheacha^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:fraitheacha	Voc-initial;
+
+LEXICON NI-troigh
++Noun+Fem+Com+Sg:troigh^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:troighe^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:troigh		Voc-initial;
++Noun+Fem+Com+Pl:troithe^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:troithe^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:troithe		Voc-initial;
+
+LEXICON NI-gualainn
++Noun+Fem+Com+Sg:gualainn^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:gualainne^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:gualainn		Voc-initial;
++Noun+Fem+Com+Pl:guaillí^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:guaillí^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:guaillí		Voc-initial;
+
+LEXICON NI-goin
++Noun+Fem+Com+Sg:goin^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:goine^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:goin		Voc-initial;
++Noun+Fem+Com+Pl:goine^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:goine^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:goine		Voc-initial;
+
+LEXICON NI-deoin
++Noun+Fem+Com+Sg:deoin^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:deona^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:deoin		Voc-initial;
++Noun+Fem+Com+Pl:deonta^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:deonta^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:deonta		Voc-initial;
+
+LEXICON NI-dáil
++Noun+Fem+Com+Sg:dáil^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:dála^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:dáil		Voc-initial;
++Noun+Fem+Com+Pl:dálaí^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:dálaí^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:dálaí		Voc-initial;
+
+LEXICON NI-daigh
++Noun+Fem+Com+Sg:daigh^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:daighe^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:daigh		Voc-initial;
++Noun+Fem+Com+Pl:daigheacha^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:daigheacha^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:daigheacha		Voc-initial;
+
+LEXICON NI-cóir
++Noun+Fem+Com+Sg:cóir^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:córa^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:cóir		Voc-initial;
++Noun+Fem+Com+Pl:córacha^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:córacha^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:córacha		Voc-initial;
+
+LEXICON NI-sprais
++Noun+Fem+Com+Sg:sprais^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:spraise^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:sprais		Voc-initial;
++Noun+Fem+Com+Pl:spraiseacha^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:spraiseacha^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:spraiseacha		Voc-initial;
+
+LEXICON NI-roinnt
++Noun+Fem+Com+Sg:roinnt^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:roinnte^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:roinnt		Voc-initial;
++Noun+Fem+Com+Pl:rannta^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:rannta^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:rannta		Voc-initial;
+
+LEXICON NI-mil
++Noun+Fem+Com+Sg:mil^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:meala^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:mil		Voc-initial;
+
+LEXICON NI-goid
++Noun+Fem+Com+Sg:goid^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:gada^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:goid		Voc-initial;
+
+LEXICON NI-corcair
++Noun+Fem+Com+Sg:corcair^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:corcra^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:corcair		Voc-initial;
+
+LEXICON NI-aifirt
++Noun+Fem+Com+Sg:aifirt^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:aifeartha^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:aifirt		Voc-initial;
+
+LEXICON NI-araí
++Noun+Fem+Com+Sg:araí^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:araíon^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:araí		Voc-initial;
++Noun+Fem+Com+Pl:araíonacha^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:araíonacha^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:araíonacha		Voc-initial;
+
+LEXICON NI-ionga
++Noun+Fem+Com+Sg:ionga^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:iongan^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:ionga		Voc-initial;
++Noun+Fem+Com+Pl:ingne^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:ingne^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:ingne		Voc-initial;
+
+LEXICON NI-deacair
++Noun+Fem+Com+Sg:deacair^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:deacra^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:deacair		Voc-initial;
++Noun+Fem+Com+Pl:deacra^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:deacra^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:deacra		Voc-initial;
+
+LEXICON NI-deabhaidh
++Noun+Fem+Com+Sg:deabhaidh^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:deafa^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:deabhaidh		Voc-initial;
++Noun+Fem+Com+Pl:deafa^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:deafa^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:deafa		Voc-initial;
+
+LEXICON NI-muir
++Noun+Fem+Com+Sg:muir^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:mara^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:muir		Voc-initial;
++Noun+Fem+Com+Pl:mara^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:mara^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:mara		Voc-initial;
+
+LEXICON NI-ceannaghaidh
++Noun+Fem+Com+Sg:ceannaghaidh^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:ceannaithe^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:ceannaghaidh		Voc-initial;
++Noun+Fem+Com+Pl:ceannaithe^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:ceannaithe^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:ceannaithe		Voc-initial;
+
+LEXICON NI-sniodh
++Noun+Fem+Com+Sg:sniodh^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:sneá^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:sniodh		Voc-initial;
++Noun+Fem+Com+Pl:sneá^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:sneá^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:sneá		Voc-initial;
+
+LEXICON NI-toimhde
++Noun+Fem+Com+Sg:toimhde^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:toimhdean^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:toimhde		Voc-initial;
+
+LEXICON NI-leite
++Noun+Fem+Com+Sg:leite^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:leitean^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:leite		Voc-initial;
+
+LEXICON NI-táin
++Noun+Fem+Com+Sg:táin^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:tána^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:táin		Voc-initial;
++Noun+Fem+Com+Pl:táinte^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:táinte^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:táinte		Voc-initial;
+
+LEXICON NI-díle
++Noun+Fem+Com+Sg:díle^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:díleann^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:díle		Voc-initial;
++Noun+Fem+Com+Pl:dílí^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:dílí^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:dílí		Voc-initial;
+
+LEXICON NI-ára
++Noun+Fem+Com+Sg:ára^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:árann^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:ára		Voc-initial;
++Noun+Fem+Com+Pl:áranna^C		Pl-initial;
++Noun+Fem+Gen+Weak+Pl:árann^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:áranna		Voc-initial;
+
+LEXICON NI-lacha
++Noun+Fem+Com+Sg:lacha^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:lachan^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:lacha		Voc-initial;
++Noun+Fem+Com+Pl:lachain^C		Pl-initial;
++Noun+Fem+Gen+Weak+Pl:lachan^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:lachain		Voc-initial;
+
+LEXICON NI-caora
++Noun+Fem+Com+Sg:caora^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:caorach^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:caora		Voc-initial;
++Noun+Fem+Com+Pl:caoirigh^C		Pl-initial;
++Noun+Fem+Gen+Weak+Pl:caorach^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:caoirigh		Voc-initial;
+
+LEXICON NI-faocha
++Noun+Fem+Com+Sg:faocha^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:faochan^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:faocha		Voc-initial;
++Noun+Fem+Com+Pl:faochin^C		Pl-initial;
++Noun+Fem+Gen+Weak+Pl:faochan^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:faochan		Voc-initial;
+
+LEXICON NI-olann
++Noun+Fem+Com+Sg:olann^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:olla^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:olann		Voc-initial;
++Noun+Fem+Com+Pl:olanna^C		Pl-initial;
++Noun+Fem+Gen+Weak+Pl:olann^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:olanna		Voc-initial;
+
+LEXICON NI-spré
++Noun+Fem+Com+Sg:spré^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:spréite^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:spré		Voc-initial;
+
+LEXICON NI-sail
++Noun+Fem+Com+Sg:sail^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:saileach^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:sail		Voc-initial;
++Noun+Fem+Com+Pl:saileacha^C		Pl-initial;
++Noun+Fem+Gen+Weak+Pl:saileach^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:saileacha		Voc-initial;
+
+LEXICON NI-deoch
++Noun+Fem+Com+Sg:deoch^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:dí^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:deoch		Voc-initial;
++Noun+Fem+Com+Pl:deochanna^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:deochanna^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:deochanna		Voc-initial;
+
+LEXICON NI-abhainn
++Noun+Fem+Com+Sg:abhainn^F^C		Nom-sg-initial;
++Noun+Fem+Com+Sg:abha^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:abhann^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:abhainn		Voc-initial;
++Noun+Fem+Com+Pl:aibhneacha^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:aibhneacha^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:aibhneacha		Voc-initial;
+
+LEXICON NI-bráid
++Noun+Fem+Com+Sg:bráid^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:brád^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:bráid		Voc-initial;
++Noun+Fem+Com+Pl:bráide^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:bráide^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:bráide		Voc-initial;
+
+LEXICON NI-cuigeann
++Noun+Fem+Com+Sg:cuigeann^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:cuiginne^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:cuigeann		Voc-initial;
++Noun+Fem+Com+Pl:cuigne^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:cuigne^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:cuigne		Voc-initial;
+
+LEXICON NI-fiacail
++Noun+Fem+Com+Sg:fiacail^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:fiacaile^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:fiacail		Voc-initial;
++Noun+Fem+Com+Pl:fiacla^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:fiacla^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:fiacla		Voc-initial;
+
+LEXICON NI-roinn
++Noun+Fem+Com+Sg:roinn^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:ranna^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:roinn			Voc-initial;
++Noun+Fem+Com+Pl:ranna^C		Pl-initial;
++Noun+Fem+Gen+Weak+Pl:ranna^G		Pl-initial;
++Noun+Fem+Voc+Pl+Def:rann		Voc-initial;
+
+LEXICON NI-Roinn
++Noun+Fem+Com+Sg:Roinn^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:Ranna^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:Roinn			Voc-initial;
++Noun+Fem+Com+Pl:Ranna^C		Pl-initial;
++Noun+Fem+Gen+Weak+Pl:Ranna^G		Pl-initial;
++Noun+Fem+Voc+Pl+Def:Rann		Voc-initial;
+
+LEXICON NI-obair
++Noun+Fem+Com+Sg:obair^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:oibre^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:obair			Voc-initial;
++Noun+Fem+Com+Pl:oibreacha^C		Pl-initial;
++Noun+Fem+Gen+Strong+Pl:oibreacha^G	Pl-initial;
++Noun+Fem+Voc+Pl+Def:oibreacha		Voc-initial;
+
+LEXICON NI-bean
++Noun+Fem+Com+Sg:bean^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:mná^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:bean			Voc-initial;
++Noun+Fem+Com+Pl:mná^C			Pl-initial;
++Noun+Fem+Gen+Strong+Pl:ban^G		Pl-initial;
++Noun+Fem+Voc+Pl+Def:mná		Voc-initial;
++Noun+Fem+Dat+Sg:mnaoi			#;
++Noun+Fem+Dat+Sg+Len:mhnaoi		#;
+
+LEXICON NI-bó
++Noun+Fem+Com+Sg:bó^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:bó^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:bó			Voc-initial;
++Noun+Fem+Com+Pl:ba^C			Pl-initial;
++Noun+Fem+Gen+Weak+Pl:bó^G		Pl-initial;
++Noun+Fem+Voc+Pl+Def:ba		Voc-initial;
+
+LEXICON NI-codladh
++Noun+Fem+Com+Sg:codladh^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:codlata^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:codladh			Voc-initial;
+
+LEXICON NI-foireann
++Noun+Fem+Com+Sg:foireann^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:foirne^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:foireann			Voc-initial;
++Noun+Fem+Com+Pl:foirne^C			Pl-initial;
++Noun+Fem+Gen+Strong+Pl:foirne^G		Pl-initial;
++Noun+Fem+Voc+Pl+Def:foirne		Voc-initial;
+
+LEXICON NI-deirfiúr
++Noun+Fem+Com+Sg:deirfiúr^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:deirféar^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:deirfiúr			Voc-initial;
++Noun+Fem+Com+Pl:deirfiúracha^C			Pl-initial;
++Noun+Fem+Gen+Strong+Pl:deirfiúracha^G		Pl-initial;
++Noun+Fem+Voc+Pl+Def:deirfiúracha		Voc-initial;
+
+LEXICON NI-leaba
++Noun+Fem+Com+Sg:leaba^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:leapa^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:leaba			Voc-initial;
++Noun+Fem+Com+Pl:leapacha^C			Pl-initial;
++Noun+Fem+Gen+Strong+Pl:leapacha^G		Pl-initial;
++Noun+Fem+Voc+Pl+Def:leapacha		Voc-initial;
+
+LEXICON NI-mí
++Noun+Fem+Com+Sg:mí^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:míosa^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:mí			Voc-initial;
++Noun+Fem+Com+Pl:míonna^C			Pl-initial;
++Noun+Fem+Gen+Strong+Pl:míonna^G		Pl-initial;
++Noun+Fem+Voc+Pl+Def:míonna		Voc-initial;
+
+LEXICON NI-talamhF
++Noun+Fem+Com+Sg:talamh^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:talún^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:talamh			Voc-initial;
++Noun+Fem+Com+Pl:tailte^C			Pl-initial;
++Noun+Fem+Gen+Strong+Pl:tailte^G		Pl-initial;
++Noun+Fem+Voc+Pl+Def:tailte		Voc-initial;
+
+
+LEXICON NI-iath
++Noun+Fem+Com+Sg:iath^F^C		Nom-sg-initial;
++Noun+Fem+Gen+Sg:iath^F^G		Gen-sg-initial;
++Noun+Fem+Voc+Sg:iaithe			Voc-initial;
++Noun+Fem+Com+Pl:iatha^C		Pl-initial;
++Noun+Fem+Gen+Weak+Pl:iath^G		Pl-initial;
++Noun+Fem+Voc+Pl+Def:iatha		Voc-initial;
+!==========================================================================
+! CONTINUATION CLASSES MASCULINE
+!==========================================================================
+LEXICON NI-léana
++Noun+Masc+Com+Sg:léana^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:léana^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:léana		Voc-initial;
++Noun+Masc+Com+Pl:léanta^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:léanta^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:léanta		Voc-initial;
+
+LEXICON NI-filleadh
++Noun+Masc+Com+Sg:filleadh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:fillidh^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:filleadh		Voc-initial;
++Noun+Masc+Com+Pl:fillteacha^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:fillteacha^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:fillteacha		Voc-initial;
+
+LEXICON NI-ministir
++Noun+Masc+Com+Sg:ministir^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:ministir^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:ministir		Voc-initial;
++Noun+Masc+Com+Pl:ministrí^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:ministrí^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:ministrí		Voc-initial;
+
+LEXICON NI-máistir
++Noun+Masc+Com+Sg:máistir^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:máistir^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:máistir		Voc-initial;
++Noun+Masc+Com+Pl:máistrí^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:máistrí^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:máistrí		Voc-initial;
+
+LEXICON NI-tritheamh
++Noun+Masc+Com+Sg:tritheamh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:trithimh^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:tritheamh		Voc-initial;
++Noun+Masc+Com+Pl:trithí^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:trithí^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:trithí		Voc-initial;
+
+LEXICON NI-fealsamh
++Noun+Masc+Com+Sg:fealsamh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:fealsaimh^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:fealsamh		Voc-initial;
++Noun+Masc+Com+Pl:fealsúna^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:fealsúna^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:fealsúna		Voc-initial;
+
+LEXICON NI-casadh
++Noun+Masc+Com+Sg:casadh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:casaidh^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:casadh		Voc-initial;
++Noun+Masc+Com+Pl:castaí^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:castaí^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:castaí		Voc-initial;
+
+LEXICON NI-smearadh
++Noun+Masc+Com+Sg:smearadh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:smearaidh^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:smearadh		Voc-initial;
++Noun+Masc+Com+Pl:smearthaí^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:smearthaí^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:smearthaí		Voc-initial;
+
+LEXICON NI-síneadh
++Noun+Masc+Com+Sg:síneadh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:sínidh^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:síneadh		Voc-initial;
++Noun+Masc+Com+Pl:síntí^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:síntí^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:síntí		Voc-initial;
+
+LEXICON NI-líonadh
++Noun+Masc+Com+Sg:líonadh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:líonta^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:líonadh		Voc-initial;
+
+LEXICON NI-forlíonadh
++Noun+Masc+Com+Sg:forlíonadh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:forlíonaidh^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:forlíonadh		Voc-initial;
+
+LEXICON NI-scaitheamh
++Noun+Masc+Com+Sg:scaitheamh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:scaithimh^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:scaitheamh		Voc-initial;
++Noun+Masc+Com+Pl:scaití^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:scaití^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:scaití		Voc-initial;
+
+LEXICON NI-fáidh
++Noun+Masc+Com+Sg:fáidh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:fáidh^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:fáidh		Voc-initial;
++Noun+Masc+Com+Pl:fáithe^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:fáithe^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:fáithe		Voc-initial;
+
+LEXICON NI-príomháidh
++Noun+Masc+Com+Sg:príomháidh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:príomháidh^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:príomháidh		Voc-initial;
++Noun+Masc+Com+Pl:príomháithe^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:príomháithe^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:príomháithe		Voc-initial;
+
+LEXICON NI-lagar
++Noun+Masc+Com+Sg:lagar^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:lagair^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:lagar		Voc-initial;
++Noun+Masc+Com+Pl:lagracha^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:lagracha^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:lagracha		Voc-initial;
+
+LEXICON NI-ceáfar
++Noun+Masc+Com+Sg:ceáfar^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:ceáfair^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:ceáfar		Voc-initial;
++Noun+Masc+Com+Pl:ceáfraí^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:ceáfraí^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:ceáfraí		Voc-initial;
+
+LEXICON NI-boladh
++Noun+Masc+Com+Sg:boladh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:bolaidh^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:boladh		Voc-initial;
++Noun+Masc+Com+Pl:bolaithe^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:bolaithe^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:bolaithe		Voc-initial;
+
+LEXICON NI-drámh
++Noun+Masc+Com+Sg:drámh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:dráimh^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:drámh		Voc-initial;
++Noun+Masc+Com+Pl:dráite^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:dráite^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:dráite		Voc-initial;
+
+LEXICON NI-spraoi
++Noun+Masc+Com+Sg:spraoi^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:spraoi^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:spraoi		Voc-initial;
++Noun+Masc+Com+Pl:spraíonna^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:spraíonna^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:spraíonna		Voc-initial;
+
+LEXICON NI-claíomh
++Noun+Masc+Com+Sg:claíomh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:claímh^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:claíomh		Voc-initial;
++Noun+Masc+Com+Pl:claimhte^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:claimhte^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:claimhte		Voc-initial;
+
+LEXICON NI-easna
++Noun+Masc+Com+Sg:easna^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:easna^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:easna		Voc-initial;
++Noun+Masc+Com+Pl:easnacha^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:easnacha^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:easnacha		Voc-initial;
+
+LEXICON NI-giorria
++Noun+Masc+Com+Sg:giorria^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:giorria^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:giorria		Voc-initial;
++Noun+Masc+Com+Pl:giorriacha^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:giorriacha^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:giorriacha		Voc-initial;
+
+!!LEXICON NI-múisiam
+!!+Noun+Masc+Com+Sg:múisiam^M^C		Nom-sg-initial;
+!!+Noun+Masc+Gen+Sg:múisiam^M^G		Gen-sg-initial;
+!!+Noun+Masc+Voc+Sg:múisiam		Voc-initial;
+!!+Noun+Masc+Com+Pl:múisiamaí^C		Pl-initial;
+!!+Noun+Masc+Gen+Strong+Pl:múisiamaí^G	Pl-initial;
+!!+Noun+Masc+Voc+Pl+Def:múisiamaí		Voc-initial;
+
+!!LEXICON NI-monarc
+!!+Noun+Masc+Com+Sg:monarc^M^C		Nom-sg-initial;
+!!+Noun+Masc+Gen+Sg:monarc^M^G		Gen-sg-initial;
+!!+Noun+Masc+Voc+Sg:monarc		Voc-initial;
+!!+Noun+Masc+Com+Pl:monarcaí^C		Pl-initial;
+!!+Noun+Masc+Gen+Strong+Pl:monarcaí^G	Pl-initial;
+!!+Noun+Masc+Voc+Pl+Def:monarcaí		Voc-initial;
+
+LEXICON NI-dosaen
++Noun+Masc+Com+Sg:dosaen^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:dosaen^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:dosaen		Voc-initial;
++Noun+Masc+Com+Pl:dosaenacha^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:dosaenacha^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:dosaenacha		Voc-initial;
+
+LEXICON NI-péas
++Noun+Masc+Com+Sg:péas^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:péas^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:péas		Voc-initial;
++Noun+Masc+Com+Pl:péas^C		Pl-initial;
++Noun+Masc+Gen+Weak+Pl:péas^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:péas		Voc-initial;
+
+LEXICON NI-uamhan
++Noun+Masc+Com+Sg:uamhan^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:uamhain^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:uamhan		Voc-initial;
++Noun+Masc+Com+Pl:uamhna^C		Pl-initial;
++Noun+Masc+Gen+Weak+Pl:uamhan^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:uamhna		Voc-initial;
+
+LEXICON NI-lia
++Noun+Masc+Com+Sg:lia^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:lia^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:lia		Voc-initial;
++Noun+Masc+Com+Pl:liaga^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:liag^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:liaga		Voc-initial;
+
+LEXICON NI-cuach
++Noun+Masc+Com+Sg:cuach^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:cuaiche^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:cuach		Voc-initial;
++Noun+Masc+Com+Pl:cuacha^C		Pl-initial;
++Noun+Masc+Gen+Weak+Pl:cuach^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:cuacha		Voc-initial;
+
+LEXICON NI-triuch
++Noun+Masc+Com+Sg:triuch^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:treacha^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:triuch		Voc-initial;
+
+LEXICON NI-toghadh
++Noun+Masc+Com+Sg:toghadh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:tofa^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:toghadh		Voc-initial;
+
+LEXICON NI-riastradh
++Noun+Masc+Com+Sg:riastradh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:riastartha^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:riastradh		Voc-initial;
+
+LEXICON NI-scamhadh
++Noun+Masc+Com+Sg:scamhadh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:scamhafa^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:scamhadh		Voc-initial;
+
+!!LEXICON NI-riocht
+!!+Noun+Masc+Com+Sg:riocht^M^C		Nom-sg-initial;
+!!+Noun+Masc+Gen+Sg:reachta^M^G		Gen-sg-initial;
+!!+Noun+Masc+Voc+Sg:riocht		Voc-initial;
+!!+Noun+Masc+Com+Pl:riochtaí^C		Pl-initial;
+!!+Noun+Masc+Gen+Strong+Pl:riochtaí^G	Pl-initial;
+!!+Noun+Masc+Voc+Pl+Def:riochtaí		Voc-initial;
+
+LEXICON NI-saobhadh
++Noun+Masc+Com+Sg:saobhadh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:saofa^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:saobhadh		Voc-initial;
+
+LEXICON NI-sciomradh
++Noun+Masc+Com+Sg:sciomradh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:sciomartha^M^G	Gen-sg-initial;
++Noun+Masc+Voc+Sg:sciomradh		Voc-initial;
++Noun+Masc+Com+Pl:sciomarthaí^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:sciomarthaí^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:sciomarthaí	Voc-initial;
+
+LEXICON NI-lionn
++Noun+Masc+Com+Sg:lionn^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:leanna^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:lionn		Voc-initial;
++Noun+Masc+Com+Pl:lionnta^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:lionnta^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:lionnta		Voc-initial;
+
+LEXICON NI-leadradh
++Noun+Masc+Com+Sg:leadradh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:leadartha^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:leadradh		Voc-initial;
++Noun+Masc+Com+Pl:leadarthaí^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:leadarthaí^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:leadarthaí		Voc-initial;
+
+LEXICON NI-namhaid
++Noun+Masc+Com+Sg:namhaid^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:namhad^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:namhaid		Voc-initial;
++Noun+Masc+Com+Pl:naimhde^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:naimhde^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:naimhde		Voc-initial;
+
+LEXICON NI-bonnbhualadh
++Noun+Masc+Com+Sg:bonnbhualadh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:bonnbhuailte^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:bonnbhualadh		Voc-initial;
++Noun+Masc+Com+Pl:bonnbhuailte^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:bonnbhuailte^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:bonnbhuailte		Voc-initial;
+
+LEXICON NI-slios
++Noun+Masc+Com+Sg:slios^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:sleasa^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:slios		Voc-initial;
++Noun+Masc+Com+Pl:sleasa^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:sleasa^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:sleasa		Voc-initial;
+
+!!LEXICON NI-sliocht
+!!+Noun+Masc+Com+Sg:sliocht^M^C		Nom-sg-initial;
+!!+Noun+Masc+Gen+Sg:sleachta^M^G		Gen-sg-initial;
+!!+Noun+Masc+Voc+Sg:sliocht		Voc-initial;
+!!+Noun+Masc+Com+Pl:sleachta^C		Pl-initial;
+!!+Noun+Masc+Gen+Strong+Pl:sleachta^G	Pl-initial;
+!!+Noun+Masc+Voc+Pl+Def:sleachta		Voc-initial;
+
+LEXICON NI-gamhain
++Noun+Masc+Com+Sg:gamhain^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:gamhna^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:gamhain		Voc-initial;
++Noun+Masc+Com+Pl:gamhna^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:gamhna^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:gamhna		Voc-initial;
+
+LEXICON NI-grafadh
++Noun+Masc+Com+Sg:grafadh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:grafa^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:grafadh		Voc-initial;
+
+LEXICON NI-treabhadh
++Noun+Masc+Com+Sg:treadhadh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:treafa^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:treadhadh		Voc-initial;
+
+LEXICON NI-adhradh
++Noun+Masc+Com+Sg:adhradh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:adhartha^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:adhradh		Voc-initial;
+
+LEXICON NI-ionladh
++Noun+Masc+Com+Sg:ionladh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:ionnalta^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:ionladh		Voc-initial;
+
+LEXICON NI-grásta
++Noun+Masc+Com+Sg:grásta^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:grásta^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:grásta		Voc-initial;
++Noun+Masc+Com+Pl:grásta^C		Pl-initial;
++Noun+Masc+Gen+Weak+Pl:grást^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:grásta		Voc-initial;
+
+LEXICON NI-sean
++Noun+Masc+Com+Sg:sean^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:sean^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:sean		Voc-initial;
++Noun+Masc+Com+Pl:seana^C		Pl-initial;
++Noun+Masc+Gen+Weak+Pl:sean^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:seana		Voc-initial;
+
+LEXICON NI-neach
++Noun+Masc+Com+Sg:neach^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:neach^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:neach		Voc-initial;
++Noun+Masc+Com+Pl:neacha^C		Pl-initial;
++Noun+Masc+Gen+Weak+Pl:neach^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:neacha		Voc-initial;
+
+LEXICON NI-rinn
++Noun+Masc+Com+Sg:rinn^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:reanna^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:rinn		Voc-initial;
++Noun+Masc+Com+Pl:reanna^C		Pl-initial;
++Noun+Masc+Gen+Weak+Pl:rinn^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:reanna		Voc-initial;
+
+LEXICON NI-rith
++Noun+Masc+Com+Sg:rith^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:reatha^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:rith		Voc-initial;
++Noun+Masc+Com+Pl:rití^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:rití^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:rití		Voc-initial;
+
+LEXICON NI-ainm
++Noun+Masc+Com+Sg:ainm^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:ainm^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:ainm		Voc-initial;
++Noun+Masc+Com+Pl:ainmneacha^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:ainmneacha^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:ainmneacha		Voc-initial;
+
+LEXICON NI-cine
++Noun+Masc+Com+Sg:cine^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:cine^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:cine		Voc-initial;
++Noun+Masc+Com+Pl:ciníocha^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:ciníocha^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:ciníocha		Voc-initial;
+
+LEXICON NI-scríobh
++Noun+Masc+Com+Sg:scríobh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:scríofa^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:scríobh		Voc-initial;
+
+LEXICON NI-fraoch
++Noun+Masc+Com+Sg:fraoch^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:fraoigh^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:fraoch		Voc-initial;
+
+LEXICON NI-ioth
++Noun+Masc+Com+Sg:ioth^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:eatha^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:iotha			Voc-initial;
+
+
+LEXICON NI-muileann
++Noun+Masc+Com+Sg:muileann^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:muilinn^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:muileann		Voc-initial;
++Noun+Masc+Com+Pl:muilte^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:muilte^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:muilte		Voc-initial;
+
+LEXICON NI-laoch
++Noun+Masc+Com+Sg:laoch^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:laoich^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:laoch		Voc-initial;
++Noun+Masc+Com+Pl:laochra^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:laochra^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:laochra		Voc-initial;
+
+LEXICON NI-gníomh
++Noun+Masc+Com+Sg:gníomh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:gnímh^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:gníomh		Voc-initial;
++Noun+Masc+Com+Pl:gníomhartha^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:gníomhartha^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:gníomhartha		Voc-initial;
+
+LEXICON NI-briathar
++Noun+Masc+Com+Sg:briathar^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:briathair^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:briathar		Voc-initial;
++Noun+Masc+Com+Pl:briathra^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:briathra^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:briathra		Voc-initial;
+
+LEXICON NI-breitheamh
++Noun+Masc+Com+Sg:breitheamh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:breithimh^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:breitheamh		Voc-initial;
++Noun+Masc+Com+Pl:breithiúna^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:breithiúna^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:breithiúna		Voc-initial;
+
+LEXICON NI-ollamh
++Noun+Masc+Com+Sg:ollamh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:ollaimh^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:ollamh		Voc-initial;
++Noun+Masc+Com+Pl:ollúna^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:ollúna^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:ollúna		Voc-initial;
+
+LEXICON NI-aonach
++Noun+Masc+Com+Sg:aonach^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:aonaigh^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:aonach		Voc-initial;
++Noun+Masc+Com+Pl:aontaí^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:aontaí^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:aontaí		Voc-initial;
+
+LEXICON NI-iasc
++Noun+Masc+Com+Sg:iasc^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:éisc^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:iasc			Voc-initial;
++Noun+Masc+Com+Pl:éisc^C		Pl-initial;
++Noun+Masc+Gen+Weak+Pl:iasc^G		Pl-initial;
++Noun+Masc+Voc+Pl+Def:éisc		Voc-initial;
+
+LEXICON NI-cara
++Noun+Masc+Com+Sg:cara^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:carad^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:cara			Voc-initial;
++Noun+Masc+Com+Pl:cairde^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:cairde^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:cairde		Voc-initial;
+
+LEXICON NI-bith
++Noun+Masc+Com+Sg:bith^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:beatha^M^C		Gen-sg-initial;
++Noun+Masc+Voc+Sg:bith			Voc-initial;
+
+LEXICON NI-dada
++Noun+Masc+Com+Sg:dada^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:dada^M^C		Gen-sg-initial;
++Noun+Masc+Voc+Sg:dada			Voc-initial;
+
+LEXICON NI-comhrá
++Noun+Masc+Com+Sg:comhrá^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:comhrá^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:comhrá			Voc-initial;
++Noun+Masc+Com+Pl:comhráite^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:comhráite^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:comhráite		Voc-initial;
+
+
+LEXICON NI-conradh
++Noun+Masc+Com+Sg:conradh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:conartha^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:conradh			Voc-initial;
++Noun+Masc+Com+Pl:conarthaí^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:conarthaí^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:conarthaí		Voc-initial;
+
+LEXICON NI-dia
++Noun+Masc+Com+Sg:Dia^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:Dé^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:Dia			Voc-initial;
++Noun+Masc+Com+Pl:déithe^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:déithe^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:déithe		Voc-initial;
+
+LEXICON NI-duine
++Noun+Masc+Com+Sg:duine^M^C		Nom-sg-initial;
++Noun+Masc+Com+Sg:éinne^M^C		Nom-sg-initial;	! éinne = aon duine, anyone
++Noun+Masc+Com+Sg:aoinne^M^C		Nom-sg-initial;	! aoinne = aon duine, anyone
++Noun+Masc+Gen+Sg:duine^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:duine		Voc-initial;
++Noun+Masc+Com+Pl:daoine^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:daoine^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:daoine		Voc-initial;
+
+LEXICON NI-lá
++Noun+Masc+Com+Sg:lá^M^C		Nom-sg-initial;
++Noun+Masc+Com+Sg:ló^M^C		Nom-sg-initial;	! CANÚINT/VARIANT
++Noun+Masc+Gen+Sg:lae^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:lá			Voc-initial;
++Noun+Masc+Com+Pl:laethanta^C			Pl-initial;
++Noun+Masc+Gen+Strong+Pl:laethanta^G		Pl-initial;
++Noun+Masc+Voc+Pl+Def:laethanta		Voc-initial;
+
+LEXICON NI-mac
++Noun+Masc+Com+Sg:mac^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:mic^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:mac			Voc-initial;
++Noun+Masc+Com+Pl:mic^C			Pl-initial;
++Noun+Masc+Gen+Strong+Pl:mac^G		Pl-initial;
++Noun+Masc+Voc+Pl+Def:maca		Voc-initial;
+
+LEXICON NI-muineál
++Noun+Masc+Com+Sg:muineál^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:muiníl^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:muineál		Voc-initial;
++Noun+Masc+Com+Pl:muiníl^C		Pl-initial;
++Noun+Masc+Gen+Weak+Pl:muineál^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:muiníl		Voc-initial;
+
+LEXICON NI-scrúdú
++Noun+Masc+Com+Sg:scrúdú^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:scrúdaithe^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:scrúdú			Voc-initial;
++Noun+Masc+Com+Pl:scrúduithe^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:scrúduithe^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:scrúduithe		Voc-initial;
+
+LEXICON NI-smaoineamh
++Noun+Masc+Com+Sg:smaoineamh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:smaoinimh^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:smaoineamh			Voc-initial;
++Noun+Masc+Com+Pl:smaointe^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:smaointe^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:smaointe		Voc-initial;
+
+LEXICON NI-tada
++Noun+Masc+Com+Sg:tada^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:tada^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:tada			Voc-initial;
+
+LEXICON NI-talamhM
++Noun+Masc+Com+Sg:talamh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:talaimh^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:talamh			Voc-initial;
++Noun+Masc+Com+Pl:tailte^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:tailte^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:tailte		Voc-initial;
+
+LEXICON NI-teach
++Noun+Masc+Com+Sg:teach^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:tí^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:teach			Voc-initial;
++Noun+Masc+Dat+Sg:tigh			#;
++Noun+Masc+Dat+Sg+Len:thigh			#;
++Noun+Masc+Dat+Sg+Ecl:dtigh			#;
++Noun+Masc+Dat+Sg:tig			#;
++Noun+Masc+Dat+Sg+Ecl:dtig			#;
++Noun+Masc+Com+Pl:tithe^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:tithe^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:tithe		Voc-initial;
+
+LEXICON NI-fiche
++Noun+Masc+Com+Sg:fiche^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:fichead^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:fiche			Voc-initial;
++Noun+Masc+Dat+Sg+Len:fhichid		#;
++Noun+Masc+Com+Pl:fichidí^C		Pl-initial;
++Noun+Masc+Com+Pl:fichid^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:fichidí^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:fichidí		Voc-initial;
+
+LEXICON NI-daichead
++Noun+Masc+Com+Sg:daichead^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:daichid^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:daichead		Voc-initial;
++Noun+Masc+Com+Pl:daichidí^C		Pl-initial;
++Noun+Masc+Gen+Strong+Pl:daichidí^G	Pl-initial;
++Noun+Masc+Voc+Pl+Def:daichidí		Voc-initial;
+
+LEXICON NI-dearg
++Noun+Masc+Com+Sg:dearg^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:deirg^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:dearga		Voc-initial;
++Noun+Masc+Com+Pl:dearga^C		Pl-initial;
++Noun+Masc+Gen+Weak+Pl:dearg^G		Pl-initial;
++Noun+Masc+Voc+Pl+Def:dearga		Voc-initial;
+
+LEXICON NI-earc
++Noun+Masc+Com+Sg:earc^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:eirc^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:earca			Voc-initial;
++Noun+Masc+Com+Pl:earca^C		Pl-initial;
++Noun+Masc+Gen+Weak+Pl:earc^G		Pl-initial;
++Noun+Masc+Voc+Pl+Def:earca		Voc-initial;
+
+LEXICON NI-each
++Noun+Masc+Com+Sg:each^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:eich^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:eacha			Voc-initial;
++Noun+Masc+Com+Pl:eacha^C		Pl-initial;
++Noun+Masc+Gen+Weak+Pl:each^G		Pl-initial;
++Noun+Masc+Voc+Pl+Def:eacha		Voc-initial;
+
+LEXICON NI-biadh
++Noun+Masc+Com+Sg:biadh^M^C		Nom-sg-initial;
++Noun+Masc+Gen+Sg:bídh^M^G		Gen-sg-initial;
++Noun+Masc+Voc+Sg:biadh			Voc-initial;
+
+
+
+!----------------------------------------------------------------------------
+! SUBSTANTIVES
+! function as nouns but no morphology
+
+LEXICON Substantive
+
+!ainneoin:ainneoin			Ns; SEE CONJ-LEX.TXT
+ais:ais					Ns;	 ! ar ~ back; again,
+bith:bith				Ns;
+comhair:comhair				Ns;
+déag:déag				Ns;
+Dé:Dé					Ns;	! Dé Sathairn etc...
+deara:deara				Ns;
+deo:deo					Ns;
+deas:deas				Ns;
+diaidh:diaidh				Ns;
+éineacht:éineacht			Ns;
+éis:éis					Ns;
+fearacht:fearacht			Ns;	! Hartmann
+féidir:féidir				Ns;
+fiú:fiú					Ns;
+fud:fud					Ns;
+oiread:oiread				Ns;
+son:son					Ns;
+díobhaill:díobhaill			Ns;
+dála:dála				Ns;
+
+! THE FOLLOWING ARE UNDER THE SUBSTANTIVE LEXICON ALTHOUGH THEY HAVE GENDER ETC. 
+! BUT ARE NOT GENERALLY DECLINED...
+saochan+Noun+Masc+Com+Sg:saochan	#;	! in phr. ~ céille
+ciútraimintí+Noun+Fem+Com+Pl:ciútraimintí	#;	! accoutrements
+léaróga+Noun+Fem+Com+Pl:léaróga		#;	! blinkers
+imthosca+Noun+Fem+Com+Pl:imthosca	#;	! circumstances (legal) 
+riteoga+Noun+Fem+Com+Pl:riteoga		#;	! tights
+riteoga+Noun+Fem+Gen+Weak+Pl:riteog	#;	! tights
+baictéir+Noun+Masc+Com+Pl:baictéir	#;	! bacteria
+bunchnoic+Noun+Masc+Com+Pl:bunchnoic	#;	! foot-hills
+bunchnoic+Noun+Masc+Gen+Weak+Pl:bunchnoc	#;	! foot-hills
+léaspáin+Noun+Masc+Com+Pl:léaspáin	#;	! dazzlement
+léaspáin+Noun+Masc+Gen+Weak+Pl:léaspán	#;	! dazzlement
+<l e a g a n %_:%  a m a c h %+Noun:0 %+Masc:0 %+Com:0 %+Sg:0>   #;   ! layout
+té+Noun+Masc+Com+Sg+DefArt:té	#;	! 
+té+Noun+Masc+Com+Sg:té	#;	! 
+
+!----------------------------------------------------------------------------
+! DATIVES
+! these are dative forms belonging to nouns in the Regular Nouns Lexicon
+
+LEXICON Dative
+cos+Noun+Fem+Dat+Sg:cois	#;	! foot
+cos+Noun+Fem+Dat+Sg+Len:chois	#;
+lámh+Noun+Fem+Dat+Sg:láimh	#;	! hand
+ceann+Noun+Fem+Dat+Sg:cionn	#;	! head
+ceann+Noun+Fem+Dat+Sg+Ecl:gcionn	#;	! head
+ceann+Noun+Fem+Dat+Sg+Len:chionn	#;	! head
+fearg+Noun+Fem+Dat+Sg:feirg	#;	! anger
+cian+Noun+Fem+Dat+Sg:céin	#;	! sadness
+cian+Noun+Fem+Dat+Sg+Ecl:gcéin	#;	! sadness
+críoch+Noun+Fem+Dat+Sg:crích	#;	! limit, boundary, end
+críoch+Noun+Fem+Dat+Sg+Ecl:gcrích	#;	! limit, boundary, end
+críoch+Noun+Fem+Dat+Sg+Len:chrích	#;	! limit, boundary, end
+leabhar+Noun+Masc+Dat+Pl:leabhraibh	#;	! books
+ifreann+Noun+Masc+Dat+Sg:ifrinn	#;	! hell
+!----------------------------------------------------------------------------
+! OTHERS
+
+LEXICON Other
+
+! see ADV-LEX  ann+Subst+Noun+Sg:ann	#;	! in ~ rud a
+bliain+Noun+Fem+Com+Pl+Ecl:mbliana	#;	! special form of bliain with numbers and "i mbliana"
+bliain+Noun+Fem+Com+Pl:bliana	#;	! special form of bliain with numbers and "i mbliana"
+méad+Noun+Masc+Com+Sg+Len:mhéad	#;	! many, most after particles ar, cá, cé, dá
+maidir+Subst+Noun+Sg:maidir		#;
+maille+Subst+Noun+Sg:maille		#;	! in prep phr. with le*
+éard+Noun+Masc+Com+Sg:éard		#;	! éard = é an rud
+<a %_:%  l á n %+Subst:0 %+Noun:0 %+Sg:0>	#;	! Bhí a lán ann ...
+<g o %_:%  l e o r %+Subst:0 %+Noun:0 %+Sg:0>	#;	! Bhí go leor ann ...
+
+!----------------------------------------------------------------------------

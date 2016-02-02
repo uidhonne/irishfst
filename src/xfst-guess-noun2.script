@@ -1,0 +1,63 @@
+# Irish Noun Guesser 2 incorporating Adjectives
+# with Adj guesser seperate we got an/Art gearantach/Adj
+# if gearantach could be tagged Adj & Noun then CG could disambiguate
+
+# Guesses Nouns which include capital letters and borrowed consonants
+
+# Root covers strings that looks like a valid Irish root
+# Pref lists some prefixes
+
+clear stack
+
+define BV [ a | o | u | á | ó | ú ] ; 	# Broad Vowels
+define SV [ e | i | é | í ] ; 		# Slender Vowels
+
+define BSg [ o | u | á | ó | ú ] ; 	# Broad Vowels singular i.e. not a
+define SSg [ e | i | é ] ; 		# Slender Vowels singular i.e. not í
+
+define VL    [a|o|u|á|ó|ú|e|i|é|í]; # all vowels
+#define CapVL [A|E|I|O|U|Á|É|Í|Ó|Ú]; # all vowels caps
+define VF [a|o|u|á|ó|ú|e|i|é|í|y]; # all vowels incl. "y"
+#define CapVF [A|E|I|O|U|Á|É|Í|Ó|Ú|Y]; # all vowels incl. "y" caps
+
+define CN [b|c|d|f|g|h|l|m|n|p|r|s|t|%-|v]; # consonants	
+define ACN [b|c|d|f|g|h|l|m|n|p|r|s|t|%-|j|k|q|v|w|x|y|z]; # all consonants	
+define Cap [B|C|D|F|G|H|L|M|N|P|R|S|T|J|K|Q|V|W|X|Y|Z];
+define AllCap [B|C|D|F|G|H|L|M|N|P|R|S|T|J|K|Q|V|W|X|Y|Z|A|E|I|O|U|Á|É|Í|Ó|Ú]; 
+define Stop [%.];
+
+# Root includes all strings that look like valid Irish roots.
+
+# up to 4 consequtive consonants e.g. ullmhaigh
+# even 5 e.g. tonnchrith
+
+define Syl    [ (CN)     (CN) (CN) (VL) (VL) VL (CN) (CN) (CN)];
+define CapSyl [ (AllCap) (CN) (CN) (VL) (VL) VL (CN) (CN) (CN)];
+
+define BrSyl  [ (CN) (CN) (CN) (VL) (VL) BV (CN) (CN) (CN)];
+define SlSyl  [ (CN) (CN) (CN) (VL) (VL) SV (CN) (CN) (CN)];
+
+define Init [ AllCap (%.)];
+
+# ASSUME singular nouns  end in a consonant
+# up to 3 syllables e.g. easportáil, liteagraf
+
+define Nouns  	[(Syl) (Syl) (Syl) SlSyl [CN|SSg] ] "+Guess":0 "+Noun":0 "+Fem":0 "+Com":0 "+Sg":0
+	       |[(Syl) (Syl) (Syl) BrSyl [CN|BSg] ] "+Guess":0 "+Noun":0 "+Masc":0 "+Com":0 "+Sg":0 
+;
+# ASSUME plural nouns end in a or í
+# up to 5 syllables with pl suffix e.g. liteagrafanna
+# also e.g. sagartóireachta
+define FRoot	[(Syl) (Syl) (Syl) SlSyl];
+define MRoot	[(Syl) (Syl) (Syl) BrSyl];
+define NounsPl [FRoot [%+Guess %+Noun %+Fem %+Com %+Pl .x. [a|í]] ]
+	      |[MRoot [%+Guess %+Noun %+Masc %+Com %+Pl .x. [a|í]] ]
+;
+#define CommNouns [Nouns | NounsPl | GuessAdj ];
+define CommNouns [Nouns | NounsPl ];
+
+read regex CommNouns ;
+echo << saving bin/nguess2.fst to file >>
+save stack bin/nguess2.fst
+
+echo << Noun Guesser 2 Complete >>

@@ -1,0 +1,61 @@
+# Irish Guesser
+# Digit Numbers
+# CHILDES ID added Oct 2006
+
+clear stack
+
+define Digit [%0| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | ½ ];
+# omit "A" as it is has many more likely meanings than Item ("a" is in lexicon)
+# omit "x" as it is more likely to be Num Op i.e. 2 x 4 = 8
+define Letter [a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|y|z|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|Y|Z];
+define LetterUC [A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|Y|Z|Á|É|Í|Ó|Ú];
+define LettALL [a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|y|z|á|é|í|ó|ú|A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|Y|Z|Á|É|Í|Ó|Ú];
+
+define Roman  [ i | v | x | l | c ];
+define URoman [ I | V | X | L | C ];
+
+define NumOp [%- | %= | %+ | %* | x | %/ | %: ];
+
+define NumSep [%. | %, ];
+
+define NUM [[Digit | NumOp | NumSep]+ & $[Digit]] | [%# Digit+];
+# let us say that Roman Numeral must have more that 1 digit e.g. xv, ii, lv etc.
+# otherwise it is tagged as an Item
+define RNUM [ [Roman Roman+ ] | [URoman URoman+] ];
+
+define Numtag [%+Num %+Dig .x. 0 ] ;
+define Romtag [%+Num %+Rom .x. 0 ] ;
+define Curtag [%+Num %+Cur .x. 0 ] ;
+
+define Ord [%+Ord .x. ú ] ;
+
+define PC  [%+PC .x. %% ] ;  # Per Cent
+
+define Time  [%+Time .x. [a m | p m] ] ;   
+
+# (b) (i) (I) (3) etc
+define List [(%() Letter (%)) ] 
+           |[(%() [[Roman+]|[URoman+]|[Digit+]] %) ] ;
+           #|[%( [[Roman+]|[URoman+]|[Digit+]] %) ] ;
+
+define Itemtag [%+Item .x. 0];
+
+define CHILDES [%* LetterUC LetterUC LetterUC %:];
+define Childestag [%+ChildesID .x. 0];
+
+# Fragment is anything ending in a hyphen e.g. b- im- amár- etc.
+define FRAG [LettALL+ %-];
+define FRAGtag [%+Fragment .x. 0];
+
+
+define Number [[ NUM Numtag (Ord | PC | Time) ] 
+	      |[ RNUM Romtag ] 
+	      |[ I R P NUM Curtag ] 
+              |[ List Itemtag ]
+              |[ CHILDES Childestag ]
+	      |[ FRAG FRAGtag ]
+	];
+
+read regex Number ;
+echo << saving bin/digit.fst to file >>
+save stack bin/digit.fst

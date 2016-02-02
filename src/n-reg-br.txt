@@ -1,0 +1,52 @@
+! Noun (Gaeilge) Replace Rules
+! Elaine Uí Dhonnchadha
+! May 1998
+!
+! Leathú (^Lea) :Broadening of slender words
+! Usually by removing "i"
+! but also by substituting vowels eg io->ea
+! and also by inserting a broad vowel eg í->ío
+!
+! 2004 
+! included %^FC and %^FY in Cons
+! included %^FH in i -> ea rule
+!**************************************************************************
+
+define Cons  b|c|d|f|g|h|j|k|l|m|n|p|q|r|s|t|v|w|x|y|z|%^FC|%^FY;
+read regex o i  -> %^FB a || r _ Cons+ %^Lea	! roinn -> rann 
+.o.
+
+ i -> %^FB a || [e|é] _ Cons+ %^Lea	! greim(m) -> greama, spéir -> spéartha
+.o.
+ 
+ i -> %^FB e a || [b|c|m|r] (%^FH h) %^X _ Cons+ %^Lea 	
+				! binn -> beanna, rith -> reatha
+				! cith(m) -> ceatha, crith(m) -> creatha
+				! scian -> sceana (I) imirt -> imeartha
+
+ 
+.o.
+ i -> [%^FB] || [a|á|%^AE|o|ó|ú|%^UA|%^AO] _ Cons+ %^Lea
+				! CHECK WHETHER "u" SHOULD BE HERE TOO???
+				! OR DOES "ui" ALWAYS GO TO "o" (see next rule)
+				! it appears so ...
+				! súil - súl, dúil, glúin
+				! cóir - córa, móin - móna
+				! deoir - deora, feoil - feola
+				! troid - troda, cainteoir - cainteora
+				! droim(m) - droma, goin - gona, toil
+				! gáir - gártha, tiomáint - tiomána
+				! síocháin - síochána, cáisc - cásca
+				! stair - startha, flaith(m) - flatha
+				! bliain - bliana
+				! grósaeir - grósaera (E), traein - traen(E)
+				! bádóir - bádóra, buairt(U) -> buartha
+				! aoir - aortha (O)
+.o.
+ u i -> %^FB o || _ Cons+ %^Lea	! cuid -  na coda, fuil - fola
+.o.
+ [..] -> %^FB o || (a) í _ Cons+ %^Lea 	
+				! feadaíl - feadaíola, tír - tíortha
+.o.
+%^Lea -> []
+;

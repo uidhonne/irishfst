@@ -1,0 +1,208 @@
+LEXICON VN-Variants
+! *** Assigned by hand.
+! CW 09/08
+! VERBAL NOUNS 
+! The genitive was assigned by hand were examples could be
+! found in the corpus. In some cases no occurrence of the
+! verbal nouns ending with -dh could be found in the corpus.
+athchognadh+Verbal+Noun+VTI:athchognadh		VN-INIT;	! Headword: athchogain (v.t. & i. ); (Var: pres. athchognann, vn. athchognadh m)
+athchognadh+Verbal+Noun+VTI+Gen:athchoganta		VN-INIT;	! Headword: athchogain (v.t. & i. ); (Var: pres. athchognann, vn. athchognadh m) ***
+athleaghadh+Verbal+Noun+VT:athleaghadh		VN-INIT;	! Headword: athleáigh (v.t. ); (Var: vn. athleaghadh m)
+!!athleaghadh+Verbal+Noun+VT+Gen:???		VN-INIT;	! Headword: athleáigh (v.t. ); (Var: vn. athleaghadh m) ???
+athmhuscladh+Verbal+Noun+VT:athmhuscladh		VN-INIT;	! Headword: athmhúscail (v.t. ); (Var: athmhuscail, vn. athmhuscladh m) ***
+!!athmhuscladh+Verbal+Noun+VT+Gen:???		VN-INIT;	! Headword: athmhúscail (v.t. ); (Var: athmhuscail, vn. athmhuscladh m)
+baslú+Verbal+Noun+VT:baslú		VN-INIT;	! Headword: baslaigh (v.t. ); (Var: vn. baslú m)
+baslú+Verbal+Noun+VT+Gen:baslaithe		VN-INIT;	! Headword: baslaigh (v.t. ); (Var: vn. baslú m)
+baslaithe+Verbal+Adj:baslaithe		VA-INIT;	! Headword: baslaigh (v.t. ); (Var: vn. baslú m)
+breabáil+Verbal+Noun+VT+Gen:breabála		VN-INIT;
+breabáilte+Verbal+Adj:breabáilte		VA-INIT;
+bucláil+Verbal+Noun+VT+Gen:buclála		VN-INIT;
+bucláilte+Verbal+Adj:bucláilte		VA-INIT;
+cabhradh+Verbal+Noun+VI:cabhradh		VN-INIT;	! Headword: cabhraigh (v.i. ); (Var: vn. cabhradh)
+cabhradh+Verbal+Noun+VI+Gen:cabhartha		VN-INIT;	! Headword: cabhraigh (v.i. ); (Var: vn. cabhradh) ***
+ceiliúirt+Verbal+Noun+VTI:ceiliúirt		VN-INIT;	! Headword: ceiliúir (v.t. & i. ); (Var: vn. ~t)
+!!ceiliúirt+Verbal+Noun+VTI+Gen:???		VN-INIT;	! Headword: ceiliúir (v.t. & i. ); (Var: vn. ~t)
+ciallachadh+Verbal+Noun+VTI:ciallachadh		VN-INIT;	! Headword: ciallaigh (v.t. & i. ); (Var: vn. ciallachadh m)
+!!ciallachadh+Verbal+Noun+VTI+Gen:???		VN-INIT;	! Headword: ciallaigh (v.t. & i. ); (Var: vn. ciallachadh m)
+clampáil+Verbal+Noun+VTI+Gen:clampála		VN-INIT;
+clampáilte+Verbal+Adj:clampáilte		VA-INIT;
+clingeáil+Verbal+Noun+VTI+Gen:clingeála		VN-INIT;
+clingeáilte+Verbal+Adj:clingeáilte		VA-INIT;
+cluinstean+Verbal+Noun+VTI:cluinstean		VN-INIT;	! Headword: cluin (v.t. & i. ); (Var: pres. ~, p. aut. ~eadh, ~theas, vn. ~s(t)ean, ~s(t)int, ~t)
+!!cluinstean+Verbal+Noun+VTI+Gen:???		VN-INIT;	! Headword: cluin (v.t. & i. ); (Var: pres. ~, p. aut. ~eadh, ~theas, vn. ~s(t)ean, ~s(t)int, ~t)
+cluinsean+Verbal+Noun+VTI:cluinsean		VN-INIT;	! Headword: cluin (v.t. & i. ); (Var: pres. ~, p. aut. ~eadh, ~theas, vn. ~s(t)ean, ~s(t)int, ~t)
+!!cluinsean+Verbal+Noun+VTI+Gen:???		VN-INIT;	! Headword: cluin (v.t. & i. ); (Var: pres. ~, p. aut. ~eadh, ~theas, vn. ~s(t)ean, ~s(t)int, ~t)
+cnapáil+Verbal+Noun+VT:cnapáil		VN-INIT;	! Headword: cnap (v.t. ); (Var: vn. ~áil f, ~aíl f)
+cnapáil+Verbal+Noun+VT+Gen:cnapála		VN-INIT;	! Headword: cnap (v.t. ); (Var: vn. ~áil f, ~aíl f)
+cnapáilte+Verbal+Adj:cnapáilte		VA-INIT;	! Headword: cnap (v.t. ); (Var: vn. ~áil f, ~aíl f)
+cnapaíl+Verbal+Noun+VT:cnapaíl		VN-INIT;	! Headword: cnap (v.t. ); (Var: vn. ~áil f, ~aíl f)
+cnapaíl+Verbal+Noun+VT+Gen:cnapíola		VN-INIT;	! Headword: cnap (v.t. ); (Var: vn. ~áil f, ~aíl f)
+codailt+Verbal+Noun+VI:codailt		VN-INIT;	! Headword: codail (v.i. ); (Var: pp. ~te, vn. ~t f)
+codailt+Verbal+Noun+VI+Gen:codailte		VN-INIT;	! Headword: codail (v.i. ); (Var: pp. ~te, vn. ~t f)
+codailte+Verbal+Adj:codailte		VA-INIT;	! Headword: codail (v.i. ); (Var: pp. ~te, vn. ~t f)
+constrabháil+Verbal+Noun+VTI+Gen:constrabhála		VN-INIT;
+constrabháilte+Verbal+Adj:constrabháilte		VA-INIT;
+constráil+Verbal+Noun+VTI+Gen:constrála		VN-INIT;
+constráilte+Verbal+Adj:constráilte		VA-INIT;
+cornáil+Verbal+Noun+VT+Gen:cornála		VN-INIT;
+cornáilte+Verbal+Adj:cornáilte		VA-INIT;
+creanúint+Verbal+Noun+VTI:creanúint		VN-INIT;	! Headword: crean (v.t. & i. ); (Var: vn. ~úint f)
+creanúint+Verbal+Noun+VTI+Gen:creanúna		VN-INIT;	! Headword: crean (v.t. & i. ); (Var: vn. ~úint f)
+cróisiáil+Verbal+Noun+VTI+Gen:cróisiála		VN-INIT;
+cróisiáilte+Verbal+Adj:cróisiáilte		VA-INIT;
+cúbáil+Verbal+Noun+VTI+Gen:cúbála		VN-INIT;
+cúbáilte+Verbal+Adj:cúbáilte		VA-INIT;
+cúrsachadh+Verbal+Noun+VT:cúrsachadh		VN-INIT;	! Headword: cúrsaigh (v.t. ); (Var: vn. cúrsa(cha)dh m)
+!!cúrsachadh+Verbal+Noun+VT+Gen:???		VN-INIT;	! Headword: cúrsaigh (v.t. ); (Var: vn. cúrsa(cha)dh m)
+cúrsadh+Verbal+Noun+VT:cúrsadh		VN-INIT;	! Headword: cúrsaigh (v.t. ); (Var: vn. cúrsa(cha)dh m)
+!!cúrsadh+Verbal+Noun+VT+Gen:???		VN-INIT;	! Headword: cúrsaigh (v.t. ); (Var: vn. cúrsa(cha)dh m)
+dátáil+Verbal+Noun+VT+Gen:dátála		VN-INIT;
+dátáilte+Verbal+Adj:dátáilte		VA-INIT;
+diongbháil+Verbal+Noun+VT+Gen:diongbhála		VN-INIT;
+diongbháilte+Verbal+Adj:diongbháilte		VA-INIT;
+diúgáil+Verbal+Noun+VT+Gen:diúgála		VN-INIT;
+diúgáilte+Verbal+Adj:diúgáilte		VA-INIT;
+diurnáil+Verbal+Noun+VT+Gen:diurnála		VN-INIT;
+diurnáilte+Verbal+Adj:diurnáilte		VA-INIT;
+dligheachtáil+Verbal+Noun+VT:dligheachtáil		VN-INIT;	! Headword: dligh (v.t. ); (Var: pres. ~, ~eann; vn. ~eachtáil f)
+dligheachtáil+Verbal+Noun+VT+Gen:dligheachtála		VN-INIT;	! Headword: dligh (v.t. ); (Var: pres. ~, ~eann; vn. ~eachtáil f)
+dligheachtáilte+Verbal+Adj:dligheachtáilte		VA-INIT;	! Headword: dligh (v.t. ); (Var: pres. ~, ~eann; vn. ~eachtáil f)
+dluighe+Verbal+Noun+VT:dluighe		VN-INIT;	! Headword: dluigh (v.t. ); (Var: pres. ~eann; vn. ~e, ~iú)
+!!dluighe+Verbal+Noun+VT+Gen:???		VN-INIT;	! Headword: dluigh (v.t. ); (Var: pres. ~eann; vn. ~e, ~iú)
+druid+Verbal+Noun+VTI:druid		VN-INIT;	! Headword: druid (v.t. & i. ); (Var: vn. ~, ~eadh m)
+!!druid+Verbal+Noun+VTI+Gen:???		VN-INIT;	! Headword: druid (v.t. & i. ); (Var: vn. ~, ~eadh m)
+
+!! NOTE: 'druideadh' is commented out since it was not found as a verbal noun
+!! in the corpus, yet chances are that it would get mixed up with 'druideadh'
+!! as independed form of 'druid', i.e. 'ó druideadh an scoil'
+!!druideadh+Verbal+Noun+VTI:druideadh		VN-INIT;	! Headword: druid (v.t. & i. ); (Var: vn. ~, ~eadh m)
+!!druideadh+Verbal+Noun+VTI+Gen:???		VN-INIT;	! Headword: druid (v.t. & i. ); (Var: vn. ~, ~eadh m)
+durdal+Verbal+Noun+VI:durdal		VN-INIT;	! Headword: durdáil (v.i. ); (Var: vn. durdal m)
+!!durdal+Verbal+Noun+VI+Gen:???		VN-INIT;	! Headword: durdáil (v.i. ); (Var: vn. durdal m)
+éagadh+Verbal+Noun+VI:éagadh		VN-INIT;	! Headword: éag (v.i. ); (Var: vn. ~adh m)
+éagadh+Verbal+Noun+VI+Gen:éagtha		VN-INIT;	! Headword: éag (v.i. ); (Var: vn. ~adh m) ***
+eagradh+Verbal+Noun+VT:eagradh		VN-INIT;	! Headword: eagraigh (v.t. ); (Var: vn. eagradh, gs. eagartha)
+eagradh+Verbal+Noun+VT+Gen:eagartha		VN-INIT;	! Headword: eagraigh (v.t. ); (Var: vn. eagradh, gs. eagartha)
+easradh+Verbal+Noun+VT:easradh		VN-INIT;	! Headword: easraigh (v.t. ); (Var: vn. easradh m, gs. easartha)
+easradh+Verbal+Noun+VT+Gen:easartha		VN-INIT;	! Headword: easraigh (v.t. ); (Var: vn. easradh m, gs. easartha)
+fásachadh+Verbal+Noun+VT:fásachadh		VN-INIT;	! Headword: fásaigh (v.t. ); (Var: vn. fásachadh m, fásaíocht f)
+!!fásachadh+Verbal+Noun+VT+Gen:???		VN-INIT;	! Headword: fásaigh (v.t. ); (Var: vn. fásachadh m, fásaíocht f)
+fásaíocht+Verbal+Noun+VT:fásaíocht		VN-INIT;	! Headword: fásaigh (v.t. ); (Var: vn. fásachadh m, fásaíocht f)
+fásaíocht+Verbal+Noun+VT+Gen:fásaíochta		VN-INIT;	! Headword: fásaigh (v.t. ); (Var: vn. fásachadh m, fásaíocht f) ***
+fiuchaíl+Verbal+Noun+VTI:fiuchaíl		VN-INIT;	! Headword: fiuch (v.t. & i. ); (Var: vn. ~aíl f)
+fiuchaíl+Verbal+Noun+VTI+Gen:fiuchíola		VN-INIT;	! Headword: fiuch (v.t. & i. ); (Var: vn. ~aíl f)
+flipeáil+Verbal+Noun+VT+Gen:flipeála		VN-INIT;
+flipeáilte+Verbal+Adj:flipeáilte		VA-INIT;
+fonsadh+Verbal+Noun+VT:fonsadh		VN-INIT;	! Headword: fonsaigh (v.t. ); (Var: vn. fonsadh m)
+!!fonsadh+Verbal+Noun+VT+Gen:???		VN-INIT;	! Headword: fonsaigh (v.t. ); (Var: vn. fonsadh m)
+foscaint+Verbal+Noun+VT:foscaint		VN-INIT;	! Headword: foscain (v.t. ); (Var: vn. ~t f)
+foscaint+Verbal+Noun+VT+Gen:foscainte		VN-INIT;	! Headword: foscain (v.t. ); (Var: vn. ~t f)
+gargaint+Verbal+Noun+VT:gargaint		VN-INIT;	! Headword: gargaigh (v.t. ); (Var: vn. gargaint f)
+gargaint+Verbal+Noun+VT+Gen:gargainte		VN-INIT;	! Headword: gargaigh (v.t. ); (Var: vn. gargaint f)
+gásáil+Verbal+Noun+VT+Gen:gásála		VN-INIT;
+gásáilte+Verbal+Adj:gásáilte		VA-INIT;
+gatháil+Verbal+Noun+VT+Gen:gathála		VN-INIT;
+gatháilte+Verbal+Adj:gatháilte		VA-INIT;
+glasachan+Verbal+Noun+VTI:glasachan		VN-INIT;	! Headword: glasaigh (v.t. & i. ); (Var: vn. glasachan f, glasadh m)
+!!glasachan+Verbal+Noun+VTI+Gen:???		VN-INIT;	! Headword: glasaigh (v.t. & i. ); (Var: vn. glasachan f, glasadh m)
+glasadh+Verbal+Noun+VTI:glasadh		VN-INIT;	! Headword: glasaigh (v.t. & i. ); (Var: vn. glasachan f, glasadh m)
+!!glasadh+Verbal+Noun+VTI+Gen:???		VN-INIT;	! Headword: glasaigh (v.t. & i. ); (Var: vn. glasachan f, glasadh m)
+goilliúint+Verbal+Noun+VI:goilliúint		VN-INIT;	! Headword: goill (v.i. ); (Var: vn. ~iúint f)
+goilliúint+Verbal+Noun+VI+Gen:goilliúna		VN-INIT;	! Headword: goill (v.i. ); (Var: vn. ~iúint f)
+gríoscáil+Verbal+Noun+VTI+Gen:gríoscála		VN-INIT;
+gríoscáilte+Verbal+Adj:gríoscáilte		VA-INIT;
+inghreamadh+Verbal+Noun+VT:inghreamadh		VN-INIT;	! Headword: inghreim (v.t. ); (Var: pres. inghreamann, vn. inghreamadh m)
+!!inghreamadh+Verbal+Noun+VT+Gen:???		VN-INIT;	! Headword: inghreim (v.t. ); (Var: pres. inghreamann, vn. inghreamadh m)
+lámhachadh+Verbal+Noun+VTI:lámhachadh		VN-INIT;	! Headword: lámhach (v.t. & i. ); (Var: vn. ~adh m, ~tain(t) f)
+!!lámhachadh+Verbal+Noun+VTI+Gen:???		VN-INIT;	! Headword: lámhach (v.t. & i. ); (Var: vn. ~adh m, ~tain(t) f)
+lámhachtaint+Verbal+Noun+VTI:lámhachtaint		VN-INIT;	! Headword: lámhach (v.t. & i. ); (Var: vn. ~adh m, ~tain(t) f)
+lámhachtaint+Verbal+Noun+VTI+Gen:lámhachtainte		VN-INIT;	! Headword: lámhach (v.t. & i. ); (Var: vn. ~adh m, ~tain(t) f)
+lámhachtain+Verbal+Noun+VTI:lámhachtain		VN-INIT;	! Headword: lámhach (v.t. & i. ); (Var: vn. ~adh m, ~tain(t) f)
+!!lámhachtain+Verbal+Noun+VTI+Gen:???		VN-INIT;	! Headword: lámhach (v.t. & i. ); (Var: vn. ~adh m, ~tain(t) f)
+lánadh+Verbal+Noun+VTI:lánadh		VN-INIT;	! Headword: lánaigh (v.t. & i. ); (Var: vn. lánadh m)
+!!lánadh+Verbal+Noun+VTI+Gen:???		VN-INIT;	! Headword: lánaigh (v.t. & i. ); (Var: vn. lánadh m)
+lascáil+Verbal+Noun+VTI+Gen:lascála		VN-INIT;
+lascáilte+Verbal+Adj:lascáilte		VA-INIT;
+leadhbáil+Verbal+Noun+VT+Gen:leadhbála		VN-INIT;
+leadhbáilte+Verbal+Adj:leadhbáilte		VA-INIT;
+léimeadh+Verbal+Noun+VTI:léimeadh		VN-INIT;	! Headword: léim (v.t. & i. ); (Var: vn. ~eadh m, ~int f)
+!!léimeadh+Verbal+Noun+VTI+Gen:???		VN-INIT;	! Headword: léim (v.t. & i. ); (Var: vn. ~eadh m, ~int f)
+léimint+Verbal+Noun+VTI:léimint		VN-INIT;	! Headword: léim (v.t. & i. ); (Var: vn. ~eadh m, ~int f)
+léimint+Verbal+Noun+VTI+Gen:léiminte		VN-INIT;	! Headword: léim (v.t. & i. ); (Var: vn. ~eadh m, ~int f)
+mantáil+Verbal+Noun+VT+Gen:mantála		VN-INIT;
+mantáilte+Verbal+Adj:mantáilte		VA-INIT;
+muinneadh+Verbal+Noun+VT:muinneadh		VN-INIT;	! Headword: muinnigh (v.t. ); (Var: vn. muinneadh m)
+!!muinneadh+Verbal+Noun+VT+Gen:???		VN-INIT;	! Headword: muinnigh (v.t. ); (Var: vn. muinneadh m)
+múnláil+Verbal+Noun+VT+Gen:múnlála		VN-INIT;
+múnláilte+Verbal+Adj:múnláilte		VA-INIT;
+odhradh+Verbal+Noun+VTI:odhradh		VN-INIT;	! Headword: odhraigh (v.t. & i. ); (Var: vn. odhradh m)
+!!odhradh+Verbal+Noun+VTI+Gen:???		VN-INIT;	! Headword: odhraigh (v.t. & i. ); (Var: vn. odhradh m)
+oláil+Verbal+Noun+VT+Gen:olála		VN-INIT;
+oláilte+Verbal+Adj:oláilte		VA-INIT;
+plástaráil+Verbal+Noun+VTI+Gen:plástarála		VN-INIT;
+plástaráilte+Verbal+Adj:plástaráilte		VA-INIT;
+potbhiathadh+Verbal+Noun+VT:potbhiathadh		VN-INIT;	! Headword: potbhiathaigh (v.t. ); (Var: potbhiath, vn. potbhiathadh m)
+!!potbhiathadh+Verbal+Noun+VT+Gen:???		VN-INIT;	! Headword: potbhiathaigh (v.t. ); (Var: potbhiath, vn. potbhiathadh m)
+ransáil+Verbal+Noun+VTI+Gen:ransála		VN-INIT;
+ransáilte+Verbal+Adj:ransáilte		VA-INIT;
+réabáil+Verbal+Noun+VTI+Gen:réabála		VN-INIT;
+réabáilte+Verbal+Adj:réabáilte		VA-INIT;
+sáinneáil+Verbal+Noun+VT+Gen:sáinneála		VN-INIT;
+sáinneáilte+Verbal+Adj:sáinneáilte		VA-INIT;
+scealpáil+Verbal+Noun+VTI+Gen:scealpála		VN-INIT;
+scealpáilte+Verbal+Adj:scealpáilte		VA-INIT;
+sceodhach+Verbal+Noun+VI:sceodhach		VN-INIT;	! Headword: sceoigh (v.i. ); (Var: sceoidh, pres. sceodhann, vn. sceodhach, pp. sceoidhte)
+!!sceodhach+Verbal+Noun+VI+Gen:???		VN-INIT;	! Headword: sceoigh (v.i. ); (Var: sceoidh, pres. sceodhann, vn. sceodhach, pp. sceoidhte)
+scirmiseáil+Verbal+Noun+VI+Gen:scirmiseála		VN-INIT;
+scirmiseáilte+Verbal+Adj:scirmiseáilte		VA-INIT;
+siúndáil+Verbal+Noun+VT+Gen:siúndála		VN-INIT;
+siúndáilte+Verbal+Adj:siúndáilte		VA-INIT;
+siúntáil+Verbal+Noun+VT+Gen:siúntála		VN-INIT;
+siúntáilte+Verbal+Adj:siúntáilte		VA-INIT;
+sliseáil+Verbal+Noun+VTI+Gen:sliseála		VN-INIT;
+sliseáilte+Verbal+Adj:sliseáilte		VA-INIT;
+smeádaráil+Verbal+Noun+VTI+Gen:smeádarála		VN-INIT;
+smeádaráilte+Verbal+Adj:smeádaráilte		VA-INIT;
+smeádaráil+Verbal+Noun+VTI+Gen:smeádarála		VN-INIT;
+smeádaráilte+Verbal+Adj:smeádaráilte		VA-INIT;
+smíochtáil+Verbal+Noun+VTI+Gen:smíochtála		VN-INIT;
+smíochtáilte+Verbal+Adj:smíochtáilte		VA-INIT;
+smísteáil+Verbal+Noun+VT+Gen:smísteála		VN-INIT;
+smísteáilte+Verbal+Adj:smísteáilte		VA-INIT;
+speacháil+Verbal+Noun+VTI:speacháil		VN-INIT;	! Headword: speach (v.t. & i. ); (Var: vn. ~áil f, ~aíl f)
+speacháil+Verbal+Noun+VTI+Gen:speachála		VN-INIT;	! Headword: speach (v.t. & i. ); (Var: vn. ~áil f, ~aíl f)
+speacháilte+Verbal+Adj:speacháilte		VA-INIT;	! Headword: speach (v.t. & i. ); (Var: vn. ~áil f, ~aíl f)
+speachaíl+Verbal+Noun+VTI:speachaíl		VN-INIT;	! Headword: speach (v.t. & i. ); (Var: vn. ~áil f, ~aíl f)
+speachaíl+Verbal+Noun+VTI+Gen:speachíola		VN-INIT;	! Headword: speach (v.t. & i. ); (Var: vn. ~áil f, ~aíl f)
+spriúcháil+Verbal+Noun+VI:spriúcháil		VN-INIT;	! Headword: spriúch (v.i. ); (Var: vn. ~áil f)
+spriúcháil+Verbal+Noun+VI+Gen:spriúchála		VN-INIT;	! Headword: spriúch (v.i. ); (Var: vn. ~áil f)
+spriúcháilte+Verbal+Adj:spriúcháilte		VA-INIT;	! Headword: spriúch (v.i. ); (Var: vn. ~áil f)
+steancáil+Verbal+Noun+VTI:steancáil		VN-INIT;	! Headword: steanc (v.t. & i. ); (Var: vn. ~áil f)
+steancáil+Verbal+Noun+VTI+Gen:steancála		VN-INIT;	! Headword: steanc (v.t. & i. ); (Var: vn. ~áil f)
+steancáilte+Verbal+Adj:steancáilte		VA-INIT;	! Headword: steanc (v.t. & i. ); (Var: vn. ~áil f)
+stóinseáil+Verbal+Noun+VT+Gen:stóinseála		VN-INIT;
+stóinseáilte+Verbal+Adj:stóinseáilte		VA-INIT;
+stucáil+Verbal+Noun+VTI+Gen:stucála		VN-INIT;
+stucáilte+Verbal+Adj:stucáilte		VA-INIT;
+teipeadh+Verbal+Noun+VI:teipeadh		VN-INIT;	! Headword: teip (v.i. ); (Var: vn. ~eadh m)
+teipeadh+Verbal+Noun+VI+Gen:teipthe	VN-INIT;	! Headword: teip (v.i. ); (Var: vn. ~eadh m) ***
+triáil+Verbal+Noun+VTI+Gen:triála		VN-INIT;
+triáilte+Verbal+Adj:triáilte		VA-INIT;
+! NOTE: This could get mixed up with 'tuaradh' in 'mar a tuaradh'
+tuaradh+Verbal+Noun+VTI:tuaradh		VN-INIT;	! Headword: tuar (v.t. & i. ); (Var: vn. ~adh m)
+tuaradh+Verbal+Noun+VTI+Gen:tuartha		VN-INIT;	! Headword: tuar (v.t. & i. ); (Var: vn. ~adh m) ***
+! NOTE: This could get mixed up with 'tuilte' etc in 'bhí XY tuilte aige'
+tuileadh+Verbal+Noun+VTI:tuileadh		VN-INIT;	! Headword: tuil (v.t. & i. ); (Var: vn. ~eadh m)
+tuileadh+Verbal+Noun+VTI+Gen:tuilte		VN-INIT;	! Headword: tuil (v.t. & i. ); (Var: vn. ~eadh m)
+ualachadh+Verbal+Noun+VT:ualachadh		VN-INIT;	! Headword: ualaigh (v.t. ); (Var: vn. ualachadh m)
+!!ualachadh+Verbal+Noun+VT+Gen:???		VN-INIT;	! Headword: ualaigh (v.t. ); (Var: vn. ualachadh m)
+urmhaisin+Verbal+Noun+VT:urmhaisin		VN-INIT;	! Headword: urmhais (v.t. ); (Var: vn. ~in f; ~nigh)
+!!urmhaisin+Verbal+Noun+VT+Gen:???		VN-INIT;	! Headword: urmhais (v.t. ); (Var: vn. ~in f; ~nigh)
+
+! Transferred from Verb section
+cluinstint+Verbal+Noun+VTI:cluinstint		VN-INIT;	! Headword: cluin (v.t. & i. ); (Var: pres. ~, p. aut. ~eadh, ~theas, vn. ~s(t)ean, ~s(t)int, ~t) ***
+cluinsint+Verbal+Noun+VTI:cluinsint		VN-INIT;	! Headword: cluin (v.t. & i. ); (Var: pres. ~, p. aut. ~eadh, ~theas, vn. ~s(t)ean, ~s(t)int, ~t) ***
+cluint+Verbal+Noun+VTI:cluint		VN-INIT;	! Headword: cluin (v.t. & i. ); (Var: pres. ~, p. aut. ~eadh, ~theas, vn. ~s(t)ean, ~s(t)int, ~t) ***
+dluighiú+Verbal+Noun+VT:dluighiú		VN-INIT;	! Headword: dluigh (v.t. ); (Var: pres. ~eann; vn. ~e, ~iú) ***
+dluighiú+Verbal+Noun+VT+Gen:dluighithe		VN-INIT;	! Headword: dluigh (v.t. ); (Var: pres. ~eann; vn. ~e, ~iú) ***
+dluighithe+Verbal+Adj:dluighithe		VA-INIT;	! Headword: dluigh (v.t. ); (Var: pres. ~eann; vn. ~e, ~iú) ***

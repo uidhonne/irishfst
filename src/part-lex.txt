@@ -1,0 +1,161 @@
+! t- and n- with +Part tag
+! ADDED HERE as there are sometimes split from the following
+! word at the end of a line in a text
+
+!****************************************************************************
+!! PARTICLES
+!! Preverbal
+!! Unique Membership classes
+!****************************************************************************
+Multichar_Symbols
+
++Part		! Particle (not +Vb) (U)
+
++Voc		! Vocative (v)
++Nm		! Numeral (m)
++Inf		! Infinitive (i)
++Pat		! Patronym (p) (e.g. Ó, Ní, Uí, le, de ..)
++Comp		! Comparative degree (c)
++Sup		! Superlative degree (s)
++Cop		!
++Cp		! cop rel part
++Deg		! degree particle with Adj/Abstract Noun (so loud, so sharp etc..
++Ad			! Adverbial particle "go"
+
++Vb			! Verbal (Q)
+
++Neg		! Negative (n)
+!!+ConP		! Continuative Passive (cp)
++Q			! Interrogative verbal particle(q)
++NegQ		! Negative interrogative verbal particle(q)
+
++Rel		! Relative (r)
++Direct
++Indirect
++Pro		! rel part + pron
+
++Subj		! subjunctive
++Imp		! imperative
+!!!+Conj		! conjunction
++Cmpl		! complementizer
+
++Past		! past tense verbal particle
+!!+PastIrreg	! past tense verbal particle
+!!+PastReg	! tenses other than past tense verbal particles
++Fut
++Pres
++Cond
++CU		! canúint Uladh
++CM		! canúint na Mumhan
++CC		! canúint Chonnachta
++Noun
++Subst
++Sg
+
+LEXICON Particles
+
+t-+Part:t-		#;	! initial mutations are not split from a word; 
+n-+Part:n-		#;	! but sometimes therey are already split in a text ...
+
+a+Part+Voc:a			#;	! a Shíle
+!!!!!!a+Part+Voc:A			#;	! A Shíle
+a+Part+Nm:a			#;	! a haon, a dó
+a+Part+Inf:a			#;	! uisce a ól (in vn phrase) 
+a+Part+Deg:a			#;	! a géire a labhair sé
+a+Part+Cp+Rel:a			#;	! that: a ba mheasa
+
+go+Part+Ad:go			#;	! go maith
+
+ní+Part+Pat:Ní			#;	! Ní Ghráda
+nic+Part+Pat:Nic		#;	! Nic Dhonncha
+uí+Part+Pat:uí			#;	! Uí Ghráda
+ua+Part+Pat:ua			#;	! Ua Mhaoileoin
+ó+Part+Pat:Ó			#;	! Ó Gráda
+o+Part+Pat:O			#;	! O Malley
+o+Part+Pat:O'			#;	! O' Malley
+mac+Part+Pat:mac		#;	! Mac Griana
+mac+Part+Pat:Mhic		#;	! Mac Griana
+mac+Part+Pat:Mc			#;	! Mc Griana
+la+Part+Pat:la			#;	! la Fontaine
+!!! the following create unnecessary ambiguity ...
+!!!le+Part+Pat:le			#;	! le Clézio
+de+Part+Pat:de			#;	! de Burgo
+
+! DEGREE
+! comparative is not used like superlative - there is usually a main verb 
+! leave out Cop for now in superlative also as it is NOT functioning
+! as a Copula ...
+! níos mó airgid - níos causes gen in airgead, also adj mó modifies ní
+! therefore tagged as noun (Part retained for backward compatibility, for now)
+níos+Subst+Noun+Sg+Part+Comp:níos	#; ! níos = ní + is 
+ní+Subst+Noun+Sg+Part+Comp:ní		#;
+<n í %_:%  b a %+Subst:0 %+Noun:0 %+Sg:0 %+Part:0 %+Comp:0>	#;
+<n í %_:%  b ' %+Subst:0 %+Noun:0 %+Sg:0 %+Part:0 %+Comp:0>	#;
+is+Part+Sup:is				#; 
+is+Part+Sup:ba				#; 
+is+Part+Sup:ab				#; 
+! can this be comp and superl. e.g. is (cop?) airde cnoc ná cnocán vs an cnoc is airde
+!Also there could be: ba, or ab e.g. rud ab fhusa, an rud ba mheasa ...
+
+!-------------------------------------------------------------------
+! VERBAL PARTICLES
+!
+do+Part+Vb:d'	#;	! d'fhéach
+do+Part+Vb:dh'	#;	! dh'fhéachamar
+do+Part+Vb:do	#;	! do chruaigh
+
+!!an+Part+Vb+Q+PastIrreg:an	#;	! an raibh tú ann
+!!ar+Part+Vb+Q+PastReg:ar		#;	! ar chríochnaigh tú é ?
+
+ar+Part+Vb+Q+Past:ar		#;	! ar chríochnaigh tú é ?
+
+an+Part+Vb+Q:an			#;	!
+!! tense distiction is unnecessary
+!!an+Part+Vb+Q+Past:an		#;	! an raibh tú ann (irregular verbs only)
+!!an+Part+Vb+Q+Fut:an		#;	! an mbeidh tú ann? an ólfaidh tú é
+!!an+Part+Vb+Q+Pres:an		#;	! an bhfuil ?
+!!an+Part+Vb+Q+Cond:an		#;	! an mbeadh sé réidh ?
+
+níor+Part+Vb+Neg+Past:níor	#;	! níor chríochnaigh tú é
+ní+Part+Vb+Neg:ní		#;	! ní raibh tú ann (irregular verbs only)
+ní+Part+Vb+Neg:Ní		#;	! ní raibh tú ann (irregular verbs only)
+ní+Part+Vb+Neg:N'		#;	! 
+ní+Part+Vb+Neg:n'		#;	! 
+cha+CU+Part+Vb+Neg:cha		#;
+chan+CU+Part+Vb+Neg:chan	#;
+char+CU+Part+Vb+Neg:char	#;
+chan+CU+Cop+Pres+Neg:chan	#;	! chan ea
+
+nach+Part+Vb+NegQ:nach		#;
+nár+Part+Vb+NegQ:nár		#;
+ná+Part+Vb+Neg+Imp:ná			#;	! ná déan
+nár+Part+Vb+Neg+Subj:nár		#;
+
+go+Part+Vb+Subj:gur			#;
+go+Part+Vb+Subj:go			#;
+
+
+!! relative if can be translated as "who/which/whose" (or "that")
+a+Part+Vb+Rel+Direct:a		#;! who/which: an cailín a thuig an scéal
+a+Part+Vb+Rel+Indirect:a	#;! who/which: an cailín a dtuig an scéal
+a+Part+Vb+Rel+Indirect:n-a	#;! who/which: le n-a mbaineanns (non-std.)
+ar+Part+Vb+Rel+Indirect+Past:ar	#;! whose: an cailín ar ól a cara an deoch
+dar+Part+Vb+Rel+Indirect:dar	#;! indirect I think :gach lá dar chuireas díom
+
+a+Part+Vb+Rel+Indirect+Pro:a		#;! that who/which: sin a bhfuil ann (understood: sin [é/í/iad] a bhfuil ann
+ar+Part+Vb+Rel+Indirect+Pro:ar		#;! gach [rud] ar cheannaigh sé
+
+nach+Part+Vb+Neg+Rel:nach		#; ! Dir&Indir: an cailín nach dtuigeann an scéal
+nach+CM+Part+Vb+Neg+Rel:ná		#; ! ná beadh, ian té ná taithníonn etc. 
+nár+Part+Vb+Neg+Rel+Past:nár	#; ! Dir&Indir: an cailín nár thuig an scéal	
+nach+Part+Vb+Neg+Rel+Past:nach	#; ! 
+
+!! not relative if can't be translated as "who/which/whose" ???
+!! i.e. complementiser "that" ...
+!!!SEE CONJ-LEX 
+go+Part+Vb+Cmpl:go		#;  ! that: dúirt sé go dtógfaidh sé é 
+gur+Part+Vb+Cmpl+Past:gur	#;  ! that: dúirt sé gur thóg sé é
+nach+Part+Vb+Neg+Cmpl:nach	#;
+nár+Part+Vb+Neg+Cmpl+Past:nár	#;
+
+

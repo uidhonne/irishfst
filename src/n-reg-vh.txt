@@ -1,0 +1,54 @@
+! Noun (Gaeilge) Replace Rules - Part E
+! Elaine Uí Dhonnchadha
+!
+! 2001
+!
+! Vowel Harmony of Broad and Slender Vowels: 
+!	Broad (back) - labio-velarised; sounds like w-glide after vowel
+!	Slender (forward) - palatalised; sounds like y-glide after vowel
+!	Ref: Fiosfeasa
+!
+! Endings (which are appended to the root) must be broad or slender to agree with root 
+!
+! NB: this must be tested after ^Coim, ^Caol or ^Lea tags have been applied
+!
+! Examples 
+! (1) (e)acha	: neadacha (nests), stoirmeacha (storms)
+! (2) (e)anna	: carranna (cars),  áiteanna (places)
+!
+!  The broad ending "acha" or "anna" will be applied as standard. If the root
+!  is now found to be slender an "e" will be inserted
+!
+! 2004 included %^FC %^FY %^FB and %^FS in Cons
+!***************************************************************************!
+define Cons  b|c|d|f|g|h|j|k|l|m|n|p|q|r|s|t|v|w|x|y|z|%^FC|%^FY|%^FS|%^FB;
+read regex %^X -> []			! no longer required and it would 
+					! get in the way of the next rule
+
+.o.
+! ^VH marker is replaced by "e" if final syllable is slender
+[ %^VH -> e || [i|í] Cons* _ ]		! check if the last vowel before the %^VH
+					! is slender (ie an "i" or "í" )
+.o.
+
+[ a -> [] || a %^VH _ ]		! remove extre "a" in  Havana^VHach
+.o.
+ %^VH -> [] 
+
+.o.
+
+[..] -> e || [e|é|i|í|%^AE] Cons* s _ %^Emph
+
+.o.
+
+[..] -> a || [a|á|o|ó|u|ú|%^UA|%^IA|%^AO] Cons* s _ %^Emph
+
+.o.
+
+[..] -> %- ||  s _ s (a|e) %^Emph
+
+.o.
+
+%^Emph -> []
+;
+

@@ -1,0 +1,24 @@
+! Noun (Gaeilge) Replace Rules
+! Elaine Uí Dhonnchadha
+! Apr 2004
+! Last Part - tidy up FLASH flags
+!
+!**************************************************************************
+read regex [%^FB -> []]		! broadened
+.o.
+[%^FC -> []]		! last syllable changed
+.o.
+[%^FH -> []]		! séimhiú i.e. h inserted
+.o.
+[%^FU -> []]		! urú
+.o.
+[%^FV -> []]		! prefing of vowel-initial words
+.o.
+[%^FS -> []]		! slenderised
+.o.
+[%^FY -> []]		! syncopated
+.o.
+[%^FT -> []]		! verb stem truncated
+.o.
+[%^CB -> []]		! compound boundary e.g. from pref + verb/adj scripts
+;

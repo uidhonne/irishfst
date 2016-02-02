@@ -1,0 +1,38 @@
+!==============================================================================
+! Ainm Briathra & Aidiacht Briathra
+! Verbal Nouns & Verbal Adjectives
+! E Uí Dhonnchadha
+! 2003
+! 2005
+!==============================================================================
+
+Multichar_Symbols
++Verbal
++Noun
++Adj
++Rel
++Len
++Ecl
++Gen
++hPref
++VT
++VI
++VTI
++VD	! ditransitive - not at present
++NStem	! de-nominal verbal (action) noun
+
+^IM	! initial mutation
+^Sé
+^Urú
+^hv
+^Verb
+^áil
+
+LEXICON Root
+	VerbalNouns;		! Version 3 VNs in TEST Lex & Foclóir Póca
+	VerbalAdjs;		! Version 3 VAs in TEST Lex & Foclóir Póca
+	VerbalNounsGen;		! Version 4 VNs in TEST Lex & Foclóir Póca
+	VNVA-FGB1;		! Foclóir Gaeilge Béarla Ó Dónaill
+	VN-Variants;		! FGB VN variants (VN, VNG & VA included)
+	VNEqualVariants;
+

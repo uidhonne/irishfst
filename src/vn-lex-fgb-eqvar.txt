@@ -1,0 +1,554 @@
+!***********************************************************
+! VARIANT NOUNS/VN (=) in O Dónaill
+! Christoph Wendler
+! November 2008
+! EUD 2011
+!***********************************************************
+!!----> VERBAL NOUNS
+LEXICON VNEqualVariants
+bádhadh+Verbal+Noun+VT:bádhadh	VN-INIT;	! ***
+báthadh+Verbal+Noun+VT:báthadh	VN-INIT;	! ***
+braithstint+Verbal+Noun+VTI:braithstint		VN-INIT;	! ***
+bruithneadh+Verbal+Noun+VT:bruithneadh	VN-INIT;	! ***
+buadhadh+Verbal+Noun+VT:buadhadh	VN-INIT;	! ***
+buíochtaint+Verbal+Noun+VTI:buíochtaint		VN-INIT;	! ***
+buíodh+Verbal+Noun+VTI:buíodh		VN-INIT;	! ***
+caillstean+Verbal+Noun+VTI:caillstean		VN-INIT;	! ***
+conscairt+Verbal+Noun+VTI:conscairt	VN-INIT;
+conscairt+Verbal+Noun+VTI+Gen:conscartha		VN-INIT;
+dóghadh+Verbal+Noun+VTI:dóghadh		VN-INIT;
+drudadh+Verbal+Noun+VTI:drudadh		VN-INIT;
+drud+Verbal+Noun+VTI:drud		VN-INIT;
+dúbladh+Verbal+Noun+VT:dúbladh		VN-INIT;
+duinemharbhadh+Verbal+Noun+VT:duinemharbhadh		VN-INIT;
+dúscadh+Verbal+Noun+VTI:dúscadh		VN-INIT;
+eachtradh+Verbal+Noun+VTI:eachtradh		VN-INIT;
+eachtradh+Verbal+Noun+VTI+Len:eachtradh		VN-INIT;
+éaló+Verbal+Noun+VI:éaló		VN-INIT;
+eascradh+Verbal+Noun+VI:eascradh		VN-INIT;
+eascradh+Verbal+Noun+VI+Len:eascradh		VN-INIT;
+éiliú+Verbal+Noun+VTI:éiliú		VN-INIT;
+éiliú+Verbal+Noun+VTI+Len:éiliú		VN-INIT;
+éimeadh+Verbal+Noun+VT:éimeadh		VN-INIT;
+éiriú+Verbal+Noun+VI:éiriú		VN-INIT;
+fágbháil+Verbal+Noun+VTI:fágbháil	VN-INIT;
+fágbháil+Verbal+Noun+VTI+Gen:fágbhála	VN-INIT;
+fagháil+Verbal+Noun+VT:fagháil	VN-INIT;
+fagháil+Verbal+Noun+VT+Gen:faghála		VN-INIT;
+faghbháil+Verbal+Noun+VT:faghbháil	VN-INIT;
+faghbháil+Verbal+Noun+VT+Gen:faghbhála		VN-INIT;
+fáilt+Verbal+Noun+VT:fáilt	VN-INIT;
+fastadh+Verbal+Noun+VTI:fastadh		VN-INIT;
+fastadh+Verbal+Noun+VTI+Len:fastadh		VN-INIT;
+fastódh+Verbal+Noun+VTI:fastódh		VN-INIT;
+fastódh+Verbal+Noun+VTI+Len:fastódh		VN-INIT;
+feochan+Verbal+Noun+VI:feochan		VN-INIT;
+feochan+Verbal+Noun+VI+Len:feochan		VN-INIT;
+feodhadh+Verbal+Noun+VT:feodhadh		VN-INIT;
+feodhadh+Verbal+Noun+VT+Len:feodhadh		VN-INIT;
+feodhú+Verbal+Noun+VT:feodhú		VN-INIT;
+feodhú+Verbal+Noun+VT+Len:feodhú		VN-INIT;
+fiachaint+Verbal+Noun+VI:fiachaint		VN-INIT;
+fiachaint+Verbal+Noun+VI+Len:fiachaint		VN-INIT;
+fiachtáil+Verbal+Noun+VI:fiachtáil		VN-INIT;
+fiachtáil+Verbal+Noun+VI+Len:fiachtáil		VN-INIT;
+fiarfaighe+Verbal+Noun+VTI:fiarfaighe		VN-INIT;
+fiarfaighe+Verbal+Noun+VTI+Len:fiarfaighe		VN-INIT;
+fiarthaighe+Verbal+Noun+VTI:fiarthaighe		VN-INIT;
+fiarthaighe+Verbal+Noun+VTI+Len:fiarthaighe		VN-INIT;
+fioghradh+Verbal+Noun+VT:fioghradh		VN-INIT;
+fioghradh+Verbal+Noun+VT+Len:fioghradh		VN-INIT;
+fíoradh+Verbal+Noun+VT:fíoradh		VN-INIT;
+fíoradh+Verbal+Noun+VT+Len:fíoradh		VN-INIT;
+folachadh+Verbal+Noun+VTI:folachadh		VN-INIT;
+folachadh+Verbal+Noun+VTI+Len:folachadh		VN-INIT;
+fuaghadh+Verbal+Noun+VTI:fuaghadh		VN-INIT;
+fuaghadh+Verbal+Noun+VTI+Len:fuaghadh		VN-INIT;
+fuagháil+Verbal+Noun+VTI:fuagháil	VN-INIT;
+fuagháil+Verbal+Noun+VTI+Len:fuagháil		VN-INIT;
+fuaimeáil+Verbal+Noun+VTI:fuaimeáil	VN-INIT;
+fuaimeáil+Verbal+Noun+VTI+Len:fuaimeáil		VN-INIT;
+fuaimint+Verbal+Noun+VTI:fuaimint	VN-INIT;
+fuaimint+Verbal+Noun+VTI+Len:fuaimint		VN-INIT;
+gein+Verbal+Noun+VTI:gein		VN-INIT;
+gein+Verbal+Noun+VTI+Len:gein		VN-INIT;
+gein+Verbal+Noun+VTI+Gen:geinte		VN-INIT;
+gnóthadh+Verbal+Noun+VTI:gnóthadh		VN-INIT;
+gnóthadh+Verbal+Noun+VTI+Len:gnóthadh		VN-INIT;
+gobáil+Verbal+Noun+VTI:gobáil		VN-INIT;
+gobáil+Verbal+Noun+VTI+Len:gobáil		VN-INIT;
+gobáil+Verbal+Noun+VTI+Gen:gobála		VN-INIT;
+gobú+Verbal+Noun+VTI:gobú		VN-INIT;
+gobú+Verbal+Noun+VTI+Len:gobú		VN-INIT;
+gránadh+Verbal+Noun+VTI:gránadh		VN-INIT;
+gránadh+Verbal+Noun+VTI+Len:gránadh		VN-INIT;
+gréasadh+Verbal+Noun+VT:gréasadh		VN-INIT;
+gréasadh+Verbal+Noun+VT+Len:gréasadh		VN-INIT;
+greigeáil+Verbal+Noun+VT:greigeáil		VN-INIT;
+greigeáil+Verbal+Noun+VT+Len:greigeáil		VN-INIT;
+greigeáil+Verbal+Noun+VT+Gen:greigeála		VN-INIT;
+grianú+Verbal+Noun+VT:grianú		VN-INIT;
+grianú+Verbal+Noun+VT+Len:grianú		VN-INIT;
+innliú+Verbal+Noun+VT:innliú		VN-INIT;
+innliú+Verbal+Noun+VT+Gen:innlithe		VN-INIT;
+innlithe+Verbal+Adj:innlithe		VA-INIT;
+iompáil+Verbal+Noun+VTI:iompáil		VN-INIT;
+iompáil+Verbal+Noun+VTI+Len:iompáil		VN-INIT;
+iompáil+Verbal+Noun+VTI+Gen:iompála		VN-INIT;
+iompó+Verbal+Noun+VTI:iompó		VN-INIT;
+iompó+Verbal+Noun+VTI+Len:iompó		VN-INIT;
+iontódh+Verbal+Noun+VTI:iontódh		VN-INIT;
+iontódh+Verbal+Noun+VTI+Len:iontódh		VN-INIT;
+iontó+Verbal+Noun+VTI:iontó		VN-INIT;
+iontó+Verbal+Noun+VTI+Len:iontó		VN-INIT;
+iontú+Verbal+Noun+VTI:iontú		VN-INIT;
+iontú+Verbal+Noun+VTI+Len:iontú		VN-INIT;
+iontú+Verbal+Noun+VTI+Len:iontaithe		VN-INIT;
+iúmaráil+Verbal+Noun+VTI:iúmaráil		VN-INIT;
+iúmaráil+Verbal+Noun+VTI+Len:iúmaráil		VN-INIT;
+iúmaráil+Verbal+Noun+VTI+Gen:iúmarála		VN-INIT;
+labháil+Verbal+Noun+VT:labháil		VN-INIT;
+labháil+Verbal+Noun+VT+Gen:labhála		VN-INIT;
+labhradh+Verbal+Noun+VTI:labhradh		VN-INIT;
+lámhú+Verbal+Noun+VTI:lámhú		VN-INIT;
+lámhú+Verbal+Noun+VTI+Gen:lámhaithe		VN-INIT;
+leabhradh+Verbal+Noun+VT:leabhradh		VN-INIT;
+leabhráil+Verbal+Noun+VT:leabhráil		VN-INIT;
+leabhráil+Verbal+Noun+VT+Gen:leabhrála		VN-INIT;
+leagadh+Verbal+Noun+VTI:leagadh		VN-INIT;	! ^^^ (Might be problematic)
+leagáil+Verbal+Noun+VTI:leagáil		VN-INIT;
+leagáil+Verbal+Noun+VTI+Gen:leagála		VN-INIT;
+leagaint+Verbal+Noun+VTI:leagaint		VN-INIT;
+leaghadh+Verbal+Noun+VTI:leaghadh		VN-INIT;
+leanacht+Verbal+Noun+VTI:leanacht		VN-INIT;
+leanadh+Verbal+Noun+VTI:leanadh		VN-INIT;
+leanadh+Verbal+Noun+VTI+Gen:leanta		VN-INIT;
+léanadh+Verbal+Noun+VTI:léanadh		VN-INIT;
+léanadh+Verbal+Noun+VTI+Gen:léanta		VN-INIT;
+léanta+Verbal+Adj:léanta		VA-INIT;
+leanstan+Verbal+Noun+VTI:leanstan		VN-INIT;
+leathanú+Verbal+Noun+VTI:leathanú		VN-INIT;
+leathanú+Verbal+Noun+VTI+Gen:leathanaithe		VN-INIT;
+leigean+Verbal+Noun+VTI:leigean		VN-INIT;
+léigheadh+Verbal+Noun+VTI:léigheadh		VN-INIT;
+léigheamh+Verbal+Noun+VTI:léigheamh		VN-INIT;
+luachtaint+Verbal+Noun+VTI:luachtaint		VN-INIT;
+luadhachaint+Verbal+Noun+VTI:luadhachaint		VN-INIT;
+machtnadh+Verbal+Noun+VTI:machtnadh		VN-INIT;
+machtnamh+Verbal+Noun+VTI:machtnamh		VN-INIT;
+mairiúint+Verbal+Noun+VTI:mairiúint		VN-INIT;
+mairiúint+Verbal+Noun+VTI+Gen:mairiúna		VN-INIT;
+mairstean+Verbal+Noun+VTI:mairstean		VN-INIT;
+mairstean+Verbal+Noun+VTI+Gen:mairsteana		VN-INIT;
+mairstin+Verbal+Noun+VTI:mairstin		VN-INIT;
+mairstin+Verbal+Noun+VTI+Gen:mairsteana		VN-INIT;
+mairthean+Verbal+Noun+VTI:mairthean		VN-INIT;
+mairthean+Verbal+Noun+VTI+Gen:mairtheana		VN-INIT;
+maoichint+Verbal+Noun+VTI:maoichint		VN-INIT;
+maoidheamh+Verbal+Noun+VTI:maoidheamh		VN-INIT;
+maoladh+Verbal+Noun+VTI:maoladh		VN-INIT;
+maoladh+Verbal+Noun+VTI+Gen:maolta		VN-INIT;
+mársáil+Verbal+Noun+VTI:mársáil		VN-INIT;
+mársáil+Verbal+Noun+VTI+Gen:mársála		VN-INIT;
+mársáilte+Verbal+Adj:mársáilte	VA-INIT;
+másáil+Verbal+Noun+VTI:másáil		VN-INIT;
+másáil+Verbal+Noun+VTI+Gen:másála		VN-INIT;
+másáilte+Verbal+Adj:másáilte	VA-INIT;
+meargó+Verbal+Noun+VTI:meargó		VN-INIT;
+meathadh+Verbal+Noun+VTI:meathadh		VN-INIT;
+meisiúnú+Verbal+Noun+VT:meisiúnú		VN-INIT;
+meisiúnú+Verbal+Noun+VT+Gen:meisiúnaithe		VN-INIT;
+meisiúnaithe+Verbal+Adj:meisiúnaithe	VA-INIT;
+ministreáil+Verbal+Noun+VT:ministreáil		VN-INIT;
+ministreáil+Verbal+Noun+VT+Gen:ministreála		VN-INIT;
+ministreáilte+Verbal+Adj:ministreáilte	VA-INIT;
+mionastráil+Verbal+Noun+VTI:mionastráil		VN-INIT;
+mionastráil+Verbal+Noun+VTI+Gen:mionastrála		VN-INIT;
+mionastráilte+Verbal+Adj:mionastráilte	VA-INIT;
+mothachtáil+Verbal+Noun+VTI:mothachtáil		VN-INIT;
+mothachtáil+Verbal+Noun+VTI+Gen:mothachtála		VN-INIT;
+mothachtáilte+Verbal+Adj:mothachtáilte	VA-INIT;
+motháil+Verbal+Noun+VTI:motháil		VN-INIT;
+motháil+Verbal+Noun+VTI+Gen:mothála		VN-INIT;
+motháilte+Verbal+Adj:motháilte		VA-INIT;
+muscladh+Verbal+Noun+VTI:muscladh		VN-INIT;
+muscladh+Verbal+Noun+VTI+Gen:muscalta		VN-INIT;
+oibreadh+Verbal+Noun+VTI:oibreadh		VN-INIT;
+oirdneadh+Verbal+Noun+VT:oirdneadh		VN-INIT;
+oirneadh+Verbal+Noun+VT:oirneadh		VN-INIT;
+ongadh+Verbal+Noun+VT:ongadh	VN-INIT;
+ongadh+Verbal+Noun+VT+Gen:ongtha		VN-INIT;
+ongtha+Verbal+Adj:ongtha		VA-INIT;
+oscladh+Verbal+Noun+VTI:oscladh		VN-INIT;
+palcadh+Verbal+Noun+VTI:palcadh		VN-INIT;
+palcadh+Verbal+Noun+VTI+Gen:palctha		VN-INIT;
+palctha+Verbal+Adj:palctha		VA-INIT;
+péacáilX+Verbal+Noun+VTI:péacáil		VN-INIT;
+péacáil+Verbal+Noun+VTI+Gen:péacála		VN-INIT;
+péacáilte+Verbal+Adj:péacáilte		VA-INIT;
+péacú+Verbal+Noun+VTI:péacú		VN-INIT;
+péacú+Verbal+Noun+VTI+Gen:péacaithe		VN-INIT;
+péacaithe+Verbal+Adj:péacaithe		VA-INIT;
+peascadh+Verbal+Noun+VTI:peascadh		VN-INIT;
+peascadh+Verbal+Noun+VTI+Gen:peasctha		VN-INIT;
+peasctha+Verbal+Adj:peasctha		VA-INIT;
+pilleadh+Verbal+Noun+VTI:pilleadh	VN-INIT;
+pilleadh+Verbal+Noun+VTI+Gen:pillte		VN-INIT;
+pillte+Verbal+Adj:pillte		VA-INIT;
+plantáil+Verbal+Noun+VT:plantáil		VN-INIT;
+plantáil+Verbal+Noun+VT+Gen:plantála		VN-INIT;
+plantáilte+Verbal+Adj:plantáilte		VA-INIT;
+plaoscadh+Verbal+Noun+VT:plaoscadh		VN-INIT;
+blaoscadh+Verbal+Noun+VT:plaoscadh		VN-INIT;
+pleancadh+Verbal+Noun+VT:pleancadh		VN-INIT;
+pleancadh+Verbal+Noun+VT+Gen:pleanctha		VN-INIT;
+pleanctha+Verbal+Adj:pleanctha		VA-INIT;
+pléideáil+Verbal+Noun+VTI:pléideáil		VN-INIT;
+pléideáil+Verbal+Noun+VTI+Gen:pléideál		VN-INIT;
+pléideáilte+Verbal+Adj:pléideáilte		VA-INIT;
+plioncadh+Verbal+Noun+VT:plioncadh		VN-INIT;
+plioncadh+Verbal+Noun+VT+Gen:plionctha		VN-INIT;
+plionctha+Verbal+Adj:plionctha		VA-INIT;
+priondáil+Verbal+Noun+VTI:priondáil		VN-INIT;
+priondáil+Verbal+Noun+VTI+Gen:priondála		VN-INIT;
+priondáilte+Verbal+Adj:priondáilte		VA-INIT;
+pronnadh+Verbal+Noun+VTI:pronnadh		VN-INIT;
+pronnadh+Verbal+Noun+VTI+Gen:pronnta		VN-INIT;
+pronnta+Verbal+Adj:pronnta		VA-INIT;
+púisceadh+Verbal+Noun+VTI:púisceadh		VN-INIT;
+púisceadh+Verbal+Noun+VTI+Gen:púiscthe		VN-INIT;
+púiscthe+Verbal+Adj:púiscthe		VA-INIT;
+púscadh+Verbal+Noun+VTI:púscadh		VN-INIT;
+púscadh+Verbal+Noun+VTI+Gen:púsctha		VN-INIT;
+púsctha+Verbal+Adj:púsctha		VA-INIT;
+rádh+Verbal+Noun+VTI:rádh		VN-INIT;
+raideadh+Verbal+Noun+VTI:raideadh		VN-INIT;
+raideadh+Verbal+Noun+VTI+Gen:raidte		VN-INIT;
+raidte+Verbal+Adj:raidte		VA-INIT;
+rástáil+Verbal+Noun+VTI:rástáil		VN-INIT;
+rástáil+Verbal+Noun+VTI+Gen:rástála		VN-INIT;
+rástáilte+Verbal+Adj:rástáilte		VA-INIT;
+rialadh+Verbal+Noun+VTI:rialadh		VN-INIT;
+rialadh+Verbal+Noun+VTI+Gen:rialta		VN-INIT;
+rolláil+Verbal+Noun+VTI:rolláil		VN-INIT;
+rolláil+Verbal+Noun+VTI+Gen:rollála		VN-INIT;
+rolláilte+Verbal+Adj:rolláilte		VA-INIT;
+rósadh+Verbal+Noun+VTI:rósadh		VN-INIT;
+ruagadh+Verbal+Noun+VTI:ruagadh		VN-INIT;
+ruagadh+Verbal+Noun+VTI+Gen:ruagtha		VN-INIT;
+ruagtha+Verbal+Adj:ruagtha		VA-INIT;
+ruagairt+Verbal+Noun+VTI:ruagairt		VN-INIT;
+ruagradh+Verbal+Noun+VTI:ruagradh		VN-INIT;
+ruagradh+Verbal+Noun+VTI+Gen:ruagartha		VN-INIT;
+ruagartha+Verbal+Adj:ruagartha		VA-INIT;
+sádhadh+Verbal+Noun+VTI:sádhadh		VN-INIT;
+sáiriú+Verbal+Noun+VTI:sáiriú		VN-INIT;
+sáiriú+Verbal+Noun+VTI+Gen:sáirithe		VN-INIT;
+sáirithe+Verbal+Adj:sáirithe		VA-INIT;
+sáitheadh+Verbal+Noun+VTI:sáitheadh		VN-INIT;
+salachadh+Verbal+Noun+VTI:salachadh		VN-INIT;
+salchadh+Verbal+Noun+VTI:salchadh		VN-INIT;
+samhladh+Verbal+Noun+VTI:samhladh		VN-INIT;
+sásadh+Verbal+Noun+VT:sásadh		VN-INIT;
+sású+Verbal+Noun+VT:sású		VN-INIT;
+sású+Verbal+Noun+VT+Gen:sásaithe		VN-INIT;
+sáthadh+Verbal+Noun+VTI:sáthadh		VN-INIT;
+scarúint+Verbal+Noun+VTI:scarúint		VN-INIT;
+scarúint+Verbal+Noun+VTI+Gen:scarúna		VN-INIT;
+scarúin+Verbal+Noun+VTI:scarúin		VN-INIT;
+scarúin+Verbal+Noun+VTI+Gen:scarúna		VN-INIT;
+scracadh+Verbal+Noun+VTI:scracadh	VN-INIT;
+scracadh+Verbal+Noun+VTI+Gen:scractha		VN-INIT;
+scractha+Verbal+Adj:scractha		VA-INIT;
+scumhadh+Verbal+Noun+VTI:scumhadh	VN-INIT;
+scumhadh+Verbal+Noun+VTI+Gen:scumhafa		VN-INIT;
+seachnadh+Verbal+Noun+VTI:seachnadh		VN-INIT;
+sealbhadh+Verbal+Noun+VTI:sealbhadh		VN-INIT;
+seimint+Verbal+Noun+VTI:seimint		VN-INIT;
+sighniú+Verbal+Noun+VTI:sighniú		VN-INIT;
+sighniú+Verbal+Noun+VTI+Gen:sighnithe		VN-INIT;
+sighnithe+Verbal+Adj:sighnithe		VA-INIT;
+síoladh+Verbal+Noun+VTI:síoladh		VN-INIT;
+sonrachadh+Verbal+Noun+VTI:sonrachadh		VN-INIT;
+sordáil+Verbal+Noun+VTI:sordáil		VN-INIT;
+sordáil+Verbal+Noun+VTI+Gen:sordála		VN-INIT;
+sordáilte+Verbal+Adj:sordáilte		VA-INIT;
+spalpú+Verbal+Noun+VTI:spalpú		VN-INIT;
+spéacladh+Verbal+Noun+VI:spéacladh		VN-INIT;
+sraic+Verbal+Noun+VTI:sraic		VN-INIT;
+sraiceadh+Verbal+Noun+VTI:sraiceadh		VN-INIT;
+sraiceadh+Verbal+Noun+VTI+Gen:sraicthe		VN-INIT;
+sraicthe+Verbal+Adj:sraicthe		VA-INIT;
+sroisiúint+Verbal+Noun+VTI:sroisiúint		VN-INIT;
+sroisiúint+Verbal+Noun+VTI+Gen:sroisiúna		VN-INIT;
+sroistint+Verbal+Noun+VTI:sroistint		VN-INIT;
+stachailt+Verbal+Noun+VTI:stachailt		VN-INIT;
+stachailt+Verbal+Noun+VTI+Gen:stachailte		VN-INIT;
+stachailte+Verbal+Adj:stachailte	VA-INIT;
+stiúrú+Verbal+Noun+VTI:stiúrú		VN-INIT;
+stothadh+Verbal+Noun+VT:stothadh		VN-INIT;
+stracadh+Verbal+Noun+VTI:stracadh		VN-INIT;
+stracadh+Verbal+Noun+VTI+Gen:stractha		VN-INIT;
+stractha+Verbal+Adj:stractha		VA-INIT;
+striopáil+Verbal+Noun+VTI:striopáil		VN-INIT;
+striopáil+Verbal+Noun+VTI+Gen:striopála		VN-INIT;
+striopáilte+Verbal+Adj:striopáilte		VA-INIT;
+strócadh+Verbal+Noun+VTI:strócadh		VN-INIT;
+strócadh+Verbal+Noun+VTI+Gen:stróctha		VN-INIT;
+stróctha+Verbal+Adj:stróctha		VA-INIT;
+suaithneáil+Verbal+Noun+VTI:suaithneáil		VN-INIT;
+suaithneáil+Verbal+Noun+VTI+Gen:suaithneála		VN-INIT;
+suaithneáilte+Verbal+Adj:suaithneáilte		VA-INIT;
+súghadh+Verbal+Noun+VT:súghadh		VN-INIT;
+tairgbheáil+Verbal+Noun+VTI:tairgbheáil		VN-INIT;
+tairgbheáil+Verbal+Noun+VTI+Gen:tairgbheála		VN-INIT;
+tairgbheáilte+Verbal+Adj:tairgbheáilte		VA-INIT;
+tairgint+Verbal+Noun+VTI:tairgint		VN-INIT;
+tairgint+Verbal+Noun+VTI+Gen:tairgeana		VN-INIT;
+tairgsin+Verbal+Noun+VTI:tairgsin		VN-INIT;
+tairgsin+Verbal+Noun+VTI+Gen:tairgseana		VN-INIT;
+tairgsint+Verbal+Noun+VTI:tairgsint		VN-INIT;
+tairgsint+Verbal+Noun+VTI+Gen:tairgseana		VN-INIT;
+taltú+Verbal+Noun+VTI:taltú		VN-INIT;
+taltú+Verbal+Noun+VTI+Gen:taltaithe		VN-INIT;
+taltaithe+Verbal+Adj:taltaithe		VA-INIT;
+tárgadh+Verbal+Noun+VT:tárgadh		VN-INIT;
+tárgadh+Verbal+Noun+VTI+Gen:tárgtha		VN-INIT;
+tárgtha+Verbal+Adj:tárgtha		VA-INIT;
+tarraing+Verbal+Noun+VTI:tarraing		VN-INIT;
+táthadh+Verbal+Noun+VTI:táthadh		VN-INIT;
+teaspáint+Verbal+Noun+VT:teaspáint		VN-INIT;
+teaspáint+Verbal+Noun+VT+Gen:teaspána		VN-INIT;
+teastú+Verbal+Noun+VT:teastú		VN-INIT;
+teib+Verbal+Noun+VI:teib		VN-INIT;
+teib+Verbal+Noun+VI+Gen:teibthe		VN-INIT;
+teibthe+Verbal+Adj:teibthe		VA-INIT;
+teicheadh+Verbal+Noun+VI:teicheadh		VN-INIT;
+teacht+Verbal+Noun+VI:tiacht	VN-INIT;
+tilleadh+Verbal+Noun+VI:tilleadh		VN-INIT;
+tilleadh+Verbal+Noun+VI+Gen:tillte		VN-INIT;
+tillte+Verbal+Adj:tillte		VA-INIT;
+tilliúint+Verbal+Noun+VI:tilliúint		VN-INIT;
+tilliúint+Verbal+Noun+VTI+Gen:tilliúna		VN-INIT;
+timcheallú+Verbal+Noun+VT:timcheallú		VN-INIT;
+timcheallú+Verbal+Noun+VT+Gen:timcheallaithe		VN-INIT;
+timcheallaithe+Verbal+Adj:timcheallaithe		VA-INIT;
+tiob+Verbal+Noun+VI:tiob		VN-INIT;
+tiob+Verbal+Noun+VI+Gen:tiobtha		VN-INIT;
+tiobtha+Verbal+Adj:tiobtha		VA-INIT;
+tiobadh+Verbal+Noun+VI:tiobadh		VN-INIT;
+tiobadh+Verbal+Noun+VI+Gen:tiobtha		VN-INIT;
+tiobaint+Verbal+Noun+VI:tiobaint		VN-INIT;
+tíochtain+Verbal+Noun+VI:tíochtain	VN-INIT;
+tíolaic+Verbal+Noun+VTI:tíolaic		VN-INIT;
+tiompódh+Verbal+Noun+VTI:tiompódh		VN-INIT;
+tiubhachan+Verbal+Noun+VTI:tiubhachan		VN-INIT;
+tiubhadh+Verbal+Noun+VTI:tiubhadh		VN-INIT;
+tiúbhú+Verbal+Noun+VTI:tiúbhú		VN-INIT;
+tochladh+Verbal+Noun+VTI:tochladh		VN-INIT;
+teacht+Verbal+Noun+VI:tocht	VN-INIT;
+tóigeáil+Verbal+Noun+VTI:tóigeáil		VN-INIT;
+tóigeáil+Verbal+Noun+VTI+Gen:tóigeála		VN-INIT;
+tóigeáilte+Verbal+Adj:tóigeáilte		VA-INIT;
+toiseacht+Verbal+Noun+VTI:toiseacht		VN-INIT;
+tráchaint+Verbal+Noun+VTI:tráchaint		VN-INIT;
+trághadh+Verbal+Noun+VTI:trághadh		VN-INIT;
+traothadh+Verbal+Noun+VTI:traothadh		VN-INIT;
+traothadh+Verbal+Noun+VTI+Gen:traota		VN-INIT;
+tréigint+Verbal+Noun+VTI:tréigint		VN-INIT;
+tréiscint+Verbal+Noun+VTI:tréiscint		VN-INIT;
+teacht+Verbal+Noun+VI:tuidheacht	VN-INIT;
+tuigsint+Verbal+Noun+VTI:tuigsint		VN-INIT;
+tuigsint+Verbal+Noun+VTI+Gen:tuigseana		VN-INIT;
+tuigsin+Verbal+Noun+VTI:tuigsin		VN-INIT;
+tuigsin+Verbal+Noun+VTI+Gen:tuigseana		VN-INIT;
+tuitim+Verbal+Noun+VI:tuitim		VN-INIT;
+túsacht+Verbal+Noun+VTI:túsacht		VN-INIT;
+beaiceáil+Verbal+Noun+VTI:beaiceáil		VN-INIT;	 ! beaic, f, ~eáil = bac 3, baiceáil.
+beaiceáil+Verbal+Noun+VTI+Gen:beaiceála		VN-INIT;
+beaiceáilte+Verbal+Adj:beaiceáilte		VA-INIT;
+cabáil+Verbal+Noun+VTI:cabáil		VN-INIT;	 ! cabáil = caibeáil.
+cabáil+Verbal+Noun+VTI+Gen:cabála		VN-INIT;
+cabáilte+Verbal+Adj:cabáilte		VA-INIT;
+canstráil+Verbal+Noun+VTI:canstráil		VN-INIT;	 ! cansráid, canstráil = construáil 3.
+canstráil+Verbal+Noun+VTI+Gen:canstrála		VN-INIT;
+canstráilte+Verbal+Adj:canstráilte		VA-INIT;
+ciaráil+Verbal+Noun+VTI:ciaráil		VN-INIT;	 ! ciaráil = cíorláil,.
+ciaráil+Verbal+Noun+VTI+Gen:ciarála		VN-INIT;
+ciaráilte+Verbal+Adj:ciaráilte		VA-INIT;
+ciarláil+Verbal+Noun+VTI:ciarláil		VN-INIT;	 ! ciarláil = cíorláil,.
+ciarláil+Verbal+Noun+VTI+Gen:ciarlála		VN-INIT;
+ciarláilte+Verbal+Adj:ciarláilte		VA-INIT;
+cleiteáil+Verbal+Noun+VTI:cleiteáil		VN-INIT;	 ! cleiteáil = cniotáil,.
+cleiteáil+Verbal+Noun+VTI+Gen:cleiteála		VN-INIT;
+cleiteáilte+Verbal+Adj:cleiteáilte		VA-INIT;
+cloigneáil+Verbal+Noun+VTI:cloigneáil		VN-INIT;	 ! cloigneáil = clag.
+cloigneáil+Verbal+Noun+VTI+Gen:cloigneála		VN-INIT;
+cloigneáilte+Verbal+Adj:cloigneáilte		VA-INIT;
+cnúbháil+Verbal+Noun+VI:cnúbháil		VN-INIT;	 ! cnúbháil, cnúbhálaí = cnuáil, cnuálaí.
+cnúbháil+Verbal+Noun+VI+Gen:cnúbhála		VN-INIT;
+cnúbháilte+Verbal+Adj:cnúbháilte		VA-INIT;
+cnúdáil+Verbal+Noun+VI:cnúdáil		VN-INIT;	 ! cnúdáil = cnádaigh.
+cnúdáil+Verbal+Noun+VI+Gen:cnúdála		VN-INIT;
+cnúdáilte+Verbal+Adj:cnúdáilte		VA-INIT;
+coipeáil+Verbal+Noun+VTI:coipeáil		VN-INIT;	 ! coipeáil = coip.
+coipeáil+Verbal+Noun+VTI+Gen:coipeála		VN-INIT;
+coipeáilte+Verbal+Adj:coipeáilte		VA-INIT;
+coirteáil+Verbal+Noun+VT:coirteáil		VN-INIT;	 ! coirteáil = coirtigh.
+coirteáil+Verbal+Noun+VT+Gen:coirteála		VN-INIT;
+coirteáilte+Verbal+Adj:coirteáilte		VA-INIT;
+cuibeáil+Verbal+Noun+VTI:cuibeáil		VN-INIT;	 ! cuibeáil = caibeáil.
+cuibeáil+Verbal+Noun+VTI+Gen:cuibeála		VN-INIT;
+cuibeáilte+Verbal+Adj:cuibeáilte		VA-INIT;
+cuiceáil+Verbal+Noun+VT:cuiceáil		VN-INIT;	 ! cuiceáil = coiceáil.
+cuiceáil+Verbal+Noun+VT+Gen:cuiceála		VN-INIT;
+cuiceáilte+Verbal+Adj:cuiceáilte		VA-INIT;
+deighleáil+Verbal+Noun+VTI:deighleáil		VN-INIT;	 ! deighleáil = díleáigh.
+deighleáil+Verbal+Noun+VTI+Gen:deighleála		VN-INIT;
+deighleáilte+Verbal+Adj:deighleáilte		VA-INIT;
+deiseáil+Verbal+Noun+VTI:deiseáil		VN-INIT;	 ! deiseáil = deasaigh, deasú.
+deiseáil+Verbal+Noun+VTI+Gen:deiseála		VN-INIT;
+deiseáilte+Verbal+Adj:deiseáilte		VA-INIT;
+giogáil+Verbal+Noun+VT:giogáil		VN-INIT;	 ! giogáil = diogáil.
+giogáil+Verbal+Noun+VT+Gen:giogála		VN-INIT;
+giogáilte+Verbal+Adj:giogáilte		VA-INIT;
+glambáil+Verbal+Noun+VTI:glambáil		VN-INIT;	 ! glambaigh, glambáil = clampaigh.
+glambáil+Verbal+Noun+VTI+Gen:glambála		VN-INIT;
+glambáilte+Verbal+Adj:glambáilte		VA-INIT;
+gliondáil+Verbal+Noun+VTI:gliondáil		VN-INIT;	 ! glionda, f, gliondáil = glinne, -áil.
+gliondáil+Verbal+Noun+VTI+Gen:gliondála		VN-INIT;
+gliondáilte+Verbal+Adj:gliondáilte		VA-INIT;
+gotháil+Verbal+Noun+VTI:gotháil		VN-INIT;	 ! gotháil = gathaigh.
+gotháil+Verbal+Noun+VTI+Gen:gothála		VN-INIT;
+gotháilte+Verbal+Adj:gotháilte		VA-INIT;
+graibeáil+Verbal+Noun+VTI:graibeáil		VN-INIT;	 ! graibeáil, graibeálaí = grabáil, grabálaí.
+graibeáil+Verbal+Noun+VTI+Gen:graibeála		VN-INIT;
+graibeáilte+Verbal+Adj:graibeáilte		VA-INIT;
+íleáil+Verbal+Noun+VT+Vow:íleáil		VN-INIT;	 ! íleáil = íligh.
+íleáil+Verbal+Noun+VT+Vow+Gen:íleála		VN-INIT;
+íleáilte+Verbal+Adj:íleáilte		VA-INIT;
+iontáil+Verbal+Noun+VTI:iontáil		VN-INIT;	 ! iontaigh, iontáil, f = tiontaigh, tiontú.
+iontáil+Verbal+Noun+VTI+Gen:iontála		VN-INIT;
+iontáilte+Verbal+Adj:iontáilte		VA-INIT;
+lansáil+Verbal+Noun+VT:lansáil		VN-INIT;	 ! lansáil = lansaigh.
+lansáil+Verbal+Noun+VT+Gen:lansála		VN-INIT;
+lansáilte+Verbal+Adj:lansáilte		VA-INIT;
+níneáil+Verbal+Noun+VT:níneáil		VN-INIT;	 ! níneáil = líneáil 3.
+níneáil+Verbal+Noun+VT+Gen:níneála		VN-INIT;
+níneáilte+Verbal+Adj:níneáilte		VA-INIT;
+níonáil+Verbal+Noun+VT:níonáil		VN-INIT;	 ! níonáil = líneáil 3.
+níonáil+Verbal+Noun+VT+Gen:níonála		VN-INIT;
+níonáilte+Verbal+Adj:níonáilte		VA-INIT;
+plocsáil+Verbal+Noun+VT:plocsáil		VN-INIT;	 ! plocsáil = plucáil 2, 3.
+plocsáil+Verbal+Noun+VT+Gen:plocsála		VN-INIT;
+plocsáilte+Verbal+Adj:plocsáilte		VA-INIT;
+prásáil+Verbal+Noun+VT:prásáil		VN-INIT;	 ! prásáil = brásáil.
+prásáil+Verbal+Noun+VT+Gen:prásála		VN-INIT;
+prásáilte+Verbal+Adj:prásáilte		VA-INIT;
+ramsáil+Verbal+Noun+VTI:ramsáil		VN-INIT;	 ! ramsáil = ransaigh.
+ramsáil+Verbal+Noun+VTI+Gen:ramsála		VN-INIT;
+ramsáilte+Verbal+Adj:ramsáilte		VA-INIT;
+ríocáil+Verbal+Noun+VTI:ríocáil		VN-INIT;	 ! ríocáil = rácáil 3.
+ríocáil+Verbal+Noun+VTI+Gen:ríocála		VN-INIT;
+ríocáilte+Verbal+Adj:ríocáilte		VA-INIT;
+síomáil+Verbal+Noun+VT:síomáil		VN-INIT;	 ! síomáil = séamáil.
+síomáil+Verbal+Noun+VT+Gen:síomála		VN-INIT;
+síomáilte+Verbal+Adj:síomáilte		VA-INIT;
+slámáil+Verbal+Noun+VTI:slámáil		VN-INIT;	 ! slámáil, v.t. & i. 1 = slám. 2. Pluck, gather, in handfuls, in quantities. Ag ~ féir, plucking handfuls of grass. Ag ~ airgid, making heaps of money.
+slámáil+Verbal+Noun+VTI+Gen:slámála		VN-INIT;
+slámáilte+Verbal+Adj:slámáilte		VA-INIT;
+slatráil+Verbal+Noun+VT:slatráil		VN-INIT;	 ! slatráil = slatáil.
+slatráil+Verbal+Noun+VT+Gen:slatrála		VN-INIT;
+slatráilte+Verbal+Adj:slatráilte		VA-INIT;
+smísteáil+Verbal+Noun+VT:smísteáil		VN-INIT;	 ! smísteáil = smíst.
+smísteáil+Verbal+Noun+VT+Gen:smísteála		VN-INIT;
+smísteáilte+Verbal+Adj:smísteáilte		VA-INIT;
+spliontráil+Verbal+Noun+VTI:spliontráil		VN-INIT;	 ! spliontráil = spleantráil.
+spliontráil+Verbal+Noun+VTI+Gen:spliontrála		VN-INIT;
+spliontráilte+Verbal+Adj:spliontráilte		VA-INIT;
+sruithleáil+Verbal+Noun+VT:sruithleáil		VN-INIT;	 ! sruithleáil = sruthlaigh.
+sruithleáil+Verbal+Noun+VT+Gen:sruithleála		VN-INIT;
+sruithleáilte+Verbal+Adj:sruithleáilte		VA-INIT;
+stompáil+Verbal+Noun+VT:stompáil		VN-INIT;	 ! stompaigh, stompáil = stromp.
+stompáil+Verbal+Noun+VT+Gen:stompála		VN-INIT;
+stompáilte+Verbal+Adj:stompáilte		VA-INIT;
+strapáil+Verbal+Noun+VTI:strapáil		VN-INIT;	 ! strapáil = dreap.
+strapáil+Verbal+Noun+VTI+Gen:strapála		VN-INIT;
+strapáilte+Verbal+Adj:strapáilte		VA-INIT;
+traimpeáil+Verbal+Noun+VTI:traimpeáil		VN-INIT;	 ! traimp, m, ~eáil = tramp, -áil.
+traimpeáil+Verbal+Noun+VTI+Gen:traimpeála		VN-INIT;
+traimpeáilte+Verbal+Adj:traimpeáilte		VA-INIT;
+truisleáil+Verbal+Noun+VI:truisleáil		VN-INIT;	 ! truisligh, truisleáil = tuisligh.
+truisleáil+Verbal+Noun+VI+Gen:truisleála		VN-INIT;
+truisleáilte+Verbal+Adj:truisleáilte		VA-INIT;
+trustáil+Verbal+Noun+VT:trustáil		VN-INIT;	 ! trustáil = trusáil 2.
+trustáil+Verbal+Noun+VT+Gen:trustála		VN-INIT;
+trustáilte+Verbal+Adj:trustáilte		VA-INIT;
+tuairgneáil+Verbal+Noun+VT:tuairgneáil		VN-INIT;	 ! tuairgneáil = tuargain.
+tuairgneáil+Verbal+Noun+VT+Gen:tuairgneála		VN-INIT;
+tuairgneáilte+Verbal+Adj:tuairgneáilte		VA-INIT;
+tulcáil+Verbal+Noun+VTI:tulcáil		VN-INIT;	 ! tulcáil = tolg 1.
+tulcáil+Verbal+Noun+VTI+Gen:tulcála		VN-INIT;
+tulcáilte+Verbal+Adj:tulcáilte		VA-INIT;
+caomhaint+Verbal+Noun+VT:caomhaint	VN-INIT;
+caomhaint+Verbal+Noun+VT+Gen:caomhana		VN-INIT;
+cearbhadh+Verbal+Noun+VTI:cearbhadh		VN-INIT;
+cearbhadh+Verbal+Noun+VTI+Gen:cearbhadh		VN-INIT;
+cognadh+Verbal+Noun+VTI:cognadh		VN-INIT;
+cognadh+Verbal+Noun+VTI+Gen:cognadh		VN-INIT;
+coisearcadh+Verbal+Noun+VT:coisearcadh		VN-INIT;
+coisearc+Verbal+Noun+VT:coisearc		VN-INIT;
+coistreacadh+Verbal+Noun+VT:coistreacadh		VN-INIT;
+coistreac+Verbal+Noun+VT:coistreac		VN-INIT;
+cortadh+Verbal+Noun+VT:cortadh		VN-INIT;
+creapladh+Verbal+Noun+VT:creapladh		VN-INIT;
+créithirt+Verbal+Noun+VT:créithirt		VN-INIT;
+deachtadh+Verbal+Noun+VT:deachtadh		VN-INIT;
+deiscin+Verbal+Noun+VT:deiscin		VN-INIT;
+díobladh+Verbal+Noun+VTI:díobladh		VN-INIT;
+díoghal+Verbal+Noun+VT:díoghladh		VN-INIT;
+díoghladh+Verbal+Noun+VT:díoghladh		VN-INIT;
+fáinneachan+Verbal+Noun+VTI:fáinneachan		VN-INIT;
+feidhil+Verbal+Noun+VT:feidhil		VN-INIT;
+foiseachadh+Verbal+Noun+VTI:foiseachadh		VN-INIT;
+fuagradh+Verbal+Noun+VTI:fuagradh		VN-INIT;
+fuaradh+Verbal+Noun+VTI:fuaradh		VN-INIT;
+gigilt+Verbal+Noun+VTI:gigilt	VN-INIT;
+gigilt+Verbal+Noun+VTI+Gen:gigilte		VN-INIT;
+gléaró+Verbal+Noun+VT:gléaró		VN-INIT;
+iomarbhá+Verbal+Noun+VTI:iomarbhá		VN-INIT;
+iomarbhá+Verbal+Noun+VTI+Gen:iomarbháite		VN-INIT;
+iombhá+Verbal+Noun+VTI:iomarbhá		VN-INIT;
+iombhá+Verbal+Noun+VTI+Gen:iomarbháite		VN-INIT;
+iomarbháite+Verbal+Adj:iomarbháite		VA-INIT;
+iombháite+Verbal+Adj:iombháite		VA-INIT;
+iompó+Verbal+Noun+VTI:iompó		VN-INIT;
+ionnfhuaradh+Verbal+Noun+VTI:ionnfhuaradh		VN-INIT;
+fionnuarú+Verbal+Noun+VTI:fionnuarú		VN-INIT;
+fionnuarú+Verbal+Noun+VTI+Gen:fionnuaraithe		VN-INIT;
+leadairt+Verbal+Noun+VT:leadairt		VN-INIT;
+leadar+Verbal+Noun+VT:leadar		VN-INIT;
+liadar+Verbal+Noun+VT:liadar		VN-INIT;
+marbhadh+Verbal+Noun+VTI:marbhadh		VN-INIT;
+meadhradh+Verbal+Noun+VTI:meadhradh		VN-INIT;
+meidhriú+Verbal+Noun+VTI:meidhriú		VN-INIT;
+meidhriú+Verbal+Noun+VTI+Gen:meidhrithe		VN-INIT;
+meidhrithe+Verbal+Adj:meidhrithe		VA-INIT;
+oslagadh+Verbal+Noun+VTI:oslagadh		VN-INIT;
+scéachtaint+Verbal+Noun+VTI:scéachtaint		VN-INIT;
+slánadh+Verbal+Noun+VTI:slánadh		VN-INIT;
+smuaineadh+Verbal+Noun+VTI:smuaineadh		VN-INIT;
+socairt+Verbal+Noun+VTI:socairt		VN-INIT;
+spréidheadh+Verbal+Noun+VTI:spréidheadh		VN-INIT;
+sroisint+Verbal+Noun+VTI:sroisint		VN-INIT;
+sroicheadh+Verbal+Noun+VTI:sroicheadh		VN-INIT;
+sruthailt+Verbal+Noun+VI:sruthailt		VN-INIT;
+sústadh+Verbal+Noun+VTI:sústadh		VN-INIT;
+taobhachtain+Verbal+Noun+VT:taobhachtain		VN-INIT;
+taobhadh+Verbal+Noun+VT:taobhadh		VN-INIT;
+tarlacan+Verbal+Noun+VTI:tarlacan		VN-INIT;
+tarlachtaint+Verbal+Noun+VTI:tarlachtaint		VN-INIT;
+téalachan+Verbal+Noun+VI:téalachan		VN-INIT;
+treaghadh+Verbal+Noun+VT:treaghadh		VN-INIT;
+urlaic+Verbal+Noun+VTI:urlaic		VN-INIT;
+

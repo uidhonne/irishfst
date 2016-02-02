@@ -1,0 +1,21 @@
+# Initial caps normalisation
+echo <<< defining INITCAPS >>>
+clear stack 
+
+define initCap a (->) A, b (->) B, c (->) C, d (->) D, e (->) E, f (->) F,
+g (->) G, h (->) H, i (->) I, j (->) J, k (->) K, l (->) L, m (->) M, n (->) N,
+o (->) O, p (->) P, q (->) Q, r (->) R, s (->) S, t (->) T, u (->) U, v (->) V,
+w (->) W, x (->) X, y (->) Y, z (->) Z,
+á (->) Á, é (->) É, í (->) Í, ó (->) Ó, ú (->) Ú || .#. _ ;
+push initCap
+
+echo <<< SAVING initcaps.fst >>>
+
+save stack bin/initcaps.fst
+
+echo <<< COMPOSING >>>
+
+clear stack
+!!TESTING read regex @"bin/initcaps.fst" @"int/prep.fst";
+read regex @"bin/all.fst" .o. @"bin/initcaps.fst"; !!! THIS IS IT
+save stack bin/initcaps-all.fst

@@ -1,0 +1,70 @@
+# Combined Irish Morphology Transducers
+# Elaine Uí Dhonnchadha
+# Thank you to Mans Hulden for providing flookup tool
+# April 2012
+#
+# This scripts loads multiple transducers on to the stack and 
+# saves them in one file 
+# Each transducer is consulted in order until one succeeds in 
+# recognising the input string
+# It allows flookup to function like xerox lookup but without a 
+# lookup script
+#
+# Usage: flookup -a big.fst
+
+read regex @"bin/all.fst";
+read regex @"bin/digit.fst";
+#read regex @"bin/allcaps-all.fst";
+read regex @"bin/all.fst" .o. @"bin/allcaps.fst";
+read regex @"bin/initcaps-all.fst";
+read regex @"bin/tobar.fst";
+read regex @"bin/tobar.fst" .o. @"bin/initcaps.fst";
+read regex @"bin/prefadjs.fst";
+read regex @"bin/prefadjs.fst" .o. @"bin/initcaps.fst";
+read regex @"bin/prefadjs.fst" .o. @"bin/allcaps.fst";
+read regex @"bin/prefnouns.fst";
+read regex @"bin/prefnouns.fst" .o. @"bin/initcaps.fst";
+read regex @"bin/prefnouns.fst" .o. @"bin/allcaps.fst";
+read regex @"bin/prefverbs.fst";
+read regex @"bin/prefverbs.fst" .o. @"bin/initcaps.fst";
+read regex @"bin/prefverbs.fst" .o. @"bin/allcaps.fst";
+read regex @"bin/suffnouns.fst";
+read regex @"bin/suffnouns.fst" .o. @"bin/initcaps.fst";
+read regex @"bin/suffnouns.fst" .o. @"bin/allcaps.fst";
+read regex @"bin/guessv1a.fst";
+read regex @"bin/guessv1b.fst";
+read regex @"bin/guessv1c.fst";
+read regex @"bin/guessv2a.fst";
+read regex @"bin/guessv2b.fst";
+read regex @"bin/guessv2c.fst";
+read regex @"bin/guessv1a.fst" .o. @"bin/initcaps.fst";
+read regex @"bin/guessv1b.fst" .o. @"bin/initcaps.fst";
+read regex @"bin/guessv1c.fst" .o. @"bin/initcaps.fst";
+read regex @"bin/guessv2a.fst" .o. @"bin/initcaps.fst";
+read regex @"bin/guessv2b.fst" .o. @"bin/initcaps.fst";
+read regex @"bin/guessv2c.fst" .o. @"bin/initcaps.fst";
+read regex @"bin/guessv1a.fst" .o. @"bin/allcaps.fst";
+read regex @"bin/guessv1b.fst" .o. @"bin/allcaps.fst";
+read regex @"bin/guessv1c.fst" .o. @"bin/allcaps.fst";
+read regex @"bin/guessv2a.fst" .o. @"bin/allcaps.fst";
+read regex @"bin/guessv2b.fst" .o. @"bin/allcaps.fst";
+read regex @"bin/guessv2c.fst" .o. @"bin/allcaps.fst";
+read regex @"bin/nguess1a.fst";
+read regex @"bin/nguess1a.fst" .o. @"bin/initcaps.fst";
+read regex @"bin/nguess1a.fst" .o. @"bin/allcaps.fst";
+read regex @"bin/compnouns.fst";
+read regex @"bin/propguess.fst";
+read regex @"bin/compnouns.fst" .o. @"bin/initcaps.fst";
+read regex @"bin/compnouns.fst" .o. @"bin/allcaps.fst";
+read regex @"bin/guess_vnva.fst";
+read regex @"bin/nguess1b.fst";
+read regex @"bin/nguess1b.fst" .o. @"bin/initcaps.fst";
+read regex @"bin/nguess1b.fst" .o. @"bin/allcaps.fst";
+read regex @"bin/compadjs.fst";
+read regex @"bin/nguess2.fst";
+read regex @"bin/nguess2.fst" .o. @"bin/initcaps.fst";
+read regex @"bin/nguess2.fst" .o. @"bin/allcaps.fst";
+read regex @"bin/guess_foreign.fst";
+read regex @"bin/guess_unknown.fst";
+save stack bin/big.fst
+

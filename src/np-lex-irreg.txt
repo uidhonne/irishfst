@@ -1,0 +1,122 @@
+!**************************************************************************
+! Moirfeolaíocht na nAinmfhocail Gaeilge (Morphology of Irish Nouns)
+!**************************************************************************
+! IRREGULAR PROPER NOUNS
+!**************************************************************************
+! E. Uí Dhonnchadha 
+! September 2003 
+!**************************************************************************
+
+LEXICON NP-Irregular
+
+Gaeilge:	NPI-Gaeilge;
+Gaelainn:	NPI-Gaelainn;
+Éire:		NPI-Éire;
+Londain:	NPI-Londain;
+Meiriceá:	NPI-Meiriceá;
+Sasana:		NPI-Sasana;
+Eoraip:		NPI-Eoraip;
+Breatain:	NPI-Breatain;
+Life:		NPI-Life;
+Conall:		NPI-Conall;
+Feirste:	NPI-Feirste;
+Uladh:		NPI-Uladh;
+
+Éireannach:	NPI-Éireannach;
+Eorpach:	NPI-Eorpach;
+
+
+LEXICON NPI-Gaeilge
++Prop+Noun+Fem+Com+Sg:Gaeilge		InitMut;
++Prop+Noun+Fem+Com+Sg+DefArt:Ghaeilge		#;
++Prop+Noun+Fem+Gen+Sg:Gaeilge		#;
++Prop+Noun+Fem+Gen+Sg+DefArt:Gaeilge		#;
++Prop+Noun+Fem+Voc+Sg:Ghaeilge			#;
+
+LEXICON NPI-Gaelainn
++CM+Prop+Noun+Fem+Com+Sg:Gaelainn	InitMut;
++CM+Prop+Noun+Fem+Com+Sg+DefArt:Ghaelainn	#;
++CM+Prop+Noun+Fem+Gen+Sg:Gaelainne	#;
++CM+Prop+Noun+Fem+Gen+Sg+DefArt:Gaelainne	#;
++CM+Prop+Noun+Fem+Voc+Sg:Ghaelainn		#;
+
+
+LEXICON NPI-Éire
++Prop+Noun+Fem+Com+Sg:Éire			InitMut;
++Prop+Noun+Fem+Gen+Sg:Éireann	#;
++Prop+Noun+Fem+Gen+Sg+DefArt:hÉireann	#;
++Prop+Noun+Fem+Dat+Sg:Éirinn		#;
++Prop+Noun+Fem+Dat+Sg+hPref:hÉirinn		#;
++Prop+Noun+Fem+Voc+Sg:Éire			#;
+
+LEXICON NPI-Londain
++Prop+Noun+Fem+Com+Sg:Londain		InitMut;
++Prop+Noun+Fem+Gen+Sg+DefArt:Londan	#;
++Prop+Noun+Fem+Voc+Sg:Londain		#;
+
+LEXICON NPI-Meiriceá
++Prop+Noun+Fem+Com+Sg:Meiriceá		InitMut;
++Prop+Noun+Fem+Gen+Sg:Mheiriceá	#;
++Prop+Noun+Fem+Voc+Sg:Mheiriceá	#;
+
+LEXICON NPI-Sasana
++Prop+Noun+Fem+Com+Sg:Sasana			InitMut;
++Prop+Noun+Fem+Gen+Sg+DefArt:Shasana	#;
++Prop+Noun+Fem+Voc+Sg:Shasana		#;
+
+LEXICON NPI-Eoraip
++Prop+Noun+Fem+Com+Sg:Eoraip	InitMut;
++Prop+Noun+Fem+Gen+Sg+DefArt:hEorpa	#;
++Prop+Noun+Fem+Voc+Sg:Eoraip	#;
+
+LEXICON NPI-Breatain
++Prop+Noun+Fem+Com+Sg:Breatain		InitMut;
++Prop+Noun+Fem+Gen+Sg:Breataine	#;
++Prop+Noun+Fem+Voc+Sg:Bhreatain	#;
+
+LEXICON NPI-Life
++Prop+Noun+Fem+Com+Sg:Life		InitMut;
++Prop+Noun+Fem+Gen+Sg:Life	#;
++Prop+Noun+Fem+Voc+Sg:Life	#;
+
+LEXICON NPI-Éireannach
++Prop+Noun+Masc+Com+Sg:Éireannach		InitMut;
++Prop+Noun+Masc+Gen+Sg:Éireannaigh	#;
++Prop+Noun+Masc+Voc+Sg:Éireannach		#;
++Prop+Noun+Masc+Com+Pl:Éireannaigh	#;
++Prop+Noun+Masc+Com+Pl+DefArt:hÉireannaigh	#;
++Prop+Noun+Masc+Gen+Weak+Pl:Éireannach	#;
++Prop+Noun+Masc+Gen+Weak+Pl+DefArt:n-Éireannach	#;
++Prop+Noun+Masc+Voc+Pl:Éireannaigh	#;
+
+LEXICON NPI-Eorpach
++Prop+Noun+Masc+Com+Sg:Eorpach		InitMut;
++Prop+Noun+Masc+Gen+Sg:Eorpaigh	#;
++Prop+Noun+Masc+Gen+Sg+DefArt:Eorpaigh	#;
++Prop+Noun+Masc+Voc+Sg:Eorpach	#;
++Prop+Noun+Masc+Com+Pl:Eorpaigh	#;
++Prop+Noun+Masc+Com+Pl+DefArt:hEorpaigh	#;
++Prop+Noun+Masc+Gen+Weak+Pl:Eorpach	#;
++Prop+Noun+Masc+Gen+Weak+Pl+DefArt:n-Eorpach	#;
++Prop+Noun+Masc+Voc+Pl+DefArt:Eorpaigh	#;
+
+
+LEXICON NPI-Conall
++Prop+Noun+Masc+Com+Sg:Conall		InitMut;
++Prop+Noun+Masc+Gen+Sg+DefArt:Chonaill	#;
++Prop+Noun+Masc+Voc+Sg:Chonall	#;
+
+LEXICON NPI-Feirste
++Prop+Noun+Masc+Gen+Sg:Feirste	#;
+
+LEXICON NPI-Uladh
++Prop+Noun+Masc+Com+Sg:Uladh		InitMut;
++Prop+Noun+Masc+Gen+Sg:Ulaidh		#;   !!!!! check this 
+
+
+!----------------------------------------------------------------------------
+
+LEXICON InitMut
+#;
++Len:^IM^Sé		#;
++Ecl:^IM^Urú	#;

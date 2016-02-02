@@ -1,0 +1,188 @@
+!**************************************************************************
+! Moirfeolaíocht na nAinmfhocail Gaeilge (Morphology of Irish Nouns)
+!**************************************************************************
+! E. Uí Dhonnchadha 
+! January 2001 
+! April 2003:  ^IM general initial mutation flag
+!
+! REFERENCES 
+! (1) New Irish Grammar by The Christian Brothers   
+! (2) Gramadach na Gaeilge agus Litriú na Gaeilge - An Caighdeán Oifigiúil 
+! (3) Foclóir Póca - An Gúm 
+! (4) Nuachúrsa Gaeilge na mBráithre Críostaí 
+! (5) Gléacht & Ó Dónaill Irish-English Dictionary 
+! 
+! GENERAL NOTES
+! 0.	Alphabet : a b c d e f g h i l m n o p r s t u + á é í ó ú.
+!		 : j k q v w x y z originally were not used though some of them 
+!		 : now exist in loan words (jíp=jeep, quinín=quinine, veilbhit=
+!		 : velvet, xileafón=xylophone, zú=zoo)  
+! 1.	There are three principal cases : Nominative, Genitive and Vocative
+! 2.	Nouns are inflected for number, gender and case. They can be inflected at 
+!	both start and the end of the word depending on whether the noun is:
+!	- Masculine or Feminine
+!	- has Broad (aouáóú)or Slender vowels (ieíé)
+!	- has One syllable or More than one syllable
+!	- has Long (áéíóú ao ae o[mh] u[mh] i[á|ó] u[á|ó] a[rd|rl|rn|rr]) 
+!	  or Short vowels (aeiou) (this influences syncopation)
+!	- is preceeded by an article or not (or posessive pronouns etc.)
+! 2.1	Gender.
+!	There are standard differences in the handling of nouns (in the singular) which 
+!	start with a vowel, an "s" or another consonant, depending on whether they are
+!	masculine or feminine.
+!	- In the Nominative singular:
+! 	After the definite article "an" 
+!	(a) Feminine nouns will have "h" inserted after the initial consonant
+!	    if possible - not all consonants are suitable. (^Sé Séimhiú)
+!           In the case of an initial "s", a "t" will be placed before it 
+!	    rather than "h" after it. (^ts)
+!	    A word starting wil a vowel will be unchanged.
+! 	(b) Masculine nouns will have "t-" inserted before an initial vowel.
+!	    (^tv)
+!	    All other words will be unchanged.
+!	- In the Genitive Singular ....:
+!		an/na etc...
+!	- In the Vocative singular  ....
+! 2.2	Vowel Harmony must be maintained within words ie a word must be Broad or Slender 
+!	aouáóú are broad vowels; ieíé are slender vowels
+! 3.	Number.
+!	Nouns are traditionally divided into 5 grammatical classes called declensions,
+!	which are based on the way in which the Genitive Singular is formed:
+! 	1st. Declension - All Masculine - nouns all end in broad consonant
+!		Gen. Sg : word end is made slender
+!				  or -each/-ach is converted to -í/-aí
+! 	2nd. Declension - All Feminine -  nouns end in broad or slender consonant
+!		Gen. Sg : word end is made slender (if necessary) and an "e" is appended
+!				  or -each/-ach is converted to -í/-aí
+! 	3rd. Declension - Feminine & Masculine - nouns end in a broad or slender consonant.
+!		Gen. Sg : word end is made broad (if necessary) and an "a" is appended
+! 	4th. Declension - Feminine & Masculine - all end in a vowel or "ín"
+!		Gen. Sg : no change
+!	5th. Declension - Feminine & few Masc. - all end in -il, -in, -ir and -is? or a vowel
+!		Gen. Sg : word ends in a broad consonant : Make broad if necessary
+!				  and append "n" or "d" if root ends in a vowel.
+!				  If the word has more than one syllable and the last 
+!				  syllable is unstressed then the unstressed vowel is 
+!				  removed (syncopation).
+!
+!	Plural:
+!	Initial Mutations : Nominative plural - if vowel then prefix "h"
+!		 Gen plural - if preceeded by article (na) then eclipse (prefix "urú")
+!	
+!	Final Mutations : 
+!	Within each of the five declensions there are a variety of ways of performing
+!	the inflections.
+!	eg.	Add a syllable or letter to the base form, 
+!		or change the vowels in the last syllable.
+!		In a few cases there are also consonant changes. (^Ath Athru)
+!
+!
+!	Note: I have maintained these five grammatical categories in this lexicon 
+!	in order to  re-use information contained in dictionaries and grammar books 
+!	and particularly dictionaries in electronic format.
+!************************************************************************* 
+ 
+Multichar_Symbols 
+
+! PART-OF-SPEECH TAGS
++Noun	! noun
++Prop	! proper
++Masc	! masculine gender
++Fem	! feminine gender
++Com	! nominative case 
++Gen	! genitive case 
++Voc	! vocative case 
++Dat	! dative (e.g. teach)
++Sg	! singular
++Pl	! plural
++DefArt	! noun preceeded by definite article (an)
++Def	! noun preceeded by definite article (an)
++Idf	! noun without article (there is no indefinite article)
++Strong	! strong plural 
++Weak	! weak plural
++Emph	! emphasised - ár dteachsa, do theachsa, a teachsa
++Subst	! substantive - functions like a noun, but lack noun inflections
++Len	! (+Sé) lenite after simple prep. eg ar chat
++Ecl	! (+Urú) e.g.  after compound prep eg ar an gcat
++Poss	! possessive e.g. haois, n-aoiseanna 
+	! NOTE m'aois and d'aois will be split into 2 tokens each
++hPref 	! h before vowel 
++CM	! canúint na Mumhan, Munster dialect
++CC	! canúint Chonnachta
++CU	! canúint Uladh
+
++Part	! see irregular nouns
++Num	! see irregular nouns
+
+
+! TAGS TO SIGNIFY WORD-START MUTATIONS
+^M 	! masculine & feminine : initial mutations of singular nouns depend on 
+^F	! whether the noun is masculine or feminine
+
+^C 	! nominative, genitive & vocative : initial mutations of plural nouns 
+^G 	! depend on the case
+^V	!
+
+^Sé	! Séimhiú (softening) Lenition - h added after certain initial 
+	! consonants (bcdfgmpst)
+	! eg "an cat" in gen. sg. becomes "bia an chait" (the cat's  
+	! food) 
+
+^Urú	! Eclipsis - a letter placed before word initial letter  (bcdfgpt)
+	! eg  "g" before "c" - "an cat" in gen. pl. becomes "bia na gcat" 
+	! (the cats' food) 
+
+^tv	! "t-" before a vowel (eg éan : Nom. Sg. Masc. an t-éan - the bird) 
+
+^hv	! "h" before a vowel (eg éan : Nom. Pl. Masc. na héin - the birds) 
+
+^ts	! "t" before "s" 
+	! eg sagart : Gen Sg.Masc. teach an tsagairt - the priest's house
+^Def	! dntls rule after definite article
+
+! TAGS TO SIGNIFY WORD-END MUTATIONS
+^Caol	! Caolú (slenderise)- Attenuation : ie slenderise the end of word 
+	! Usually by adding an "i" after  the last broad vowel 
+	! aouáóú are broad vowels; ieíé are slender vowels  
+	! eg "an cat" (the cat) in nom. pl. becomes "na cait" (the cats) 
+^Lea	! Leathnú - Broadening eg an "i" is removed 
+	! súil (eye); radharc na súl (eyesight)
+^Coim	! Coimriú - Syncopation - the last unstressed vowel is dropped
+	! eg saghas (type) ->saghs +anna, solas->soils+e (light) - with attenation also
+^Ath	! Athrú (Change) - in certain plurals the ending changes : "e" -> "í",
+	! "each" -> "í" and "ach" changes to "aí" etc.eg gealach -> gealaí (of the moon)
+^VH	! Maintains vowel harmony of broad and slender vowels
+	! Motto : "leathan le leathan agus caol le caol" (slender with slender and 
+	! broad with broad)
+^Emph	! emphatic forms
+^Poss	! possessive marker - singular a haois, ár n-aois
+	! possessive marker - plural   a haoiseanna, ár n-aoiseanna
+^IM	! general initial mutation e.g. mo chat, ar an mballa
+	! 
+
+^CB	! compound boundary
+
+^GUESSNOUN
++Guess
+!**************************************************************************  
+!
+!					L E X I C O N
+!
+!**************************************************************************  
+LEXICON Root
+        Nouns; 			! ORIGINAL TEST LEXICON
+	Dative;			! ORIGINAL TEST LEXICON
+	Other;			! ORIGINAL TEST LEXICON
+	NounsB;			! nouns
+	NounsC;			! FP nouns (automatic)
+	NounsD;			! FP nouns (manual Decl 1-3)
+	NounsE;			! FP nouns (manual Decs 4-5)
+	NounsF;			! FP nouns (manual Irregular)
+	NounsIrregular;
+	Substantive; 
+	NounsFGB1;		! FGB (O Donaill) automatic (in NCI corpus) 
+	NounsFGB2;		! FGB (O Donaill) automatic (additional)
+	NounsVariants;		! Variants extracted from FGB
+	NounsEqualVariants;	! Variants extracted from FGB (2011 EUD)
+
+

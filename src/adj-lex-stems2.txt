@@ -1,0 +1,51 @@
+LEXICON AdjB
+baileach	Adj1-3;	 ! exact, níl a fhios
+bog		Adj1-2;	 ! soft part, etc, ~
+caite		Adj3-1;	 ! worn, consumed, spent, past;
+caoin		Adj2-2;	 ! smooth, delicate, gentle, refined
+
+ciallmhar	Adj1-2;	 ! sensible, reasonable
+  
+clé		Adj3-1;	 ! left hand; left-hand side
+cosúil	 	Adj2-1;	 ! (with le) like, resembling,
+Críostaí	Adj3-1;	 ! Christian
+   
+
+deas	 	Adj1-2;	 ! gsm ~ nice, is
+deireanach	Adj1-3;	 ! last; late; latter, bheith
+dócha	 	Adj3-1;	 ! comp dóichí (used with
+éagsúil	 	Adj2-1;	 ! unlike; different, various
+ 
+feargach	Adj1-3;	 ! angry; irritated, inflamed
+ 
+gearr 	 	Adj1-2;	 ! a1 & vt & i gsm ~ gsf & comp giorra  ***************
+
+   
+grámhar	 	Adj1-2;	 ! loving, affectionate; lovable
+ 
+leathan 	Adj1-2;	 ! m1 & a1 broad part, flat open space a1,
+léir	 	Adj2-2;	 ! clear; distinct; clever, go
+leor	 	Adj1-2;	 ! is ~ sin that
+líonmhar	Adj1-2;	 ! numerous, abundant; full, complete
+
+luath	 	Adj1-2;	 ! quick, speedy; early, intinn
+maslach	 	Adj1-3;	 ! insulting, abusive; overstrenuous
+ 
+rialta	 	Adj3-1;	 ! regular; habitual, ord ~
+sásta	 	Adj3-1;	 ! satisfied; willing; handy, easy
+seafóideach	Adj1-3;	 ! nonsensical, silly
+  
+soiléir	 	Adj2-2;	 ! clear, distinct; obvious
+ 
+stuama	 	Adj3-1;	 ! sensible, prudent; skilful, steady
+
+tábhachtach	Adj1-3;	 ! important; substantial
+  
+trom	 	Adj1-2;	 ! gsm ~ heavy; laborious;
+éadrom	 	Adj1-2;	 ! light
+tuisceanach	Adj1-3;	 ! understanding; wise; considerate
+ 
+!!! not reqd. uile	 	Adj3-1;	 ! all, every, gach ~
+!ionann	 	AdjBASE; ! same, identical; equal, is
+diamhrach		Adj1-3;	! dark
+rúndiamhrach		Adj1-3;	! dark

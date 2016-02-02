@@ -1,0 +1,2800 @@
+LEXICON AdjC
+Albanach	Adj1-3;
+Conallach	Adj1-3;
+Laighneach	Adj1-3;
+Spáinneach	Adj1-3;
+Ultach		Adj1-3;
+
+!!!!!!!!!!!!!!!!
+!automatically classified from dictionary file
+!!!!!!!!!!!!!!!!!!
+
+Alsáiseach	Adj1-3;	 ! Alsatian
+Anglacánach	Adj1-3;	 ! Anglican
+Antartach	Adj1-3;	 ! Antarctic
+Artach	Adj1-3;	 ! Arctic
+Atlantach	Adj1-3;	 ! Atlantic
+Beinidicteach	Adj1-3;	 ! Benedictine
+Boilséiveach	Adj1-3;	 ! Bolshevik
+Caipisíneach	Adj1-3;	 ! Capuchin
+Cairmilíteach	Adj1-3;	 ! Carmelite
+Caitliceach	Adj1-3;	 ! Catholic
+Cartúiseach	Adj1-3;	 ! Carthusian
+Ceilteach	Adj1-3;	 ! Celt a1 Celtic
+Cistéirseach	Adj1-3;	 ! Cistercian
+Críostaí	Adj3-1;	 ! Christian
+Críostúil	Adj2-1;	 ! Christian; charitable, humane
+Doiminiceach	Adj1-3;	 ! Dominican
+Eilíseach	Adj1-3;	 ! Elizabethan
+Fairisíneach	Adj1-3;	 ! Pharisee a1 Pharisaic(al)
+Filistíneach	Adj1-3;	 ! Philistine
+Giúdach	Adj1-3;	 ! Jew a1 Jewish
+Greagórach	Adj1-3;	 ! Gregorian
+Iosánach	Adj1-3;	 ! Jesuit
+Liútarach	Adj1-3;	 ! Lutheran
+Mahamadach	Adj1-3;	 ! Mohammedan
+Marxach	Adj1-3;	 ! Marxist
+Meitidisteach	Adj1-3;	 ! Methodist
+Modhach	Adj1-3;	 ! Methodist
+Mormannach	Adj1-3;	 ! Mormon
+Moslamach	Adj1-3;	 ! Moslem
+Naitsíoch	Adj1-4;	 ! gsm ~ Nazi
+Neoiliteach	Adj1-3;	 ! Neolithic
+Normannach	Adj1-3;	 ! Norman
+Oilimpeach	Adj1-3;	 ! Olympian a1 Olympic
+Oráisteach	Adj1-3;	 ! Orangeman a1, an tOrd
+Preispitéireach	Adj1-3;	 ! Presbyterian
+Proinsiasach	Adj1-3;	 ! Franciscan
+Protastúnach	Adj1-3;	 ! Protestant
+Raibiléiseach	Adj1-3;	 ! Rabelaisian
+Rómhánach	Adj1-3;	 ! Roman
+Sailéiseach	Adj1-3;	 ! Salesian
+Seacaibíteach	Adj1-3;	 ! Jacobite
+Seoirseach	Adj1-3;	 ! Georgian
+Slánaitheorach	Adj1-3;	 ! Redemptorist
+Trapach	Adj1-3;	 ! Trappist
+Túdarach	Adj1-3;	 ! Tudor
+Ugónach	Adj1-3;	 ! Huguenot
+Uigingeach	Adj1-3;	 ! Viking
+Uinseannach	Adj1-3;	 ! Vincentian
+Ursalach	Adj1-3;	 ! Ursuline
+Utóipeach	Adj1-3;	 ! Utopian
+Victeoiriach	Adj1-3;	 ! Victorian
+abartha	Adj3-1;	 ! given to repartee, witty
+abhcach	Adj1-3;	 ! dwarf, dwarfish
+absalóideach	Adj1-3;	 ! absolute
+acadúil	Adj2-1;	 ! academic
+acaointeach	Adj1-3;	 ! plaintive, doleful
+achainíoch	Adj1-4;	 ! petitioner a1, gsm ~
+aclaí	Adj3-1;	 ! supple, agile; flexible; adroit
+acmhainneach	Adj1-3;	 ! strong, able to endure;
+acrach	Adj1-3;	 ! handy; convenient
+adamhach	Adj1-3;	 ! atomic
+adhaltrach	Adj1-3;	 ! adulterer a1 adulterous
+adhantach	Adj1-3;	 ! igneous, inflammable
+adharcach	Adj1-3;	 ! horned, horny
+adhfhuafar	Adj1-2;	 ! abominable
+adhmainteach	Adj1-3;	 ! magnetic
+aduaidh	AdjBASE;	 ! from the north, an
+aduain	Adj2-2;	 ! strange, unfamiliar; apart
+aeistéitiúil	Adj2-1;	 ! aesthetic
+aerach	Adj1-3;	 ! airy; gay, lively; flighty
+aerachtúil	Adj2-1;	 ! eerie
+aerdhíonach	Adj1-3;	 ! air-tight
+aerga	Adj3-1;	 ! aerial, ethereal
+aeroibrithe	Adj3-1;	 ! pneumatic
+aertha	Adj3-1;	 ! light-headed, giddy
+aeráideach	Adj1-3;	 ! climatic
+agnóisíoch	Adj1-4;	 ! gsm ~ agnostic
+agóideach	Adj1-3;	 ! protesting; cantankerous
+aibhseach	Adj1-3;	 ! great, immense, dath ~
+aibéil	Adj2-2;	 ! ~ chainte back-chat a1
+aibítreach	Adj1-3;	 ! alphabetical
+aicearrach	Adj1-3;	 ! short; curt, caint ~
+aicmeach	Adj1-3;	 ! generic; class
+aicmiúil	Adj2-1;	 ! sectarian; cliquish
+aidhmeannach	Adj1-3;	 ! designing, ambitious
+aiféalach	Adj1-3;	 ! regretful, sorrowful; shame faced,
+aigeanta	Adj3-1;	 ! spirited, cheerful
+aighneasach	Adj1-3;	 ! argumentative
+aigéadach	Adj1-3;	 ! acid
+aigéanach	Adj1-3;	 ! oceanic
+ailbíneach	Adj1-3;	 ! albino
+ailléirgeach	Adj1-3;	 ! allergic
+aimhleasach	Adj1-3;	 ! harmful, detrimental; misguided
+aimhrialta	Adj3-1;	 ! irregular; anomalous
+aimhréidh	Adj2-2;	 ! entanglement, dul in ~
+aimhréireach	Adj1-3;	 ! ~ le repugnant to
+aimlithe	Adj3-1;	 ! sodden; enfeebled, bedraggled
+aimrid	Adj2-2;	 ! barren, sterile
+aimseartha	Adj3-1;	 ! temporal
+ainbhiosach	Adj1-3;	 ! ignorant; stupid
+ainchríonna	Adj3-1;	 ! imprudent, rash
+aindiaga	Adj3-1;	 ! godless
+aindleathach	Adj1-3;	 ! illegal
+aineoil	Adj2-2;	 ! unknown, strange
+aineolach	Adj1-3;	 ! ignorant; inexperienced
+aingiallta	Adj3-1;	 ! irrational
+ainglí	Adj3-1;	 ! angelic
+aingí	Adj3-1;	 ! malignant; fretful
+ainiarmhartach	Adj1-3;	 ! having evil consequences
+ainiochtach	Adj1-3;	 ! cruel
+ainmheasartha	Adj3-1;	 ! immoderate, intemperate
+ainmhianach	Adj1-3;	 ! passionate, lustful
+ainmhíoch	Adj1-4;	 ! gsm ~ animal, brutish
+ainmneach	Adj1-3;	 ! (grammar) nominative
+!!! SEE vn-lex.txt ainmnithe	Adj3-1;	 ! elect
+ainmniúil	Adj2-1;	 ! nominal; noted, well-known
+ainneonach	Adj1-3;	 ! involuntary
+ainnis	Adj2-2;	 ! miserable, wretched
+ainrialta	Adj3-1;	 ! undisciplined; anarchical
+ainrianta	Adj3-1;	 ! unbridled, unruly; licentious
+ainscianta	Adj3-1;	 ! wild, furious
+ainsealach	Adj1-3;	 ! chronic
+ainspianta	Adj3-1;	 ! grotesque; abnormal
+aintiarnúil	Adj2-1;	 ! tyrannical
+ainéistéiseach	Adj1-3;	 ! anaesthetic
+airceach	Adj1-3;	 ! voracious; needy
+airdeallach	Adj1-3;	 ! alert, watchful
+aireach	Adj1-3;	 ! careful, attentive; vigilant
+airgeadúil	Adj2-1;	 ! silvery; financial
+airtéiseach	Adj1-3;	 ! artesian
+aiseipteach	Adj1-3;	 ! aseptic
+aislingeach	Adj1-3;	 ! visionary
+aistreach	Adj1-3;	 ! (of person) roving, unsettled;
+aistreánach	Adj1-3;	 ! out-of-the-way, inconvenient; migratory
+aistritheach	Adj1-3;	 ! movable, daonra ~ shift
+aiséitiúil	Adj2-1;	 ! ascetic
+ait	Adj2-2;	 ! pleasant; fine; comical, queer
+aiteasach	Adj1-3;	 ! pleasant, joyful
+aitheanta	Adj3-1;	 ! recognized, accepted
+aithiseach	Adj1-3;	 ! defamatory; shameful
+aithnidiúil	Adj2-1;	 ! familiar; well-known
+aithriseach	Adj1-3;	 ! imitative; mocking
+aithriúil	Adj2-1;	 ! fatherly, paternal
+aithríoch	Adj1-4;	 ! penitent a1, gsm ~
+alcaileach	Adj1-3;	 ! alkaline
+alcólach	Adj1-3;	 ! alcoholic
+allabhrach	Adj1-3;	 ! evocative
+allasúil	Adj2-1;	 ! sweaty
+allta	Adj3-1;	 ! wild
+alluaiceach	Adj1-3;	 ! airy, giddy
+allúrach	Adj1-3;	 ! foreigner a1 foreign
+alpach	Adj1-3;	 ! voracious, greedy
+altach	Adj1-3;	 ! articulate, jointed; knotty; undulating
+!! SEE ADV-LEX amach	AdjBASE;	 ! out, an bealach ~
+amadánta	Adj3-1;	 ! fatuous
+amaideach	Adj1-3;	 ! foolish
+amaitéarach	Adj1-3;	 ! amateur
+amanathar	AdjBASE;	 ! the day after tomorrow;
+amh	Adj1-2;	 ! gsm ~ raw, uncooked
+amhantrach	Adj1-3;	 ! speculative, risky; lucky
+amhlánta	Adj3-1;	 ! boorish
+amhrasach	Adj1-3;	 ! doubtful, suspicious
+amplach	Adj1-3;	 ! hungry; greedy
+amscaí	Adj3-1;	 ! untidy; awkward
+!! SEE ADV-LEX amuigh	AdjBASE;	 ! out; outside, outer, ~
+amárach	AdjBASE;	 ! tomorrow;
+anabaí	Adj3-1;	 ! unripe, immature, breith ~
+anacrach	Adj1-3;	 ! distressed, distressing
+anaemach	Adj1-3;	 ! anaemic
+anaithnid	Adj2-2;	 ! strange, unknown
+anamúil	Adj2-1;	 ! lively, spirited
+anchumtha	Adj3-1;	 ! misshapen
+anchúinseach	Adj1-3;	 ! monstrous; scoundrelly
+andúchasach	Adj1-3;	 ! non-native; exotic
+angaíoch	Adj1-4;	 ! gsm ~ purulent
+anghrách	Adj1-5;	 ! gsm ~ erotic
+aniar	AdjBASE;	 ! from the west,an ghaoth
+anlathach	Adj1-3;	 ! tyrannical; anarchical
+anoir	AdjBASE;	 ! from the east,an ghaoth
+anordúil	Adj2-1;	 ! chaotic
+anróiteach	Adj1-3;	 ! severe, inclement; distressing
+ansa	Adj3-1;	 ! dearest, most beloved
+antaibheathach	Adj1-3;	 ! antibiotic
+antaiseipteach	Adj1-3;	 ! antiseptic
+antlásach	Adj1-3;	 ! greedy, covetous
+antoisceach	Adj1-3;	 ! extremist a1 extreme
+antrapóideach	Adj1-3;	 ! anthropoid
+antráthach	Adj1-3;	 ! late, untimely
+anuraidh	AdjBASE;	 ! last year;
+anásta	Adj3-1;	 ! needy; clumsy
+anóirthear	AdjBASE;	 ! the day after tomorrow;
+anóiteach	Adj1-3;	 ! uncomfortable; miserable
+aoibhiúil	Adj2-1;	 ! pleasant, smiling
+aolmhar	Adj1-2;	 ! containing lime; lime-white
+aonarach	Adj1-3;	 ! single, solitary, lone
+aonaránach	Adj1-3;	 ! alone, solitary
+aonchineálach	Adj1-3;	 ! homogeneous
+aonghnéitheach	Adj1-3;	 ! of the same character;
+aonraic	Adj2-2;	 ! solitary; alone
+aonta	Adj3-1;	 ! one; single
+aontaitheach	Adj1-3;	 ! assenting, agreeing
+aontaobhach	Adj1-3;	 ! unilateral
+aontumha	Adj3-1;	 ! celibacy a3 celibate
+aonú	Adj3-1;	 ! first, an t-~ háit
+aorach	Adj1-3;	 ! satirical
+aosta	Adj3-1;	 ! aged, old
+apacailipteach	Adj1-3;	 ! apocalyptic
+apacrafúil	Adj2-1;	 ! apocryphal
+araiciseach	Adj1-3;	 ! hasty, short-tempered
+araile	Adj3-1;	 ! agus ~ et cetera
+araltach	Adj1-3;	 ! heraldic
+aranta	Adj3-1;	 ! irritable, ill-humoured
+ardaitheach	Adj1-3;	 ! ascendant, ascending
+ardintinneach	Adj1-3;	 ! high-spirited; head strong
+ardnósach	Adj1-3;	 ! grand, pompous; formal
+armach	Adj1-3;	 ! armed
+armónach	Adj1-3;	 ! harmonic
+armúrtha	Adj3-1;	 ! armoured
+artaireach	Adj1-3;	 ! arterial
+aréir	AdjBASE;	 ! last night;
+arúil	Adj2-1;	 ! arable
+aspalda	Adj3-1;	 ! apostolic
+astaróideach	Adj1-3;	 ! asteroid
+astralaíoch	Adj1-4;	 ! gsm ~ astrological
+athartha	Adj3-1;	 ! paternal, ancestral
+athbhríoch	Adj1-4;	 ! tonic a1, gsm ~
+athchaite	Adj3-1;	 ! worn-out; cast-off
+athchogantach	Adj1-3;	 ! ruminant
+athdhúchasach	Adj1-3;	 ! atavistic
+athfhillteach	Adj1-3;	 ! recurring, recurrent
+athléimneach	Adj1-3;	 ! resilient
+athraitheach	Adj1-3;	 ! changeable, movable; variant
+athscinmeach	Adj1-3;	 ! elastic
+athshondach	Adj1-3;	 ! resonant
+atmaisféarach	Adj1-3;	 ! atmospheric
+atuirseach	Adj1-3;	 ! weary; dejected
+atáirgeach	Adj1-3;	 ! reproductive
+bachallach	Adj1-3;	 ! crooked; ringleted
+badánach	Adj1-3;	 ! tufted
+bagrach	Adj1-3;	 ! threatening, menacing
+bagánta	Adj3-1;	 ! hale; spruce
+baictéarach	Adj1-3;	 ! bacterial
+bailí	Adj3-1;	 ! valid
+baineanda	Adj3-1;	 ! effeminate
+baineannach	Adj1-3;	 ! female
+baininscneach	Adj1-3;	 ! feminine (gender)
+bainniúil	Adj2-1;	 ! milky; milk-yielding
+bainteach	Adj1-3;	 ! ~ le rud involved
+baistí	Adj3-1;	 ! baptismal, athair ~ godfather
+balbh	Adj1-2;	 ! dumb; inarticulate; (of sound)
+ballach	Adj1-3;	 ! spotted, speckled
+bambach	Adj1-3;	 ! tiresome, frustrating
+banda	Adj3-1;	 ! womanly, feminine
+baoth	Adj1-2;	 ! foolish; vain
+baothdhána	Adj3-1;	 ! foolhardy
+baothghalánta	Adj3-1;	 ! snobbish
+baothánta	Adj3-1;	 ! foolish; fatuous
+barainneach	Adj1-3;	 ! thrifty; parsimonious, níl a
+barbarach	Adj1-3;	 ! barbarian
+barbartha	Adj3-1;	 ! barbarous; (of speech) coarse
+bardasach	Adj1-3;	 ! alderman a1 municipal
+barrchaite	Adj3-1;	 ! threadbare
+barrúil	Adj2-1;	 ! gay; funny; droll
+barántúil	Adj2-1;	 ! trustworthy; authentic
+barúlach	Adj1-3;	 ! opinionated
+bastallach	Adj1-3;	 ! bombastic; captious
+beacht	Adj1-1;	 ! gsm ~ exact, precise,
+beachtaíoch	Adj1-4;	 ! gsm ~ critical, captious
+beadaí	Adj3-1;	 ! gourmet a3 sweet-toothed, fas
+beagmhaitheasach	Adj1-3;	 ! useless, worth less; disobliging
+beannach	Adj1-3;	 ! horned; peaked; gabled; angular
+beannachtach	Adj1-3;	 ! buíoch ~ effusively grateful
+beannaithe	Adj3-1;	 ! blessed, holy, na hoird
+beannaitheach	Adj1-3;	 ! beatific
+bearnach	Adj1-3;	 ! gapped
+beartach	Adj1-3;	 ! scheming, contriving
+beathach	AdjBASE;	 ! beo ~ alive and
+beathaithe	Adj3-1;	 ! fat, well-fed
+beathaitheach	Adj1-3;	 ! nourishing, fattening
+beobhreitheach	Adj1-3;	 ! viviparous
+beoga	Adj3-1;	 ! lively; vivid
+biatach	Adj1-3;	 ! victualler a1 food-providing; generous
+bileogach	Adj1-3;	 ! leafy; laminated
+binbeach	Adj1-3;	 ! (of voice, speech) venomous,
+binn	Adj2-2;	 ! sweet, melodious, d'éirigh go
+biorach	Adj1-3;	 ! pointed; sharp
+bioranta	Adj3-1;	 ! sharp, cold
+bisiúil	Adj2-1;	 ! productive; fecund
+bithiúnta	Adj3-1;	 ! scoundrelly
+bladhmach	Adj1-3;	 ! flaming
+bladhmannach	Adj1-3;	 ! blazing, boastful
+bladrach	Adj1-3;	 ! cajoling, flattering
+blasta	Adj3-1;	 ! tasty; (of speech) correct,
+bliantúil	Adj2-1;	 ! yearly, annual
+blocánta	Adj3-1;	 ! stocky
+bláfar	Adj1-2;	 ! blooming, beautiful; tidy; demure
+bodhraitheach	Adj1-3;	 ! deafening
+bodúil	Adj2-1;	 ! churlish, surly
+bog	Adj1-2;	 ! soft part, etc, ~
+bogásach	Adj1-3;	 ! smug
+bogúrach	Adj1-3;	 ! soft; maudlin
+boigéiseach	Adj1-3;	 ! soft-hearted; gullible
+boilsceannach	Adj1-3;	 ! bulging
+bolcánach	Adj1-3;	 ! volcanic
+bolgach	Adj1-3;	 ! big-bellied; bulging
+bolgshúileach	Adj1-3;	 ! pop-eyed
+boltanach	Adj1-3;	 ! olfactory; odorous
+borb	Adj1-2;	 ! fierce, violent; rude; rich,
+borrach	Adj1-3;	 ! swollen; arrogant
+borrtha	Adj3-1;	 ! varicose
+borrúil	Adj2-1;	 ! (of soil) rich,(of plants)
+brabúsach	Adj1-3;	 ! profitable, lucrative
+brachaí	Adj3-1;	 ! bleary
+bradach	Adj1-3;	 ! thieving; scoundrelly; stolen, bó
+braiteach	Adj1-3;	 ! perceptive; alert; treacherous
+braonach	Adj1-3;	 ! dripping; misty, wet; tearful,
+bratógach	Adj1-3;	 ! ragged; in rags
+breabhsánta	Adj3-1;	 ! sprightly; spruce
+breac	Adj1-2;	 ! speckled, dappled, cuilt bhreac
+breacoilte	Adj3-1;	 ! semi-skilled
+breallach	Adj1-3;	 ! protuberant; blubber-lipped; foolish
+breallánta	Adj3-1;	 ! silly
+breicneach	Adj1-3;	 ! freckled
+breisiúil	Adj2-1;	 ! increasing; prolific
+breithghreamannach	Adj1-3;	 ! captious
+breithiúnach	Adj1-3;	 ! judicial; discerning, judicious; critical
+breoch	Adj1-1;	 ! glowing
+breoite	Adj3-1;	 ! sick, ailing
+briathrach	Adj1-3;	 ! verbose
+bricíneach	Adj1-3;	 ! freckled
+brionglóideach	Adj1-3;	 ! dreamy
+briosc	Adj1-2;	 ! brittle; crisp; brisk, glór
+briotach	Adj1-3;	 ! lisping
+briste	Adj3-1;	 ! broken; defeated, talamh ~
+bristeach	Adj1-3;	 ! (of weather) broken, unsettled
+brocach	Adj1-3;	 ! grey; pock-marked, spotted; grimy,
+broghach	Adj1-3;	 ! dirty
+broidearnúil	Adj2-1;	 ! throbbing, pulsating; effervescent
+broidiúil	Adj2-1;	 ! pressed, busy
+broncach	Adj1-3;	 ! bronchial
+brostaitheach	Adj1-3;	 ! inciting, stimulating
+brothallach	Adj1-3;	 ! hot, sultry
+bruachánach	Adj1-3;	 ! riparian
+bruite	Adj3-1;	 ! boiled, cooked, capall ~
+bruithneach	Adj1-3;	 ! hot place, furnace a1
+bruíonach	Adj1-3;	 ! quarrelsome
+bráithriúil	Adj2-1;	 ! brotherly
+bréagach	Adj1-3;	 ! lying, false
+bréagnaitheach	Adj1-3;	 ! contradictory
+bréan	Adj1-2;	 ! foul, rancid, putrid, bheith
+bródúil	Adj2-1;	 ! proud; arrogant
+brónach	Adj1-3;	 ! sorrowful, sad
+brúidiúil	Adj2-1;	 ! brutal
+brúidiúlach	Adj1-3;	 ! ~ beathaithe gross, fleshy
+brúite	Adj3-1;	 ! pressed, bruised, crushed, ~
+buacach	Adj1-3;	 ! lofty; rich, luxuriant; buoyant,
+buach	Adj1-1;	 ! gsm ~ victorious
+buaibheach	Adj1-3;	 ! bovine
+buailteach	Adj1-3;	 ! pugnacious, given to striking
+buaircíneach	Adj1-3;	 ! conifer a1 coniferous
+buaiteach	Adj1-3;	 ! winning, victorious, bheith ~
+buan	Adj1-2;	 ! enduring, permanent, más ~
+buanchruthach	Adj1-3;	 ! stereotyped
+buannúil	Adj2-1;	 ! bold, presumptuous
+buanseasmhach	Adj1-3;	 ! persevering, steadfast
+buartha	Adj3-1;	 ! sorry, sorrowful, bheith ~
+buirgéiseach	Adj1-3;	 ! burgess a1 bourgeois
+bunaosta	Adj3-1;	 ! fairly old
+bunata	Adj3-1;	 ! basic; primary
+bunaíoch	Adj1-4;	 ! gsm ~ primitive
+bundúchasach	Adj1-3;	 ! aborigine a1 aboriginal
+bunreachtúil	Adj2-1;	 ! constitutional
+bunúil	Adj2-1;	 ! well-founded; substantial; well-to-do; original
+bunúsach	Adj1-3;	 ! original, basic; substantial; well-to-do
+bábánta	Adj3-1;	 ! babyish
+bách	Adj1-1;	 ! gsm ~ affectionate
+báistiúil	Adj2-1;	 ! rainy
+báiteach	Adj1-3;	 ! watery; pale, wan; (of
+básmhar	Adj1-2;	 ! mortal
+báúil	Adj2-2;	 ! sympathetic
+béalchráifeach	Adj1-3;	 ! sanctimonious
+béaliata	Adj3-1;	 ! tight-lipped, secretive
+béalscaoilte	Adj3-1;	 ! indiscreet
+béasach	Adj1-3;	 ! well-behaved; mannerly
+béimneach	Adj1-3;	 ! striking, smiting
+bíobalta	Adj3-1;	 ! biblical
+bíogúil	Adj2-1;	 ! jumpy; lively; sprightly
+bíseach	Adj1-3;	 ! spiral
+bómánta	Adj3-1;	 ! slow-witted
+bórach	Adj1-3;	 ! bandy, bow-legged
+bórach	Adj1-3;	 ! boric
+bórásach	Adj1-3;	 ! boracic
+búbónach	Adj1-3;	 ! bubonic
+búch	Adj1-1;	 ! gsm ~ gentle, affectionate
+búclach	Adj1-3;	 ! buckled; ringleted
+búcólach	Adj1-3;	 ! bucolic
+búrúil	Adj2-1;	 ! boorish
+cabhrach	Adj1-3;	 ! helpful
+cadránta	Adj3-1;	 ! hard, unfeeling; stubborn
+caidreamhach	Adj1-3;	 ! sociable person a1 sociable
+caidéiseach	Adj1-3;	 ! inquisitive, nosy
+caifeach	Adj1-3;	 ! prodigal, wasteful
+caighdeánach	Adj1-3;	 ! standard
+cailceach	Adj1-3;	 ! chalky; chalk-white
+caillte	Adj3-1;	 ! lost, perished; dreadful, sordid
+caillteach	Adj1-3;	 ! losing; ruinous, lá ~
+caingneach	Adj1-3;	 ! actionable; troublesome
+cairbreach	Adj1-3;	 ! ridged, rugged, na cianta
+cairdiach	Adj1-3;	 ! gsm ~ cardiac
+cairdinéalta	Adj3-1;	 ! cardinal
+cairdiúil	Adj2-1;	 ! friendly
+caiseach	Adj1-3;	 ! gushing, flowing rapidly
+caiteach	Adj1-3;	 ! wearing, wasteful
+caithiseach	Adj1-3;	 ! affectionate; attractive, delightful, delicious
+caithréimeach	Adj1-3;	 ! triumphant; exultant
+calaoiseach	Adj1-3;	 ! deceitful, fraudulent
+callánach	Adj1-3;	 ! noisy, clamorous
+callóideach	Adj1-3;	 ! turbulent; troublesome
+calma	Adj3-1;	 ! brave, strong; fine, splendid
+calógach	Adj1-3;	 ! flaky, flaked
+camarsach	Adj1-3;	 ! wavy, curled
+camhraithe	Adj3-1;	 ! tainted, rancid
+canablach	Adj1-3;	 ! cannibal
+cancrach	Adj1-3;	 ! cankerous; cantankerous
+canta	Adj3-1;	 ! nice, neat, pretty
+cantalach	Adj1-3;	 ! plaintive; peevish, querulous
+canónta	Adj3-1;	 ! canonical
+canúnach	Adj1-3;	 ! dialectal
+caoindúthrachtach	Adj1-3;	 ! earnest, devout
+caoinfhulangach	Adj1-3;	 ! tolerant
+caointeach	Adj1-3;	 ! plaintive, mournful
+caoithiúil	Adj2-1;	 ! convenient, opportune; pleasant, kindly
+caol		Adj1-2;	 ! thin, slender
+caolaigeanta	Adj3-1;	 ! narrow-minded
+caolchúiseach	Adj1-3;	 ! subtle
+caomh	Adj1-2;	 ! dear, gentle; pleasant; lovely,
+caomhnaitheach	Adj1-3;	 ! preservative, protective
+carbólach	Adj1-3;	 ! carbolic
+carbónmhar	Adj1-2;	 ! carboniferous
+carnach	Adj1-3;	 ! cumulative
+carrach	Adj1-3;	 ! rough-skinned; scabby, mangy; rocky,
+carraigeach	Adj1-3;	 ! rocky
+carthanach	Adj1-3;	 ! charitable; loving; friendly
+cas	Adj1-2;	 ! twisted, winding; curly; complicated;
+casaoideach	Adj1-3;	 ! complaining
+casta	Adj3-1;	 ! twisted, wound; intricate, ceist
+catach	Adj1-3;	 ! curly, curly-haired; dog-eared
+catalaíoch	Adj1-4;	 ! catalyst a1, gsm ~
+cathach	Adj1-3;	 ! battle reliquary a1 battling,
+cathaitheach	Adj1-3;	 ! tempting; regretful, sorrowing
+cathartha	Adj3-1;	 ! civic, civil, an tArm
+catúil	Adj2-1;	 ! feline, cat-like
+ceachartha	Adj3-1;	 ! near, mean, niggardly
+ceadaithe	Adj3-1;	 ! permitted; sanctioned
+ceadaitheach	Adj1-3;	 ! permissive
+ceadmhach	Adj1-3;	 ! permissible
+cealgach	Adj1-3;	 ! guileful; treacherous; beguiling
+ceangailteach	Adj1-3;	 ! binding, connecting; sticky
+ceann-nochta	Adj3-1;	 ! bareheaded
+ceannairceach	Adj1-3;	 ! mutineer, rebel a1 mutinous,
+ceannasach	Adj1-3;	 ! sovereign; commanding, masterful; assertive
+ceanndána	Adj3-1;	 ! headstrong; stubborn
+ceansa	Adj3-1;	 ! gentle, meek; tame
+ceantrach	Adj1-3;	 ! district, local
+ceanúil	Adj2-1;	 ! loving, affectionate, fond
+ceardúil	Adj2-1;	 ! well-wrought, workmanlike
+cearnach	Adj1-3;	 ! angular; square; quadratic
+cearnógach	Adj1-3;	 ! angular; four-square
+ceartaiseach	Adj1-3;	 ! insistent on one's rights;
+ceartaitheach	Adj1-3;	 ! corrective, amending
+ceartchreidmheach	Adj1-3;	 ! orthodox
+ceasnúil	Adj2-1;	 ! complaining, querulous, peevish
+ceasúil	Adj2-1;	 ! queasy; cloying
+ceathach	Adj1-3;	 ! showery
+ceathairchosach	Adj1-3;	 ! quadruped
+ceathairshleasach	Adj1-3;	 ! quadrilateral
+ceathairuilleach	Adj1-3;	 ! quadrangular
+ceathartha	Adj3-1;	 ! fourfold; quaternary; elemental
+ceathrú	Adj3-1;	 ! fourth
+ceathrúnach	Adj1-3;	 ! quartered, seisiún ~ quarter
+ceilteach	Adj1-3;	 ! secretive, withholding
+ceimiceach	Adj1-3;	 ! chemical
+ceinteagrádach	Adj1-3;	 ! centigrade
+ceirbreach	Adj1-3;	 ! cerebral
+ceisteach	Adj1-3;	 ! interrogative a1 questioning, interrogative
+!!!! SEE NUM ceithre	Adj3-1;	 ! four,~ dhuine dhéag fourteen
+ceobhránach	Adj1-3;	 ! misty, drizzly
+ceoch	Adj1-1;	 ! gsm ~ foggy; misty,
+ceolfhoirneach	Adj1-3;	 ! orchestral
+ceolmhar	Adj1-2;	 ! musical, tuneful; vigorous
+ceomhar	Adj1-2;	 ! foggy
+ceáfrach	Adj1-3;	 ! frisky
+ciabhach	Adj1-3;	 ! long-haired
+ciachmhar	Adj1-2;	 ! foggy, dark; gloomy, sorrowful
+ciachánach	Adj1-3;	 ! hoarse
+cianach	Adj1-3;	 ! melancholy; peevish
+cianaosta	Adj3-1;	 ! long-lived, very old; primeval
+cianda	Adj3-1;	 ! distant, remote
+ciapach	Adj1-3;	 ! annoying, tormenting
+ciarach	Adj1-3;	 ! waxen
+cigilteach	Adj1-3;	 ! ticklish
+cincíseach	Adj1-3;	 ! person or animal born
+cineálach	Adj1-3;	 ! generic; qualitative
+cineálta	Adj3-1;	 ! kind; pleasant, mild; tame,
+ciniciúil	Adj2-1;	 ! cynical
+cinniúnach	Adj1-3;	 ! fateful; fatal, tragic
+cinnteach	Adj1-3;	 ! fixed, definite; definitive
+cinntitheach	Adj1-3;	 ! determinant; determinative a1 decisive;
+cinsealach	Adj1-3;	 ! ascendant, dominating
+cinsiriúil	Adj2-1;	 ! censorial
+ciníoch	Adj1-4;	 ! gsm ~ racial, ethnical
+cionmhar	Adj1-2;	 ! proportional
+ciontach	Adj1-3;	 ! guilty m1 culprit
+ciorclach	Adj1-3;	 ! circular; cyclic
+ciotach	Adj1-3;	 ! left-handed; clumsy; inconvenient
+ciotrúnta	Adj3-1;	 ! clumsy; contrary
+ciotógach	Adj1-3;	 ! left-handed; awkward
+citreach	Adj1-3;	 ! citric
+ciumhsach	Adj1-3;	 ! bordered, ringed
+ciúbach	Adj1-3;	 ! cubic
+cladhartha	Adj3-1;	 ! villainous; cowardly
+clamhach	Adj1-3;	 ! mangy; bald in spots
+clamprach	Adj1-3;	 ! wrangling; disorderly
+claonach	Adj1-3;	 ! perverse, deceitful
+claonpháirteach	Adj1-3;	 ! partisan
+claonta	Adj3-1;	 ! partial, prejudiced
+clasach	Adj1-3;	 ! channelled; trenched grooved, gashed
+clasaiceach	Adj1-3;	 ! classic a1 classic(al)
+cleachtach	Adj1-3;	 ! accustomed (ar, le to)
+cleasach	Adj1-3;	 ! playful; tricky, crafty
+cleipteamáineach	Adj1-3;	 ! kleptomaniac
+cleiteach	Adj1-3;	 ! moult, moulting process a1
+cleithiúnach	Adj1-3;	 ! dependent
+cliarlathach	Adj1-3;	 ! hierarchic(al)
+cliathach	Adj1-3;	 ! ribbed frame a1 ribbed,
+cliathánach	Adj1-3;	 ! lateral, sideways, carr ~
+clibíneach	Adj1-3;	 ! matted; clustered
+clingeach	Adj1-3;	 ! clinking; tinkling, ringing
+cliniciúil	Adj2-1;	 ! clinical
+cliseach	Adj1-3;	 ! easily startled, jumpy
+clochach	Adj1-3;	 ! stony
+clogach	Adj1-3;	 ! blistered
+cloichíneach	Adj1-3;	 ! pebbly
+cloigíneach	Adj1-3;	 ! belled; tinkling; clustered
+closamhairc	AdjBASE;	 ! áiseanna ~ audio-visual aids;
+cloíte	Adj3-1;	 ! subdued, exhausted; enervating; abject,
+cloíteach	Adj1-3;	 ! subduing, exhausting
+cluanach	Adj1-3;	 ! deceitful; beguiling, flattering
+cluasach	Adj1-3;	 ! having ears; long-eared, casúr
+cluinteach	Adj1-3;	 ! gossipy
+cluthar	Adj1-2;	 ! sheltered; warm, comfortable; secretive
+clábarach	Adj1-3;	 ! muddy
+clárach	Adj1-3;	 ! made of boards, wooden;
+cléiriúil	Adj2-1;	 ! clerical
+clíomach	Adj1-3;	 ! climatic
+clóchasach	Adj1-3;	 ! pert, presumptuous
+clúiteach	Adj1-3;	 ! of good repute; honoured,
+clúmhach	Adj1-3;	 ! fluff, fuzz, a1 downy,
+clúmhillteach	Adj1-3;	 ! defamatory, slanderous
+clúmhúil	Adj2-1;	 ! downy; (of fruit) mildewed
+cnagaosta	Adj3-1;	 ! elderly
+cnapach	Adj1-3;	 ! lumpy; knobby, gnarled
+cnapánach	Adj1-3;	 ! lumpy; gnarled, rugged
+cnaíteach	Adj1-3;	 ! gnawing, consuming
+cneadach	Adj1-3;	 ! panting, groaning
+cneasluiteach	Adj1-3;	 ! skintight
+cneasta	Adj3-1;	 ! honest, sincere; decent; mild-mannered,
+cnocach	Adj1-3;	 ! hilly
+cnocánach	Adj1-3;	 ! hilly, uneven
+cnuaisciúnach	Adj1-3;	 ! thrifty; tidy at work,
+cnuasaitheach	Adj1-3;	 ! garnering; thrifty
+cnádánach	Adj1-3;	 ! bickering, disagreeable
+cnáibeach	Adj1-3;	 ! hempen
+cnáimhseach	Adj1-3;	 ! midwife a1 obstetric(al)
+cnámhach	Adj1-3;	 ! bony; big-boned; (of vegetables)
+cobhsaí	Adj3-1;	 ! stable; resolute
+cocach	Adj1-3;	 ! cocked, pointed; tufted; cocky
+codarsnach	Adj1-3;	 ! contrary; contrasting, opposite
+codlaidíneach	Adj1-3;	 ! opiate
+codlatach	Adj1-3;	 ! sleepy, drowsy; dormant
+cogaíoch	Adj1-4;	 ! belligerent
+cogúil	Adj2-1;	 ! warlike, bellicose
+coibhneasta	Adj3-1;	 ! relative; comparative
+coibhéiseach	Adj1-3;	 ! equivalent
+coicísiúil	Adj2-1;	 ! fortnightly
+coigilteach	Adj1-3;	 ! sparing, frugal
+coigríochach	Adj1-3;	 ! stranger, foreigner a1 strange,
+coilgneach	Adj1-3;	 ! prickly, spiny; irritable, irascible
+coillteach	Adj1-3;	 ! wooded, sylvan
+coilíneach	Adj1-3;	 ! colonist; outsider a1 colonial
+coimeádach	Adj1-3;	 ! conservative
+coimeádta	Adj3-1;	 ! as adv, go ~
+coimhdeach	Adj1-3;	 ! accompanying, attendant; ancillary
+coimhthíoch	Adj1-4;	 ! stranger; foreigner a1, gsm
+coimhéadach	Adj1-3;	 ! watchful, vigilant; observant
+coimirceach	Adj1-3;	 ! protecting; patronizing, tutelary
+coimisiúnta	Adj3-1;	 ! commissioned
+coimpléascach	Adj1-3;	 ! of strong constitution; large
+coiméideach	Adj1-3;	 ! comic
+coinbhinsiúnach	Adj1-3;	 ! conventional
+coincréiteach	Adj1-3;	 ! concrete
+coinneálach	Adj1-3;	 ! retentive, tenacious
+coinníollach	Adj1-3;	 ! covenanted; faithful, reliable; diligent
+coinscríofach	Adj1-3;	 ! conscript
+coinsiasach	Adj1-3;	 ! conscientious
+cointinneach	Adj1-3;	 ! contentious, quarrelsome
+coipeach	Adj1-3;	 ! frothy, foamy
+coirceogach	Adj1-3;	 ! hive-shaped, conical
+coireach	Adj1-3;	 ! offender, transgressor a1 wicked;
+coiriúil	Adj2-1;	 ! criminal
+coirneach	Adj1-3;	 ! tonsured person, monk; osprey
+coirteach	Adj1-3;	 ! cortical; coated; furred
+coiréalach	Adj1-3;	 ! coral
+coisctheach	Adj1-3;	 ! preventive, restraining
+coitianta	Adj3-1;	 ! common, usual, go ~
+colach	Adj1-3;	 ! incestuous; wicked; repugnant
+colanda	Adj3-1;	 ! physical
+colgach	Adj1-3;	 ! bearded, bristling, angry, aimsir
+collaí	Adj3-1;	 ! carnal, sexual
+colmnach	Adj1-3;	 ! scarred
+coláisteach	Adj1-3;	 ! collegiate
+comaoineach	Adj1-3;	 ! obliging, kind
+comhaimseartha	Adj3-1;	 ! contemporary (le with)
+comhairleach	Adj1-3;	 ! advisory, consultative
+comharsanúil	Adj2-1;	 ! neighbourly
+comhchiallach	Adj1-3;	 ! synonym a1 synonymous (le
+comhchosach	Adj1-3;	 ! isosceles
+comhchruinn	Adj2-2;	 ! round, globular, circular
+comhdhlúite	Adj3-1;	 ! condensed
+comhfhiosach	Adj1-3;	 ! conscious
+comhfhreagrach	Adj1-3;	 ! corresponding, harmonizing
+comhghnásach	Adj1-3;	 ! conventional
+comhghreamaitheach	Adj1-3;	 ! cohesive
+comhlach	Adj1-3;	 ! associate
+comhlach	Adj1-3;	 ! valvular
+comhluadrach	Adj1-3;	 ! companionable; associative
+comhlántach	Adj1-3;	 ! complementary
+comhlárnach	Adj1-3;	 ! concentric
+comhoiriúnach	Adj1-3;	 ! compatible, harmonizing; matching
+comhrianach	Adj1-3;	 ! contour
+comhráiteach	Adj1-3;	 ! conversationalist a1 conversational
+comhréidh	Adj2-2;	 ! flat, crosaire ~ level
+comhshaolach	Adj1-3;	 ! contemporary
+comhshleasach	Adj1-3;	 ! equilateral
+comhthaobhach	Adj1-3;	 ! collateral
+comhthreomhar	Adj1-2;	 ! parallel
+comhtháite	Adj3-1;	 ! fused; cohesive, coherent; integrated
+comhuaineach	Adj1-3;	 ! simultaneous
+comparáideach	Adj1-3;	 ! comparative
+compordach	Adj1-3;	 ! comfortable; comforting; pleasant
+comónta	Adj3-1;	 ! common, ordinary
+confach	Adj1-3;	 ! rabid; ill-tempered; angry, spéir
+conláisteach	Adj1-3;	 ! compact, tidy; convenient
+conspóideach	Adj1-3;	 ! argumentative; controversial
+contráilte	Adj3-1;	 ! contrary; wrong, aimsir chontráilte
+contrártha	Adj3-1;	 ! contrary, opposite (le to)
+contúirteach	Adj1-3;	 ! dangerous
+corpanta	Adj3-1;	 ! corpulent, bithiúnach ~ out-and-out
+corpartha	Adj3-1;	 ! corporal; corporeal
+corparáideach	Adj1-3;	 ! corporate
+corr	Adj1-2;	 ! gsm ~ odd; tapering;
+corrabhuaiseach	Adj1-3;	 ! uneasy; confused
+corrach	Adj1-3;	 ! unsteady, unsettled; projecting, pointed,
+corraiceach	Adj1-3;	 ! rough; unsteady; odd
+corraithe	Adj3-1;	 ! agitated, excited
+corraitheach	Adj1-3;	 ! moving, stirring, exciting
+corrthónach	Adj1-3;	 ! restless, fidgety
+corránach	Adj1-3;	 ! hooked, angular; projecting, giall
+cortha	Adj3-1;	 ! tainted, turned
+cortha	Adj3-1;	 ! tired, exhausted
+corónach	Adj1-3;	 ! coronary
+cosantach	Adj1-3;	 ! defensive, protective
+coscrach	Adj1-3;	 ! distressful, shattering, shocking; victorious
+cosmach	Adj1-3;	 ! cosmic
+cosmaideach	Adj1-3;	 ! cosmetic
+cosnochta	Adj3-1;	 ! barefooted
+costasach	Adj1-3;	 ! costly, expensive; sumptuous
+cothabhálach	Adj1-3;	 ! sustaining, nourishing
+cothaitheach	Adj1-3;	 ! nutrient a1 feeding, sustaining;
+cotúil	Adj2-1;	 ! bashful, shy
+craicneach	Adj1-3;	 ! smooth-skinned; well-finished, polished, scéal
+cranda	Adj3-1;	 ! stunted; withered, decrepit
+cranrach	Adj1-3;	 ! knotty; callous, horny
+craobhach	Adj1-3;	 ! branches, loppings a1 branched,
+craos	Adj1-2;	 ! gullet; maw; vent; gluttony,
+craosach	Adj1-3;	 ! open-mouthed; voracious, gluttonous, tine
+crapallach	Adj1-3;	 ! crippling, restrictive
+craptha	Adj3-1;	 ! stilted, cramped
+creachach	Adj1-3;	 ! predatory
+creagach	Adj1-3;	 ! craggy, stony, barren
+creatach	Adj1-3;	 ! gaunt, emaciated; weak
+creathach	Adj1-3;	 ! ague a1 trembling; vibrating,
+creathnach	Adj1-3;	 ! frightful
+creathánach	Adj1-3;	 ! trembling, quivering; vibratory
+creidiúnach	Adj1-3;	 ! creditable; respectable
+creidmheach	Adj1-3;	 ! believer a1 believing, faithful
+creidte	Adj3-1;	 ! credible
+creimneach	Adj1-3;	 ! gnawing; corrosive, erosive; corroded;
+criathrach	Adj1-3;	 ! (pitted) bog a1 pitted,
+critheaglach	Adj1-3;	 ! quaking, terrified; timorous
+criticiúil	Adj2-1;	 ! critical
+crochta	Adj3-1;	 ! hung, hanged; hanging, aill
+crom	Adj1-2;	 ! bent, stooped vt &
+cromógach	Adj1-3;	 ! hooked; hook-nosed
+cros-síolrach	Adj1-3;	 ! hybrid
+crosach	Adj1-3;	 ! crosswise; crossed; scarred; grimy,
+crosta	Adj3-1;	 ! cross, fractious; troublesome; contrary
+croíbhrúite	Adj3-1;	 ! contrite
+croíúil	Adj2-2;	 ! hearty; cordial, cheerful
+cruimheach	Adj1-3;	 ! maggoty
+cruinn	Adj2-2;	 ! round; gathered; exact, accurate;
+cruiteach	Adj1-3;	 ! humped, hunchbacked
+cruthach	Adj1-3;	 ! shapely
+cruthaitheach	Adj1-3;	 ! creative
+cruthanta	Adj3-1;	 ! lifelike, exact; real, rógaire
+cruálach	Adj1-3;	 ! cruel; stingy
+cruógach	Adj1-3;	 ! pressing, urgent; busy
+crágach	Adj1-3;	 ! having large hands; chelate
+cráifeach	Adj1-3;	 ! religious; pious, devout
+cráite	Adj3-1;	 ! agonized, tormented, grieved
+cré-umhaí	Adj3-1;	 ! bronze
+créachtach	Adj1-3;	 ! gashed, wounded
+créúil	Adj2-2;	 ! clayey, earthy
+críochnaithe	Adj3-1;	 ! finished, accomplished, complete, utter
+críochnaitheach	Adj1-3;	 ! final, finishing, closing
+críochnúil	Adj2-1;	 ! complete, thorough; neat; methodical
+críonna	Adj3-1;	 ! wise, prudent, shrewd; grown-up;
+cróga	Adj3-1;	 ! brave; hardy; spirited
+cróilí	Adj3-1;	 ! bed-ridden state, infirmity, bheith
+cróineolaíoch	Adj1-4;	 ! gsm ~ chronological
+crómatach	Adj1-3;	 ! chromatic
+crón	Adj1-2;	 ! dark yellow; tawny, tan
+crúbach	Adj1-3;	 ! clawed, hoofed; club-footed, lame
+crúcach	Adj1-3;	 ! hooked
+crústach	Adj1-3;	 ! crustacean
+cuachach	Adj1-3;	 ! bowl-shaped, hollow
+cuachach	Adj1-3;	 ! falsetto
+cuachach	Adj1-3;	 ! rolled; curled, tressy
+cuanna	Adj3-1;	 ! comely, graceful; charming, elegant
+cuar	Adj1-2;	 ! curve; hoop, a1 curved;
+cuardach	Adj1-3;	 ! search a1 searching
+cuasach	Adj1-3;	 ! cavernous, hollow; concave
+cuibheasach	Adj1-3;	 ! fair, middling
+cuibhiúil	Adj2-1;	 ! proper; seemly, decent
+cuideachtúil	Adj2-1;	 ! companionable, sociable
+cuideáin	Adj2-2;	 ! extraneous; odd, éan ~
+cuimhneach	Adj1-3;	 ! recollective; thoughtful, is ~
+cuimhnitheach	Adj1-3;	 ! memorial
+cuimsitheach	Adj1-3;	 ! comprehensive, inclusive; focal, clásal
+cuircíneach	Adj1-3;	 ! crested, tufted
+cuisneach	Adj1-3;	 ! frosty, hardy
+cultúrtha	Adj3-1;	 ! cultured
+cuma	AdjBASE;	 ! is ~ liom it's
+cumasach	Adj1-3;	 ! capable, powerful
+cumhach	Adj1-3;	 ! lonesome, homesick, nostalgic
+cumhachtach	Adj1-3;	 ! powerful
+cumhra	Adj3-1;	 ! fragrant; pure, fresh; (of
+cumtha	Adj3-1;	 ! shapely, comely; invented
+curata	Adj3-1;	 ! brave, heroic
+curcach	Adj1-3;	 ! crested, tufted; cockaded
+cuspóireach	Adj1-3;	 ! object; objective, accusative, case
+cuí	Adj3-1;	 ! fitting, proper
+!!!! SEE ADV-LEX cá	Adj3-1;	 ! what; how; where, cá
+cáblach	Adj1-3;	 ! funicular; thickly plaited
+cáidheach	Adj1-3;	 ! dirty
+cáilitheach	Adj1-3;	 ! qualifying
+cáiliúil	Adj2-1;	 ! famous, celebrated
+cáinteach	Adj1-3;	 ! fault-finding, censorious
+cáipéiseach	Adj1-3;	 ! documentary
+cáiréiseach	Adj1-3;	 ! careful; nice, delicate, ~
+cársánach	Adj1-3;	 ! wheezy
+cásach	Adj1-3;	 ! honoured, venerable, respectful
+cáscúil	Adj2-1;	 ! paschal
+cásmhar	Adj1-2;	 ! concerned; plaintive; sympathetic
+!!!! Num only (and Noun? NO ) céad	Adj1-2;	 ! first,an chéad fhear the
+céadach	Adj1-3;	 ! hundredfold; great, immense
+céadfach	Adj1-3;	 ! sensory; perceptive, sensible
+céadrata	Adj3-1;	 ! primitive
+céaduair	AdjBASE;	 ! de, chéaduair first, at
+céanna	Adj3-1;	 ! mar an g~ in
+céasta	Adj3-1;	 ! crucified; tormented; tormenting; miserable,
+céillí	Adj3-1;	 ! sensible, rational
+céimiúil	Adj2-1;	 ! distinguished, notable
+céimneach	Adj1-3;	 ! stepped
+céimseach	Adj1-3;	 ! graduated, gradual
+céimseatúil	Adj2-1;	 ! geometric
+céiriúil	Adj2-1;	 ! waxy
+cíbeach	Adj1-3;	 ! sedgy
+cíocrach	Adj1-3;	 ! greedy, eager (for food,
+círéibeach	Adj1-3;	 ! wild, riotous; obstreperous
+círíneach	Adj1-3;	 ! crested; flushed
+cóimheonach	Adj1-3;	 ! congenial
+cóiriúil	Adj2-1;	 ! favourable, suitable
+cómhaith	Adj2-2;	 ! equal (goodness), a chómhaith
+cómhalartach	Adj1-3;	 ! reciprocal
+cónaitheach	Adj1-3;	 ! constant, continual; persevering; resident
+cónascach	Adj1-3;	 ! linking; connecting; federal; conjunctive
+cóngarach	Adj1-3;	 ! near, convenient; terse, witty
+cónúil	Adj2-1;	 ! conical
+córach	Adj1-3;	 ! shapely; comely
+córúil	Adj2-1;	 ! choral
+cúigeach	Adj1-3;	 ! provincial
+cúinneach	Adj1-3;	 ! corner(-kick) a1 cornered, having
+cúirtéiseach	Adj1-3;	 ! courteous
+cúiseach	Adj1-3;	 ! prim, demure
+cúistiúnach	Adj1-3;	 ! inquisitorial
+cúiteach	Adj1-3;	 ! compensating, retributive
+cúlaitheach	Adj1-3;	 ! regressive, retrogressive
+cúlghabhálach	Adj1-3;	 ! retrospective
+cúlráideach	Adj1-3;	 ! secluded; retiring
+cúlánta	Adj3-1;	 ! secluded; backward; shy
+cúng	Adj1-2;	 ! narrow; narrow part a1
+cúngaigeanta	Adj3-1;	 ! narrow-minded
+cúntach	Adj1-3;	 ! helpful; auxiliary
+cúplach	Adj1-3;	 ! twin
+cúrach	Adj1-3;	 ! frothy, foamy
+cúramach	Adj1-3;	 ! careful; tender; busy, full
+cúránach	Adj1-3;	 ! frothy; foaming; creamy
+cúthail	Adj2-2;	 ! shy; diffident, modest
+daigheartha	Adj3-1;	 ! fiery; stabbing, painful
+dainséarach	Adj1-3;	 ! dangerous
+daite	Adj3-1;	 ! allotted, an saol atá
+daite	Adj3-1;	 ! coloured, dyed, stained; comely
+dalba	Adj3-1;	 ! bold, forward; large, strong
+dallradharcach	Adj1-3;	 ! shortsighted
+dallraitheach	Adj1-3;	 ! dazzling, glaring
+damanta	Adj3-1;	 ! damned; damnable; wicked, terrible,
+damascach	Adj1-3;	 ! damask, damascene
+damáisteach	Adj1-3;	 ! damaging, harmful; damaged; (of
+danaideach	Adj1-3;	 ! grievous, sad
+danartha	Adj3-1;	 ! cruel, barbarous; unsociable
+daoineach	Adj1-3;	 ! populous; numerous
+daoithiúil	Adj2-1;	 ! churlish; uncivil
+daonlathach	Adj1-3;	 ! democratic
+daonna	Adj3-1;	 ! human; humane, kindly
+daor	Adj1-2;	 ! slave; condemned, convicted, person
+dathannach	Adj1-3;	 ! multicoloured; colourful
+dathúil	Adj2-1;	 ! colourful; good-looking, comely, beautiful
+deabhóideach	Adj1-3;	 ! devout, devotional
+deachúil	Adj2-1;	 ! decimal
+deachúlach	Adj1-3;	 ! decimal
+dealbh	Adj1-2;	 ! gsm ~ destitute; bare,
+dealbhach	Adj1-3;	 ! statuesque
+dealraitheach	Adj1-3;	 ! shining, resplendent; handsome, is
+dealúsach	Adj1-3;	 ! destitute, poor
+deamhanta	Adj3-1;	 ! demoniac(al); fiendish, is ~
+deannachtach	Adj1-3;	 ! sharp, severe
+deannachúil	Adj2-1;	 ! dusty
+dearbh	Adj1-2;	 ! is ~ liom go
+dearcach	Adj1-3;	 ! far-seeing, considerate
+dearfa	Adj3-1;	 ! attested, proved; sure, certain,
+dearfach	Adj1-3;	 ! affirmative, positive
+dearmadach	Adj1-3;	 ! forgetful, absent-minded
+dearscnaitheach	Adj1-3;	 ! excellent; distinctive; distinguished, prominent
+dearóil	Adj2-2;	 ! frail, puny; cold, bleak;
+deasach	Adj1-3;	 ! righthanded
+deaslámhach	Adj1-3;	 ! right-handed; dexterous, handy
+deatúil	Adj2-1;	 ! smoky; vaporous
+deifnídeach	Adj1-3;	 ! definitive
+deifreach	Adj1-3;	 ! hurried, in a hurry
+deighilteach	Adj1-3;	 ! causing separation, divisive, im
+deilgneach	Adj1-3;	 ! thorny, prickly; barbed
+deiliúsach	Adj1-3;	 ! saucy, impudent
+deimhneach	Adj1-3;	 ! certain; positive
+deimhniúil	Adj2-1;	 ! affirmative
+deirceach	Adj1-3;	 ! hollow, gealach dheirceach crescent
+deisbhéalach	Adj1-3;	 ! well-spoken, witty
+deisceartach	Adj1-3;	 ! southerner a1 southern
+deisealach	Adj1-3;	 ! towards the right, clock
+deisiúil	Adj2-1;	 ! well-to-do; well-equipped
+deismir	Adj2-2;	 ! fine, exemplary; neat, tidy;
+deonach	Adj1-3;	 ! voluntary; willing; providential
+deorach	Adj1-3;	 ! tearful
+deoranta	Adj3-1;	 ! strange, foreign, aloof
+!! SEE NUM-LEX dhá	Adj3-1;	 ! two
+diabhalta	Adj3-1;	 ! mischievous, ~ greannmhar extremely
+diabhlaí	Adj3-1;	 ! diabolic, devilish
+diachrach	Adj1-3;	 ! painful, sore; distressing
+diaga	Adj3-1;	 ! divine; godly; sacred, holy;
+diaganta	Adj3-1;	 ! godly, pious
+diail	Adj2-2;	 ! terrible, remarkable, is ~
+diantréanach	Adj1-3;	 ! ascetic
+difriúil	Adj2-1;	 ! different (le, from)
+dil	Adj2-2;	 ! dear, beloved
+dingliseach	Adj1-3;	 ! ticklesome, ticklish
+dinimiciúil	Adj2-1;	 ! dynamic
+diomailteach	Adj1-3;	 ! wasteful, extravagant
+diongbháilte	Adj3-1;	 ! worthy, fitting; stead fast,
+discréideach	Adj1-3;	 ! discreet; reserved, secret
+dithneasach	Adj1-3;	 ! urgent, hurried
+diúltach	Adj1-3;	 ! negative, dreach ~ forbidding
+dlaoitheach	Adj1-3;	 ! (of hair) hanging in
+dleathach	Adj1-3;	 ! lawful; genuine; just
+dlisteanach	Adj1-3;	 ! lawful, legitimate; proper; loyal
+dlíthairgthe	Adj3-1;	 ! nótaí ~ legal tender
+dlíthiúil	Adj2-1;	 ! legal, juridical, lawful
+dlúite	Adj3-1;	 ! compressed
+dlúsúil	Adj2-1;	 ! diligent, industrious; expeditious
+dlúth	Adj1-2;	 ! close; compact; dense; near
+do-aimsithe	Adj3-1;	 ! unattainable, inaccessible; elusive
+do-aitheanta	Adj3-1;	 ! unrecognizable, indistinguishable
+do-athraithe	Adj3-1;	 ! unchangeable, immutable; irrevocable
+do-bhraite	Adj3-1;	 ! imperceptible, intangible
+do-earráide	Adj3-1;	 ! infallible
+do-ghafa	Adj3-1;	 ! impregnable
+do-inste	Adj3-1;	 ! inexpressible, indescribable
+do-ite	Adj3-1;	 ! inedible
+do-mhaite	Adj3-1;	 ! unforgivable; unforgiving
+do-scartha	Adj3-1;	 ! inseparable
+do-áirithe	Adj3-1;	 ! countless, myriad
+do-ídithe	Adj3-1;	 ! inexhaustible
+dobhogtha	Adj3-1;	 ! immovable, irresponsive
+dobhriste	Adj3-1;	 ! unbreakable, geall ~ sacred
+dobhránta	Adj3-1;	 ! dull, stupid
+dobhréagnaithe	Adj3-1;	 ! irrefutable, undeniable, incontrovertible
+dobrónach	Adj1-3;	 ! grieving, afflicted
+dochaideartha	Adj3-1;	 ! unsociable
+dochaite	Adj3-1;	 ! durable, hard-wearing; inexhaustible; inedible
+docheansaithe	Adj3-1;	 ! untameable, unmanageable
+dochloiste	Adj3-1;	 ! inaudible
+dochloíte	Adj3-1;	 ! indomitable, invincible; irrefutable
+dochma	Adj3-1;	 ! privation, hardship; gloom, depression;
+dochrach	Adj1-3;	 ! harmful, hurtful, pernicious; distressing
+dochreidte	Adj3-1;	 ! incredible
+docht	Adj1-1;	 ! gsm ~ tight; rigid;
+dochuimsithe	Adj3-1;	 ! boundless,
+dochurtha	Adj3-1;	 ! difficult to put, set,
+dodach	Adj1-3;	 ! sullen; restive, jibbing
+dodhearmadta	Adj3-1;	 ! unforgettable
+dodhéanta	Adj3-1;	 ! impossible, hard to do;
+dodhíleáite	Adj3-1;	 ! indigestible
+dodhíolta	Adj3-1;	 ! unsaleable
+dofhaighte	Adj3-1;	 ! unobtainable; rare
+dofheicthe	Adj3-1;	 ! invisible, indiscernible
+dofhulaingthe	Adj3-1;	 ! unbearable
+doghonta	Adj3-1;	 ! invulnerable
+doghrainneach	Adj1-3;	 ! distressful, afflicted; difficult
+dogmach	Adj1-3;	 ! dogmatic
+doicheallach	Adj1-3;	 ! churlish, inhospitable, grudging
+doiciméadach	Adj1-3;	 ! documentary
+doilbh	Adj2-2;	 ! dark, gloomy; melancholy
+doiléir	Adj2-2;	 ! dim, obscure; vague
+doilíosach	Adj1-3;	 ! sorrowful, melancholy; contrite
+doineanta	Adj3-1;	 ! stormy; inclement, wintry
+doleigheasta	Adj3-1;	 ! incurable
+doleithscéil	AdjBASE;	 ! gs. as attrib. a.
+doloicthe	Adj3-1;	 ! fool-proof
+doloiscthe	Adj3-1;	 ! noninflammable
+doláimhsithe	Adj3-1;	 ! unmanageable, unwieldy
+doléite	Adj3-1;	 ! illegible
+dolúbtha	Adj3-1;	 ! inflexible, rigid; stubborn
+domhanda	Adj3-1;	 ! terrestrial; mundane, worldly; world-wide,
+domhillte	Adj3-1;	 ! indestructible
+domhínithe	Adj3-1;	 ! inexplicable
+domhúinte	Adj3-1;	 ! incorrigible, unteachable
+domlasta	Adj3-1;	 ! bilious; rancorous; obnoxious, rud
+dona	Adj3-1;	 ! unfortunate, unlucky; bad; poor,
+doroinnte	Adj3-1;	 ! indivisible
+dorrga	Adj3-1;	 ! surly, gruff
+doréitithe	Adj3-1;	 ! hard, impossible, to disentangle;
+dosach	Adj1-3;	 ! bushy, tufted
+doscaoilte	Adj3-1;	 ! impossible to loosen, indissoluble,
+doscaí	Adj3-1;	 ! extravagant, reckless
+doscriosta	Adj3-1;	 ! ineradicable, indestructible
+doshamhlaithe	Adj3-1;	 ! unimaginable, inconceivable
+doshaothraithe	Adj3-1;	 ! unworkable, (of land) irreclaimable
+dosheachanta	Adj3-1;	 ! unavoidable, inescapable
+doshiúlta	Adj3-1;	 ! impassable
+doshéanta	Adj3-1;	 ! undeniable
+dosmachtaithe	Adj3-1;	 ! ungovernable, unruly, uncontrollable
+dothuigthe	Adj3-1;	 ! unintelligible, incomprehensible; inscrutable
+dothuirsithe	Adj3-1;	 ! tireless, indefatigable
+drabhlásach	Adj1-3;	 ! dissipated, profligate, wretched
+drannach	Adj1-3;	 ! snarling
+drantánach	Adj1-3;	 ! growling, grumbling; humming, crooning
+draoibeach	Adj1-3;	 ! muddy, miry
+draíochtach	Adj1-3;	 ! magical, bewitching, entrancing
+dreancaideach	Adj1-3;	 ! infested with fleas, flea-bitten
+dreoite	Adj3-1;	 ! withered, decayed
+dreoiteach	Adj1-3;	 ! decaying, mouldering, withering
+driopásach	Adj1-3;	 ! bustling; awkward, fumbling
+driseogach	Adj1-3;	 ! briary, prickly, irritable
+drithleach	Adj1-3;	 ! sparkling, glittering; excitable
+droch-araíonach	Adj1-3;	 ! ugly; ill-tempered, intolerant
+drochbhéasach	Adj1-3;	 ! having bad habits; addicted
+drochlabhartha	Adj3-1;	 ! evil-tongued
+drochmhúinte	Adj3-1;	 ! unmannerly, rude, tarbh ~
+drocháiseach	Adj1-3;	 ! disobliging
+drogallach	Adj1-3;	 ! reluctant; chary (roimh, of);
+droimneach	Adj1-3;	 ! ridged, undulating; arched, convex
+droimníneach	Adj1-3;	 ! wavy (of hair)
+dronnach	Adj1-3;	 ! humped, hunchbacked; arched, ridged;
+druidte	Adj3-1;	 ! closed, shut, duine ~
+drámata	Adj3-1;	 ! dramatic
+dréimreach	Adj1-3;	 ! ladder-like, gradual; (of hair)
+drúchtmhar	Adj1-2;	 ! dewy
+drúisiúil	Adj2-1;	 ! lustful, lascivious
+duairc	Adj2-2;	 ! morose, cheerless, gloomy
+duaiseach	Adj1-3;	 ! gloomy, dejected; grim
+duaisiúil	Adj2-1;	 ! laborious, difficult, distressing
+dualach	Adj1-3;	 ! curled; tufted; interlaced, twined
+dualach	Adj1-3;	 ! dowelled; knotted, gnarled
+duasmánta	Adj3-1;	 ! gloomy, morose, surly
+dubhach	Adj1-3;	 ! dismal, gloomy; melancholy, sorrowful
+duibheagánach	Adj1-3;	 ! deep, abysmal, profound
+duilleach	Adj1-3;	 ! leafy; leaf-shaped
+duineata	Adj3-1;	 ! human, kindly
+duthain	Adj2-2;	 ! short-lived, transient
+duáilceach	Adj1-3;	 ! vicious, wicked; unhappy
+!!! SEE PREP/NUM etc dá	Adj3-1;	 ! do or de +
+dána	Adj3-1;	 ! bold; daring, confident; audacious
+dár	Adj1-2;	 ! do or de +
+dásachtach	Adj1-3;	 ! daring, audacious; mad, furious
+dátheangach	Adj1-3;	 ! bilingual
+déach	Adj1-1;	 ! gsm ~ dual
+déadach	Adj1-3;	 ! dental, toothed
+déanach	Adj1-3;	 ! last, final; late, ar
+déanfasach	Adj1-3;	 ! industrious, officious
+déanta	Adj3-1;	 ! complete, finished, dochtúir ~
+débheathach	Adj1-3;	 ! amphibian
+débhríoch	Adj1-4;	 ! gsm ~ ambiguous
+déchosach	Adj1-3;	 ! biped
+déirceach	Adj1-3;	 ! almsgiver, charitable per son;
+déistineach	Adj1-3;	 ! distasteful, nauseating; disgusting, loathsome
+dénártha	Adj3-1;	 ! binary
+díbheirgeach	Adj1-3;	 ! wrathful, vengeful
+díbheo	Adj3-1;	 ! lifeless, listless, moribund
+díbhirceach	Adj1-3;	 ! ardent, eager, zealous
+díbholaíoch	Adj1-4;	 ! gsm ~ deodorant
+díblí	Adj3-1;	 ! worn-out, debilitated, dilapidated; vile,
+dícheallach	Adj1-3;	 ! doing one's best; earnest,
+díchreidmheach	Adj1-3;	 ! unbeliever a1 unbelieving; sceptical;
+díchéillí	Adj3-1;	 ! senseless, foolish
+dídeanach	Adj1-3;	 ! sheltering, protecting
+dígeanta	Adj3-1;	 ! pertinacious, obdurate; die-hard
+díleách	Adj1-5;	 ! gsm ~ digestive
+dímríoch	AdjBASE;	 ! gsm ~ feeble, helpless,
+díniteach	Adj1-3;	 ! dignified
+díobhaí	Adj3-1;	 ! without issue, extinct
+díobhlásach	AdjBASE;	 ! prodigal
+díobhálach	Adj1-3;	 ! injurious, harmful; at a
+díocasach	Adj1-3;	 ! eager, keen
+díograiseach	Adj1-3;	 ! fervent, zealous; devoted
+díoltasach	Adj1-3;	 ! vengeful, vindictive
+díomasach	Adj1-3;	 ! proud, arrogant; contemptuous
+díomhaoin	Adj2-2;	 ! idle; worthless; unemployed; unused
+díonach	Adj1-3;	 ! protective; impermeable, proof
+díonmhar	Adj1-2;	 ! protective, (water-, weather-) proof
+díorthach	Adj1-3;	 ! derivative
+díoscánach	Adj1-3;	 ! creaky, squeaky, grating, rasping
+díothach	Adj1-3;	 ! wanting, deficient; needy, destitute
+díthiomnach	Adj1-3;	 ! intestate
+dóchasach	Adj1-3;	 ! hopeful; confident, optimistic
+dóchúil	Adj2-1;	 ! likely, probable
+dócmhainneach	Adj1-3;	 ! insolvent
+dóighiúil	Adj2-1;	 ! good-looking, handsome; generous; decent
+dóisceanta	AdjBASE;	 ! swarthy
+dóite	Adj3-1;	 ! burned; withered, dry; bitter,
+dólámhach	Adj1-3;	 ! two-handed; all out; un
+dólásach	Adj1-3;	 ! dolorous, sorrowful
+dóthanach	Adj1-3;	 ! sated, bheith ~ de
+dóú	Adj3-1;	 ! second
+dúbailte	Adj3-1;	 ! doubled, double
+dúblach	Adj1-3;	 ! duplicate
+dúchasach	Adj1-3;	 ! hereditary; innate; native
+dúchroíoch	Adj1-4;	 ! gsm ~ joyless; spiteful
+dúdach	Adj1-3;	 ! stumpy; longnecked; mopish, foolish-looking
+dúilmhear	Adj1-2;	 ! desirous, longing, expectant
+dúisitheach	Adj1-3;	 ! evocative
+dúnta	Adj3-1;	 ! closed (up); close, reticent;
+dúnárasach	Adj1-3;	 ! reticent, reserved, taciturn
+dúr	Adj1-2;	 ! dour, obstinate; stupid; insensitive
+dúranta	Adj3-1;	 ! dour, grim, morose
+dúshlánach	Adj1-3;	 ! challenging, defiant; reckless; resistant;
+dúthrachtach	Adj1-3;	 ! devoted; zealous; generous, kind,
+eabhartha	Adj3-1;	 ! ivory
+eachtrach	Adj1-3;	 ! extern(al)
+eachtrannach	Adj1-3;	 ! alien, foreigner a1 alien,
+eachtrúil	Adj2-1;	 ! adventurous, eventful
+eacnamaíoch	Adj1-4;	 ! gsm ~ economic(al)
+eaglach	Adj1-3;	 ! fearful, afraid; timid
+eaglasta	Adj3-1;	 ! ecclesiastical
+eagnaí	Adj3-1;	 ! wise man, sage, a3
+ealaíonta	Adj3-1;	 ! artistic, skilful; graceful; tricky
+eangach	Adj1-3;	 ! gusseted; chequered; notched, grooved
+earráideach	Adj1-3;	 ! erroneous; incorrect; eccentric
+eascairdiúil	Adj2-1;	 ! unfriendly, hostile
+easnach	Adj1-3;	 ! ribbed
+easnamhach	Adj1-3;	 ! deficient; insufficient, incomplete
+easpach	Adj1-3;	 ! lacking, deficient; defective, táimid
+easurramach	Adj1-3;	 ! irreverent, disrespectful; disobedient
+eatramhach	Adj1-3;	 ! interim; intermittent
+eindéimeach	Adj1-3;	 ! endemic
+eipiciúil	Adj2-1;	 ! epic(al)
+eipidéimeach	Adj1-3;	 ! epidemic
+eiriciúil	Adj2-1;	 ! heretical
+eisceachtúil	Adj2-1;	 ! exceptional
+eiseamláireach	Adj1-3;	 ! exemplary
+eisimirceach	Adj1-3;	 ! emigrant
+eithneach	Adj1-3;	 ! nuclear
+eitneach	Adj1-3;	 ! ethnic
+eolach	Adj1-3;	 ! knowledgeable; skilled; informed (ar
+fabhrach	Adj1-3;	 ! favourable; partial
+fabhtach	Adj1-3;	 ! faulty, flawed; unsound; treacherous
+fadaraíonach	Adj1-3;	 ! long-suffering, patient; long-headed
+fadbhreathnaitheach	Adj1-3;	 ! far-seeing
+fadcheannach	Adj1-3;	 ! far-seeing, shrewd
+fadfhulangach	Adj1-3;	 ! long-suffering, enduring, forbearing
+fadharcánach	Adj1-3;	 ! gnarled; callous; lumpy
+fadsaolach	Adj1-3;	 ! long-lived; easy-going
+fadálach	Adj1-3;	 ! slow; dilatory, tedious
+faghartha	Adj3-1;	 ! tempered; fiery, mettlesome, (of
+faichilleach	Adj1-3;	 ! careful, cautious
+faillitheach	Adj1-3;	 ! negligent
+fairsing	Adj2-2;	 ! wide, extensive; ample; plentiful;
+faiseanta	Adj3-1;	 ! fashionable; stylish
+faisisteach	Adj1-3;	 ! fascist
+faisnéiseach	Adj1-3;	 ! informative; (grammar) predicative
+faiteach	Adj1-3;	 ! fearful, apprehensive; timid
+falsa	Adj3-1;	 ! false; lazy
+fanaiceach	Adj1-3;	 ! fanatic
+fann	Adj1-1;	 ! gsm ~ faint, weak,
+faobhrach	Adj1-3;	 ! sharp; cutting, biting; eager
+faoileanda	Adj3-1;	 ! graceful
+faon	Adj1-2;	 ! supine; limp, languid
+fealltach	Adj1-3;	 ! deceitful, treacherous
+feanntach	Adj1-3;	 ! bitter, sharp, severe
+fearastúil	Adj2-1;	 ! well-equipped; competent; handy
+fearga	Adj3-1;	 ! male; virile
+feasach	Adj1-3;	 ! knowing, well-informed, is ~
+feiceálach	Adj1-3;	 ! noticeable, conspicuous; striking, showy,
+feidhmiúil	Adj2-1;	 ! functional; efficient; forceful
+feifeach	Adj1-3;	 ! expectant; watchful, attentive
+feiliúnach	Adj1-3;	 ! suitable; fitting; helpful
+feillbhinn	AdjBASE;	 ! go ~ excellently, thoroughly
+feilmeanta	Adj3-1;	 ! strong, vigorous, forceful
+feodach	Adj1-3;	 ! feudal
+feoiliteach	Adj1-3;	 ! carnivorous
+feoilséantach	Adj1-3;	 ! vegetarian
+feoite	Adj3-1;	 ! withered, decayed
+feolmhar	Adj1-2;	 ! fleshy, fat, flabby
+feosaí	Adj3-1;	 ! wizened, shrivelled
+fiabhrasach	Adj1-3;	 ! feverish
+fiaclach	Adj1-3;	 ! toothed; cogged; serrated
+fiafraitheach	Adj1-3;	 ! inquisitive; solicitous
+fiarshúileach	Adj1-3;	 ! squint-eyed
+fiarthrasna	Adj3-1;	 ! diagonal, diagonally; crossways
+fiata	Adj3-1;	 ! wild; fierce, angry; shy
+fileata	Adj3-1;	 ! poetic(al); imaginative, romantic
+fillteach	Adj1-3;	 ! folding
+fimíneach	Adj1-3;	 ! hypocrite a1 hypocritical
+fionnaitheach	Adj1-3;	 ! hairy; furry
+fionnuar	Adj1-2;	 ! cool; refreshing; serene
+fireannach	Adj1-3;	 ! male
+firinscneach	Adj1-3;	 ! (grammar) masculine
+fiúntach	Adj1-3;	 ! worthy; respectable, generous
+flaithiúil	Adj2-1;	 ! princely; lavish, generous
+fliuch	Adj1-1;	 ! gsm ~ wet; rainy
+fluaraiseach	Adj1-3;	 ! fluorescent
+flúirseach	Adj1-3;	 ! abundant, plentiful
+fo-bhailteach	Adj1-3;	 ! suburbanite a1 suburban
+foclach	Adj1-3;	 ! wordy, verbose
+foghlamtha	Adj3-1;	 ! pp of foghlaim learned
+foighneach	Adj1-3;	 ! patient
+foirceanta	Adj3-1;	 ! finite
+foirfe	Adj3-1;	 ! complete, perfect; aged, mature
+foirgthe	Adj3-1;	 ! ~ le honeycombed, infested,
+foirmiúil	Adj2-1;	 ! formal
+foirtil	Adj2-2;	 ! strong
+folaitheach	Adj1-3;	 ! hidden, secret
+follasach	Adj1-3;	 ! clear, evident, plain, obvious
+folláin	Adj2-2;	 ! healthy; wholesome, sound
+folúil	Adj2-1;	 ! full-blooded; thoroughbred
+fomhórach	Adj1-3;	 ! pirate; giant, F~ Fomorian
+fonnmhar	Adj1-2;	 ! desirous, eager, willing
+fonóideach	Adj1-3;	 ! jeering, derisive
+forasta	Adj3-1;	 ! established; stable; sedate, grave
+fordhaonna	Adj3-1;	 ! superhuman
+forleathan	Adj1-2;	 ! a1 gsf & comp -eithne wide spread,
+formhothaithe	Adj3-1;	 ! imperceptible, tháinig sé isteach
+foréigneach	Adj1-3;	 ! violent, forcible
+foscúil	Adj2-1;	 ! shady, sheltered; discreet, secretive
+foshuiteach	Adj1-3;	 ! subjunctive
+fothainiúil	Adj2-1;	 ! sheltering; sheltered; discreet, secretive
+fothúil	Adj2-1;	 ! solidly based, solid
+fraochmhar	Adj1-2;	 ! heathery
+fraochta	Adj3-1;	 ! fierce, furious
+fras	Adj1-2;	 ! shower, ~a deor floods
+freagrach	Adj1-3;	 ! answerable, accountable, má bhíonn
+friseáilte	Adj3-1;	 ! fresh; vigorous
+frithbheathach	Adj1-3;	 ! antibiotic
+frithchosúil	Adj2-1;	 ! paradoxical
+frithghiniúnach	Adj1-3;	 ! contraceptive
+frithir	Adj2-2;	 ! sharp, sore; tender; intense
+frithsheipteach	Adj1-3;	 ! antiseptic
+fuadrach	Adj1-3;	 ! busy, hurried, fussy
+fuafar	Adj1-2;	 ! hateful, hideous, odious
+fuaimintiúil	Adj2-1;	 ! fundamental, substantial, sound
+fuaimneach	Adj1-3;	 ! sounding, resounding, resonant
+fuar	Adj1-2;	 ! cold; apathetic; without interest;
+fuaraigeanta	Adj3-1;	 ! cool-headed, imperturbable
+fuarchráifeach	Adj1-3;	 ! lukewarm in religion; hypocritical
+fuarchúiseach	Adj1-3;	 ! cool, imperturbable; frigid; indifferent
+fuaránta	Adj3-1;	 ! frigid, indifferent; listless
+fuilchoscach	Adj1-3;	 ! astringent
+fuilteach	Adj1-3;	 ! bloody; bloodthirsty
+fuinniúil	Adj2-1;	 ! energetic, vigorous
+fulangach	Adj1-3;	 ! suffering; enduring, patient, tolerant
+fágtha	Adj3-1;	 ! left, forsaken, créatúr beag
+fáidhiúil	Adj2-1;	 ! prophetic; wise
+fáilteach	Adj1-3;	 ! welcoming
+fáilí	Adj3-1;	 ! pleasant, affable; furtive, stealthy
+fáinneach	Adj1-3;	 ! ring-like; ringed; ringleted
+fáiscthe	Adj3-1;	 ! squeezed, pressed; tight; well-knit;
+fáistineach	Adj1-3;	 ! prophet, soothsayer; future (tense)
+fánach	Adj1-3;	 ! wandering, straying; aimless; futile,
+fásta	Adj3-1;	 ! grown, duine ~ adult
+fáthach	Adj1-3;	 ! figurative, symbolic
+fáthchiallach	Adj1-3;	 ! allegorical, figurative
+féarmhar	Adj1-2;	 ! grassy
+féaráilte	Adj3-1;	 ! fair, equitable
+féichiúnta	Adj3-1;	 ! prompt, punctual
+féideartha	Adj3-1;	 ! feasible, possible
+féiltiúil	Adj2-1;	 ! festive; periodic; regular, punctual
+féinrialaitheach	Adj1-3;	 ! autonomous
+féitheogach	Adj1-3;	 ! sinewy; muscular
+féithuar	Adj1-2;	 ! nippy, chilly
+fíneálta	Adj3-1;	 ! fine; subtle, slender, delicate
+fíochmhar	Adj1-2;	 ! furious, ferocious
+fíor	Adj1-2;	 ! truth; pledge a1 true,
+fírinneach	Adj1-3;	 ! truthful
+fíréanta	Adj3-1;	 ! just, righteous; genuine; sincere
+fódúil	Adj2-1;	 ! stable; sensible
+fóill	Adj2-2;	 ! ~ ort go easy,
+fóinteach	Adj1-3;	 ! practical, helpful
+fóirsteanach	Adj1-3;	 ! suitable, fitting
+fónta	Adj3-1;	 ! serviceable, useful; good, sound
+fórsúil	Adj2-1;	 ! forceful, forcible
+fústrach	Adj1-3;	 ! fussy, fidgety
+gabhlach	Adj1-3;	 ! forked; branching; bow-legged
+gabhlógach	Adj1-3;	 ! forked
+gafa	Adj3-1;	 ! taken, caught; absorbed, ~
+gailbheach	Adj1-3;	 ! squally, stormy
+gainmheach	Adj1-3;	 ! sandy
+gairdeach	Adj1-3;	 ! joyous
+gairgeach	Adj1-3;	 ! harsh, gruff, surly
+gairid	Adj2-2;	 ! short; near, gaol ~
+gairmeach	Adj1-3;	 ! vocative
+gairmiúil	Adj2-1;	 ! vocational; professional
+gaisciúil	Adj2-1;	 ! valiant; boastful
+gallda	Adj3-1;	 ! foreign; anglicized
+galrach	Adj1-3;	 ! diseased; sickly
+galánta	Adj3-1;	 ! gallant; grand, éadach ~
+ganfhiosach	Adj1-3;	 ! secret, secretive
+gangaideach	Adj1-3;	 ! venomous; bitter
+gannchúiseach	Adj1-3;	 ! scarce; penurious; stingy
+gaofar	Adj1-2;	 ! windy, caint ghaofar verbose
+gaoiseach	Adj1-3;	 ! wise; shrewd
+gaolmhar	Adj1-2;	 ! related; cognate
+garach	Adj1-3;	 ! obliging
+garbh	Adj1-2;	 ! rough; coarse; harsh, obair
+garg	Adj1-2;	 ! acrid; rude; rough, deoch
+garúil	Adj2-1;	 ! obliging
+gasta	Adj3-1;	 ! fast; clever; neat, diúlach
+gastrach	Adj1-3;	 ! gastric
+geabanta	Adj3-1;	 ! loquacious
+geal	Adj1-2;	 ! white, bright; pure, is
+gealgháireach	Adj1-3;	 ! sunny, radiant, joyous
+geallmhar	Adj1-2;	 ! fond (ar of), ~
+geamhchaoch	Adj1-5;	 ! gsm ~ bleary, purblind
+geanasach	Adj1-3;	 ! chaste; modest
+geanmnaí	Adj3-1;	 ! chaste
+geanúil	Adj2-1;	 ! loving; lovable; seemly
+gearbach	Adj1-3;	 ! scabby
+gearr-radharcach	Adj1-3;	 ! shortsighted
+gearranálach	Adj1-3;	 ! short of breath; asthmatic
+gearrshaolach	Adj1-3;	 ! short-lived
+gearánach	Adj1-3;	 ! complaining
+geilleagrach	Adj1-3;	 ! pertaining to economy
+geimhleach	Adj1-3;	 ! captive
+geimhriúil	Adj2-1;	 ! wintry
+geireach	Adj1-3;	 ! fatty
+geiteach	Adj1-3;	 ! easily startled; skittish
+geografach	Adj1-3;	 ! geographical
+geoiméadrach	Adj1-3;	 ! geometric(al)
+ginearálta	Adj3-1;	 ! general
+ginideach	Adj1-3;	 ! genitive
+gintlí	Adj3-1;	 ! gentile
+giobach	Adj1-3;	 ! shaggy; untidy
+gioblach	Adj1-3;	 ! ragged, tattered
+giobógach	Adj1-3;	 ! scrappy; ragged; untidy
+giodalach	Adj1-3;	 ! saucy; conceited
+giodamach	Adj1-3;	 ! restless; giddy, jaunty
+giongach	Adj1-3;	 ! fidgety; skittish
+giorraisc	Adj2-2;	 ! short, abrupt, ordú ~
+giortach	Adj1-3;	 ! short, skimpy, fear beag
+glan	Adj1-2;	 ! cleanness, ~ na fírinne
+glanoscartha	Adj3-1;	 ! dul ~ thar rud
+glanscartha	Adj3-1;	 ! completely separated; (of flat)
+gleadhrach	Adj1-3;	 ! noisy; tumultuous, sruthán ~
+gleoiréiseach	Adj1-3;	 ! boisterous, hilarious
+gleoite	Adj3-1;	 ! neat, pretty; charming
+glinn	Adj2-2;	 ! clear, distinct, vivid
+gliobach	Adj1-3;	 ! tousled, dishevelled; hairy, shaggy
+gliondrach	Adj1-3;	 ! glad, joyous
+gluair	Adj2-2;	 ! bright; loud, shrill
+glé	Adj3-1;	 ! clear, bright, pellucid, stíl
+gléasta	Adj3-1;	 ! equipped; well-dressed
+gléineach	Adj1-3;	 ! clear, lucid, transparent
+glóirmhianach	Adj1-3;	 ! ambitious
+glórach	Adj1-3;	 ! loud-voiced; noisy
+glórmhar	Adj1-2;	 ! glorious
+glórshúileach	Adj1-3;	 ! wall-eyed
+glóthach	Adj1-3;	 ! jelly; animal slime, ~
+gnaíúil	Adj2-2;	 ! beautiful; decent
+gnéasach	Adj1-3;	 ! sexual
+gníomhach	Adj1-3;	 ! active, bainisteoir ~ acting
+gnóthach	Adj1-3;	 ! busy; officious
+gobach	Adj1-3;	 ! beaked, long-billed; pointed, sharp
+gogaideach	Adj1-3;	 ! squatting; unsteady; giddy
+goiciúil	Adj2-1;	 ! cocked; perky
+goilliúnach	Adj1-3;	 ! painful, distressing, duine ~
+goimhiúil	Adj2-1;	 ! stinging, venomous
+goinbhlasta	Adj3-1;	 ! piquant
+goirt	Adj2-2;	 ! saline, salt, uisce ~
+gonta	Adj3-1;	 ! incisive; terse, cainteoir ~
+gorm	Adj1-2;	 ! blue
+gortach	Adj1-3;	 ! hungry; skimpy, áit ghortach
+gradamach	Adj1-3;	 ! estimable, esteemed
+gramadúil	Adj2-1;	 ! grammatical
+gramhsach	Adj1-3;	 ! grinning, grimacing
+graosta	Adj3-1;	 ! lewd, filthy, scéal ~
+greadhnach	Adj1-3;	 ! noisy; merry, cheerful; bright
+greamaitheach	Adj1-3;	 ! gripping; adhesive
+greannmhar	Adj1-2;	 ! humorous; queer; loving
+greanta	Adj3-1;	 ! graven; ground; clear-cut, obair
+grianach	Adj1-3;	 ! sunny; cheerful
+grianmhar	Adj1-2;	 ! sunny; bright, cheerful
+grinn	Adj2-2;	 ! perceptive; accurate, amharc ~
+griofadach	Adj1-3;	 ! stinging, sensation; tingle a1
+grodfhoclach	Adj1-3;	 ! hasty
+groí	Adj3-1;	 ! strong, vigorous
+gruagach	Adj1-3;	 ! hairy, shaggy
+gruama	Adj3-1;	 ! gloomy; morose, aimsir ghruama
+grugach	Adj1-3;	 ! frowning, scowling
+grusach	Adj1-3;	 ! gruff, laconic
+grách	Adj1-1;	 ! gsm ~ loving; beloved
+gráiniúil	Adj2-1;	 ! hateful; ugly; terrible
+gráinneach	Adj1-3;	 ! granular, granulated
+gráisciúil	Adj2-1;	 ! vulgar, obscene
+gránach	Adj1-3;	 ! cereal
+gránbhiorach	Adj1-3;	 ! peann ~ ball-point pen
+gránna	Adj3-1;	 ! ugly; disagreeable, focal ~
+grástúil	Adj2-1;	 ! gracious; merciful
+gréasta	Adj3-1;	 ! ornamented, embroidered
+gréiscdhíonach	Adj1-3;	 ! grease-proof
+gréisceach	Adj1-3;	 ! greasy
+gríosach	Adj1-3;	 ! hot ashes, déanfaidh sé
+gríosaitheach	Adj1-3;	 ! stimulant a1 stirring; provocative
+gríséadach	Adj1-3;	 ! roan
+guagach	Adj1-3;	 ! unstable; fickle
+guairdeallach	Adj1-3;	 ! circling; uneasy
+guaireach	Adj1-3;	 ! bristly
+guairilleach	Adj1-3;	 ! guerilla
+guairneach	Adj1-3;	 ! whirling, spinning
+guairneánach	Adj1-3;	 ! whirling, swirling; restless
+guaiseach	Adj1-3;	 ! dangerous
+gualda	Adj3-1;	 ! coal-black, charred
+guamach	Adj1-3;	 ! planned; comfortable
+gusmhar	Adj1-2;	 ! forceful; enterprising
+gustalach	Adj1-3;	 ! wealthy; enterprising
+guthach	Adj1-3;	 ! vocal
+gágach	Adj1-3;	 ! cracked, fissured; chapped; thin,
+gáifeach	Adj1-3;	 ! dangerous, terrible; loud; exaggerated,
+gáiriteach	Adj1-3;	 ! laughing, jolly
+gáirsiúil	Adj2-1;	 ! lewd, obscene
+gátarach	Adj1-3;	 ! needy, distressed
+géagach	Adj1-3;	 ! branched; long-limbed; (of hair)
+géar	Adj1-2;	 ! sharp; steep, uillinn ghéar
+géarchúiseach	Adj1-3;	 ! astute, discerning
+géibheannach	Adj1-3;	 ! captive a1 distressing, critical,
+géilliúil	Adj2-1;	 ! submissive; compliant; credulous
+géimiúil	Adj2-1;	 ! game; sportive
+géineasach	Adj1-3;	 ! generic
+géiniteach	Adj1-3;	 ! genetic
+gúngach	Adj1-3;	 ! narrow-rumped; crouched; ungainly
+heirméiteach	Adj1-3;	 ! hermetic
+hibrideach	Adj1-3;	 ! hybrid
+hiodrálach	Adj1-3;	 ! hydraulic
+hipideirmeach	Adj1-3;	 ! hypodermic
+hipitéiseach	Adj1-3;	 ! hypothetic(al)
+iarghnóch	Adj1-5;	 ! gsm ~ vexed, distressed,
+iargúlta	Adj3-1;	 ! backward, isolated; outlandish, bhí
+iarmhaireach	Adj1-3;	 ! eerie, lonely
+iarmharach	Adj1-3;	 ! residuary; residual
+iarmhartach	Adj1-3;	 ! resultant, consequential
+iarnaí	Adj3-1;	 ! iron, made of iron;
+iarratach	Adj1-3;	 ! petitioning; importunate
+iartharach	Adj1-3;	 ! westerner a1 western; back;
+iartheachtach	Adj1-3;	 ! subsequent
+iarógach	Adj1-3;	 ! quarrelsome; hurtful
+iascúil	Adj2-1;	 ! abounding in fish, líon
+iata	Adj3-1;	 ! closed, shut; secured; constipated,
+idirchreidmheach	Adj1-3;	 ! interdenominational
+idirmheánach	Adj1-3;	 ! intermediate
+idirnáisiúnta	Adj3-1;	 ! international
+idéalach	Adj1-3;	 ! ideal
+ifreanda	Adj3-1;	 ! hellish, infernal
+ilbheartach	Adj1-3;	 ! (of sportsman, etc) all-round
+ilbhliantúil	Adj2-1;	 ! (of plant) perennial
+ilbhláthach	Adj1-3;	 ! polyanthus a1 multiflorous
+ilchineálach	Adj1-3;	 ! mixed, varied, heterogeneous
+ilchodach	Adj1-3;	 ! compound, composite
+ilchreidmheach	Adj1-3;	 ! multidenominational
+ildathach	Adj1-3;	 ! multicoloured, variegated, iridescent
+ildánach	Adj1-3;	 ! skilled in various arts,
+ilghnéitheach	Adj1-3;	 ! diverse, various, heterogeneous
+ilstórach	Adj1-3;	 ! skyscraper a1 multi-storeyed
+ilteangach	Adj1-3;	 ! polyglot
+iltréitheach	Adj1-3;	 ! versatile
+iltíreach	Adj1-3;	 ! cosmopolitan
+imeaglach	Adj1-3;	 ! fearful; terrible
+imeallach	Adj1-3;	 ! bordering, marginal; bordered
+imeartha	Adj3-1;	 ! prankish; practised, clever, ~
+imigéiniúil	Adj2-1;	 ! far-away, remote
+imirceach	Adj1-3;	 ! migrant, emigrant a1 moving,
+impiriúil	Adj2-1;	 ! imperial
+impíoch	Adj1-4;	 ! supplicant; intercessor a1, gsm
+imreasach	Adj1-3;	 ! contentious, quarrelsome
+imrothlach	Adj1-3;	 ! revolving
+imthoisceach	Adj1-3;	 ! circumstantial
+inbheirthe	Adj3-1;	 ! inborn, innate
+inbhraite	Adj3-1;	 ! perceptible, palpable, tangible
+inbhreathnaitheach	Adj1-3;	 ! introspective
+inbhéartach	Adj1-3;	 ! inverse
+inchaite	Adj3-1;	 ! wearable; spendable; edible
+inchloiste	Adj3-1;	 ! audible
+inchomórtais	Adj2-2;	 ! comparable (le with, to)
+inchreidte	Adj3-1;	 ! credible
+inchurtha	Adj3-1;	 ! ~ le comparable to,
+indéanta	Adj3-1;	 ! practicable; fit to be
+indíreach	Adj1-3;	 ! indirect
+indíritheach	Adj1-3;	 ! introvertive
+indóite	Adj3-1;	 ! combustible
+inearráide	Adj3-1;	 ! fallible
+infhaighte	Adj3-1;	 ! procurable, available
+infheicthe	Adj3-1;	 ! visible
+infheidhme	Adj3-1;	 ! serviceable; fit, able-bodied
+infhuascailte	Adj3-1;	 ! redeemable; solvable, soluble
+infinideach	Adj1-3;	 ! infinitive
+ingearach	Adj1-3;	 ! perpendicular, vertical; sheer
+inghlactha	Adj3-1;	 ! acceptable, admissible
+ingneach	Adj1-3;	 ! having nails, claws
+inimirceach	Adj1-3;	 ! immigrant
+inite	Adj3-1;	 ! edible
+inlasta	Adj3-1;	 ! inflammable
+inleighis	Adj2-2;	 ! curable
+inleithscéil	Adj2-2;	 ! excusable
+inmhaíte	Adj3-1;	 ! enviable, ní raibh mo
+inmheánach	Adj1-3;	 ! innards a1 internal, an
+inmholta	Adj3-1;	 ! commendable, praiseworthy; advisable
+innealta	Adj3-1;	 ! ordered; neat; skilled, cailín
+!!! Not helpful - use adv mainly inniu	AdjBASE;	 ! today, mí is an
+inniúil	Adj2-1;	 ! able, fit for, bheith
+inné	AdjBASE;	 ! yesterday;
+inoibrithe	Adj3-1;	 ! workable, practicable
+inphósta	Adj3-1;	 ! marriageable
+inroinnte	Adj3-1;	 ! divisible
+inrátaithe	Adj3-1;	 ! rateable
+inscéalaíochta	Adj3-1;	 ! (of survivor) alive to
+inseolta	Adj3-1;	 ! navigable; sea-worthy
+inspéise	Adj3-1;	 ! worthy of notice, interesting
+intinneach	Adj1-3;	 ! intentional; strong-willed, ~ suairc
+intleachtach	Adj1-3;	 ! intellectual, intelligent; ingenious
+intreach	Adj1-3;	 ! intrinsic
+intuaslagtha	Adj3-1;	 ! soluble
+intuigthe	Adj3-1;	 ! understandable; implied
+intíre	Adj3-1;	 ! inland, domestic, internal
+iníoctha	Adj3-1;	 ! payable, due
+inólta	Adj3-1;	 ! drinkable
+iodálach	Adj1-3;	 ! italic, cló ~ italic
+iolarach	Adj1-3;	 ! aquiline
+iolartha	Adj3-1;	 ! manifold, numerous; varied
+iolra	Adj3-1;	 ! (grammar) plural
+iolrach	Adj1-3;	 ! multiple
+iomadúil	Adj2-1;	 ! numerous, plentiful; excessive; exceptional
+iomaireach	Adj1-3;	 ! ridged; ribbed; corrugated
+iomarcach	Adj1-3;	 ! excessive; redundant; arrogant, breith
+iomardach	Adj1-3;	 ! reproachful; challenging
+iomasach	Adj1-3;	 ! intuitive
+iomaí	Adj3-1;	 ! many, is ~ lá
+iomchuí	Adj3-1;	 ! appropriate, fitting
+iomlaoideach	Adj1-3;	 ! alternating
+iomlatach	Adj1-3;	 ! mischievous
+iomrallach	Adj1-3;	 ! straying, wide of mark;
+iomráiteach	Adj1-3;	 ! well-known, famous
+ionadach	Adj1-3;	 ! substitute, vicarious; out-of-the-way, inaccessible
+ionann	AdjBASE;	 ! same, identical; equal, is
+iondúil	Adj2-1;	 ! usual, customary, go h~
+ionfhásta	Adj3-1;	 ! ingrown, ingrowing
+ionlao	Adj3-1;	 ! in-calf
+ionraic	Adj2-2;	 ! upright, honest; guileless
+ionsaitheach	Adj1-3;	 ! aggressive
+ionstraimeach	Adj1-3;	 ! instrumental
+iontaiseach	Adj1-3;	 ! fossil(ized)
+iontaobhach	Adj1-3;	 ! trusting
+iontaofa	Adj3-1;	 ! trustworthy, reliable
+iontlaise	Adj3-1;	 ! inlaid, urlár ~ parquet
+!! SEE ADV-LEX isteach	AdjBASE;	 ! in, into, ~ (ar)
+!! SEE ADV-LEX istigh	AdjBASE;	 ! in, inside; indoor, at
+labharthach	Adj1-3;	 ! talkative; vociferous
+lachna	Adj3-1;	 ! dull grey; dun, drab
+lachtach	Adj1-3;	 ! lactic, milky; (of eyes)
+ladhrach	Adj1-3;	 ! toed, clawed; pronged, forked
+ladúsach	Adj1-3;	 ! pert; wheedling; silly
+laethúil	Adj2-1;	 ! daily
+lag		Adj1-2;	 ! m1 & a1 npl ~ a weak person, weak
+laghdaitheach	Adj1-3;	 ! lessening, decreasing
+!! SEE ADV-LEX laistiar	AdjBASE;	 ! on the west side;
+!! SEE ADV-LEX laistigh	AdjBASE;	 ! on the inside, within,
+lannach	Adj1-3;	 ! laminate(d); bladed
+laochta	Adj3-1;	 ! valorous, heroic
+laofa	Adj3-1;	 ! biased
+laomtha	Adj3-1;	 ! blazing; brilliant; fiery
+lasmuigh	AdjBASE;	 ! on the outside, outdoors,
+lasnairde	AdjBASE;	 ! overhead;
+lastoir		AdjBASE;	 ! on the east side
+lastuaidh	AdjBASE;	 ! on the north side;
+lasánta	Adj3-1;	 ! flaming, fiery; irritable; flushed
+leabhair	Adj2-2;	 ! lithe, pliant
+leabhairchruthach	Adj1-3;	 ! streamlined
+leabhlach	Adj1-3;	 ! libellous
+leacach	Adj1-3;	 ! flagged, stony
+leacanta	Adj3-1;	 ! smooth-cheeked, comely; comfortable
+leachtach	Adj1-3;	 ! liquid
+leadhbach	Adj1-3;	 ! torn in strips; shabby;
+leadránach	Adj1-3;	 ! dilatory, tedious
+leaisteach	Adj1-3;	 ! elastic
+leamh	Adj1-2;	 ! gsm ~ insipid, tasteless;
+leanbaí	Adj3-1;	 ! childlike; childish, an aois
+leannánta	Adj3-1;	 ! chronic
+leantach	Adj1-3;	 ! consecutive; continuing
+leanúnach	Adj1-3;	 ! continuous, successive; persistent; attached,
+leasaitheach	Adj1-3;	 ! preservative a1 amending, reforming;
+leasc	Adj1-2;	 ! gsm ~ lazy; slow,
+leataobhach	Adj1-3;	 ! one-sided; lopsided; biased
+leathanaigeanta	Adj3-1;	 ! broad-minded
+leathfhada	Adj3-1;	 ! fairly long; oblong
+leathlámhach	Adj1-3;	 ! one-armed; short-handed
+leathrach	Adj1-3;	 ! leathern; leathery
+leathscoite	Adj3-1;	 ! semi-detached
+leatromach	Adj1-3;	 ! lopsided; biased; oppressive; distressed,
+leibhéalta	Adj3-1;	 ! level
+leibideach	Adj1-3;	 ! slovenly; foolish
+leice	Adj3-1;	 ! sickly, delicate
+leictreach	Adj1-3;	 ! electric(al)
+leictreonach	Adj1-3;	 ! electronic
+leisciúil	Adj2-1;	 ! lazy; reluctant; shy
+leispiach	Adj1-3;	 ! gsm ~ lesbian
+leitheadach	Adj1-3;	 ! broad, wide; widespread, prevalent;
+leithleach	Adj1-3;	 ! apart; distinct; stand-offish; selfish
+leithscéalach	Adj1-3;	 ! fond of excuses, apologetic
+leochaileach	Adj1-3;	 ! frail, fragile, tender
+leonta	Adj3-1;	 ! leonine
+leáiteach	Adj1-3;	 ! melting; dwindling; wan
+ligthe	Adj3-1;	 ! loose-limbed, lithe, ~ ar,
+lingeach	Adj1-3;	 ! springy
+liobarnach	Adj1-3;	 ! hanging loose; tattered, flabby,
+liobrálach	Adj1-3;	 ! liberal
+liopasta	Adj3-1;	 ! untidy; clumsy
+liosta	Adj3-1;	 ! tedious; irksome; persistent
+liotúirgeach	Adj1-3;	 ! liturgical
+liriceach	Adj1-3;	 ! lyric(al)
+liteartha	Adj3-1;	 ! literary; literal; literate
+lochtach	Adj1-3;	 ! faulty; erroneous; blameworthy, airgead
+lochtaitheach	Adj1-3;	 ! fault-finding; censuring
+lodartha	Adj3-1;	 ! muddy, slushy; flabby; abject;
+logánta	Adj3-1;	 ! local
+loighciúil	Adj2-1;	 ! logical
+loiscneach	Adj1-3;	 ! firewood; caustic a1 burning,
+loiteach	Adj1-3;	 ! injurious, damaging
+lom	Adj1-2;	 ! bareness; openness; nakedness,poverty, ~
+lomrach	Adj1-3;	 ! fleecy, woolly
+lonrach	Adj1-3;	 ! bright, shining; resplendent
+luachmhar	Adj1-2;	 ! valuable, costly, precious
+luaidhiúil	Adj2-1;	 ! lead-like, leaden
+luaineach	Adj1-3;	 ! nimble; restless; vacillating
+luaithriúil	Adj2-1;	 ! ashy; ashen
+luascach	Adj1-3;	 ! swinging, oscillating
+luathintinneach	Adj1-3;	 ! fickle, hasty
+lubhógach	Adj1-3;	 ! flaky
+luchtmhar	Adj1-2;	 ! (well-) laden; capacious; emotional
+luibheach	Adj1-3;	 ! herbaceous
+luibhiteach	Adj1-3;	 ! herbivorous
+luifearnach	Adj1-3;	 ! weeds; refuse a1 weedy
+luisniúil	Adj2-1;	 ! blushing, glowing; ruddy
+luiteach	Adj1-3;	 ! well-fitting, ~ le attached,
+lusach	Adj1-3;	 ! herbaceous
+lábach	Adj1-3;	 ! muddy, miry
+lábúrtha	Adj3-1;	 ! base, vulgar
+ládasach	Adj1-3;	 ! self-willed; obstinate
+láithreach	Adj1-3;	 ! present, immediate; immediately
+lámhiata	Adj3-1;	 ! close-fisted
+lánaimseartha	Adj3-1;	 ! full-time
+lánchumhachtach	Adj1-3;	 ! pleni-potentiary
+lánmhar	Adj1-2;	 ! full, replete; self-conceited
+lárnach	Adj1-3;	 ! central, medial, innermost
+lártheifeach	Adj1-3;	 ! centrifugal
+léanmhar	Adj1-2;	 ! grievous, agonizing, woeful
+léannta	Adj3-1;	 ! learned, scholarly
+léasach	Adj1-3;	 ! leasehold
+léigiúnach	Adj1-3;	 ! legionary
+léimneach	Adj1-3;	 ! jumping, leaping
+léiritheach	Adj1-3;	 ! illustrative; representational
+léirsteanach	Adj1-3;	 ! perceptive; mistrusting; meticulous
+líneach	Adj1-3;	 ! marked with lines; linear
+líofa	Adj3-1;	 ! ground, sharpened; fluent; eager;
+lúbach	Adj1-3;	 ! looped; twisting; pliable; crafty
+lúbánach	Adj1-3;	 ! looped, coiled
+lúcháireach	Adj1-3;	 ! joyous, jubilant
+lúitéiseach	Adj1-3;	 ! fawning, obsequious
+machnamhach	Adj1-3;	 ! thoughtful, reflective, contemplative
+macnasach	Adj1-3;	 ! wanton; sportive; self-indulgent
+macánta	Adj3-1;	 ! gentle; honest
+macúil	Adj2-1;	 ! filial
+madrúil	Adj2-1;	 ! doglike; coarse, unmannerly
+maighnéadach	Adj1-3;	 ! magnetic
+mailíseach	Adj1-3;	 ! malicious; malignant
+mairbhiteach	Adj1-3;	 ! languid, torpid, numb
+mairbhleach	Adj1-3;	 ! numb
+maisiúil	Adj2-1;	 ! decorative, beautiful; elegant
+maiteach	Adj1-3;	 ! forgiving; forgiven
+malartach	Adj1-3;	 ! changing; changeable; exchangeable
+mallachtach	Adj1-3;	 ! cursing a1 maledictory; accursed
+mallaithe	Adj3-1;	 ! accursed; vicious
+mallintinneach	Adj1-3;	 ! slow-witted, mentally retarded
+malltriallach	Adj1-3;	 ! slow-coach a1 slow, sluggish
+mamach	Adj1-3;	 ! mammal a1 mammary
+manachúil	Adj2-1;	 ! monastic
+mantach	Adj1-3;	 ! gap-toothed; toothless; gapped, indented
+maoineach	Adj1-3;	 ! treasured possession a1 propertied,
+maoithneach	Adj1-3;	 ! emotional, sentimental; melancholy
+maol	Adj1-2;	 ! bare, blunt, object a1
+maolaitheach	Adj1-3;	 ! palliative a1 alleviating, palliative
+maolchluasach	Adj1-3;	 ! crop-eared; crest fallen, subdued
+maolchúiseach	Adj1-3;	 ! inept
+maolscríobach	Adj1-3;	 ! slovenly, slip shod; skimped
+maorga	Adj3-1;	 ! stately, dignified; sedate
+maorlathach	Adj1-3;	 ! bureaucratic
+maoth	Adj1-2;	 ! soft, tender; weak; moist;
+maranach	Adj1-3;	 ! thoughtful
+marbh	Adj1-2;	 ! dead person a1 dead;
+marbhánta	Adj3-1;	 ! lifeless, lethargic; dull, stagnant,
+marfach	Adj1-3;	 ! deadly, mortal, fatal; killing;
+marsúipiach	Adj1-3;	 ! gsm ~ marsupial
+marthanach	Adj1-3;	 ! lasting, enduring; everlasting
+maránta	Adj3-1;	 ! bland, gentle, benign
+mascalach	Adj1-3;	 ! manly person, a1 manly,
+masmasach	Adj1-3;	 ! nauseated; nauseating
+mastóideach	Adj1-3;	 ! mastoid
+matamaiticiúil	Adj2-1;	 ! mathematical
+matrarcach	Adj1-3;	 ! matriarchal
+matánach	Adj1-3;	 ! muscular
+maíteach	Adj1-3;	 ! boastful, begrudging
+meabhlach	Adj1-3;	 ! deceitful, treacherous; illusory; beguiling
+meabhrach	Adj1-3;	 ! mindful; thoughtful; intelligent; aware,
+meafarach	Adj1-3;	 ! metaphorical
+meallacach	Adj1-3;	 ! alluring, charming
+mealltach	Adj1-3;	 ! enticing, coaxing; deceptive, deceitful;
+meanmnach	Adj1-3;	 ! spirited; lively, cheerful
+mear	Adj1-2;	 ! gsm ~ quick, nimble;
+mearbhlach	Adj1-3;	 ! bewildered, confused; be wildering,
+meargánta	Adj3-1;	 ! foolhardy, reckless
+measartha	Adj3-1;	 ! moderate, temperate; fair, middling,
+measúil	Adj2-1;	 ! estimable, respectable, esteemed; respectful
+meata	Adj3-1;	 ! pale, sickly; cowardly, abject
+meatach	Adj1-3;	 ! failing; decaying; pale, sickly;
+meathlaitheach	Adj1-3;	 ! retrogressive
+meicniúil	Adj2-1;	 ! mechanical
+meidhreach	Adj1-3;	 ! gay; sportive
+meirbh	Adj2-2;	 ! languid, weak; sultry, close
+meirtneach	Adj1-3;	 ! weak; weary, dispirited
+meisciúil	Adj2-1;	 ! intoxicating; drunken
+meitileach	Adj1-3;	 ! methyl(ated)
+meonúil	Adj2-1;	 ! whimsical, fanciful, capricious
+meáite	Adj3-1;	 ! bheith ~ ar rud
+meánach	Adj1-3;	 ! middle, intermediate; medium, moderate
+meánaicmeach	Adj1-3;	 ! middle-class, bourgeois
+meánaoiseach	Adj1-3;	 ! medieval
+meánchiorclach	Adj1-3;	 ! equatorial
+meánúil	Adj2-1;	 ! moderate, temperate
+miangasach	Adj1-3;	 ! desirous; concupiscent
+mianrach	Adj1-3;	 ! mineral
+mianúil	Adj2-1;	 ! desirous (ar, chun of)
+millteach	Adj1-3;	 ! destructive; pernicious; enormous, extreme
+millteanach	Adj1-3;	 ! terrible, horrible; enormous, extreme
+minic	Adj2-2;	 ! often,frequent(ly)
+miochair	Adj2-2;	 ! tender, kind; courteous
+mion	Adj1-2;	 ! small, tiny; fine; detailed
+mionchruinn	Adj2-2;	 ! minute, detailed
+mionchúiseach	Adj1-3;	 ! meticulous, over-particular; trivial
+mionda	Adj3-1;	 ! small, delicate; petite
+mioscaiseach	Adj1-3;	 ! spiteful, malicious
+miotalach	Adj1-3;	 ! metallic; mettlesome, spirited
+miotasach	Adj1-3;	 ! mythical
+misniúil	Adj2-1;	 ! courageous; hopeful, cheerful
+miste	AdjBASE;	 ! (used with is) is
+misteach	Adj1-3;	 ! mystic
+mistéireach	Adj1-3;	 ! mysterious
+mithid	AdjBASE;	 ! (used with is) is
+moch	Adj1-1;	 ! gsm ~ early, le
+modartha	Adj3-1;	 ! murky; muddy, cloudy; morose
+modhúil	Adj2-1;	 ! mannerly; gentle, modest
+moiglí	Adj3-1;	 ! mild, placid, easy
+moltach	Adj1-3;	 ! complimentary, approving
+mongach	Adj1-3;	 ! maned; long-haired; covered with
+morgthach	Adj1-3;	 ! putrefactive, gangrenous
+morálta	Adj3-1;	 ! moral
+mosach	Adj1-3;	 ! shaggy, bristly; surly
+mothaitheach	Adj1-3;	 ! sentient, perceptive
+mothallach	Adj1-3;	 ! bushy; shaggy
+mothaolach	Adj1-3;	 ! unsophisticated; gullible
+mothrach	Adj1-3;	 ! overgrown, tangled; massive; clouded
+mothálach	Adj1-3;	 ! sensitive, responsive
+muinteartha	Adj3-1;	 ! friendly; related, duine ~
+muiníneach	Adj1-3;	 ! (with as) trusting in;
+muirneach	Adj1-3;	 ! affectionate; beloved; caressing
+muirí	Adj3-1;	 ! marine, maritime
+mursanta	Adj3-1;	 ! domineering, tyrannical
+mustrach	Adj1-3;	 ! ostentatious; swaggering, arrogant
+máchaileach	Adj1-3;	 ! blemished, defective
+máistriúil	Adj2-1;	 ! masterful, imperious; masterly
+máithreánach	Adj1-3;	 ! matriculation
+máithriúil	Adj2-1;	 ! motherly; kind
+mánla	Adj3-1;	 ! gentle, gracious, pleasant
+másach	Adj1-3;	 ! having big buttocks, big-thighed
+máthartha	Adj3-1;	 ! maternal
+méadaitheach	Adj1-3;	 ! increasing, enlarging, amplifying
+méadrach	Adj1-3;	 ! metric
+méaldrámata	Adj3-1;	 ! melodramatic
+méanar	AdjBASE;	 ! (used with is) is
+méiniúil	Adj2-1;	 ! well-disposed, friendly; (of land)
+méith	Adj2-2;	 ! fat, fat meat; richness,
+mí-ionraic	Adj2-2;	 ! dishonest
+mí-oiriúnach	Adj1-3;	 ! unsuitable, unsuited (do to)
+mí-ámharach	Adj1-3;	 ! unlucky, unfortunate
+míchruinn	Adj2-2;	 ! inexact, inaccurate
+míchuibheasach	Adj1-3;	 ! immoderate
+míchumasach	Adj1-3;	 ! disabled
+míchumtha	Adj3-1;	 ! deformed; ill-made
+míchuí	Adj3-1;	 ! improper, undue
+míchéadfach	Adj1-3;	 ! illhumoured, peevish; insensate
+míchéillí	Adj3-1;	 ! senseless, foolish
+mídhleathach	Adj1-3;	 ! illegal
+mídhlisteanach	Adj1-3;	 ! illegitimate; disloyal
+mífhoighneach	Adj1-3;	 ! impatient
+mífholláin	Adj2-2;	 ! unhealthy, unwholesome
+mífhortúnach	Adj1-3;	 ! unfortunate, confounded
+míleata	Adj3-1;	 ! military; martial
+míleatach	Adj1-3;	 ! militant
+mílítheach	Adj1-3;	 ! pale, sickly-looking
+mímhacánta	Adj3-1;	 ! dishonest
+mímhorálta	Adj3-1;	 ! immoral
+mímhúinte	Adj3-1;	 ! unmannerly, rude
+mínitheach	Adj1-3;	 ! explanatory
+mínormálta	Adj3-1;	 ! abnormal
+mínádúrtha	Adj3-1;	 ! unnatural; unfeeling
+mínáireach	Adj1-3;	 ! shameless; vicious
+míofar	Adj1-2;	 ! ugly, ill-favoured
+míolach	Adj1-3;	 ! lousy, verminous
+míonla	Adj3-1;	 ! gentle, mild
+míorúilteach	Adj1-3;	 ! miraculous
+míosta	Adj3-1;	 ! menstrual, fuil mhíosta menstruation
+míosúil	Adj2-1;	 ! monthly
+mírialta	Adj3-1;	 ! unruly, disorderly; irregular
+míréasúnta	Adj3-1;	 ! unreasonable, absurd
+míshláintiúil	Adj2-1;	 ! unhealthy, unwholesome
+míshocair	Adj2-2;	 ! unsteady, uneasy, restless
+míshuaimhneach	Adj1-3;	 ! uneasy, restless, perturbed
+míshásta	Adj3-1;	 ! displeased, dissatisfied
+míshásúil	Adj2-1;	 ! unsatisfactory
+místuama	Adj3-1;	 ! imprudent; clumsy
+míthapa	Adj3-1;	 ! mishap, mischance; hasty act;
+míthráthúil	Adj2-1;	 ! untimely, inopportune
+móideach	Adj1-3;	 ! votary a1 votive
+móiréiseach	Adj1-3;	 ! haughty, pretentious
+mómhar	Adj1-2;	 ! mannerly; graceful, dignified
+mórchúiseach	Adj1-3;	 ! self-important, pompous
+mórfhoclach	Adj1-3;	 ! oratorical; bombastic
+mórga	Adj3-1;	 ! great, exalted; majestic; high-minded
+mórluachach	Adj1-3;	 ! valuable; important; self-important
+mórtasach	Adj1-3;	 ! proud; boastful; joyous
+mórthaibhseach	Adj1-3;	 ! spectacular
+mórálach	Adj1-3;	 ! proud; boastful
+múchtach	Adj1-3;	 ! smothering, suffocating; asthmatic
+múinte	Adj3-1;	 ! well-behaved, polite
+múisciúil	Adj2-1;	 ! nauseating; dank, oppressive
+múscailteach	Adj1-3;	 ! wakeful
+múscánta	Adj3-1;	 ! spongy; oozy, dank
+naimhdeach	Adj1-3;	 ! hostile, malevolent
+naofa	Adj3-1;	 ! holy, sanctified; sacred, Pádraig
+naomh	Adj1-2;	 ! saint a1 holy, blessed
+nathach	Adj1-3;	 ! aphoristic; sententious
+naíonda	Adj3-1;	 ! childlike; fresh, innocent, beautiful
+neafaiseach	Adj1-3;	 ! trivial, trite
+neamaiteach	Adj1-3;	 ! unforgiving
+neamaitheach	Adj1-3;	 ! disobliging; useless
+neamartach	Adj1-3;	 ! neglectful, remiss
+neamh-mheisciúil	Adj2-1;	 ! non-intoxicating; sober
+neamh-mheontach	Adj1-3;	 ! forward, presumptuous
+neamh-shainchreidmheach	Adj1-3;	 ! non-denominational
+neamhaistreach	Adj1-3;	 ! intransitive
+neamhaontach	Adj1-3;	 ! nonconformist
+neamhaí	Adj3-1;	 ! heavenly, celestial; (of talk)
+neamhbhailí	Adj3-1;	 ! invalid
+neamhbheo	Adj3-1;	 ! inanimate; still, dead
+neamhbhríoch	Adj1-4;	 ! gsm ~ insignificant; ineffective;
+neamhbhásmhar	Adj1-2;	 ! immortal
+neamhchiontach	Adj1-3;	 ! innocent person a1 innocent,
+neamhchoimisiúnta	Adj3-1;	 ! noncommissioned
+neamhchoitianta	Adj3-1;	 ! uncommon, unusual
+neamhchosúil	Adj2-1;	 ! unlike; unlikely
+neamhchúiseach	Adj1-3;	 ! unconcerned; imperturbable
+neamheaglach	Adj1-3;	 ! fearless, intrepid
+neamhghnách	Adj1-5;	 ! gsm ~ unusual, extraordinary
+neamhoifigiúil	Adj2-1;	 ! unofficial
+neamhphearsanta	Adj3-1;	 ! impersonal
+neamhrialta	Adj3-1;	 ! irregular
+neamhréireach	Adj1-3;	 ! inconsistent
+neamhscagach	Adj1-3;	 ! impermeable
+neamhshaolta	Adj3-1;	 ! unworldly; ethereal
+neamhshiméadrach	Adj1-3;	 ! asymmetric
+neamhshotalach	Adj1-3;	 ! unsubmissive; impudent
+neamhshrianta	Adj3-1;	 ! unbridled, capricious
+neamhshuimiúil	Adj2-1;	 ! unimportant; in significant, ~
+neamhspleách	Adj1-5;	 ! gsm ~ independent (ar,
+neamhthuairimeach	Adj1-3;	 ! unthinking; casual; unexpected
+neamhurchóideach	Adj1-3;	 ! harmless, inoffensive
+neantúil	Adj2-1;	 ! irritating; irritable
+neartmhar	Adj1-2;	 ! strong, vigorous, powerful
+neirbhíseach	Adj1-3;	 ! nervous
+neodrach	Adj1-3;	 ! neutral; neuter
+niamhrach	Adj1-3;	 ! lustrous, resplendent
+nimheanta	Adj3-1;	 ! venomous, spiteful
+nimhiúil	Adj2-1;	 ! poisonous, virulent
+nimhneach	Adj1-3;	 ! painful; hurtful; spiteful; touchy,
+nithiúil	Adj2-1;	 ! real, concrete, corporeal
+normálta	Adj3-1;	 ! normal
+nua-aimseartha	Adj3-1;	 ! modern
+nua-aoiseach	Adj1-3;	 ! modern
+nuabheirthe	Adj3-1;	 ! new-born; (of eggs) new-laid
+nuaphósta	Adj3-1;	 ! newly-wed
+nádúrtha	Adj3-1;	 ! natural, normal; good-natured, kindly
+náir	AdjBASE;	 ! (used with is) is
+náireach	Adj1-3;	 ! shameful; modest, diffident
+náisiúnta	Adj3-1;	 ! national
+néalmhar	Adj1-2;	 ! nebulous; gloomy; sleepy
+néaltach	Adj1-3;	 ! cloudy
+néaltraithe	Adj3-1;	 ! crazy, demented
+néamhanda	Adj3-1;	 ! pearly
+néaróiseach	Adj1-3;	 ! neurotic
+néata	Adj3-1;	 ! neat
+nósmhar	Adj1-2;	 ! customary; formal; polite
+nósúil	Adj2-1;	 ! customary; formal; polite
+nótáilte	Adj3-1;	 ! noted
+núicléach	Adj1-3;	 ! gsm ~ nuclear
+núíosach	Adj1-3;	 ! newcomer; beginner, novice a1
+obach	Adj1-3;	 ! refusing; shunning
+ocrach	Adj1-3;	 ! hungry person a1 hungry;
+oibiachtúil	Adj2-1;	 ! objective
+oibleagáideach	Adj1-3;	 ! obligatory; obliging
+oibríoch	Adj1-4;	 ! gsm ~ operative
+oideachasúil	Adj2-1;	 ! educational
+oidhreachtúil	Adj2-1;	 ! hereditary
+oifigiúil	Adj2-1;	 ! official
+oigheartha	Adj3-1;	 ! galled, chafed, irritated
+oighreach	Adj1-3;	 ! glacial
+oighreata	Adj3-1;	 ! icy
+oilbhéasach	Adj1-3;	 ! mischievous, unruly; (of animal)
+oileánach	Adj1-3;	 ! islander a1 abounding in
+oiliúnach	Adj1-3;	 ! nourishing; nurturing; instructive
+oilte	Adj3-1;	 ! skilled, proficient
+oiltiúil	Adj2-1;	 ! over-rich, cloying
+oineachúil	Adj2-1;	 ! generous, good-natured
+oirbheartach	Adj1-3;	 ! dexterous, skilful; valiant; mature
+oirchilleach	Adj1-3;	 ! ready, prepared (ar for);
+oirfideach	Adj1-3;	 ! minstrel, musician; entertainer a1
+oirirc	Adj2-2;	 ! eminent, illustrious
+oiriúnach	Adj1-3;	 ! suitable, fitting; ready; well-behaved
+oirmhinneach	Adj1-3;	 ! a Oirmhinnigh your Reverence,
+oirní	Adj3-1;	 ! ordained; inaugurated; eminent; ordered
+oirthearach	Adj1-3;	 ! oriental a1 eastern, oriental
+olach	Adj1-3;	 ! oily
+olagónach	Adj1-3;	 ! wailing, lamenting
+olanda	Adj3-1;	 ! woolly
+olartha	Adj3-1;	 ! fat, greasy; unctuous
+ollach	Adj1-3;	 ! woolly, fleecy
+ollsmachtach	Adj1-3;	 ! totalitarian
+olúil	Adj2-1;	 ! oily, oleaginous
+onórach	Adj1-3;	 ! honourable, upright; esteemed; honorary
+optach	Adj1-3;	 ! optic
+ordaitheach	Adj1-3;	 ! (grammar) imperative
+ordúil	Adj2-1;	 ! orderly, neat; ordered
+orgánach	Adj1-3;	 ! organism a1 organic
+ornáideach	Adj1-3;	 ! ornamental; ornate
+ortaipéideach	Adj1-3;	 ! orthopaedic
+oscailte	Adj3-1;	 ! open
+oscailteach	Adj1-3;	 ! open, frank; open-handed
+oscartha	Adj3-1;	 ! strong; lithe, agile
+osnádúrtha	Adj3-1;	 ! supernatural
+othrasach	Adj1-3;	 ! sick, wounded; ulcerous
+oíchí	Adj3-1;	 ! nocturnal
+paiseanta	Adj3-1;	 ! passionate; angry, hot-tempered
+paiteanta	Adj3-1;	 ! patent, clear; neat, exact
+parailéalach	Adj1-3;	 ! parallel
+parlaiminteach	Adj1-3;	 ! parliamentary
+paróisteach	Adj1-3;	 ! parishioner a1 parochial
+patuar	Adj1-2;	 ! lukewarm; apathetic
+peacúil	Adj2-1;	 ! sinful
+peannaideach	Adj1-3;	 ! penal; painful
+pearsanta	Adj3-1;	 ! personal; personable
+peipteach	Adj1-3;	 ! peptic
+piachánach	Adj1-3;	 ! hoarse, throaty
+pianmhar	Adj1-2;	 ! painful
+pianúil	Adj2-1;	 ! punitive, penal
+pictiúrtha	Adj3-1;	 ! pictorial; picturesque
+pioctha	Adj3-1;	 ! neat, spruce
+pionósach	Adj1-3;	 ! punitive
+piseogach	Adj1-3;	 ! superstitious
+piseánach	Adj1-3;	 ! peas, lentils a1 leguminous
+piteogach	Adj1-3;	 ! effeminate
+piúratánach	Adj1-3;	 ! puritan a1 puritanical
+plaisteach	Adj1-3;	 ! plastic
+plaiteach	Adj1-3;	 ! patchy, bald
+plandúil	Adj2-1;	 ! vegetable
+platónach	Adj1-3;	 ! platonic
+pleidhciúil	Adj2-1;	 ! silly, stupid
+plucach	Adj1-3;	 ! chubby; large-cheeked; puckered
+pludach	Adj1-3;	 ! muddy, slushy
+plámásach	Adj1-3;	 ! flattering; cajoling
+plásánta	Adj3-1;	 ! bland, plausible
+pléascach	Adj1-3;	 ! explosive a1 explosive; flashy;
+pléascánta	Adj3-1;	 ! breezy, exuberant
+pléatach	Adj1-3;	 ! pleated
+pléineáilte	Adj3-1;	 ! plain
+pléisiúrtha	Adj3-1;	 ! pleasurable, enjoyable; pleasant, agreeable
+pléite	Adj3-1;	 ! played out, exhausted
+plúchtach	Adj1-3;	 ! suffocating, stuffy
+plúrach	Adj1-3;	 ! floury; flower-like, pretty
+poblachtach	Adj1-3;	 ! republican
+poiblí	Adj3-1;	 ! public
+poimpéiseach	Adj1-3;	 ! pompous
+pointeáilte	Adj3-1;	 ! well-kept, tidy, smart; exact,
+pointiúil	Adj2-1;	 ! punctual
+polaitiúil	Adj2-1;	 ! political
+polaróideach	Adj1-3;	 ! polaroid
+polltach	Adj1-3;	 ! piercing, penetrating
+poncúil	Adj2-1;	 ! punctual
+pontaifiúil	Adj2-1;	 ! pontifical
+postúil	Adj2-1;	 ! self-important, conceited
+pragmatach	Adj1-3;	 ! pragmatist a1 pragmatic(al)
+praiticiúil	Adj2-1;	 ! practical, practicable
+praitinniúil	Adj2-1;	 ! astute; wise, sensible
+pramsach	Adj1-3;	 ! prancing a1 prancing; frolicsome
+prap	Adj1-2;	 ! prompt, sudden
+prapanta	Adj3-1;	 ! pert, insolent
+pras	Adj1-2;	 ! quick, prompt
+preabach	Adj1-3;	 ! jumping; bouncing; jerky; flickering,
+preabanta	Adj3-1;	 ! quick, lively
+preabúil	Adj2-1;	 ! lively; prompt; generous
+preicleach	Adj1-3;	 ! double-chinned
+priaclach	Adj1-3;	 ! perilous, risky; troubled, anxious
+pribhléideach	Adj1-3;	 ! privileged; articulate; forward
+prionsabálta	Adj3-1;	 ! high-principled; punctilious; dogmatic
+priosmach	Adj1-3;	 ! prismatic
+proifisiúnta	Adj3-1;	 ! professional
+práibeach	Adj1-3;	 ! soft, mushy
+práinneach	Adj1-3;	 ! urgent; pressing, pressed
+prásach	Adj1-3;	 ! brassy, brazen
+príobháideach	Adj1-3;	 ! private
+príomha	Adj3-1;	 ! prime, primary
+príomhúil	Adj2-1;	 ! primary
+prólatáireach	Adj1-3;	 ! proletarian
+prósach	Adj1-3;	 ! prosaic, prosy
+próstatach	Adj1-3;	 ! prostate
+purgóideach	Adj1-3;	 ! purgative
+pusach	Adj1-3;	 ! pouting, sulky, in a
+págánta	Adj3-1;	 ! pagan, heathen
+páircíneach	Adj1-3;	 ! (of cloth) checked
+páirtaimseartha	Adj3-1;	 ! part-time
+páirteach	Adj1-3;	 ! participating, sharing; sympathetic; partial
+páistiúil	Adj2-1;	 ! childlike, childish
+pápach	Adj1-3;	 ! papal
+péacach	Adj1-3;	 ! peaked, pointed; showy, gaily-dressed
+péacógach	Adj1-3;	 ! showily dressed; vain
+póiriúil	Adj2-1;	 ! porous
+pósta	Adj3-1;	 ! married
+púbasach	Adj1-3;	 ! pubic
+púdrach	Adj1-3;	 ! powdery; powdered
+púiceach	Adj1-3;	 ! morose; frowning
+púiciúil	Adj2-1;	 ! gloomy; sullen
+púrach	Adj1-3;	 ! tragic, calamitous; grief-stricken
+rabairneach	Adj1-3;	 ! prodigal, extravagant
+rabhnáilte	Adj3-1;	 ! round
+rachmasach	Adj1-3;	 ! wealthy
+rachtúil	Adj2-1;	 ! emotional, vehement; hearty
+racánach	Adj1-3;	 ! rowdy; riotous
+radacach	Adj1-3;	 ! radical
+radharcach	Adj1-3;	 ! seeing, viewing; visual, optical
+radúil	Adj2-1;	 ! radial
+rafar	Adj1-2;	 ! prosperous; thriving; prolific
+ragairneach	Adj1-3;	 ! revelling, roistering, rakish
+raidhsiúil	Adj2-1;	 ! abundant
+ramallach	Adj1-3;	 ! slimy
+rancásach	Adj1-3;	 ! frolicsome, frisky
+rannach	Adj1-3;	 ! departmental
+rannpháirteach	Adj1-3;	 ! participating, partaking
+ranníocach	Adj1-3;	 ! contributory
+rathúil	Adj2-1;	 ! prosperous, successful; fortunate
+reachtach	Adj1-3;	 ! legislative
+reachtmhar	Adj1-2;	 ! lawful, legitimate
+reachtúil	Adj2-1;	 ! statutory, statute
+reangach	Adj1-3;	 ! stringy, wiry; lanky, scrawny
+reangach	Adj1-3;	 ! welted, scarred; creased
+reathach	Adj1-3;	 ! running, cursive
+reiligiúnach	Adj1-3;	 ! religious
+reitriciúil	Adj2-1;	 ! rhetorical
+reoch	Adj1-1;	 ! gsm ~ frosty
+reoiteach	Adj1-3;	 ! frosty; chilling
+reomhar	Adj1-2;	 ! frigid
+riabhach	Adj1-3;	 ! streaked, striped, brindled; drab;
+riachtanach	Adj1-3;	 ! necessary
+rianta	Adj3-1;	 ! marked out; prepared; accomplished
+rianúil	Adj2-1;	 ! orderly, methodical
+riarthach	Adj1-3;	 ! administrative; distributive, dispensing
+riascach	Adj1-3;	 ! marshy; moorish
+riastach	Adj1-3;	 ! welted; streaked, striped
+ribeach	Adj1-3;	 ! hairy, bristly; bladed; tattered;
+ribeadach	Adj1-3;	 ! (of tube) capillary
+rinneach	Adj1-3;	 ! pointed; sharp; biting
+rite	Adj3-1;	 ! exhausted, extinct, ~ anuas,
+rite	Adj3-1;	 ! taut, tense; sharp, steep,
+rithimeach	Adj1-3;	 ! rhythmic(al)
+rocach	Adj1-3;	 ! wrinkled, creased, iarann ~
+rodta	Adj3-1;	 ! (dry-)rotted; (of drink) flat,
+roghnach	Adj1-3;	 ! optional
+roinnteach	Adj1-3;	 ! distributive
+roithleánach	Adj1-3;	 ! revolving, whirling
+rollach	Adj1-3;	 ! rolling
+ronnach	Adj1-3;	 ! dribbling; mucous
+rosach	Adj1-3;	 ! rough, horny
+roscach	Adj1-3;	 ! rhetorical, declamatory
+rothlach	Adj1-3;	 ! rotating, rotary
+rothánach	Adj1-3;	 ! circulating
+ruaimneach	Adj1-3;	 ! red, russet; (of water)
+ruatharach	Adj1-3;	 ! rushing, milling about a1
+rufach	Adj1-3;	 ! ruffed, frilled
+ruibheach	Adj1-3;	 ! suphuric
+ruibheanta	Adj3-1;	 ! venomous, sharp-tongued
+ruibhiúil	Adj2-1;	 ! sulphurous
+ruithneach	Adj1-3;	 ! radiant, gleaming
+rábach	Adj1-3;	 ! bold, dashing; reckless, fás
+ráithiúil	Adj2-1;	 ! quarterly
+rámhailleach	Adj1-3;	 ! raving, delirious; fanciful
+rátaithe	Adj3-1;	 ! rated
+réabhlóideach	Adj1-3;	 ! revolutionary
+réadach	Adj1-3;	 ! real; objective
+réadúil	Adj2-1;	 ! real, realistic
+réaltach	Adj1-3;	 ! starry; astral; beautiful
+réaltógach	Adj1-3;	 ! starry, starred
+réamach	Adj1-3;	 ! rheumy; phlegmy, catarrhal; (of
+réamhchlaonta	Adj3-1;	 ! prejudiced
+réamhráite	Adj3-1;	 ! aforesaid, aforementioned
+réamhstairiúil	Adj2-1;	 ! prehistoric
+réamhtheachtach	Adj1-3;	 ! precursory; antecedent
+réasúnach	Adj1-3;	 ! reasoning, rational
+réasúnta	Adj3-1;	 ! reasonable; sane, sensible; fair,
+réchaite	Adj3-1;	 ! half-worn; partly worn away
+réchnocach	Adj1-3;	 ! (of country) low-hilled, rolling
+réchúiseach	Adj1-3;	 ! easy-going; unconcerned
+rédhorcha	Adj3-1;	 ! moonless
+réiciúil	Adj2-1;	 ! rakish
+réigiúnach	Adj1-3;	 ! regional
+ríméadach	Adj1-3;	 ! jubilant, proud
+ríoga	Adj3-1;	 ! regal, royal
+ríogach	Adj1-3;	 ! spasmodic, impulsive
+ríoraíoch	Adj1-4;	 ! gsm ~ dynastic
+ríúil	Adj2-1;	 ! kingly, splendid (CW 09/08)
+rógánta	Adj3-1;	 ! roguish
+rómánsach	Adj1-3;	 ! romantic, teangacha Rómánsacha Romance
+rósach	Adj1-3;	 ! rosy; roseate
+rúnda	Adj3-1;	 ! mysterious; secret, confidential
+rúnmhar	Adj1-2;	 ! close, secretive
+rúnpháirteach	Adj1-3;	 ! initiate, initiatory
+sabóideach	Adj1-3;	 ! sabbatic(al)
+sacrailéideach	Adj1-3;	 ! sacrilegious
+sacraimintiúil	Adj2-1;	 ! sacramental
+sagartúil	Adj2-1;	 ! priestly
+saighdiúrtha	Adj3-1;	 ! soldierly
+sailleach	Adj1-3;	 ! fatty, adipose
+sainiúil	Adj2-1;	 ! specific; distinctive; special
+salanda	Adj3-1;	 ! saline
+samhailteach	Adj1-3;	 ! imaginary
+samhalta	Adj3-1;	 ! visionary, fanciful, unreal
+samhaltach	Adj1-3;	 ! symbolic
+samhlachúil	Adj2-1;	 ! typical
+samhlaíoch	Adj1-4;	 ! gsm ~ imaginative
+samhnasach	Adj1-3;	 ! nauseating, disgusting; queasy, squeamish
+samhrata	Adj3-1;	 ! summery
+samplach	Adj1-3;	 ! exemplifying, typical
+santach	Adj1-3;	 ! greedy, covetous, avaricious; intensely
+sainteach	Adj1-3;	 ! greedy, covetous, avaricious; intensely
+saobh	Adj1-2;	 ! slanted, twisted; askew; capricious;
+saofa	Adj3-1;	 ! warped, perverted, misled
+saoithiúil	Adj2-1;	 ! learned, wise; accomplished; entertaining;
+saolach	Adj1-3;	 ! long-lived
+saolta	Adj3-1;	 ! worldly, mundane; lay, secular;
+saonta	Adj3-1;	 ! naive, gullible
+saor	Adj1-2;	 ! free person, freeman a1
+saorga	Adj3-1;	 ! artificial, manmade
+saoráideach	Adj1-3;	 ! easy, facile
+saothrach	Adj1-3;	 ! laborious; laboured; industrious
+scafa	Adj3-1;	 ! eager, avid (chun ruda
+scafánta	Adj3-1;	 ! tall and vigorous, strapping
+scagach	Adj1-3;	 ! permeable, porous; flimsy
+scaipeach	Adj1-3;	 ! scattered; squandering; confused
+scaipthe	Adj3-1;	 ! scattered; scatter-brained; (of ideas,
+scairteach	Adj1-3;	 ! shouting, calling a1 shouting,
+scalltach	Adj1-3;	 ! scalding, boiling hot
+scamallach	Adj1-3;	 ! cloudy, clouded; webbed
+scamhardach	Adj1-3;	 ! nutritious, nourishing
+scannalach	Adj1-3;	 ! scandalous
+scanrúil	Adj2-1;	 ! frightening, frightful; easily frightened
+scaoilte	Adj3-1;	 ! loose; free; loose-limbed
+scaoilteach	Adj1-3;	 ! loose; dispersed; loose-tongued; dissolute;
+scaollmhar	Adj1-2;	 ! panicky
+scarlóideach	Adj1-3;	 ! scarlet
+sceadach	Adj1-3;	 ! blazed; patchy, scant, balding
+sceanúil	Adj2-1;	 ! sharp, biting; (of sea)
+sceidealta	Adj3-1;	 ! scheduled
+sceiptiúil	Adj2-1;	 ! sceptical
+sceirdiúil	Adj2-1;	 ! bleak, windswept
+sceiteach	Adj1-3;	 ! crumbling, brittle
+sciamhach	Adj1-3;	 ! beautiful
+scigiúil	Adj2-1;	 ! giggling; derisive
+scinnideach	Adj1-3;	 ! nervous, timid; flighty
+sciobalta	Adj3-1;	 ! smart, spruce; prompt
+sciobtha	Adj3-1;	 ! fast, prompt
+sciorrach	Adj1-3;	 ! slippery
+sciotach	Adj1-3;	 ! lopped, clipped; skimpy
+scleondrach	Adj1-3;	 ! elated
+sclotrach	Adj1-3;	 ! emaciated
+sclábhánta	Adj3-1;	 ! slavish, servile, subservient
+sclábhúil	Adj2-1;	 ! laborious
+scléipeach	Adj1-3;	 ! ostentatious; festive, sportive
+scoite	Adj3-1;	 ! severed; disconnected; separated, isolated
+scolaíoch	Adj1-4;	 ! gsm ~ scholastic
+scolbánta	Adj3-1;	 ! wiry, lithe, strapping
+scolártha	Adj3-1;	 ! scholarly
+scornúil	Adj2-1;	 ! guttural
+scothúil	Adj2-1;	 ! beautiful, choice
+scriosach	Adj1-3;	 ! destructive, ruinous
+scrobanta	Adj3-1;	 ! scrubby, undersized
+scrofa	Adj3-1;	 ! ubh ~ scrambled egg
+scroigeach	Adj1-3;	 ! scraggy
+scrupallach	Adj1-3;	 ! scrupulous
+scrábach	Adj1-3;	 ! scratchy, scrawly; untidy, aimsir
+scríobach	Adj1-3;	 ! abrasive a1 scraping, scratching,
+scuabach	Adj1-3;	 ! sweeping, flowing
+scáfar	Adj1-2;	 ! frightful; timid
+scáinte	Adj3-1;	 ! thin, sparse; threadbare
+scéalach	Adj1-3;	 ! news-bearing, gossiping
+scéiniúil	Adj2-1;	 ! frightened-looking; (of eyes) glaring;
+scítheach	Adj1-3;	 ! tired, weary
+scóipiúil	Adj2-1;	 ! wide, spacious; loose-limbed; eager;
+seachantach	Adj1-3;	 ! evasive, elusive; distant, diffident
+seachtainiúil	Adj2-1;	 ! weekly
+seachtrach	Adj1-3;	 ! external, exterior
+seaghsach	Adj1-3;	 ! pleasant, joyful
+sealbhach	Adj1-3;	 ! (grammar) possessive
+seamhrach	Adj1-3;	 ! vigorous, hale, hearty
+seanaimseartha	Adj3-1;	 ! old-fashioned; old
+seanchaite	Adj3-1;	 ! worn-out; obsolete; trite
+seanchríonna	Adj3-1;	 ! precocious; wise; old and
+seanda	Adj3-1;	 ! aged; ancient; stale
+seanfhaiseanta	Adj3-1;	 ! old-fashioned
+seang	Adj1-2;	 ! gsm ~ slender, slim;
+seansúil	Adj2-1;	 ! chancy, risky; lucky
+searbh	Adj1-2;	 ! acid a1, gsm ~
+searbhasach	Adj1-3;	 ! bitter, acrimonious
+searbhánta	Adj3-1;	 ! acrid
+seasc	Adj1-2;	 ! gsm ~ barren; sapless
+seascair	Adj2-2;	 ! snug; comfortably off
+seasmhach	Adj1-3;	 ! steadfast, firm, constant
+seasta	Adj3-1;	 ! standing, supporting; permanent, regular
+seicear	Adj1-2;	 ! chequer a1 chequered
+seicteach	Adj1-3;	 ! sectarian
+seiftiúil	Adj2-1;	 ! resourceful
+seipteach	Adj1-3;	 ! septic
+seismeach	Adj1-3;	 ! seismic
+seoigh	Adj2-2;	 ! wonderful
+seolta	Adj3-1;	 ! well-directed; smooth-running; graceful, ~
+sféarúil	Adj2-1;	 ! spherical
+siansach	Adj1-3;	 ! ringing sound a1 melodious,
+!!!see ADJ-LEX siar	AdjBASE;	 ! to the west, westwards;
+sibhialta	Adj3-1;	 ! civil; polite
+sibhialtach	Adj1-3;	 ! civilian
+silteach	Adj1-3;	 ! dripping, trickling; fluid; hanging,
+silíneach	Adj1-3;	 ! cerise
+simplí	Adj3-1;	 ! simple; simple-minded
+siméadrach	Adj1-3;	 ! symmetrical
+singil	Adj2-2;	 ! single; slender; tenuous; meagre,
+sinsearach	Adj1-3;	 ! senior person; ancestor a1
+sinseartha	Adj3-1;	 ! ancestral
+sintéiseach	Adj1-3;	 ! synthetic
+siocánta	Adj3-1;	 ! frosted, chilled; congealed, stiff
+siocúil	Adj2-1;	 ! frosty
+siogairlíneach	Adj1-3;	 ! pendent, tasselled
+siollach	Adj1-3;	 ! syllabic
+siombalach	Adj1-3;	 ! symbolic
+sionnachúil	Adj2-1;	 ! foxy, cunning
+siosach	Adj1-3;	 ! hissing, sibilant
+siosmach	Adj1-3;	 ! schismatic a1 schismatic; dissenting;
+sirtheach	Adj1-3;	 ! seeking; beseeching; begging, importunate
+siúcrúil	Adj2-1;	 ! sugary
+siúlach	Adj1-3;	 ! inclined to travel; moving,
+siúráilte	Adj3-1;	 ! sure, certain, (go) ~
+slabhrúil	Adj2-1;	 ! chain(-like)
+slachtmhar	Adj1-2;	 ! well-finished, tidy
+slapach	Adj1-3;	 ! sloppy, slovenly
+sleamchúiseach	Adj1-3;	 ! remiss
+sleasach	Adj1-3;	 ! many-sided; faceted; lateral
+sligreach	Adj1-3;	 ! shells, shards, fragments; (of
+slim	Adj2-2;	 ! smooth, sleek; slim; sly;
+slinneánach	Adj1-3;	 ! broad-shouldered
+sliogánach	Adj1-3;	 ! shelled; dappled, mottled
+sliopach	Adj1-3;	 ! slippery; butter-fingered, awkward
+slocach	Adj1-3;	 ! pitted; rutted
+sláinteach	Adj1-3;	 ! hygienic
+sláintiúil	Adj2-1;	 ! healthy; wholesome
+sléibhtiúil	Adj2-1;	 ! mountainous; hilly
+slíoctha	Adj3-1;	 ! sleek, plausible
+slítheánta	Adj3-1;	 ! sly, ingratiating; sneaking
+slóchtach	Adj1-3;	 ! hoarse
+smachtúil	Adj2-1;	 ! controlling, disciplinary; repressive
+smaointeach	Adj1-3;	 ! thoughtful, pensive
+smolchaite	Adj3-1;	 ! threadbare, shabby; (of fire)
+smuilceach	Adj1-3;	 ! surly; sulky
+smutach	Adj1-3;	 ! stumpy, short; sulky
+smúitiúil	Adj2-1;	 ! smoky; misty; murky; gloomy;
+smúrach	Adj1-3;	 ! dusty, sooty, grimy
+smúránta	Adj3-1;	 ! (of weather) dull, hazy
+snagach	Adj1-3;	 ! gasping, sobbing; hiccuping, (of
+snasta	Adj3-1;	 ! finished, polished, glossy
+sneachtúil	Adj2-1;	 ! snowy
+snoite	Adj3-1;	 ! thin, emaciated; refined
+snáitheach	Adj1-3;	 ! grained, fibrous
+snáithíneach	Adj1-3;	 ! fibrous, stringy
+snámhach	Adj1-3;	 ! floating, buoyant; (of water)
+snítheach	Adj1-3;	 ! flowing, coursing, gliding smoothly
+snúúil	Adj2-2;	 ! of good complexion, healthy-looking
+so-adhainte	Adj3-1;	 ! inflammable
+so-ranna	Adj3-1;	 ! easy to get on
+sobhriste	Adj3-1;	 ! fragile, brittle
+sochaideartha	Adj3-1;	 ! approachable, sociable
+sochma	Adj3-1;	 ! soft, easy-going, placid
+sochomhairleach	Adj1-3;	 ! docile; tractable
+sochorraithe	Adj3-1;	 ! easily moved, excitable
+sochrach	Adj1-3;	 ! profitable, advantageous, beneficial
+sochreidte	Adj3-1;	 ! credible
+sofaisticiúil	Adj2-1;	 ! sophisticated
+sofheicthe	Adj3-1;	 ! visible; manifest, obvious
+sofhulaingthe	Adj3-1;	 ! bearable, endurable
+soghluaiste	Adj3-1;	 ! mobile; inconstant; accessible; responsive;
+soghonta	Adj3-1;	 ! vulnerable
+soibealta	Adj3-1;	 ! impudent, saucy
+soilseach	Adj1-3;	 ! bright
+soilíosach	Adj1-3;	 ! obliging
+soineanta	Adj3-1;	 ! (of weather) calm, fair;
+soir	AdjBASE;	 ! to the east, eastward,
+soiscéalach	Adj1-3;	 ! evangelic(al)
+solabhartha	Adj3-1;	 ! affable; eloquent
+solasmhar	Adj1-2;	 ! bright; clear
+solathach	Adj1-3;	 ! venial
+sollúnta	Adj3-1;	 ! solemn
+soláimhsithe	Adj3-1;	 ! easily handled, manageable
+solámhach	Adj1-3;	 ! deft, dexterous
+soléite	Adj3-1;	 ! readable; legible
+solúbtha	Adj3-1;	 ! flexible, pliable, adaptable
+somheanmnach	Adj1-3;	 ! in good spirits, cheerful
+somhúinte	Adj3-1;	 ! easily taught, docile son
+sonach	Adj1-3;	 ! sonic
+sonasach	Adj1-3;	 ! happy; fortunate
+sonda	Adj3-1;	 ! sonorous
+sonite	Adj3-1;	 ! washable
+sonrach	Adj1-3;	 ! particular, specific
+sonraíoch	Adj1-4;	 ! gsm ~ noticeable; peculiar;
+sorcha	Adj3-1;	 ! brightness a3 bright; cheerful
+sotalach	Adj1-3;	 ! arrogant; impudent
+sothuigthe	Adj3-1;	 ! easily understood; comprehensible, simple
+spadach	Adj1-3;	 ! heavy and wet
+spadhrúil	Adj2-1;	 ! temperamental
+spadánta	Adj3-1;	 ! sluggish, lethargic
+spalptha	Adj3-1;	 ! parched
+speictreach	Adj1-3;	 ! (of colours) spectral
+speisialta	Adj3-1;	 ! special
+spiacánach	Adj1-3;	 ! jagged, spiky
+spiagaí	Adj3-1;	 ! flashy, gaudy
+spioradálta	Adj3-1;	 ! spiritual
+spioradúil	Adj2-1;	 ! spirited, courageous
+spleodrach	Adj1-3;	 ! cheerful, vivacious; exuberant
+sponcúil	Adj2-1;	 ! spunky, courageous
+sportha	Adj3-1;	 ! exhausted; broke
+spraíúil	Adj2-2;	 ! playful, sportive, amusing
+spreacúil	Adj2-1;	 ! vigorous, forceful
+spreagúil	Adj2-1;	 ! rousing, encouraging; spirited
+spreangach	Adj1-3;	 ! impulsive; quick-tempered
+spreasánta	Adj3-1;	 ! good-for-nothing, worthless
+spridiúil	Adj2-1;	 ! courageous; high-spirited
+sprionlaithe	Adj3-1;	 ! mean, miserly
+spréite	Adj3-1;	 ! full-blown, sciorta ~ flared
+spuaiceach	Adj1-3;	 ! blistered; pinnacled; huffed
+spágach	Adj1-3;	 ! flat-footed, clumsy
+spártha	Adj3-1;	 ! spare, left over
+spárálach	Adj1-3;	 ! sparing, frugal
+spásmhar	Adj1-2;	 ! spacious
+spéiriúil	Adj2-1;	 ! airy; bright; cheerful; beautiful
+spéisiúil	Adj2-1;	 ! interesting; neat and clean;
+spíceach	Adj1-3;	 ! spiky, spicate
+spídiúil	Adj2-1;	 ! disparaging, vituperative, abusive
+spíonach	Adj1-3;	 ! spiny, thorny
+spíosrach	Adj1-3;	 ! spicy, aromatic
+spórtúil	Adj2-1;	 ! sportive, amusing
+spúinsiúil	Adj2-1;	 ! spongy
+sracúil	Adj2-1;	 ! strong and spirited
+sramach	Adj1-3;	 ! (of eyes) bleary; rheumy;
+sraoilleach	Adj1-3;	 ! tattered; trailing; slatternly
+srathach	Adj1-3;	 ! layered; tiered; serial
+sreabhach	Adj1-3;	 ! streaming, flowing; fluid
+sreabhnach	Adj1-3;	 ! membranous; fine, filmy
+sreangach	Adj1-3;	 ! stringed; stringy; (of eye)
+sreangánach	Adj1-3;	 ! stringy, fibrous
+srianta	Adj3-1;	 ! restrained, controlled, restricted
+sruthlíneach	Adj1-3;	 ! streamlined
+sruthshoilseach	Adj1-3;	 ! fluorescent
+srónach	Adj1-3;	 ! nasal; nosy, inquisitive
+stadach	Adj1-3;	 ! faltering, stammering; staccato
+staidéarach	Adj1-3;	 ! studious; steady, level-headed
+stainceach	Adj1-3;	 ! huffy, petulant
+staitistiúil	Adj2-1;	 ! statistical
+stalcach	Adj1-3;	 ! stubborn, sulky; stiff, stodgy
+stamhlaí	Adj3-1;	 ! blustery
+staontach	Adj1-3;	 ! abstinent, teetotal
+starrach	Adj1-3;	 ! projecting, prominent; rugged; uncouth
+starraiceach	Adj1-3;	 ! peaked, prominent; tufted, crested
+statach	Adj1-3;	 ! static
+stiallach	Adj1-3;	 ! torn, tattered
+stoirmeach	Adj1-3;	 ! stormy, tempestuous
+stoithneach	Adj1-3;	 ! shock-haired, tousled
+stolpach	Adj1-3;	 ! stodgy, stiff; constipating
+storrúil	Adj2-1;	 ! strong, vigorous; determined; stirring
+stothach	Adj1-3;	 ! (of hair) bushy, unkempt
+stradúsach	Adj1-3;	 ! cocky, cocksure
+straibhéiseach	Adj1-3;	 ! ostentatious, showy
+strainséartha	Adj3-1;	 ! strange
+straitéiseach	Adj1-3;	 ! strategic
+streachlánach	Adj1-3;	 ! straggling, trailing
+stráisiúnta	Adj3-1;	 ! bumptious, cheeky
+stríocach	Adj1-3;	 ! streaky, striped; lined; submissive
+stróinéiseach	Adj1-3;	 ! pushful; overbearing
+stróúil	Adj2-2;	 ! ostentatious; conceited; elated
+stuacach	Adj1-3;	 ! pointed, peaked; sulky, stubborn
+stuach	Adj1-1;	 ! gsm ~ arched
+stáidiúil	Adj2-1;	 ! stately; pompous
+stáitsiúil	Adj2-1;	 ! histrionic
+stálaithe	Adj3-1;	 ! stale; stiff, obstinate; tough
+stánúil	Adj2-1;	 ! tinny; stannous
+státurraithe	Adj3-1;	 ! state-sponsored
+státúil	Adj2-1;	 ! stately, dignified
+stéigeach	Adj1-3;	 ! intestinal
+stíleach	Adj1-3;	 ! stylistic
+stóinsithe	Adj3-1;	 ! solidly built; stubborn, tough
+suaimhneach	Adj1-3;	 ! peaceful, tranquil; easy
+suaimhneasach	Adj1-3;	 ! soothing, tranquillizing, sedative
+suairc	Adj2-2;	 ! pleasant, agreeable; cheerful
+suaite	Adj3-1;	 ! mixed; exhausted; agitated
+suaithinseach	Adj1-3;	 ! remarkable, distinctive; special
+suaithní	Adj3-1;	 ! remarkable; queer
+suanach	Adj1-3;	 ! lethargic, apathetic; dormant
+suanlaíoch	Adj1-4;	 ! gsm ~ soporific
+suanmhar	Adj1-2;	 ! sleepy, drowsy, somnolent
+suarach	Adj1-3;	 ! petty; mean; frivolous
+subhach	Adj1-3;	 ! glad, joyful; cheerful
+substainteach	Adj1-3;	 ! substantial, solid, well-to-do
+substaintiúil	Adj2-1;	 ! substantial
+suibiachtúil	Adj2-1;	 ! subjective
+suimiúil	Adj2-1;	 ! interesting; considerable; conceited
+suite	Adj3-1;	 ! situated; fixed; certain
+suntasach	Adj1-3;	 ! noticeable, remarkable; distinctive
+suthach	Adj1-3;	 ! fruitful, productive; embryonic
+suthain	Adj2-2;	 ! perpetual, eternal
+suáilceach	Adj1-3;	 ! virtuous; joyful, pleasant
+sábháilte	Adj3-1;	 ! safe
+sábhálach	Adj1-3;	 ! saving, thrifty
+sádach	Adj1-3;	 ! sadist a1 sadistic
+sáil	Adj2-2;	 ! easy, restful; self-indulgent
+sáiteach	Adj1-3;	 ! thrusting, stabbing; intrusive; nagging
+sámh	Adj1-2;	 ! tranquillity; rest a1 tranquil;
+sármhaith	Adj2-2;	 ! excellent
+sásúil	Adj2-1;	 ! satisfying, satisfactory
+séanmhar	Adj1-2;	 ! lucky, prosperous
+séantach	Adj1-3;	 ! denying, disclaiming
+séasúrach	Adj1-3;	 ! seasonable, seasonal; seasoned
+síceach	Adj1-3;	 ! psychic(al)
+síceapatach	Adj1-3;	 ! psychopath a1 psychopathic
+sínteach	Adj1-3;	 ! stretching, extending; drawn-out; liberal
+síochánta	Adj3-1;	 ! peaceful; pacific
+síodúil	Adj2-1;	 ! silky; urbane; courteous
+síolmhar	Adj1-2;	 ! fertile, fruitful
+síonchaite	Adj3-1;	 ! weather-worn, weathered
+síor	Adj1-2;	 ! eternal, perpetual, continual, de
+síoraí	Adj3-1;	 ! eternal; perpetual; continual; constant,
+síorghnách	Adj1-5;	 ! gsm ~ commonplace, humdrum
+!! ADV ONLY síos		AdjBASE;	! down; hanging down; trailing,~
+síothóilte	Adj3-1;	 ! settled, peaceful
+sítheach	Adj1-3;	 ! peaceful, harmonious
+síúil	Adj2-2;	 ! fairy-like, elfin; weird
+sóbráilte	Adj3-1;	 ! sober
+sócmhainneach	Adj1-3;	 ! solvent
+sócúlach	Adj1-3;	 ! easy, comfortable
+sóisearach	Adj1-3;	 ! junior
+sóisialach	Adj1-3;	 ! socialist
+sóisialta	Adj3-1;	 ! social
+sóivéadach	Adj1-3;	 ! soviet
+sólásach	Adj1-3;	 ! consoling; comfortable
+sómasach	Adj1-3;	 ! easy, comfortable; easy-going
+sómhar	Adj1-2;	 ! comfortable, luxurious
+sóúil	Adj2-2;	 ! comfortable, luxurious; (of food,
+súchaite	Adj3-1;	 ! sapless; trite
+súgach	Adj1-3;	 ! merry, tipsy
+súgrach	Adj1-3;	 ! playful, sportive
+súicheach	Adj1-3;	 ! sooty; dirty
+súiteach	Adj1-3;	 ! absorbent
+súmhar	Adj1-2;	 ! sappy, juicy, succulent
+tabhartasach	Adj1-3;	 ! generous
+tabharthach	Adj1-3;	 ! dative
+tachtach	Adj1-3;	 ! choking
+tacúil	Adj2-1;	 ! supporting; solid, reliable; sturdy;
+tadhlach	Adj1-3;	 ! touching, adjoining; tactile
+taghdach	Adj1-3;	 ! impulsive, quicktempered; capricious
+tagrach	Adj1-3;	 ! allusive; impertinent
+taibhriúil	Adj2-1;	 ! imaginary
+taibhseach	Adj1-3;	 ! showy; ostentatious; pretentious
+taibhsiúil	Adj2-1;	 ! ghostly, spectral
+taidhiúir	Adj2-2;	 ! tearful; plaintive; sad; melodious
+tairbheach	Adj1-3;	 ! beneficial, profitable
+tairiseach	Adj1-3;	 ! loyal; reliable
+tairngeartach	Adj1-3;	 ! prophetic
+tais	Adj2-2;	 ! damp, moist, humid; soft;
+taismeach	Adj1-3;	 ! casualty a1 accidental; tragic
+taispeántach	Adj1-3;	 ! demonstrative; showy
+taitneamhach	Adj1-3;	 ! bright, shining; like able,
+talamhiata	Adj3-1;	 ! landlocked
+tallannach	Adj1-3;	 ! talented; fitful, impulsive
+talmhaí	Adj3-1;	 ! earthly; worldly; thick-set
+taobhach	Adj1-3;	 ! lateral; partial, biased
+taoidmhear	Adj1-2;	 ! tidal
+taomach	Adj1-3;	 ! fitful, spasmodic; moody
+taoscach	Adj1-3;	 ! gushing, overflowing
+taosmhar	Adj1-2;	 ! heavy; substantial
+tapúil	Adj2-1;	 ! speedy, active
+tarbhánta	Adj3-1;	 ! bull-like; powerful
+tarcaisneach	Adj1-3;	 ! contemptuous; insulting, obair tharcaisneach
+tarraingteach	Adj1-3;	 ! attractive
+tartmhar	Adj1-2;	 ! thirsty; thirst-provoking
+tathagach	Adj1-3;	 ! solid, substantial
+teachtmhar	Adj1-2;	 ! suitable, convenient
+teagascach	Adj1-3;	 ! didactic
+teagmhasach	Adj1-3;	 ! accidental, incidental, contingent
+teamparálta	Adj3-1;	 ! temporal
+teanntásach	Adj1-3;	 ! assured; forward, audacious; familiar
+tearc	Adj1-2;	 ! gsm ~ few, scarce,
+teasaí	Adj3-1;	 ! hot, ardent, fiery; feverish;
+teaspúil	Adj2-1;	 ! well off; exuberant; wanton
+teibí	Adj3-1;	 ! abstract
+teicniúil	Adj2-1;	 ! technical
+teidealach	Adj1-3;	 ! titular; titled; haughty
+teidheach	Adj1-3;	 ! whimsical; crotchety
+teifeach	Adj1-3;	 ! fugitive, refugee
+teimhleach	Adj1-3;	 ! dark; stained
+teimhneach	Adj1-3;	 ! dark, opaque
+teiripeach	Adj1-3;	 ! therapist a1 therapeutic
+teirmeach	Adj1-3;	 ! thermal
+teochreasach	Adj1-3;	 ! tropical
+teoiriciúil	Adj2-1;	 ! theoretical
+teolaí	Adj3-1;	 ! warm, comfortable; fond of
+teoranta	Adj3-1;	 ! limited, restricted
+teorantach	Adj1-3;	 ! restrictive; bordering
+!!thall	AdjBASE;	 ! over,beyond, breith ~ ar
+!!theas	AdjBASE;	 ! (in the) south
+!!thiar	AdjBASE;	 ! (in the) west; back,
+!!thoir	AdjBASE;	 ! (in the) east
+!!thuaidh	AdjBASE;	 ! (in the) north, ó
+!!thuas	AdjBASE;	 ! up, beidh tú ~
+!!thíos	AdjBASE;	 ! here,down,an ceann ~ den
+tiarnúil	Adj2-1;	 ! lordly; overbearing, domineering
+timpireach	Adj1-3;	 ! anal
+timpisteach	Adj1-3;	 ! accidental
+tintrí	Adj3-1;	 ! fiery, hot-tempered; flashing
+tiomanta	Adj3-1;	 ! sworn; set, determined
+tiomsaitheach	Adj1-3;	 ! collective, accumulative
+tionscantach	Adj1-3;	 ! initial, original; possessing initiative,
+tionsclach	Adj1-3;	 ! industrious
+tionsclaíoch	Adj1-4;	 ! gsm ~ industrial
+tipiciúil	Adj2-1;	 ! typical
+tláith	Adj2-2;	 ! weak, wan; tender, gentle
+tláithíneach	Adj1-3;	 ! soft-spoken; wheedling
+tnáite	Adj3-1;	 ! jaded, exhausted
+tnúthach	Adj1-3;	 ! envious
+tnúthánach	Adj1-3;	 ! yearning
+tochaltach	Adj1-3;	 ! digging, excavating; rooting; burrowing
+tocsaineach	Adj1-3;	 ! toxic
+tofa	Adj3-1;	 ! choice; elect
+tograch	Adj1-3;	 ! ready, eager; tending (do
+toiciúil	Adj2-1;	 ! wealthy, prosperous
+toiliúil	Adj2-1;	 ! wilful, intentional
+toilteanach	Adj1-3;	 ! willing, voluntary
+toirbheartach	Adj1-3;	 ! open-handed, generous
+toircheasach	Adj1-3;	 ! pregnant
+toirmeascach	Adj1-3;	 ! prohibitive; preventive; mischievous; accidental
+toirniúil	Adj2-1;	 ! thundery; noisy
+toirtiúil	Adj2-1;	 ! bulky
+toirtéiseach	Adj1-3;	 ! haughty, self-important; proud
+toiteach	Adj1-3;	 ! smoky
+tolgach	Adj1-3;	 ! violent, buffeting
+tolltach	Adj1-3;	 ! piercing, penetrating
+tomhaisiúil	Adj2-1;	 ! (of garment) well-fitting
+tomhaiste	Adj3-1;	 ! measured
+tonach	Adj1-3;	 ! tonic
+tonnaosta	Adj3-1;	 ! getting on in years
+tonnchreathach	Adj1-3;	 ! vibrating, vibrant
+tonnmhar	Adj1-2;	 ! billowy
+tonnúil	Adj2-1;	 ! wavy, undulating
+tonúil	Adj2-1;	 ! tonal
+torannach	Adj1-3;	 ! noisy
+tormánach	Adj1-3;	 ! noisy, resounding
+torpánta	Adj3-1;	 ! pot-bellied; sluggish
+torrach	Adj1-3;	 ! pregnant
+torthúil	Adj2-1;	 ! fruitful, fertile, rich
+tostach	Adj1-3;	 ! taciturn
+tragóideach	Adj1-3;	 ! tragic
+traidisiúnta	Adj3-1;	 ! traditional
+traochta	Adj3-1;	 ! exhausted, worn out
+trasnánach	Adj1-3;	 ! crosswise; diagonal
+treallach	Adj1-3;	 ! fitful; capricious; streaky, patchy
+treallúsach	Adj1-3;	 ! industrious, enterprising; assertive, forward
+treas	Adj1-2;	 ! third
+treascrach	Adj1-3;	 ! overpowering; prostrating
+treibheach	Adj1-3;	 ! tribal
+treisiúil	Adj2-1;	 ! strong, vigorous
+treoch	Adj1-1;	 ! directional
+treorach	Adj1-3;	 ! guiding, directive; strong, vigorous
+treáiteach	Adj1-3;	 ! piercing, penetrating
+trialach	Adj1-3;	 ! trial, experimental, tentative
+triantánach	Adj1-3;	 ! triangular
+triarach	Adj1-3;	 ! triple, triplicate
+tric	Adj2-2;	 ! quick, sudden, frequent
+trilseach	Adj1-3;	 ! braided, plaited; bright
+trioblóideach	Adj1-3;	 ! troublesome
+triopallach	Adj1-3;	 ! clustered; neatly gathered; tidy
+trochailte	Adj3-1;	 ! run down, enfeebled, in
+trodach	Adj1-3;	 ! combative, pugnacious, quarrelsome
+tromaí	Adj3-1;	 ! weighty; grave; heavy-hearted
+tromchúiseach	Adj1-3;	 ! grave, important; (of person)
+troscach	Adj1-3;	 ! fasting
+trua	Adj3-1;	 ! pity, sympathy, compassion; wretch;
+truacánta	Adj3-1;	 ! piteous, plaintive
+truaillitheach	Adj1-3;	 ! corrupting, contaminating, polluting
+truaillí	Adj3-1;	 ! corrupt, contaminated; vile; miserly
+truamhéalach	Adj1-3;	 ! piteous, plaintive; pathetic
+trádálach	Adj1-3;	 ! commercial
+tráthúil	Adj2-1;	 ! timely, opportune; apt; witty
+tréadach	Adj1-3;	 ! pastoral
+tréadúil	Adj2-1;	 ! gregarious
+tréasach	Adj1-3;	 ! treasonable
+tréasúil	Adj2-1;	 ! rebellious; outrageous
+tréatúrtha	Adj3-1;	 ! traitorous, treacherous
+trébhliantúil	Adj2-1;	 ! perennial
+trédhearcach	Adj1-3;	 ! transparent; diaphanous
+tréigtheach	Adj1-3;	 ! deserting, forsaking; inclined to
+tréimhsiúil	Adj2-1;	 ! periodical
+tréith	Adj2-2;	 ! weak, feeble
+tréitheach	Adj1-3;	 ! accomplished, talented; promising; playful;
+tréscaoilteach	Adj1-3;	 ! permeable
+tréshoilseach	Adj1-3;	 ! translucent
+tríthoiseach	Adj1-3;	 ! three-dimensional
+trócaireach	Adj1-3;	 ! merciful; lenient, compassionate
+trópaiceach	Adj1-3;	 ! tropical
+tuaiplisiúil	Adj2-1;	 ! blundering
+tuairgneach	Adj1-3;	 ! beating, pounding, pummelling
+tuairimeach	Adj1-3;	 ! speculative; discerning
+tuairisciúil	Adj2-1;	 ! descriptive
+tuairteálach	Adj1-3;	 ! pounding, buffeting; bumpy
+tuaisceartach	Adj1-3;	 ! northerner a1 northern; surly
+tuarúil	Adj2-1;	 ! presaging; portentous
+tuata	Adj3-1;	 ! layman; non-professional person a3
+tuathalach	Adj1-3;	 ! towards the left, anti-clock
+tuathúil	Adj2-1;	 ! rustic
+tubaisteach	Adj1-3;	 ! calamitous, disastrous
+tufar	Adj1-2;	 ! malodorous
+tugtha	Adj3-1;	 ! spent, exhausted, ~ do
+tuilleamaíoch	Adj1-4;	 ! gsm ~ dependent
+tuillmheach	Adj1-3;	 ! productive, profitable
+tuillteanach	Adj1-3;	 ! deserving
+tuilteach	Adj1-3;	 ! flooding, overflowing
+tuineanta	Adj3-1;	 ! pressing, persistent
+tuirseach	Adj1-3;	 ! tired, weary; sorrowful
+tuirsiúil	Adj2-1;	 ! tiring, fatiguing
+tuisleach	Adj1-3;	 ! stumbling; faltering
+tulcach	Adj1-3;	 ! flooding, gushing
+tulchach	Adj1-3;	 ! hilly
+tur	Adj1-2;	 ! dry, arid; cold, unsympathetic;
+turraingeach	Adj1-3;	 ! thrusting, violent
+tuthógach	Adj1-3;	 ! puffing, farting; malodorous
+táilliúrtha	Adj3-1;	 ! tailored
+táir	Adj2-2;	 ! mean, vile, wretched vt
+táireach	Adj1-3;	 ! degrading
+táirgiúil	Adj2-1;	 ! productive
+táiriúil	Adj2-1;	 ! base, vile
+támh	Adj1-2;	 ! trance; stupor, lethargy, ~
+támhach	Adj1-3;	 ! lethargic, torpid, inert
+támáilte	Adj3-1;	 ! sluggish; (of soil, etc)
+tánaisteach	Adj1-3;	 ! secondary
+táscach	Adj1-3;	 ! (grammar) indicative
+táscmhar	Adj1-2;	 ! famous, renowned
+téacsach	Adj1-3;	 ! textual
+téadach	Adj1-3;	 ! stringed
+téagartha	Adj3-1;	 ! substantial, bulky; sheltered, comfortable
+téarmach	Adj1-3;	 ! terminal
+téarnamhach	Adj1-3;	 ! convalescent
+téiglí	Adj3-1;	 ! calm; languid
+téisiúil	Adj2-1;	 ! forward, shameless
+tíofóideach	Adj1-3;	 ! typhoid
+tíoránta	Adj3-1;	 ! tyrannical, oppressive
+tíoróideach	Adj1-3;	 ! thyroid
+tíosach	Adj1-3;	 ! householder; housekeeper; host a1
+tírghrách	Adj1-5;	 ! gsm ~ patriotic
+tíriúil	Adj2-1;	 ! homely, sociable
+tógálach	Adj1-3;	 ! infectious, catching; (of person)
+tónáisteach	Adj1-3;	 ! burdensome
+tóstalach	Adj1-3;	 ! arrogant, conceited
+tútach	Adj1-3;	 ! crude, awkward; stupid; churlish
+uachtarach	Adj1-3;	 ! upper, top, talamh ~
+uachtarúil	Adj2-1;	 ! creamy
+uafar	Adj1-2;	 ! dreadful, horrible
+uafásach	Adj1-3;	 ! horrible, terrible; astonishing, tá
+uaibhreach	Adj1-3;	 ! proud, arrogant; spirited; very
+uaiféalta	Adj3-1;	 ! awful
+uaillmhianach	Adj1-3;	 ! ambitious
+uallach	Adj1-3;	 ! giddy; excitable; vain
+uamach	Adj1-3;	 ! alliterative
+uamhnach	Adj1-3;	 ! dreadful, terrifying; timorous
+uanach	Adj1-3;	 ! frothy, foaming
+uasalathartha	Adj3-1;	 ! patriarchal
+uascánta	Adj3-1;	 ! sheepish; simple-minded
+uaslathach	Adj1-3;	 ! aristocratic
+uasta	Adj3-1;	 ! highest, maximum
+uatha	Adj3-1;	 ! (grammar) singular
+uathfheidhmeach	Adj1-3;	 ! automatic
+uathlathach	Adj1-3;	 ! autocratic
+uathoibríoch	Adj1-4;	 ! gsm ~ automatic
+uathúil	Adj2-1;	 ! unique
+ubhach	Adj1-3;	 ! oval
+ubhchruthach	Adj1-3;	 ! oval
+uchtúil	Adj2-1;	 ! full-chested; courageous
+uigeach	Adj1-3;	 ! web-like; gauzy
+uilechumhachtach	Adj1-3;	 ! omnipotent, almighty
+uilefheasach	Adj1-3;	 ! omniscient
+uileghabhálach	Adj1-3;	 ! comprehensive, exhaustive
+uileláithreach	Adj1-3;	 ! omni-present, ubiquitous
+uiliteach	Adj1-3;	 ! omnivorous
+uilleach	Adj1-3;	 ! angular
+uilíoch	Adj1-4;	 ! gsm ~ universal
+uimhriúil	Adj2-1;	 ! numerical
+uimhríochtúil	Adj2-1;	 ! arithmetical
+uirbeach	Adj1-3;	 ! urban
+uireasach	Adj1-3;	 ! lacking; deficient
+uiscedhíonach	Adj1-3;	 ! waterproof
+uisciúil	Adj2-1;	 ! watery
+ulchach	Adj1-3;	 ! bearded
+ungthach	Adj1-3;	 ! unctuous
+urchomhaireach	Adj1-3;	 ! opposite
+urchóideach	Adj1-3;	 ! harmful, malignant
+urghnách	Adj1-5;	 ! (of meetings, etc) extraordinary
+urghránna	Adj3-1;	 ! hideous, ghastly
+urnaitheach	Adj1-3;	 ! prayerful; devout
+urramach	Adj1-3;	 ! an tU~ Mac Dónaill
+urrúnta	Adj3-1;	 ! strong, robust
+urrúsach	Adj1-3;	 ! strong; confident; forward
+veirteabrach	Adj1-3;	 ! vertebrate
+ábalta	Adj3-1;	 ! able, able-bodied
+ábhailleach	Adj1-3;	 ! playful, mischievous
+ábhartha	Adj3-1;	 ! material; relevant
+ádhúil	Adj2-1;	 ! lucky, fortunate
+áibhéalach	Adj1-3;	 ! exaggerative
+áibhéalta	Adj3-1;	 ! exaggerated; huge, vast
+áiféiseach	Adj1-3;	 ! exaggerated; ridiculous
+áirgiúil	Adj2-1;	 ! well-appointed; spacious
+áirithe	Adj3-1;	 ! certain, particular, ach go
+áisiúil	Adj2-1;	 ! convenient, handy
+áitithe	Adj3-1;	 ! established, practised, bligeard ~
+áititheach	Adj1-3;	 ! persuasive
+ámharach	Adj1-3;	 ! lucky, fortunate
+ársa	Adj3-1;	 ! ancient; aged
+áthasach	Adj1-3;	 ! glad, joyful
+éachtach	Adj1-3;	 ! powerful; wonderful
+éacúiméineach	Adj1-3;	 ! ecumenical
+éadairbheach	Adj1-3;	 ! unprofitable; futile
+éadmhar	Adj1-2;	 ! jealous, envious
+éadoilteanach	Adj1-3;	 ! involuntary
+éadrócaireach	Adj1-3;	 ! merciless
+éadálach	Adj1-3;	 ! acquisitive; profitable; rich
+éadóchasach	Adj1-3;	 ! despairing, hopeless
+éaganta	Adj3-1;	 ! silly, giddy
+éagaointeach	Adj1-3;	 ! mournful; querulous
+éagmaiseach	Adj1-3;	 ! lonesome, longing
+éagobhsaí	Adj3-1;	 ! unstable
+éagruthach	Adj1-3;	 ! shapeless; deformed; decayed
+éaguimseach	Adj1-3;	 ! unbounded, immoderate
+éagórach	Adj1-3;	 ! unjust; wrong
+éalaitheach	Adj1-3;	 ! escaper, fugitive, a1 fugitive;
+éalangach	Adj1-3;	 ! defective; weak, debilitated
+éasca	Adj3-1;	 ! swift, nimble; fluent; easy;
+éidearfa	Adj3-1;	 ! unconfirmed, uncertain
+éidreorach	Adj1-3;	 ! shiftless; feeble; paltry
+éifeachtach	Adj1-3;	 ! significant; effective; highly capable,
+éifeachtúil	Adj2-1;	 ! effectual
+éigeantach	Adj1-3;	 ! compulsory; distressed
+éigiallta	Adj3-1;	 ! senseless, irrational; foolish, imbecile
+éigin	Adj2-2;	 ! some, duine ~ someone,
+éicint	Adj2-2;	 ! some, duine ~ someone,
+eicínt	Adj2-2;	 ! some, duine ~ someone,
+éiginnte	Adj3-1;	 ! uncertain; indefinite; undecided
+éigiontach	Adj1-3;	 ! innocent
+éigneasta	Adj3-1;	 ! dishonest; insincere
+éigríonna	Adj3-1;	 ! unwise, imprudent; inexperienced
+éirimiúil	Adj2-1;	 ! lively; talented; intelligent
+éiritheach	Adj1-3;	 ! rising; prosperous, plúr ~
+éisealach	Adj1-3;	 ! fastidious, squeamish
+éislinneach	Adj1-3;	 ! vulnerable; defective, handicapped
+íceach	Adj1-3;	 ! healing, curative
+íobartach	Adj1-3;	 ! sacrificial victim a1 sacrificial,
+íochtarach	Adj1-3;	 ! lower, low(-lying); inferior, humble
+íogair	Adj2-2;	 ! sensitive; touchy, cás ~
+íon	Adj1-1;	 ! gsm ~ pure; sincere		CC MANUALLLY CORRECTED
+íorpaiseach	Adj1-3;	 ! dropsical; venomous
+íorónta	Adj3-1;	 ! ironic(al)
+íosta	Adj3-1;	 ! minimum, minimal
+ócáideach	Adj1-3;	 ! occasional; opportune
+óigeanta	Adj3-1;	 ! youthful, young-looking
+óinsiúil	Adj2-1;	 ! foolish, silly
+óltach	Adj1-3;	 ! addicted to drink; intoxicated;
+ómósach	Adj1-3;	 ! reverential, respectful
+órga	Adj3-1;	 ! golden
+órnite	Adj3-1;	 ! gilded, gilt
+óráideach	Adj1-3;	 ! oratorical, declamatory
+!!! SEE DET-LEX úd	AdjBASE;	 ! yon yonder, an cnoc
+údarach	Adj1-3;	 ! authentic
+údarásach	Adj1-3;	 ! authoritative; dictatorial
+úisiúil	Adj2-1;	 ! fulsome
+úr	Adj1-2;	 ! anything fresh or new,
+úrach	Adj1-3;	 ! uric
+úrnua	Adj3-1;	 ! brand-new; fresh, go h~
+úscach	Adj1-3;	 ! oily, fatty; sappy
+úsáideach	Adj1-3;	 ! useful
+
+!3025	WORDS
+!115	database
+!17	a adjectives
+!1810	a1 adjectives
+!379	a2 adjectives
+!642	a3 adjectives
+!37	a4 syncopation
+!24	a4 exceptions
+!62	others
+!3025	TOTAL
+
+éinteach	Adj1-3; ! like éigin
+éinteacht	Adj1-3; ! like éigin

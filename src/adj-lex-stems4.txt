@@ -1,0 +1,57 @@
+!****************************************************************************
+! Na hAidiactaí Tuairisciúla - Descriptive Adjectives
+! Dathanna -  Colours
+!**************************************************************************  
+!
+!					L E X I C O N
+!
+!**************************************************************************  
+
+
+LEXICON AdjDath
+
+bán		Adj1-2;		! white
+bánbhuí		Adj3-1;		! cream-coloured
+bándearg 	Adj1-1;		! pink			 **********
+buí		Adj3-1;		! yellow
+ciarbhuí	Adj3-1;	 	! tawny
+ciardhubh	Adj1-2;	 	! pitch black
+corcra		Adj3-1;		! purple
+dearg 	 	Adj1-1;		! m1 & a1 & vt & i npl ~a red; rouge, an ~ **********
+
+donn		Adj1-2;		! brown
+
+dubh		Adj1-2;		! black; black substance; black
+
+flannbhuí	Adj3-1;	 	! (of colour) orange
+fionn		Adj1-1;		! fair (hair)
+gorm	 	Adj1-2;		! blue
+
+glas		Adj1-2;	 	! green (colour); grey (colour),
+glasuaine	Adj3-1;	 	! vivid green
+glasbhuí	Adj3-1;		! greenish yellow, olive green
+glasdonn	Adj1-2;		! hazel-grey
+glasdubh	Adj1-2;		! dark grey (of clothes)
+glasghorm	Adj1-2;		! steely blue
+
+!! look up grian*
+
+!!!liath				! Féach adj-lex-stems-irreg.txt
+liathbhán	Adj1-2;		! greyish white
+liathbhuí	Adj3-1;		! sallow
+liathchorcra	Adj3-1;		! lilac
+liathdhearg 	Adj1-1;	 	! pale red, pinkish  **********
+liathdhonn	Adj1-2;		! pale brown, drab
+liathdhorcra	Adj3-1;		! dark grey
+liathdhubh	Adj1-2;		! grey black
+liathghlas	Adj1-2;	 	! pale green; pale grey (cloth),
+
+odhar	Adj4-2;	 ! a1 npl odhra dun; dull, dark
+
+ómrach		Adj1-3;		! amber (-coloured)
+
+pinc		Adj2-2;		! pink
+
+rua		Adj3-1;		! red (hair)
+uaine		Adj3-1;		! (vivid) green; verdure a3
+

@@ -1,0 +1,114 @@
+! Noun (Gaeilge) Replace Rules
+! Elaine Uí Dhonnchadha
+! (c) 2001
+!
+! 2004 included %^FC and %^FY in Cons
+!****************************************************************************
+! ^Caol : Caolú (Attenuation) Slenderisation of broad words
+!
+! should be applied after Initial Mutation (after ^Urú, ^hv etc tags are removed)
+!
+!***************************************************************************
+
+define Cons  b|c|d|f|g|h|j|k|l|m|n|p|q|r|s|t|v|w|x|y|z|%^FC|%^FY;
+define Vowel a|e|i|o|u|á|é|í|ó|ú|%^AE|%^AO|%^UA;
+
+! marcach, clúdach, misneach, dúch
+! polysyllabic stems only, e.g. not beach, laoch
+read regex c h -> %^FC g h || Vowel+ Cons+ %^X (e) a _ %^Caol 
+
+.o.
+! beithíoch -> beithígh (gs)		13/04/08
+! also áinsíoch, gaiscíoch etc.
+! polysyllabic stems only
+
+c h -> %^FC g h || Vowel+ Cons+ %^X í o _ %^Caol 
+
+.o.
+! exception dúch -> dúigh
+c h -> %^FC g h || d ú _ %^Caol 
+
+!-----------------------------------------------------------------------------
+! beach, sceach, nead, neamh (+e => all fem )
+! also cuach, cruach, 
+! but not misneach as ch has become gh (see top)
+.o.
+!!!!a -> %^FS i || %^X [e|u] _ [[c h] | d| m ] %^Caol e	
+a -> %^FS i || %^X [e|u] _ [[c (h)] 	!cuach - cuiche, 
+                           |[b (h)]	!dealbh - deilbhe
+                           |[d (h)]	!nead - neide, fleadh - fleidhe
+                           |[l b h]	!dealbh - deilbhe
+                           |[n g]	!reang - reinge
+                           |[r c]	!searc - seirce, leac - leice
+                           |[r g]	!fearg - feirge
+                           |[t h]	!leath - leithe
+                           |[s]		!greas - greise
+                           |[m (h)]	!neamh - neimhe (added '(h)') - CW 09/08
+                           ] %^Caol e
+						
+!-----------------------------------------------------------------------------
+
+! fear, inneall, (all masc.?)
+! leanbh???,geall , 
+! airgead								
+! beag -> bige adj
+! not earc
+.o.	
+e a -> %^FS i || Cons+ %^X _ Cons+ %^Caol
+
+!-----------------------------------------------------------------------------
+! éan, séipéal 
+.o.
+a -> %^FS i || %^X é _ Cons+ %^Caol
+
+!-----------------------------------------------------------------------------
+! seol
+! naomh, craobh, gaol, saol, fraoch
+! ball, leabhar
+! bruscar, bac but not balla
+! bád, sleán, Seán 
+! cnoc, post, tonn, bocht, 
+! fód, glór
+! punt, cúr, casúr, bruas
+! oil(e)án, cin(e)ál, s(e)án
+.o.
+ [..] -> %^FS i || %^X (e) [%^AO|a|á|o|ó|u|ú|%^UA] _ Cons+ %^Caol 	
+
+!-----------------------------------------------------------------------------
+! náis(i)ún, proifisiúin
+.o.
+ [..] -> %^FS i || %^X (i) ú _ Cons+ %^Caol 	
+!-----------------------------------------------------------------------------
+! íol, bíol, síol, buíon, suíomh
+! fionn 
+! eachaíos - eachaís, soilíos - soilís
+.o.
+ o -> [%^FS ] || %^X (a|u) [i|í] _ Cons+ %^Caol 
+
+!-----------------------------------------------------------------------------
+! fliuch - fliche
+.o.
+ u -> [%^FS ] || %^X  [i|í] _ Cons+ %^Caol 
+!-----------------------------------------------------------------------------
+! grian->gréine, pian->péine, 
+! sliabh->sléibhte, 
+! (h)iall->(h)éille
+! liach - léiche
+! cliabh needs fixing
+.o.
+ i a -> %^FS é i || %^X (h) _ Cons+ %^Caol (t) e
+!-----------------------------------------------------------------------------
+! rian->riain
+.o.
+ [..] -> %^FS i || %^X i a _ Cons+ %^Caol .#.
+
+!-----------------------------------------------------------------------------
+! scian->sceana
+.o.
+i a -> %^FS e a || %^X _ Cons+ %^Caol a 
+
+!-----------------------------------------------------------------------------
+.o.
+ %^Caol -> []
+;
+

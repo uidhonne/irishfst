@@ -1,0 +1,238 @@
+!****************************************************************************
+! Tobar - ac Grianna
+!
+! E. Uí Dhonnchadha
+! Jan 2009
+!****************************************************************************
+
+Multichar_Symbols
+
++Noun +Com +Gen +Dat +Sg +Pl +Masc +Fem +DefArt +Emph +Subst
++Pron +Prep +Pers +Cmpd +Simp
++Det +Dem +Q +Def +Qty
++Adj +Base
++Adv +Dir
++Cop +Pres +Past
++Art +Def
++Conj +Coord +Subord
+
++Verbal
++Verb
++VT +VI +VTI	! transitive, intrans., both trans & intrans
++1P +2P +3P 	! First, second and third person
++Auto		! Autonomous 
++Vow
+
++Sg +Pl		! Singular and Plural
+
+		!- Indicative Mood - Modh Táscach 
++PresInd	! Present Indicative
++PastInd	! Past Indicative
++FutInd		! Future Indicative
+
+		! Imperfect Indicative
+
++PastImp	! Gháthchaite Past Habitual (Imperfect Indicative)
++PresImp	! Gháthláithreach Pres Habitual (Verb bí only)
+
+		!- Conditional Mood - 
++Cond		! 
+
+		!- Subjunctive Mood - Modh Foshuiteach
++PresSubj	! Present Subjunctive
++PastSubj	! Past Subjunctive
+
+		!- Imperative  Mood - Modh Ordaitheach
++Imper		! 
+
++Rel		! relative forms - direct
++RelInd		! rel. indirect
+
++Dep		! dependant forms
++Neg
++Q
++NegQ
+
++Cop		! Copula
++Pres		! copula present & future
++Past		! copula past & conditional
+
++VF		! - form used before a word starting with a vowel or f+vowel 
++Pro		! - copula - sea
++Emph		! - emphatic forms
++CM		! Canúint na Mumhan
++CC		! Canúint Chonnachta
++CU		! Canúint Uladh
+
++Len
++Ecl
+
+^Verb
+^Sé
+^Urú
+^VN		! verbal noun
+^hv
+!--------------------------------------------------------------------------------
+^Verb
+!--------------------------------------------------------------------------------
+LEXICON Root
+        Tobar;
+
+LEXICON Tobar
+
+abair+Verb+VTI+Vow+PastImp:adeireadh		#;
+
+! IS (Copula)
+is_ea+Cop+Pres+Pron+Pers+3P+Sg:is_ea	#;	! is ea
+is_éard+Cop+Pres+Noun+Masc+Com+Sg:is_éard	 #;	! is éard
+is_é+Cop+Pres+Pron+Pers+3P+Sg+Masc:is_é	#;	! is é
+is_é+Cop+Pres+Dep+Pron+Pers+3P+Sg+Masc:gurb_é	#;	! gurb é
+is_í+Cop+Pres+Pron+Pers+3P+Sg+Fem:is_í	#;	! is í
+is_iad+Cop+Pres+Pron+Pers+3P+Pl:is_iad	#;	! is iad
+is_é+Cop+Past+Pron+Pers+3P+Sg+Masc:ba_é	#;	! ba é
+is_í+Cop+Past+Pron+Pers+3P+Sg+Fem:ba_í	#;	! ba í
+is_iomaí+Cop+Pres+Adj+Base:is_iomaí	#;	! is iomaí
+is_ionann+Cop+Pres+Adj+Base:is_ionann	#;	! is ionann
+is_maith+Cop+Pres+Adj+Comp:gurbh_fhearr	#;	! gurbh fhearr
+is_maith+Cop+Past+Rel+Adj+Comp:ab_fhearr	#;	! ab fhearr
+is_fiú+Cop+Pres+Noun+Com+Masc+Sg:gurbh_fhiú	#;
+is_féidir+Cop+Past+Rel+Subst+Noun+Sg+Len:ab_fhéidir	#;
+is_éigean+Cop+Pres+RelInd+Noun+Masc+Com+Sg:arbh_éigean	#;
+cén_t-ainm+Cop+Q+Art+Noun+Com+Masc+Sg:Cén_t-ainm	#;
+is_as+Cop+Past+Prep+Simp:ba_as	#;	! 
+
+cad_é+Cop+Pro+Q:cad_é		#;	! caidé, goidé
+cá_as+Adv+Q+Prep+Simp:cá_as	#;	! 
+cá_ar+Adv+Q+Prep+Simp:cá_ar	#;	! 
+
+arna_mhárach+Prep+Cmpd+Subst+Noun+Sg:arna_mhárach	#;
+chun_an+Prep+Simp+Art+Sg+Def:chun_an	#;
+chun_na+Prep+Simp+Art+Pl+Def:chun_na	#;
+i_measc+Prep+Simp+Noun+Com+Masc+Sg:i_measc	#;
+
+cé_gur+Conj+Subord+Cop+Pres+Dep:cé_gur	#;
+cé_is+Conj+Subord+Cop+Pres+Dep:cé_is	#;
+        
+
+! PHRASAL COMPOUNDS
+! First word is head of phrase 
+
+bord_cinn+Noun+Masc+Com+Sg_Len:bhord_cinn	#;
+bád_abhann+Noun+Masc+Com+Sg:bád_abhann	#;
+beacán_bearaigh+Noun+Masc+Com+Sg:beacán_bearaigh	#;
+bó_bainne+Noun+Fem+Com+Sg:bó_bainne	#;
+bean_tí+Noun+Fem+Com+Sg:bean_tí	#;
+bolg_le_gréin+Noun+Masc+Com+Sg:bolg_le_gréin	#;
+caitheamh_aimsire+Noun+Masc+Com+Sg:caitheamh_aimsire	#;
+ceann_feadhna+Noun+Masc+Com+Sg:ceann_feadhna	#;
+ceann_feadhna+Noun+Masc+Com+Sg+Ecl:gceann_feadhna	#;
+ceann_tuí+Noun+Masc+Com+Sg:ceann_tuí	#;
+cathaoir_láimhe+Noun+Fem+Com+Sg+Len:chathaoir_láimhe	#;
+cheirt_seo+Noun+Fem+Com+Sg+Det+Dem+Len:cheirt_seo	#;
+cois_sin+Noun+Fem+Com+Sg+Det+Dem+Len:chois_sin	#;
+corda_glas+Noun+Masc+Com+Sg+Len:chorda_glas	#;
+Cú_Chulainn+Noun+Masc+Com+Sg+Len:Chú_Chulainn	#;
+Cú_Chulainn+Noun+Masc+Com+Sg+Ecl:gCú_Chulainn	#;
+
+ciolar_chiot+Noun+Masc+Com+Sg:ciolar_chiot	#;
+cionn_is+Noun+Masc+Com+Sg+Conj+Coord:cionn_is	#;
+cloch_sneachta+Noun+Fem+Com+Sg:cloch_sneachta	#;
+cosa_in_airde+Noun+Fem+Com+Pl:cosa_in_airde	#;
+
+croitheadh_inchinne+Verbal+Noun+VTI:croitheadh_inchinne	#;
+culaith_uisce+Noun+Fem+Com+Sg:culaith_uisce	#;
+cuma_liom+Adj+Base:cuma_liom	#;
+lán_mara+Noun+Masc+Com+Sg:lán_mara	#;
+leabhar_an_tsiúil+Noun+Masc+Com+Sg:leabhar_an_tsiúil	#;
+leath_bealaigh+Noun+Fem+Com+Sg:leath_bealaigh	#;
+lionn_dubh+Noun+Masc+Com+Sg:lionn_dubh	#;
+mac_tíre+Noun+Masc+Com+Sg:mac_tíre	#;
+cac_bó+Noun+Masc+Com+Sg:cac_bó	#;
+meán_lae+Noun+Masc+Com+Sg:meán_lae	#;
+meán_lae+Noun+Masc+Com+Sg+Len:mheán_lae	#;
+meán_oíche+Noun+Masc+Com+Sg:meán_oíche	#;
+meán_oíche+Noun+Masc+Com+Sg+Len:mheán_oíche	#;
+láimhe_láidre+Noun+Fem+Gen+Sg:láimhe_láidre	#;
+aon_mheall+Num+Card+Noun+Masc+Com+Sg+Ecl:n-aon_mheall	#;
+gach_aon+Det+Qty+Def+Ecl:ngach_aon	#;
+gach_aon+Det+Qty+Def:gach_aon	#;
+gan_fhios+Noun+Masc+Com+Sg:gan_fhios	#;
+gan_fhios+Noun+Masc+Com+Sg+Ecl:ngan_fhios	#;
+gúngaí_beaga+Noun+Masc+Com+Pl+Ecl:ngúngaí_beaga	#;
+nós_chuma_liom+Noun+Masc+Com+Sg:nós_chuma_liom	#;
+peann_luaidhe+Noun+Masc+Com+Sg:peann_luaidhe	#;
+ré_dhorcha+Noun+Fem+Com+Sg:ré_dhorcha	#;
+rosc_catha+Noun+Masc+Com+Sg:rosc_catha	#;
+saor_adhmaid+Noun+Masc+Com+Sg:saor_adhmaid	#;
+scáthanna_solais+Noun+Masc+Com+Pl:scáthanna_solais	#;
+scáth_fearthainne+Noun+Masc+Com+Sg:scáth_fearthainne	#;
+scáth_gréine+Noun+Masc+Com+Sg:scáth_gréine	#;
+séideáin_sealáin+Noun+Masc+Com+Pl:séideáin_sealáin	#;
+sliogán_tine+Noun+Masc+Com+Sg:sliogán_tine	#;
+stól_campa+Noun+Masc+Com+Sg:stól_campa	#;
+stól_lúbtha+Noun+Masc+Com+Sg:stól_lúbtha	#;
+támhach_táisc+Noun+Masc+Com+Sg:támhach_táisc	#;
+támhach_táisc+Noun+Masc+Com+Sg+Len:thámhach_táisc	#;
+taobh_istigh+Noun+Masc+Com+Sg:taobh_istigh	#;
+aon_fhear+Num+Card+Noun+Masc+Com+Sg:aon_fhear	#;
+aon_fhear+Num+Card+Noun+Masc+Com+Sg+DefArt:t-aon_fhear	#;
+aon_ghnó+Num+Card+Noun+Masc+Com+Sg:aon_ghnó	#;
+aon_guth+Num+Card+Noun+Masc+Com+Sg:aon_ghuth	#;
+aon_rud+Num+Card+Noun+Masc+Com+Sg:aon_rud	#;
+aon_scraith+Num+Card+Noun+Fem+Com+Sg:aon_scraith	#;
+aon_smaoineamh+Num+Card+Noun+Masc+Com+Sg:aon_smaoineamh	#;
+aon_turas+Num+Card+Noun+Masc+Com+Sg:aon_turas	#;
+tír_mór+Noun+Fem+Com+Sg:tír_mór	#;
+thamhach_táisc+Noun+Masc+Com+Sg:thamhach_táisc	#;
+trioc_tosaithe+Noun+Masc+Com+Sg:trioc_tosaithe	#;
+seomra_stáit+Noun+Masc+Com+Sg+DefArt:tseomra_stáit	#;
+uisce_beatha+Noun+Masc+Com+Sg:uisce_beatha	#;
+buíon_cheoil+Noun+Masc+Com+Sg+Len:bhuíon_cheoil	#;
+
+seo_againne+Det+Dem+Pron+Prep+1P+Pl+Emph:seo_againne	#;
+seo_agamsa+Det+Dem+Pron+Prep+1P+Sg+Emph:seo_agamsa	#;
+seo_aicise+Det+Dem+Pron+Prep+3P+Sg+Fem+Emph:seo_aicise	#;
+
+anoir_aduaidh+Adv+Dir:anoir_aduaidh	#;
+soir_ó_thuaidh+Adv+Dir:soir_ó_thuaidh	#;
+thiar_thuaidh+Adv+Dir:Thiar_Thuaidh	#;
+
+gabh_anseo+Verb+VTI+Imper+2P+Sg+Adv+Loc:gabh_anseo	#;
+ga_seá+Subst+Noun+Sg:ga_seá	#;
+do_do+Prep+Simp+Det+Poss+2P+Sg:do_do	#;
+éadach_ola+Noun+Masc+Com+Sg:éadach_ola	#;
+faoi_mo+Prep+Simp+Det+Poss+1P+Sg:faoi_mo	#;
+cliabhán_rothaí+Noun+Masc+Com+Sg+Ecl:gcliabhán_rothaí	#;
+gléas_imirce+Noun+Masc+Com+Sg+Len:Ghléas_Imirce	#;
+innill_tógála+Noun+Masc+Gen+Sg:innill_tógála	#;
+
+
+a_déarfadh+Verb+VTI+Vow+Cond:a_déarfadh	#;
+a_deir+Verb+VTI+Vow+PresInd:a_deir	#;
+a_deirim+Verb+VTI+Vow+PresInd+1P+Sg:a_deirim	#;
+a_deireadh+Verb+VTI+Vow+PastImp:a_deireadh	#;
+a_deirtí+Verb+VTI+Vow+PastImp+Auto:a_deirtí	#;
+a_dúirt+Verb+VTI+Vow+PastInd:a_dúirt	#;
+a_fheictear+Verb+VTI+PresInd+Auto+Len:a_fheictear	#;
+a_fheiceann+Verb+VTI+PresInd+Len:a_fheiceann	#;
+
+arsa_an+Verb+PastInd+Art+Sg+Def:arsa_an	#;
+!! PLACENAMES
+!        "Abhainn_Dhearg" Guess Unknown Noun ^Abhainn-Dhearg^
+!        "An_Astráil" Guess Unknown Noun ^Australia^
+!        "Ard_Mhacha" Guess Unknown Noun ^Árdmhacha^
+!        "Dhún_na_nGall" Guess Unknown Noun ^Dhúnna-nGall^
+!        "Dún_Dá_Leath_Ghlas" Guess Unknown Noun ^Dún-Dá-Leath-Ghlas^
+!        "Eas_Aodha_Rua" Guess Unknown Noun ^Eas-Aodh-Ruaidh^
+!        "Gleann_Dá_Loch" Guess Unknown Noun ^Gleann-DáLoch^
+!        "Hong_Cong" Guess Unknown Noun ^Hong-Kong^
+
+!        "mBaile_an_Easa" Guess Unknown Noun ^mBaile-an-Easa^
+!        "mBaile_Átha_Cliath" Guess Unknown Noun ^mBaile-Átha-Cliath^
+!     	"Mhaigh_Eo" Guess Unknown Noun ^Mhuigheo^
+!	Mhín_an_Chorraigh" Guess Unknown Noun ^Mhín-an-Churraigh^
+!        "Mhín_an_Úcaire" Guess Unknown Noun ^Mhín-an-Úcaire^
+!        "Thír_Chonaill" Guess Unknown Noun ^Thírchonaill^
+!        "Uíbh_Fhailí" Guess Unknown Noun ^Ua bhFáilghe^
+!************************************************************************************
+

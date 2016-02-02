@@ -1,0 +1,177 @@
+!****************************************************************************
+! Na hAidiactaí Tuairisciúla - Descriptive Adjectives
+!**************************************************************************  
+!
+!					L E X I C O N
+!
+!**************************************************************************  
+
+
+LEXICON AdjA
+
+deas		Adj1-1;		! nice
+mall		Adj1-1;		! slow
+toll		Adj1-1;		! hollow
+
+
+gann		Adj1-1;		! scarce
+
+fliuch		Adj1-1;		! wet   needs FIX for fliche fgen & comp
+tiubh		Adj1-1;		! NEW
+nocht		Adj1-1;		! naked
+ceannann	Adj1-1;
+
+
+dall		Adj1-2;		! blind
+
+bocht		Adj1-2;		! poor
+
+
+beag		Adj1-2;		! small
+mór		Adj1-2;		! big
+ard		Adj1-2;		! tall
+fuar		Adj1-2;		! cold
+leor		Adj1-2;		! sufficient
+
+luath		Adj1-2;		! early, soon, fast
+
+bríomhar	Adj1-2;		! lively
+iomlán		Adj1-2;		! whole
+lúfar		Adj1-2;		! athletic
+sultmhar	Adj1-2;		! jolly
+tobann		Adj1-2;		! sudden
+hobann		Adj1-2;		! sudden
+lómhar		Adj1-2;		! precious or woolly/fleecy
+
+iontach		Adj1-3;		! wonderful
+baolach		Adj1-3;		! dangerous
+achrannach	Adj1-3;		! troublesome
+bacach		Adj1-3;		! lame
+gaelach		Adj1-3;		! Irish
+fiosrach	Adj1-3;		! inquisitive
+sealadach	Adj1-3;		! temporary
+salach		Adj1-3;		! dirty
+bídeach		Adj1-3;		! tiny
+deireanach	Adj1-3;		! last
+
+díreach		Adj1-3;		! straight, direct
+cainteach	Adj1-3;		! talkative
+aisteach	Adj1-3;		! strange
+uaigneach	Adj1-3;		! lonely
+meirgeach	Adj1-3;		! rusty
+
+
+buíoch		Adj1-4;		! thankful, grateful(O'D & GG gsf buíche, NIG & Caigh. = buíthí)
+faillíoch	Adj1-4;		! negligent 
+faíoch		Adj1-4;		! copious (GG, Gléacht, O'D)
+fuíoch		Adj1-4;		! copious , alternative spelling (NIG)
+imníoch		Adj1-4;		! anxious
+
+diomaíoch	Adj1-4;		! ungrateful, =diomaoch O'D, =díomuíoch GG p 95
+
+eolaíoch	Adj1-4;		! scientific
+lagbhríoch	Adj1-4;		! weak, languid
+taithíoch	Adj1-4;		! accustomed to, familiar with
+tromchroíoch	Adj1-4;		! heavy-hearted or indigestible food
+
+
+gnách		Adj1-5;		! usual	(O'D & GG gnáiche, RCG/NIG,Caigh.see page x =gnáthaí )??
+díomách		Adj1-5;		! dissappointed
+díomuach	Adj1-5;		! defeated (O'D,Gléacht)=diomuach O'D
+spleách		Adj1-5;		! dependant
+sóch		Adj1-5;		! happy
+gleoch		Adj1-5;		! noisy(gleoiche O'D)
+sách		Adj1-5;		! full	(sáithí) RCG
+lách		Adj1-5;		! generous (O'D láiche, láí Caigh & RCG  ?????????????????????
+
+
+áitiúil		Adj2-1;		! local
+bliantiúil	Adj2-1;		! yearly, annual
+éagsúil		Adj2-1;		! dissimilar, different
+stairiúil	Adj2-1;		! historic
+banúil		Adj2-1;		! womanly, ladylike
+fearúil		Adj2-1;		! manly
+magúil		Adj2-1;		! jokingly
+cosúil		Adj2-1;		! like
+
+maith		Adj2-2;		! good
+fiáin		Adj2-2;		! wild
+glic		Adj2-2;		! clever
+mín		Adj2-2;		! fine, smooth
+réidh		Adj2-2;		! easy, smooth,ready
+séimh		Adj2-2;		! gentle
+tinn		Adj2-2;		! sick
+ciúin		Adj2-2;		! quiet
+cruinn		Adj2-2;		! exact, round
+fóill		Adj2-2;		! light, easy
+gairid		Adj2-2;		! short, short-term
+léir		Adj2-2;		! clear, lucid
+soiléir		Adj2-2;		! obvious, distinct
+
+aibí		Adj3-1;		! ripe
+
+clé		Adj3-1;		! left
+
+crua		Adj3-1;		! hard
+
+
+lofa		Adj3-1;		! rotton
+dorcha		Adj3-1;		! dark
+cinnte		Adj3-1;		! certain
+tapa		Adj3-1;		! fast
+cliste		Adj3-1;		! clever
+tanaí		Adj3-1;		! thin
+sonaí		Adj3-1;		! lucky (Nuachúrsa Ghaeilge)
+sona		Adj3-1;		! happy
+coitianta	Adj3-1;		! common
+caite		Adj3-1;		! worn, spent
+fada		Adj3-1;		! long
+cuí		Adj3-1;		! fitting, proper
+fágtha		Adj3-1;		! abandoned, left behind
+idirnáisiúnta	Adj3-1;		! international
+
+náisiúnta	Adj3-1;		! national
+poiblí		Adj3-1;		! public
+rialta		Adj3-1;		! regular
+sásta		Adj3-1;		! satisfied
+speisialta	Adj3-1;		! specialised
+suite		Adj3-1;		! situated, stocky
+teoranta	Adj3-1;		! limited
+dócha		Adj3-1;		! likely
+
+
+ramhar		Adj4-1;		!fat
+folamh		Adj4-1;		!empty
+
+
+
+! FEM GEN SG: NOT SYNC. ARE MADE SLENDER (IF NECESSARY) +E
+! PLURALS : SYNC +A
+
+bodhar		Adj4-2;		!deaf
+umhal		Adj4-2;		!humble
+tirim		Adj4-2;		!dry			!!! plurals should be tiorma not tirma see FIX file
+
+
+! FEM GEN SG: SYNCOPTED AND ARE/ARE MADE SLENDER+E
+! PLURALS : SYNC +E
+
+daingean	Adj4-3;		!firm, tight
+saibhir		Adj4-3;		!rich
+daibhir		Adj4-3;		!poor
+deimhin		Adj4-3;		!certain
+dílis		Adj4-3;		!loyal
+láidir		Adj4-3;		!strong
+milis		Adj4-3;		!sweet
+aoibhinn	Adj4-3;		!pleasant		!!!NN -> N AFTER SYNCOPATION --> see FIX FILE
+íseal		Adj4-3;		!low
+uasal		Adj4-3;		!noble
+domhain		Adj4-3;		!deep
+
+
+! FEM GEN SG: SYNC +A
+! PLURALS : SYNC +A
+socair		Adj4-4;		!calm
+deacair		Adj4-4;		!difficult
+
+

@@ -1,0 +1,928 @@
+LEXICON VNVA-FGB1
+! Christoph Wendler April 2008
+! *** => Ceartaithe de lámh./Changed by hand.
+
+! VERBAL NOUNS FOUND IN NOUN ENTRIES
+aghlot+Verbal+Noun+VT:aghlot	VN-INIT;	! VERB::aghloit*x1*y; Grammar::(gs -oit)
+aghlot+Verbal+Noun+VT+Gen:aghloite	VN-INIT;	! GENITIVE	***
+aghloite+Verbal+Adj:aghloite	VA-INIT;	! ADJECTIVE		***
+ascalú+Verbal+Noun+VI:ascalú	VN-INIT;	! VERB::ascalaigh*x1*y; Grammar::(gs -laithe, pl -luithe)
+ascalú+Verbal+Noun+VI+Gen:ascalaithe	VN-INIT;	! GENITIVE
+ascalaithe+Verbal+Adj:ascalaithe	VA-INIT;	! ADJECTIVE
+ascnamh+Verbal+Noun+VI:ascnamh	VN-INIT;	! VERB::ascain; Grammar::(gs -aimh)
+ascnamh+Verbal+Noun+VI+Gen:ascnaimh	VN-INIT;	! GENITIVE
+ascainte+Verbal+Adj:ascainte	VA-INIT;	! ADJECTIVE	*** Guess CHECKED	
+aslach+Verbal+Noun+VT:aslach	VN-INIT;	! VERB::; Grammar::(gs as vn -aithe)	*** Transitivity added.
+aslach+Verbal+Noun+VT+Gen:aslaithe	VN-INIT;	! GENITIVE
+aslaithe+Verbal+Adj:aslaithe	VA-INIT;	! ADJECTIVE
+astú+Verbal+Noun+VT:astú	VN-INIT;	! VERB::astaigh*x1*y; Grammar::(gs -taithe, pl -tuithe)
+astú+Verbal+Noun+VT+Gen:astaithe	VN-INIT;	! GENITIVE
+astaithe+Verbal+Adj:astaithe	VA-INIT;	! ADJECTIVE
+atarlú+Verbal+Noun+VI:atarlú	VN-INIT;	! VERB::atarlaigh; Grammar::(gs -laithe)
+atarlú+Verbal+Noun+VI+Gen:atarlaithe	VN-INIT;	! GENITIVE
+atarlaithe+Verbal+Adj:atarlaithe	VA-INIT;	! ADJECTIVE
+atarraingt+Verbal+Noun+VT:atarraingt	VN-INIT;	! VERB::atarraing; Grammar::(gs -gthe)
+atarraingt+Verbal+Noun+VT+Gen:atarraingthe	VN-INIT;	! GENITIVE
+atarraingthe+Verbal+Adj:atarraingthe	VA-INIT;	! ADJECTIVE
+atéamh+Verbal+Noun+VT:atéamh	VN-INIT;	! VERB::atéigh; Grammar::(gs -éite)
+atéamh+Verbal+Noun+VT+Gen:atéite	VN-INIT;	! GENITIVE
+atéite+Verbal+Adj:atéite	VA-INIT;	! ADJECTIVE
+atíolacadh+Verbal+Noun+VT:atíolacadh	VN-INIT;	! VERB::atíolaic; Grammar::(gs -ctha)
+atíolacadh+Verbal+Noun+VT+Gen:atíolactha	VN-INIT;	! GENITIVE
+atíolactha+Verbal+Adj:atíolactha	VA-INIT;	! ADJECTIVE
+ationól+Verbal+Noun+VT:ationól	VN-INIT;	! VERB::ationóil*x1*y; Grammar::(gs as vn ~ta)
+ationól+Verbal+Noun+VT+Gen:ationólta	VN-INIT;	! GENITIVE
+ationólta+Verbal+Adj:ationólta	VA-INIT;	! ADJECTIVE
+atriail+Verbal+Noun+VT:atriail	VN-INIT;	! VERB::atriail*x2*y; Grammar::(gs as vn ~te; 
+atriail+Verbal+Noun+VT+Gen:atriailte	VN-INIT;	! GENITIVE
+atriailte+Verbal+Adj:atriailte	VA-INIT;	! ADJECTIVE
+balcadh+Verbal+Noun+VT:balcadh	VN-INIT;	! VERB::; Grammar::(gs as vn -ctha)	*** Transitivity added
+balcadh+Verbal+Noun+VT+Gen:balctha	VN-INIT;	! GENITIVE
+balctha+Verbal+Adj:balctha	VA-INIT;	! ADJECTIVE
+barradh+Verbal+Noun+VT:barradh	VN-INIT;	! VERB::barr*x4*y; Grammar::(gs -rrtha)
+barradh+Verbal+Noun+VT+Gen:barrtha	VN-INIT;	! GENITIVE
+barrtha+Verbal+Adj:barrtha	VA-INIT;	! ADJECTIVE
+beoghoin+Verbal+Noun+VT:beoghoin	VN-INIT;	! VERB::beoghoin*x2*y; Grammar::(gs as vn -onta; 
+beoghoin+Verbal+Noun+VT+Gen:beoghonta	VN-INIT;	! GENITIVE
+beoghonta+Verbal+Adj:beoghonta	VA-INIT;	! ADJECTIVE
+bombardú+Verbal+Noun+VT:bombardú	VN-INIT;	! VERB::bombardaigh; Grammar::(gs -daithe)
+bombardú+Verbal+Noun+VT+Gen:bombardaithe	VN-INIT;	! GENITIVE
+bombardaithe+Verbal+Adj:bombardaithe	VA-INIT;	! ADJECTIVE
+brácáil+Verbal+Noun+VTI:brácáil	VN-INIT;	! VERB::brácáil*x3*y; Grammar::(gs -ála)
+brácáil+Verbal+Noun+VTI+Gen:brácála	VN-INIT;	! GENITIVE
+!!brácáilte+Verbal+Adj:brácáilte	VA-INIT;	! ADJECTIVE
+brácáilte+Verbal+Adj:brácáilte	VA-INIT;	! ADJECTIVE
+breachnú+Verbal+Noun+VT:breachnú	VN-INIT;	! VERB::breachnaigh; Grammar::(gs -naithe, pl -nuithe)
+breachnú+Verbal+Noun+VT+Gen:breachnaithe	VN-INIT;	! GENITIVE
+breachnaithe+Verbal+Adj:breachnaithe	VA-INIT;	! ADJECTIVE
+breisiú+Verbal+Noun+VT:breisiú	VN-INIT;	! VERB::breisigh; Grammar::(gs -ithe)
+breisiú+Verbal+Noun+VT+Gen:breisithe	VN-INIT;	! GENITIVE
+breisithe+Verbal+Adj:breisithe	VA-INIT;	! ADJECTIVE
+brocadh+Verbal+Noun+VT:brocadh	VN-INIT;	! VERB::broc*x3*y; Grammar::(gs as vn -ctha)
+brocadh+Verbal+Noun+VT+Gen:broctha	VN-INIT;	! GENITIVE
+broctha+Verbal+Adj:broctha	VA-INIT;	! ADJECTIVE
+burdáil+Verbal+Noun+VT:burdáil	VN-INIT;	! VERB::burdáil*x2*y; Grammar::(gs -ála, pl -álacha)
+burdáil+Verbal+Noun+VT+Gen:burdála	VN-INIT;	! GENITIVE
+burdáilte+Verbal+Adj:burdáilte	VA-INIT;	! ADJECTIVE
+cainníochtú+Verbal+Noun+VT:cainníochtú	VN-INIT;	! VERB::cainníochtaigh; Grammar::(gs -taithe)
+cainníochtú+Verbal+Noun+VT+Gen:cainníochtaithe	VN-INIT;	! GENITIVE
+cainníochtaithe+Verbal+Adj:cainníochtaithe	VA-INIT;	! ADJECTIVE
+caipitliú+Verbal+Noun+VT:caipitliú	VN-INIT;	! VERB::caipitligh; Grammar::(gs -ithe)
+caipitliú+Verbal+Noun+VT+Gen:caipitlithe	VN-INIT;	! GENITIVE
+caipitlithe+Verbal+Adj:caipitlithe	VA-INIT;	! ADJECTIVE
+caithreáil+Verbal+Noun+VTI:caithreáil	VN-INIT;	! VERB::caithreáil*x2*y; Grammar::(gs -ála)
+caithreáil+Verbal+Noun+VTI+Gen:caithreála	VN-INIT;	! GENITIVE
+caithreáilte+Verbal+Adj:caithreáilte	VA-INIT;	! ADJECTIVE
+carbrú+Verbal+Noun+VT:carbrú	VN-INIT;	! VERB::carbraigh; Grammar::(gs -raithe, pl -ruithe)
+carbrú+Verbal+Noun+VT+Gen:carbraithe	VN-INIT;	! GENITIVE
+carbraithe+Verbal+Adj:carbraithe	VA-INIT;	! ADJECTIVE
+céannú+Verbal+Noun+VT:céannú	VN-INIT;	! VERB::céannaigh; Grammar::(gs -nnaithe)
+céannú+Verbal+Noun+VT+Gen:céannaithe	VN-INIT;	! GENITIVE
+céannaithe+Verbal+Adj:céannaithe	VA-INIT;	! ADJECTIVE
+cimiú+Verbal+Noun+VT:cimiú	VN-INIT;	! VERB::cimigh; Grammar::(gs -ithe)
+cimiú+Verbal+Noun+VT+Gen:cimithe	VN-INIT;	! GENITIVE
+cimithe+Verbal+Adj:cimithe	VA-INIT;	! ADJECTIVE
+cineachadh+Verbal+Noun+VI:cineachadh	VN-INIT;	! VERB::cineach; Grammar::(gs as vn -chta)
+cineachadh+Verbal+Noun+VI+Gen:cineachta	VN-INIT;	! GENITIVE
+cineachta+Verbal+Adj:cineachta	VA-INIT;	! ADJECTIVE
+cinnireacht+Verbal+Noun+VT:cinnireacht	VN-INIT;	! VERB::cinnir; Grammar::(gs ~a)
+cinnireacht+Verbal+Noun+VT+Gen:cinnireachta	VN-INIT;	! GENITIVE
+!cinneartha+Verbal+Adj:cinneartha	VA-INIT;	! ADJECTIVE *** Guess
+cinnirthe+Verbal+Adj:cinnirthe	VA-INIT;		! ADJECTIVE *** CHECKED
+clamhairt+Verbal+Noun+VT:clamhairt	VN-INIT;	! VERB::clamhair; Grammar::(gs -artha)
+clamhairt+Verbal+Noun+VT+Gen:clamhartha	VN-INIT;	! GENITIVE
+clamhartha+Verbal+Adj:clamhartha	VA-INIT;	! ADJECTIVE
+clannú+Verbal+Noun+VTI:clannú	VN-INIT;	! VERB::clannaigh*x1*y; Grammar::(gs -nnaithe)
+clannú+Verbal+Noun+VTI+Gen:clannaithe	VN-INIT;	! GENITIVE
+clannaithe+Verbal+Adj:clannaithe	VA-INIT;	! ADJECTIVE
+climirt+Verbal+Noun+VT:climirt	VN-INIT;	! VERB::climir; Grammar::(gs -meartha)
+climirt+Verbal+Noun+VT+Gen:climeartha	VN-INIT;	! GENITIVE
+climeartha+Verbal+Adj:climeartha	VA-INIT;	! ADJECTIVE
+cloí+Verbal+Noun+VT:cloí	VN-INIT;	! VERB::cloígh*x1*y; Grammar::(gs as vn ~te)
+cloí+Verbal+Noun+VT+Gen:cloíte	VN-INIT;	! GENITIVE
+cloíte+Verbal+Adj:cloíte	VA-INIT;	! ADJECTIVE
+cloí+Verbal+Noun+VI:cloí	VN-INIT;	! VERB::cloígh*x2*y; Grammar::(gs ~te)
+cloí+Verbal+Noun+VI+Gen:cloíte	VN-INIT;	! GENITIVE
+cloíte+Verbal+Adj:cloíte	VA-INIT;	! ADJECTIVE
+coilltiú+Verbal+Noun+VT:coilltiú	VN-INIT;	! VERB::coilltigh*x1*y; Grammar::(gs -ithe)
+coilltiú+Verbal+Noun+VT+Gen:coilltithe	VN-INIT;	! GENITIVE
+coilltithe+Verbal+Adj:coilltithe	VA-INIT;	! ADJECTIVE
+coimhthiú+Verbal+Noun+VT:coimhthiú	VN-INIT;	! VERB::coimhthigh; Grammar::(gs -ithe)
+coimhthiú+Verbal+Noun+VT+Gen:coimhthithe	VN-INIT;	! GENITIVE
+coimhthithe+Verbal+Adj:coimhthithe	VA-INIT;	! ADJECTIVE
+cóireáil+Verbal+Noun+VT:cóireáil	VN-INIT;	! VERB::cóireáil*x2*y; Grammar::(gs -ála)
+cóireáil+Verbal+Noun+VT+Gen:cóireála	VN-INIT;	! GENITIVE
+cóireáilte+Verbal+Adj:cóireáilte	VA-INIT;	! ADJECTIVE
+coiriú+Verbal+Noun+VI:coiriú	VN-INIT;	! VERB::coirigh*x1*y; Grammar::(gs -ithe)
+coiriú+Verbal+Noun+VI+Gen:coirithe	VN-INIT;	! GENITIVE
+coirithe+Verbal+Adj:coirithe	VA-INIT;	! ADJECTIVE
+corbadh+Verbal+Noun+VT:corbadh	VN-INIT;	! VERB::corb; Grammar::(gs -btha)
+corbadh+Verbal+Noun+VT+Gen:corbtha	VN-INIT;	! GENITIVE
+corbtha+Verbal+Adj:corbtha	VA-INIT;	! ADJECTIVE
+crónú+Verbal+Noun+VTI:crónú	VN-INIT;	! VERB::crónaigh; Grammar::(gs -naithe)
+crónú+Verbal+Noun+VTI+Gen:crónaithe	VN-INIT;	! GENITIVE
+crónaithe+Verbal+Adj:crónaithe	VA-INIT;	! ADJECTIVE
+cúlghairm+Verbal+Noun+VT:cúlghairm	VN-INIT;	! VERB::cúlghair; Grammar::(gs ~e, pl ~eacha)
+cúlghairm+Verbal+Noun+VT+Gen:cúlghairme	VN-INIT;	! GENITIVE
+cúlghairm+Verbal+Noun+VT+Gen:cúlghairthe VN-INIT;	! GENITIVE	*** CHECKED also added
+cúlghairithe+Verbal+Adj:cúlghairithe	VA-INIT;	! ADJECTIVE	***
+damhnú+Verbal+Noun+VT:damhnú	VN-INIT;	! VERB::damhnaigh; Grammar::(gs -naithe)
+damhnú+Verbal+Noun+VT+Gen:damhnaithe	VN-INIT;	! GENITIVE
+damhnaithe+Verbal+Adj:damhnaithe	VA-INIT;	! ADJECTIVE
+dearbhascadh+Verbal+Noun+VTI:dearbhascadh	VN-INIT;	! VERB::dearbhasc; Grammar::(gs -ctha, pl -cthaí)
+dearbhascadh+Verbal+Noun+VTI+Gen:dearbhasctha	VN-INIT;	! GENITIVE
+dearbhasctha+Verbal+Adj:dearbhasctha	VA-INIT;	! ADJECTIVE
+deochadh+Verbal+Noun+VT:deochadh	VN-INIT;	! VERB::deoch*x2*y; Grammar::(gs -chta)
+deochadh+Verbal+Noun+VT+Gen:deochta	VN-INIT;	! GENITIVE
+deochta+Verbal+Adj:deochta	VA-INIT;	! ADJECTIVE
+diagú+Verbal+Noun+VT:diagú	VN-INIT;	! VERB::diagaigh; Grammar::(gs -gaithe)
+diagú+Verbal+Noun+VT+Gen:diagaithe	VN-INIT;	! GENITIVE
+diagaithe+Verbal+Adj:diagaithe	VA-INIT;	! ADJECTIVE
+difreáil+Verbal+Noun+VTI:difreáil	VN-INIT;	! VERB::difreáil*x2*y; Grammar::(gs -ála, pl -álacha)
+difreáil+Verbal+Noun+VTI+Gen:difreála	VN-INIT;	! GENITIVE
+difreáilte+Verbal+Adj:difreáilte	VA-INIT;	! ADJECTIVE
+dínáisiúnú+Verbal+Noun+VT:dínáisiúnú	VN-INIT;	! VERB::dínáisiúnaigh; Grammar::(gs -naithe)
+dínáisiúnú+Verbal+Noun+VT+Gen:dínáisiúnaithe	VN-INIT;	! GENITIVE
+dínáisiúnaithe+Verbal+Adj:dínáisiúnaithe	VA-INIT;	! ADJECTIVE
+díoghail+Verbal+Noun+VT:díoghail	VN-INIT;	! VERB::díoghail*x2*y; Grammar::(gs & pl -ghla)
+díoghail+Verbal+Noun+VT+Gen:díoghla	VN-INIT;	! GENITIVE
+díoghla+Verbal+Adj:díoghla	VA-INIT;	! ADJECTIVE
+díoscarnach+Verbal+Noun+VI:díoscarnach	VN-INIT;	! VERB::díoscarnaigh; Grammar::(gs -aí)
+díoscarnach+Verbal+Noun+VI+Gen:díoscarnaí	VN-INIT;	! GENITIVE
+díoscarnaithe+Verbal+Adj:díoscarnaithe	VA-INIT;	! ADJECTIVE	***
+díraonadh+Verbal+Noun+VT:díraonadh	VN-INIT;	! VERB::díraon; Grammar::(gs -nta, pl -ntaí)
+díraonadh+Verbal+Noun+VT+Gen:díraonta	VN-INIT;	! GENITIVE
+díraonta+Verbal+Adj:díraonta	VA-INIT;	! ADJECTIVE
+diúscairt+Verbal+Noun+VT:diúscairt	VN-INIT;	! VERB::diúscair; Grammar::(gs -artha)
+diúscairt+Verbal+Noun+VT+Gen:diúscartha	VN-INIT;	! GENITIVE
+diúscartha+Verbal+Adj:diúscartha	VA-INIT;	! ADJECTIVE
+dlisteanú+Verbal+Noun+VT:dlisteanú	VN-INIT;	! VERB::dlisteanaigh*x1*y; Grammar::(gs -naithe)
+dlisteanú+Verbal+Noun+VT+Gen:dlisteanaithe	VN-INIT;	! GENITIVE
+dlisteanaithe+Verbal+Adj:dlisteanaithe	VA-INIT;	! ADJECTIVE
+drámú+Verbal+Noun+VT:drámú	VN-INIT;	! VERB::drámaigh; Grammar::(gs -maithe)
+drámú+Verbal+Noun+VT+Gen:drámaithe	VN-INIT;	! GENITIVE
+drámaithe+Verbal+Adj:drámaithe	VA-INIT;	! ADJECTIVE
+dúbláil+Verbal+Noun+VTI:dúbláil	VN-INIT;	! VERB::dúbláil*x2*y; Grammar::(gs -ála, pl -álacha)
+dúbláil+Verbal+Noun+VTI+Gen:dúblála	VN-INIT;	! GENITIVE
+dúbláilte+Verbal+Adj:dúbláilte	VA-INIT;	! ADJECTIVE
+duilliú+Verbal+Noun+VTI:duilliú	VN-INIT;	! VERB::duilligh*x1*y; Grammar::(gs -ithe)
+duilliú+Verbal+Noun+VTI+Gen:duillithe	VN-INIT;	! GENITIVE
+duillithe+Verbal+Adj:duillithe	VA-INIT;	! ADJECTIVE
+eachtrú+Verbal+Noun+VTI:eachtrú	VN-INIT;	! VERB::eachtraigh*x1*y; Grammar::(gs -raithe, pl -ruithe)
+eachtrú+Verbal+Noun+VTI+Gen:eachtraithe	VN-INIT;	! GENITIVE
+eachtraithe+Verbal+Adj:eachtraithe	VA-INIT;	! ADJECTIVE
+eadránú+Verbal+Noun+VT:eadránú	VN-INIT;	! VERB::eadránaigh*x1*y; Grammar::(gs -naithe)
+eadránú+Verbal+Noun+VT+Gen:eadránaithe	VN-INIT;	! GENITIVE
+eadránaithe+Verbal+Adj:eadránaithe	VA-INIT;	! ADJECTIVE
+éagnach+Verbal+Noun+VTI:éagnach	VN-INIT;	! VERB::éagnaigh*x1*y; Grammar::(gs -aigh)
+éagnach+Verbal+Noun+VTI+Gen:éagnaigh	VN-INIT;	! GENITIVE
+éagnaithe+Verbal+Adj:éagnaithe	VA-INIT;	! ADJECTIVE	***
+éagsúlú+Verbal+Noun+VT:éagsúlú	VN-INIT;	! VERB::éagsúlaigh*x1*y; Grammar::(gs -laithe)
+éagsúlú+Verbal+Noun+VT+Gen:éagsúlaithe	VN-INIT;	! GENITIVE
+éagsúlaithe+Verbal+Adj:éagsúlaithe	VA-INIT;	! ADJECTIVE
+éagumasú+Verbal+Noun+VT:éagumasú	VN-INIT;	! VERB::éagumasaigh*x1*y; Grammar::(gs -saithe)
+éagumasú+Verbal+Noun+VT+Gen:éagumasaithe	VN-INIT;	! GENITIVE
+éagumasaithe+Verbal+Adj:éagumasaithe	VA-INIT;	! ADJECTIVE
+eamhnú+Verbal+Noun+VI:eamhnú	VN-INIT;	! VERB::eamhnaigh; Grammar::(gs -naithe)
+eamhnú+Verbal+Noun+VI+Gen:eamhnaithe	VN-INIT;	! GENITIVE
+eamhnaithe+Verbal+Adj:eamhnaithe	VA-INIT;	! ADJECTIVE
+eisceadh+Verbal+Noun+VT:eisceadh	VN-INIT;	! VERB::eisc*x1*y; Grammar::(gs -cthe)
+eisceadh+Verbal+Noun+VT+Gen:eiscthe	VN-INIT;	! GENITIVE
+eiscthe+Verbal+Adj:eiscthe	VA-INIT;	! ADJECTIVE
+eiseadh+Verbal+Noun+VI:eiseadh	VN-INIT;	! VERB::eis; Grammar::(gs as vn -ste)
+eiseadh+Verbal+Noun+VI+Gen:eiste	VN-INIT;	! GENITIVE
+eiste+Verbal+Adj:eiste	VA-INIT;	! ADJECTIVE
+eisileadh+Verbal+Noun+VI:eisileadh	VN-INIT;	! VERB::eisil; Grammar::(gs -lte)
+eisileadh+Verbal+Noun+VI+Gen:eisilte	VN-INIT;	! GENITIVE
+eisilte+Verbal+Adj:eisilte	VA-INIT;	! ADJECTIVE
+fánú+Verbal+Noun+VI:fánú	VN-INIT;	! VERB::fánaigh*x1*y; Grammar::(gs -naithe)
+fánú+Verbal+Noun+VI+Gen:fánaithe	VN-INIT;	! GENITIVE
+fánaithe+Verbal+Adj:fánaithe	VA-INIT;	! ADJECTIVE
+fianú+Verbal+Noun+VTI:fianú	VN-INIT;	! VERB::fianaigh*x1*y; Grammar::(gs -naithe, pl -nuithe)
+fianú+Verbal+Noun+VTI+Gen:fianaithe	VN-INIT;	! GENITIVE
+fianaithe+Verbal+Adj:fianaithe	VA-INIT;	! ADJECTIVE
+fíniú+Verbal+Noun+VI:fíniú	VN-INIT;	! VERB::fínigh; Grammar::(gs -ithe)
+fíniú+Verbal+Noun+VI+Gen:fínithe	VN-INIT;	! GENITIVE
+fínithe+Verbal+Adj:fínithe	VA-INIT;	! ADJECTIVE
+fírinniú+Verbal+Noun+VT:fírinniú	VN-INIT;	! VERB::fírinnigh*x1*y; Grammar::(gs -ithe)
+fírinniú+Verbal+Noun+VT+Gen:fírinnithe	VN-INIT;	! GENITIVE
+fírinnithe+Verbal+Adj:fírinnithe	VA-INIT;	! ADJECTIVE
+flípeáil+Verbal+Noun+VT:flípeáil	VN-INIT;	! VERB::flípeáil*x2*y; Grammar::(gs -ála, pl -álacha)
+flípeáil+Verbal+Noun+VT+Gen:flípeála	VN-INIT;	! GENITIVE
+flípeáilte+Verbal+Adj:flípeáilte	VA-INIT;	! ADJECTIVE
+floscadh+Verbal+Noun+VT:floscadh	VN-INIT;	! VERB::flosc*x2*y; Grammar::(gs -ctha, pl -cthaí)
+floscadh+Verbal+Noun+VT+Gen:flosctha	VN-INIT;	! GENITIVE
+flosctha+Verbal+Adj:flosctha	VA-INIT;	! ADJECTIVE
+fluairídiú+Verbal+Noun+VT:fluairídiú	VN-INIT;	! VERB::fluairídigh; Grammar::(gs -ithe)
+fluairídiú+Verbal+Noun+VT+Gen:fluairídithe	VN-INIT;	! GENITIVE
+fluairídithe+Verbal+Adj:fluairídithe	VA-INIT;	! ADJECTIVE
+fódú+Verbal+Noun+VTI:fódú	VN-INIT;	! VERB::fódaigh*x1*y; Grammar::(gs -daithe)
+fódú+Verbal+Noun+VTI+Gen:fódaithe	VN-INIT;	! GENITIVE
+fódaithe+Verbal+Adj:fódaithe	VA-INIT;	! ADJECTIVE
+foghlú+Verbal+Noun+VTI:foghlú	VN-INIT;	! VERB::foghlaigh*x1*y; Grammar::(gs -laithe)
+foghlú+Verbal+Noun+VTI+Gen:foghlaithe	VN-INIT;	! GENITIVE
+foghlaithe+Verbal+Adj:foghlaithe	VA-INIT;	! ADJECTIVE
+foinsiú+Verbal+Noun+VI:foinsiú	VN-INIT;	! VERB::foinsigh; Grammar::(gs -ithe)
+foinsiú+Verbal+Noun+VI+Gen:foinsithe	VN-INIT;	! GENITIVE
+foinsithe+Verbal+Adj:foinsithe	VA-INIT;	! ADJECTIVE
+foirceannadh+Verbal+Noun+VT:foirceannadh	VN-INIT;	! VERB::foirceann*x2*y; Grammar::(gs -eanta)
+foirceannadh+Verbal+Noun+VT+Gen:foirceanta	VN-INIT;	! GENITIVE
+foirceanta+Verbal+Adj:foirceanta	VA-INIT;	! ADJECTIVE
+foladh+Verbal+Noun+VI:foladh	VN-INIT;	! VERB::fol*x1*y; Grammar::(gs -lta)
+foladh+Verbal+Noun+VI+Gen:folta	VN-INIT;	! GENITIVE
+folta+Verbal+Adj:folta	VA-INIT;	! ADJECTIVE
+freangadh+Verbal+Noun+VT:freangadh	VN-INIT;	! VERB::freang*x1*y; Grammar::(gs -gtha)
+freangadh+Verbal+Noun+VT+Gen:freangtha	VN-INIT;	! GENITIVE
+freangtha+Verbal+Adj:freangtha	VA-INIT;	! ADJECTIVE
+freasú+Verbal+Noun+VI:freasú	VN-INIT;	! VERB::freasaigh; Grammar::(gs -saithe, pl -suithe)
+freasú+Verbal+Noun+VI+Gen:freasaithe	VN-INIT;	! GENITIVE
+freasaithe+Verbal+Adj:freasaithe	VA-INIT;	! ADJECTIVE
+fuigheall+Verbal+Noun+VTI:fuigheall	VN-INIT;	! VERB::fuighill*x1*y; Grammar::(gs -ghill, pl -ghle)
+fuigheall+Verbal+Noun+VTI+Gen:fuighill	VN-INIT;	! GENITIVE
+fuighillte+Verbal+Adj:fuighillte	VA-INIT;	! ADJECTIVE	***
+fuiliú+Verbal+Noun+VT:fuiliú	VN-INIT;	! VERB::fuiligh; Grammar::(gs -ithe)
+fuiliú+Verbal+Noun+VT+Gen:fuilithe	VN-INIT;	! GENITIVE
+fuilithe+Verbal+Adj:fuilithe	VA-INIT;	! ADJECTIVE
+fuilleamh+Verbal+Noun+VT:fuilleamh	VN-INIT;	! VERB::fuill; Grammar::(gs & npl -llimh, gpl ~)
+fuilleamh+Verbal+Noun+VT+Gen:fuillimh	VN-INIT;	! GENITIVE
+fuillte+Verbal+Adj:fuillte	VA-INIT;	! ADJECTIVE
+Gaelú+Verbal+Noun+VT:Gaelú	VN-INIT;	! VERB::; Grammar::(gs -laithe)	*** Info about transitivity added.
+Gaelú+Verbal+Noun+VT+Gen:Gaelaithe	VN-INIT;	! GENITIVE	*** Info about transitivity added.
+Gaelaithe+Verbal+Adj:Gaelaithe	VA-INIT;	! ADJECTIVE
+gaibhniú+Verbal+Noun+VT:gaibhniú	VN-INIT;	! VERB::gaibhnigh*x1*y; Grammar::(gs -ithe)
+gaibhniú+Verbal+Noun+VT+Gen:gaibhnithe	VN-INIT;	! GENITIVE
+gaibhnithe+Verbal+Adj:gaibhnithe	VA-INIT;	! ADJECTIVE
+gairdiú+Verbal+Noun+VI:gairdiú	VN-INIT;	! VERB::gairdigh*x1*y; Grammar::(gs -ithe)
+gairdiú+Verbal+Noun+VI+Gen:gairdithe	VN-INIT;	! GENITIVE
+gairdithe+Verbal+Adj:gairdithe	VA-INIT;	! ADJECTIVE
+gaiseadh+Verbal+Noun+VI:gaiseadh	VN-INIT;	! VERB::gais*x1*y; Grammar::(gs -ste, pl -stí)
+gaiseadh+Verbal+Noun+VI+Gen:gaiste	VN-INIT;	! GENITIVE
+gaiste+Verbal+Adj:gaiste	VA-INIT;	! ADJECTIVE
+galldú+Verbal+Noun+VT:galldú	VN-INIT;	! VERB::galldaigh; Grammar::(gs -daithe)
+galldú+Verbal+Noun+VT+Gen:galldaithe	VN-INIT;	! GENITIVE
+galldaithe+Verbal+Adj:galldaithe	VA-INIT;	! ADJECTIVE
+geilt+Verbal+Noun+VTI:geilt	VN-INIT;	! VERB::geil; Grammar::(gs ~e)
+geilt+Verbal+Noun+VTI+Gen:geilte	VN-INIT;	! GENITIVE
+geilte+Verbal+Adj:geilte	VA-INIT;	! ADJECTIVE
+gibreacht+Verbal+Noun+VTI:gibreacht	VN-INIT;	! VERB::gibir; Grammar::(gs ~a)
+gibreacht+Verbal+Noun+VTI+Gen:gibreachta	VN-INIT;	! GENITIVE
+gibeartha+Verbal+Adj:gibeartha	VA-INIT;	! ADJECTIVE	***
+ginidiú+Verbal+Noun+VI:ginidiú	VN-INIT;	! VERB::ginidigh*x1*y; Grammar::(gs -ithe)
+ginidiú+Verbal+Noun+VI+Gen:ginidithe	VN-INIT;	! GENITIVE
+ginidithe+Verbal+Adj:ginidithe	VA-INIT;	! ADJECTIVE
+gráinseáil+Verbal+Noun+VI:gráinseáil	VN-INIT;	! VERB::gráinseáil*x2*y; Grammar::(gs -ála)
+gráinseáil+Verbal+Noun+VI+Gen:gráinseála	VN-INIT;	! GENITIVE
+gráinseáilte+Verbal+Adj:gráinseáilte	VA-INIT;	! ADJECTIVE
+grianrú+Verbal+Noun+VT:grianrú	VN-INIT;	! VERB::grianraigh; Grammar::(gs -raithe)
+grianrú+Verbal+Noun+VT+Gen:grianraithe	VN-INIT;	! GENITIVE
+grianraithe+Verbal+Adj:grianraithe	VA-INIT;	! ADJECTIVE
+griolladh+Verbal+Noun+VTI:griolladh	VN-INIT;	! VERB::grioll; Grammar::(gs -llta)
+griolladh+Verbal+Noun+VTI+Gen:griollta	VN-INIT;	! GENITIVE
+griollta+Verbal+Adj:griollta	VA-INIT;	! ADJECTIVE
+ianú+Verbal+Noun+VT:ianú	VN-INIT;	! VERB::ianaigh*x1*y; Grammar::(gs -naithe)
+ianú+Verbal+Noun+VT+Gen:ianaithe	VN-INIT;	! GENITIVE
+ianaithe+Verbal+Adj:ianaithe	VA-INIT;	! ADJECTIVE
+ibhe+Verbal+Noun+VTI:ibhe	VN-INIT;	! VERB::ibh*x1*y; Grammar::(gs ~)
+ibhe+Verbal+Noun+VTI+Gen:ibhe	VN-INIT;	! GENITIVE
+ibhe+Verbal+Adj:ibhe	VA-INIT;	! ADJECTIVE
+idéalú+Verbal+Noun+VT:idéalú	VN-INIT;	! VERB::idéalaigh*x1*y; Grammar::(gs -laithe)
+idéalú+Verbal+Noun+VT+Gen:idéalaithe	VN-INIT;	! GENITIVE
+idéalaithe+Verbal+Adj:idéalaithe	VA-INIT;	! ADJECTIVE
+imeaglú+Verbal+Noun+VT:imeaglú	VN-INIT;	! VERB::imeaglaigh*x1*y; Grammar::(gs -laithe)
+imeaglú+Verbal+Noun+VT+Gen:imeaglaithe	VN-INIT;	! GENITIVE
+imeaglaithe+Verbal+Adj:imeaglaithe	VA-INIT;	! ADJECTIVE
+imeascadh+Verbal+Noun+VT:imeascadh	VN-INIT;	! VERB::imeasc*x1*y; Grammar::(gs -ctha)
+imeascadh+Verbal+Noun+VT+Gen:imeasctha	VN-INIT;	! GENITIVE
+imeasctha+Verbal+Adj:imeasctha	VA-INIT;	! ADJECTIVE
+inbhéartú+Verbal+Noun+VT:inbhéartú	VN-INIT;	! VERB::inbhéartaigh; Grammar::(gs -taithe, pl -tuithe)
+inbhéartú+Verbal+Noun+VT+Gen:inbhéartaithe	VN-INIT;	! GENITIVE
+inbhéartaithe+Verbal+Adj:inbhéartaithe	VA-INIT;	! ADJECTIVE
+indibhidiú+Verbal+Noun+VT:indibhidiú	VN-INIT;	! VERB::indibhidigh; Grammar::(gs -ithe)
+indibhidiú+Verbal+Noun+VT+Gen:indibhidithe	VN-INIT;	! GENITIVE
+indibhidithe+Verbal+Adj:indibhidithe	VA-INIT;	! ADJECTIVE
+iomalartú+Verbal+Noun+VT:iomalartú	VN-INIT;	! VERB::iomalartaigh*x1*y; Grammar::(gs -taithe, pl -tuithe)
+iomalartú+Verbal+Noun+VT+Gen:iomalartaithe	VN-INIT;	! GENITIVE
+iomalartaithe+Verbal+Adj:iomalartaithe	VA-INIT;	! ADJECTIVE
+ionannú+Verbal+Noun+VT:ionannú	VN-INIT;	! VERB::ionannaigh; Grammar::(gs -nnaithe)
+ionannú+Verbal+Noun+VT+Gen:ionannaithe	VN-INIT;	! GENITIVE
+ionannaithe+Verbal+Adj:ionannaithe	VA-INIT;	! ADJECTIVE
+láisteadh+Verbal+Noun+VT:láisteadh	VN-INIT;	! VERB::láist; Grammar::(gs laiste)
+láisteadh+Verbal+Noun+VT+Gen:láiste	VN-INIT;	! GENITIVE	*** CHECKED changed from laiste
+láiste+Verbal+Adj:láiste	VA-INIT;	! ADJECTIVE	*** CHECKED changed from laiste
+lannú+Verbal+Noun+VT:lannú	VN-INIT;	! VERB::lannaigh*x1*y; Grammar::(gs -nnaithe)
+lannú+Verbal+Noun+VT+Gen:lannaithe	VN-INIT;	! GENITIVE
+lannaithe+Verbal+Adj:lannaithe	VA-INIT;	! ADJECTIVE
+leadhbairt+Verbal+Noun+VT:leadhbairt	VN-INIT;	! VERB::leadhbair; Grammar::(gs -artha)
+leadhbairt+Verbal+Noun+VT+Gen:leadhbartha	VN-INIT;	! GENITIVE
+leadhbartha+Verbal+Adj:leadhbartha	VA-INIT;	! ADJECTIVE
+leaschraoladh+Verbal+Noun+VT:leaschraoladh	VN-INIT;	! VERB::leaschraol; Grammar::(gs -lta, pl -ltaí)
+leaschraoladh+Verbal+Noun+VT+Gen:leaschraolta	VN-INIT;	! GENITIVE
+leaschraolta+Verbal+Adj:leaschraolta	VA-INIT;	! ADJECTIVE
+leictrealú+Verbal+Noun+VT:leictrealú	VN-INIT;	! VERB::leictrealaigh; Grammar::(gs -laithe)
+leictrealú+Verbal+Noun+VT+Gen:leictrealaithe	VN-INIT;	! GENITIVE
+leictrealaithe+Verbal+Adj:leictrealaithe	VA-INIT;	! ADJECTIVE
+léirbhreithniú+Verbal+Noun+VT:léirbhreithniú	VN-INIT;	! VERB::léirbhreithnigh; Grammar::(gs & pl -ithe)
+léirbhreithniú+Verbal+Noun+VT+Gen:léirbhreithnithe	VN-INIT;	! GENITIVE
+léirbhreithnithe+Verbal+Adj:léirbhreithnithe	VA-INIT;	! ADJECTIVE
+léirmhíniú+Verbal+Noun+VT:léirmhíniú	VN-INIT;	! VERB::léirmhínigh; Grammar::(gs -ithe)
+léirmhíniú+Verbal+Noun+VT+Gen:léirmhínithe	VN-INIT;	! GENITIVE
+léirmhínithe+Verbal+Adj:léirmhínithe	VA-INIT;	! ADJECTIVE
+léirsmaoineamh+Verbal+Noun+VTI:léirsmaoineamh	VN-INIT;	! VERB::léirsmaoinigh; Grammar::(gs -nimh, pl -nte)
+léirsmaoineamh+Verbal+Noun+VTI+Gen:léirsmaoinimh	VN-INIT;	! GENITIVE
+léirsmaoineamh+Verbal+Noun+VTI+Gen:léirsmaointe	VN-INIT;	! GENITIVE *** CHECKED also added
+léirsmaoinithe+Verbal+Adj:léirsmaoinithe	VA-INIT;	! ADJECTIVE	***
+luasmhoilliú+Verbal+Noun+VTI:luasmhoilliú	VN-INIT;	! VERB::luasmhoilligh; Grammar::(gs -ithe)
+luasmhoilliú+Verbal+Noun+VTI+Gen:luasmhoillithe	VN-INIT;	! GENITIVE
+luasmhoillithe+Verbal+Adj:luasmhoillithe	VA-INIT;	! ADJECTIVE
+macasamhlú+Verbal+Noun+VT:macasamhlú	VN-INIT;	! VERB::macasamhlaigh; Grammar::(gs -laithe)
+macasamhlú+Verbal+Noun+VT+Gen:macasamhlaithe	VN-INIT;	! GENITIVE
+macasamhlaithe+Verbal+Adj:macasamhlaithe	VA-INIT;	! ADJECTIVE
+máchailiú+Verbal+Noun+VT:máchailiú	VN-INIT;	! VERB::máchailigh*x1*y; Grammar::(gs -ithe)
+máchailiú+Verbal+Noun+VT+Gen:máchailithe	VN-INIT;	! GENITIVE
+máchailithe+Verbal+Adj:máchailithe	VA-INIT;	! ADJECTIVE
+mianú+Verbal+Noun+VT:mianú	VN-INIT;	! VERB::mianaigh*x1*y; Grammar::(gs -naithe)
+mianú+Verbal+Noun+VT+Gen:mianaithe	VN-INIT;	! GENITIVE
+mianaithe+Verbal+Adj:mianaithe	VA-INIT;	! ADJECTIVE
+míntíriú+Verbal+Noun+VT:míntíriú	VN-INIT;	! VERB::míntírigh; Grammar::(gs -ithe)
+míntíriú+Verbal+Noun+VT+Gen:míntírithe	VN-INIT;	! GENITIVE
+míntírithe+Verbal+Adj:míntírithe	VA-INIT;	! ADJECTIVE
+mionathrú+Verbal+Noun+VT:mionathrú	VN-INIT;	! VERB::mionathraigh; Grammar::(gs -raithe, pl -ruithe)
+mionathrú+Verbal+Noun+VT+Gen:mionathraithe	VN-INIT;	! GENITIVE
+mionathraithe+Verbal+Adj:mionathraithe	VA-INIT;	! ADJECTIVE
+mionbhreacadh+Verbal+Noun+VT:mionbhreacadh	VN-INIT;	! VERB::mionbhreac; Grammar::(gs as vn -ctha)
+mionbhreacadh+Verbal+Noun+VT+Gen:mionbhreactha	VN-INIT;	! GENITIVE
+mionbhreactha+Verbal+Adj:mionbhreactha	VA-INIT;	! ADJECTIVE
+mionleasú+Verbal+Noun+VT:mionleasú	VN-INIT;	! VERB::mionleasaigh; Grammar::(gs -saithe, pl -suithe)
+mionleasú+Verbal+Noun+VT+Gen:mionleasaithe	VN-INIT;	! GENITIVE
+mionleasaithe+Verbal+Adj:mionleasaithe	VA-INIT;	! ADJECTIVE
+mionroinnt+Verbal+Noun+VT:mionroinnt	VN-INIT;	! VERB::mionroinn; Grammar::(gs ~e)
+mionroinnt+Verbal+Noun+VT+Gen:mionroinnte	VN-INIT;	! GENITIVE
+mionroinnte+Verbal+Adj:mionroinnte	VA-INIT;	! ADJECTIVE
+mionsaothrú+Verbal+Noun+VT:mionsaothrú	VN-INIT;	! VERB::mionsaothraigh; Grammar::(gs -raithe)
+mionsaothrú+Verbal+Noun+VT+Gen:mionsaothraithe	VN-INIT;	! GENITIVE
+mionsaothraithe+Verbal+Adj:mionsaothraithe	VA-INIT;	! ADJECTIVE
+mionscrúdú+Verbal+Noun+VT:mionscrúdú	VN-INIT;	! VERB::mionscrúdaigh; Grammar::(gs -daithe, pl -duithe)
+mionscrúdú+Verbal+Noun+VT+Gen:mionscrúdaithe	VN-INIT;	! GENITIVE
+mionscrúdaithe+Verbal+Adj:mionscrúdaithe	VA-INIT;	! ADJECTIVE
+mionteagasc+Verbal+Noun+VT:mionteagasc	VN-INIT;	! VERB::mionteagasc*x2*y; Grammar::(gs & npl -aisc, gpl ~)
+mionteagasc+Verbal+Noun+VT+Gen:mionteagaisc	VN-INIT;	! GENITIVE
+mionteagasctha+Verbal+Adj:mionteagasctha	VA-INIT;	! ADJECTIVE	***
+náisiúnú+Verbal+Noun+VT:náisiúnú	VN-INIT;	! VERB::náisiúnaigh*x1*y; Grammar::(gs -naithe)
+náisiúnú+Verbal+Noun+VT+Gen:náisiúnaithe	VN-INIT;	! GENITIVE
+náisiúnaithe+Verbal+Adj:náisiúnaithe	VA-INIT;	! ADJECTIVE
+néalú+Verbal+Noun+VT:néalú	VN-INIT;	! VERB::néalaigh; Grammar::(gs -laithe)
+néalú+Verbal+Noun+VT+Gen:néalaithe	VN-INIT;	! GENITIVE
+néalaithe+Verbal+Adj:néalaithe	VA-INIT;	! ADJECTIVE
+ocsaídiú+Verbal+Noun+VT:ocsaídiú	VN-INIT;	! VERB::ocsaídigh*x1*y; Grammar::(gs -ithe)
+ocsaídiú+Verbal+Noun+VT+Gen:ocsaídithe	VN-INIT;	! GENITIVE
+ocsaídithe+Verbal+Adj:ocsaídithe	VA-INIT;	! ADJECTIVE
+ocsaiginiú+Verbal+Noun+VT:ocsaiginiú	VN-INIT;	! VERB::ocsaiginigh*x1*y; Grammar::(gs -ithe)
+ocsaiginiú+Verbal+Noun+VT+Gen:ocsaiginithe	VN-INIT;	! GENITIVE
+ocsaiginithe+Verbal+Adj:ocsaiginithe	VA-INIT;	! ADJECTIVE
+páirtiú+Verbal+Noun+VI:páirtiú	VN-INIT;	! VERB::páirtigh*x1*y; Grammar::(gs -ithe)
+páirtiú+Verbal+Noun+VI+Gen:páirtithe	VN-INIT;	! GENITIVE
+páirtithe+Verbal+Adj:páirtithe	VA-INIT;	! ADJECTIVE
+palatú+Verbal+Noun+VT:palatú	VN-INIT;	! VERB::palataigh; Grammar::(gs -taithe)
+palatú+Verbal+Noun+VT+Gen:palataithe	VN-INIT;	! GENITIVE
+palataithe+Verbal+Adj:palataithe	VA-INIT;	! ADJECTIVE
+pionósú+Verbal+Noun+VT:pionósú	VN-INIT;	! VERB::pionósaigh*x1*y; Grammar::(gs -saithe)
+pionósú+Verbal+Noun+VT+Gen:pionósaithe	VN-INIT;	! GENITIVE
+pionósaithe+Verbal+Adj:pionósaithe	VA-INIT;	! ADJECTIVE
+pocléim+Verbal+Noun+VI:pocléim	VN-INIT;	! VERB::pocléim*x2*y; Grammar::(gs ~e, pl ~eanna)
+pocléim+Verbal+Noun+VI+Gen:pocléime	VN-INIT;	! GENITIVE
+pocléime+Verbal+Adj:pocléime	VA-INIT;	! ADJECTIVE
+príosúnú+Verbal+Noun+VT:príosúnú	VN-INIT;	! VERB::príosúnaigh*x1*y; Grammar::(gs -naithe)
+príosúnú+Verbal+Noun+VT+Gen:príosúnaithe	VN-INIT;	! GENITIVE
+príosúnaithe+Verbal+Adj:príosúnaithe	VA-INIT;	! ADJECTIVE
+prólaiféarú+Verbal+Noun+VI:prólaiféarú	VN-INIT;	! VERB::prólaiféaraigh*x1*y; Grammar::(gs -raithe)
+prólaiféarú+Verbal+Noun+VI+Gen:prólaiféaraithe	VN-INIT;	! GENITIVE
+prólaiféaraithe+Verbal+Adj:prólaiféaraithe	VA-INIT;	! ADJECTIVE
+púitseáil+Verbal+Noun+VT:púitseáil	VN-INIT;	! VERB::púitseáil*x2*y; Grammar::(gs -ála)
+púitseáil+Verbal+Noun+VT+Gen:púitseála	VN-INIT;	! GENITIVE
+púitseáilte+Verbal+Adj:púitseáilte	VA-INIT;	! ADJECTIVE
+pupú+Verbal+Noun+VI:pupú	VN-INIT;	! VERB::pupaigh*x1*y; Grammar::(gs -paithe)
+pupú+Verbal+Noun+VI+Gen:pupaithe	VN-INIT;	! GENITIVE
+pupaithe+Verbal+Adj:pupaithe	VA-INIT;	! ADJECTIVE
+racáil+Verbal+Noun+VT:racáil	VN-INIT;	! VERB::racáil*x2*y; Grammar::(gs -ála, pl -álacha)
+racáil+Verbal+Noun+VT+Gen:racála	VN-INIT;	! GENITIVE
+racáilte+Verbal+Adj:racáilte	VA-INIT;	! ADJECTIVE
+radú+Verbal+Noun+VTI:radú	VN-INIT;	! VERB::radaigh; Grammar::(gs -daithe)
+radú+Verbal+Noun+VTI+Gen:radaithe	VN-INIT;	! GENITIVE
+radaithe+Verbal+Adj:radaithe	VA-INIT;	! ADJECTIVE
+rásáil+Verbal+Noun+VTI:rásáil	VN-INIT;	! VERB::rásáil*x2*y; Grammar::(gs -ála)
+rásáil+Verbal+Noun+VTI+Gen:rásála	VN-INIT;	! GENITIVE
+rásáilte+Verbal+Adj:rásáilte	VA-INIT;	! ADJECTIVE
+sampláil+Verbal+Noun+VT:sampláil	VN-INIT;	! VERB::sampláil*x2*y; Grammar::(gs -ála)
+sampláil+Verbal+Noun+VT+Gen:samplála	VN-INIT;	! GENITIVE
+sampláilte+Verbal+Adj:sampláilte	VA-INIT;	! ADJECTIVE
+saoradh+Verbal+Noun+VT:saoradh	VN-INIT;	! VERB::saor*x4*y; Grammar::(gs -rtha)
+saoradh+Verbal+Noun+VT+Gen:saortha	VN-INIT;	! GENITIVE
+saortha+Verbal+Adj:saortha	VA-INIT;	! ADJECTIVE
+scagdhealú+Verbal+Noun+VT:scagdhealú	VN-INIT;	! VERB::scagdhealaigh; Grammar::(gs -laithe, pl -luithe)
+scagdhealú+Verbal+Noun+VT+Gen:scagdhealaithe	VN-INIT;	! GENITIVE
+scagdhealaithe+Verbal+Adj:scagdhealaithe	VA-INIT;	! ADJECTIVE
+sciamhú+Verbal+Noun+VT:sciamhú	VN-INIT;	! VERB::sciamhaigh*x1*y; Grammar::(gs -mhaithe)
+sciamhú+Verbal+Noun+VT+Gen:sciamhaithe	VN-INIT;	! GENITIVE
+sciamhaithe+Verbal+Adj:sciamhaithe	VA-INIT;	! ADJECTIVE
+seachtrú+Verbal+Noun+VT:seachtrú	VN-INIT;	! VERB::seachtraigh*x1*y; Grammar::(gs -raithe)
+seachtrú+Verbal+Noun+VT+Gen:seachtraithe	VN-INIT;	! GENITIVE
+seachtraithe+Verbal+Adj:seachtraithe	VA-INIT;	! ADJECTIVE
+searbhú+Verbal+Noun+VTI:searbhú	VN-INIT;	! VERB::searbhaigh; Grammar::(gs -bhaithe)
+searbhú+Verbal+Noun+VTI+Gen:searbhaithe	VN-INIT;	! GENITIVE
+searbhaithe+Verbal+Adj:searbhaithe	VA-INIT;	! ADJECTIVE
+síolú+Verbal+Noun+VTI:síolú	VN-INIT;	! VERB::síolaigh*x1*y; Grammar::(gs -laithe)
+síolú+Verbal+Noun+VTI+Gen:síolaithe	VN-INIT;	! GENITIVE
+síolaithe+Verbal+Adj:síolaithe	VA-INIT;	! ADJECTIVE
+sioncóipiú+Verbal+Noun+VT:sioncóipiú	VN-INIT;	! VERB::sioncóipigh; Grammar::(gs -ithe)
+sioncóipiú+Verbal+Noun+VT+Gen:sioncóipithe	VN-INIT;	! GENITIVE
+sioncóipithe+Verbal+Adj:sioncóipithe	VA-INIT;	! ADJECTIVE
+sleachtadh+Verbal+Noun+VTI:sleachtadh	VN-INIT;	! VERB::sleacht*x1*y; Grammar::(gs sleachta)
+sleachtadh+Verbal+Noun+VTI+Gen:sleachta	VN-INIT;	! GENITIVE
+sleachta+Verbal+Adj:sleachta	VA-INIT;	! ADJECTIVE
+slighe+Verbal+Noun+VTI:slighe	VN-INIT;	! VERB::sligh; Grammar::(gs ~, pl -ghthe)
+slighe+Verbal+Noun+VTI+Gen:slighthe	VN-INIT;	! GENITIVE
+slighthe+Verbal+Adj:slighthe	VA-INIT;	! ADJECTIVE
+smeadráil+Verbal+Noun+VTI:smeadráil	VN-INIT;	! VERB::smeadráil*x2*y; Grammar::(gs -ála, pl -álacha)
+smeadráil+Verbal+Noun+VTI+Gen:smeadrála	VN-INIT;	! GENITIVE
+smeadráilte+Verbal+Adj:smeadráilte	VA-INIT;	! ADJECTIVE
+smolchaitheamh+Verbal+Noun+VTI:smolchaitheamh	VN-INIT;	! VERB::; Grammar::(gs as vn -ite)	*** Transitivity added. Derived from caitheamh. Doesn't really make sense here, since there is no such verb as *smolchaith. Only used as VN and pp. 'smolchaite'.
+
+smolchaitheamh+Verbal+Noun+VTI+Gen:smolchaite	VN-INIT;	! GENITIVE
+smolchaite+Verbal+Adj:smolchaite	VA-INIT;	! ADJECTIVE
+snáthadh+Verbal+Noun+VT:snáthadh	VN-INIT;	! VERB::snáith; Grammar::(gs as vn -áite; 
+snáthadh+Verbal+Noun+VT+Gen:snáite	VN-INIT;	! GENITIVE
+snáite+Verbal+Adj:snáite	VA-INIT;	! ADJECTIVE
+sóisialú+Verbal+Noun+VT:sóisialú	VN-INIT;	! VERB::sóisialaigh; Grammar::(gs -laithe)
+sóisialú+Verbal+Noun+VT+Gen:sóisialaithe	VN-INIT;	! GENITIVE
+sóisialaithe+Verbal+Adj:sóisialaithe	VA-INIT;	! ADJECTIVE
+soladú+Verbal+Noun+VTI:soladú	VN-INIT;	! VERB::soladaigh*x1*y; Grammar::(gs -daithe)
+soladú+Verbal+Noun+VTI+Gen:soladaithe	VN-INIT;	! GENITIVE
+soladaithe+Verbal+Adj:soladaithe	VA-INIT;	! ADJECTIVE
+sonnadh+Verbal+Noun+VT:sonnadh	VN-INIT;	! VERB::sonn*x2*y; Grammar::(gs -aidh, pl -aí)
+sonnadh+Verbal+Noun+VT+Gen:sonnaidh	VN-INIT;	! GENITIVE
+sonnta+Verbal+Adj:sonnta	VA-INIT;	! ADJECTIVE	***
+spailleadh+Verbal+Noun+VT:spailleadh	VN-INIT;	! VERB::spaill; Grammar::(gs -llte)
+spailleadh+Verbal+Noun+VT+Gen:spaillte	VN-INIT;	! GENITIVE
+spaillte+Verbal+Adj:spaillte	VA-INIT;	! ADJECTIVE
+spruigeáil+Verbal+Noun+VTI:spruigeáil	VN-INIT;	! VERB::spruigeáil*x2*y; Grammar::(gs -ála)
+spruigeáil+Verbal+Noun+VTI+Gen:spruigeála	VN-INIT;	! GENITIVE
+spruigeáilte+Verbal+Adj:spruigeáilte	VA-INIT;	! ADJECTIVE
+stánáil+Verbal+Noun+VT:stánáil	VN-INIT;	! VERB::stánáil*x2*y; Grammar::(gs -ála)
+stánáil+Verbal+Noun+VT+Gen:stánála	VN-INIT;	! GENITIVE
+stánáilte+Verbal+Adj:stánáilte	VA-INIT;	! ADJECTIVE
+suimeáil+Verbal+Noun+VT:suimeáil	VN-INIT;	! VERB::suimeáil*x2*y; Grammar::(gs -ála, pl -álacha)
+suimeáil+Verbal+Noun+VT+Gen:suimeála	VN-INIT;	! GENITIVE
+suimeáilte+Verbal+Adj:suimeáilte	VA-INIT;	! ADJECTIVE
+tairiseamh+Verbal+Noun+VI:tairiseamh	VN-INIT;	! VERB::tairis*x1*y; Grammar::(gs -simh)
+tairiseamh+Verbal+Noun+VI+Gen:tairisimh	VN-INIT;	! GENITIVE
+tairisthe+Verbal+Adj:tairisthe	VA-INIT;	! ADJECTIVE	***
+tarscaoileadh+Verbal+Noun+VT:tarscaoileadh	VN-INIT;	! VERB::tarscaoil; Grammar::(gs -lte)
+tarscaoileadh+Verbal+Noun+VT+Gen:tarscaoilte	VN-INIT;	! GENITIVE
+tarscaoilte+Verbal+Adj:tarscaoilte	VA-INIT;	! ADJECTIVE
+teibiú+Verbal+Noun+VT:teibiú	VN-INIT;	! VERB::teibigh; Grammar::(gs -ithe)
+teibiú+Verbal+Noun+VT+Gen:teibithe	VN-INIT;	! GENITIVE
+teibithe+Verbal+Adj:teibithe	VA-INIT;	! ADJECTIVE
+toghail+Verbal+Noun+VT:toghail	VN-INIT;	! VERB::toghail*x3*y; Grammar::(gs & npl -ghla)
+toghail+Verbal+Noun+VT+Gen:toghla	VN-INIT;	! GENITIVE
+toghla+Verbal+Adj:toghla	VA-INIT;	! ADJECTIVE
+tréghalú+Verbal+Noun+VI:tréghalú	VN-INIT;	! VERB::tréghalaigh; Grammar::(gs -laithe)
+tréghalú+Verbal+Noun+VI+Gen:tréghalaithe	VN-INIT;	! GENITIVE
+tréghalaithe+Verbal+Adj:tréghalaithe	VA-INIT;	! ADJECTIVE
+trust+Verbal+Noun+VT:trust	VN-INIT;	! VERB::trust*x2*y; Grammar::(gs ~a)
+trust+Verbal+Noun+VT+Gen:trusta	VN-INIT;	! GENITIVE
+trusta+Verbal+Adj:trusta	VA-INIT;	! ADJECTIVE
+úmadh+Verbal+Noun+VT:úmadh	VN-INIT;	! VERB::úim*x2*y; Grammar::(gs úmtha)
+úmadh+Verbal+Noun+VT+Gen:úmtha	VN-INIT;	! GENITIVE
+úmtha+Verbal+Adj:úmtha	VA-INIT;	! ADJECTIVE
+
+! VERBAL NOUNS FOUND IN VERB ENTRIES
+
+adhaltranú+Verbal+Noun+VT:adhaltranú	VN-INIT;	! VERB::adhaltranaigh; Grammar::(vn -nú m, gs -ithe)
+adhaltranú+Verbal+Noun+VT+Gen:adhaltranaithe	VN-INIT;	! GENITIVE
+adhaltranaithe+Verbal+Adj:adhaltranaithe	VA-INIT;	! ADJECTIVE
+airbheartú+Verbal+Noun+VT:airbheartú	VN-INIT;	! VERB::airbheartaigh; Grammar::(vn -tú m, gs -ithe)
+airbheartú+Verbal+Noun+VT+Gen:airbheartaithe	VN-INIT;	! GENITIVE
+airbheartaithe+Verbal+Adj:airbheartaithe	VA-INIT;	! ADJECTIVE
+amhastrach+Verbal+Noun+VT:amhastrach	VN-INIT;	! VERB::amhastraigh; Grammar::(vn -ach)
+amhastrach+Verbal+Noun+VT+Gen:amhastraí	VN-INIT;	! GENITIVE	***
+amhastraithe+Verbal+Adj:amhastraithe	VA-INIT;	! ADJECTIVE	***
+argóint+Verbal+Noun+VT:argóint	VN-INIT;	! VERB::argóin; Grammar::(pres -ónann, vn ~t)
+argóint+Verbal+Noun+VT+Gen:argóinte	VN-INIT;	! GENITIVE	***
+argóinte+Verbal+Adj:argóinte	VA-INIT;	! ADJECTIVE	***
+ársú+Verbal+Noun+VT:ársú	VN-INIT;	! VERB::ársaigh; Grammar::(vn -sú m, gs -ithe)
+ársú+Verbal+Noun+VT+Gen:ársaithe	VN-INIT;	! GENITIVE
+ársaithe+Verbal+Adj:ársaithe	VA-INIT;	! ADJECTIVE
+ársaí+Verbal+Noun+VT:ársaí	VN-INIT;	! VERB::ársaigh; Grammar::(vn ársaí m gs -ithe)
+ársaí+Verbal+Noun+VT+Gen:ársaithe	VN-INIT;	! GENITIVE
+ársaithe+Verbal+Adj:ársaithe	VA-INIT;	! ADJECTIVE
+ascnamh+Verbal+Noun+VT:ascnamh	VN-INIT;	! VERB::ascain; Grammar::(pres -cnaíonn, vn -cnamh)
+ascnamh+Verbal+Noun+VT+Gen:ascnaimh	VN-INIT;	! GENITIVE	***
+ascaine+Verbal+Adj:ascaine	VA-INIT;	! ADJECTIVE	*** Guess
+aslach+Verbal+Noun+VT:aslach	VN-INIT;	! VERB::aslaigh; Grammar::(vn -ach)
+aslach+Verbal+Noun+VT+Gen:aslaithe	VN-INIT;	! GENITIVE	***
+aslaithe+Verbal+Adj:aslaithe	VA-INIT;	! ADJECTIVE	***
+atosú+Verbal+Noun+VT:atosú	VN-INIT;	! VERB::atosaigh; Grammar::(vn -sú m, gs -ithe)
+atosú+Verbal+Noun+VT+Gen:atosaithe	VN-INIT;	! GENITIVE
+atosaithe+Verbal+Adj:atosaithe	VA-INIT;	! ADJECTIVE
+badráil+Verbal+Noun+VT:badráil	VN-INIT;	! VERB::badráil; Grammar::(pres -álann; vn ~ f, gs -ála)
+badráil+Verbal+Noun+VT+Gen:badrála	VN-INIT;	! GENITIVE
+badráilte+Verbal+Adj:badráilte	VA-INIT;	! ADJECTIVE
+baslach+Verbal+Noun+VT:baslach	VN-INIT;	! VERB::baslaigh; Grammar::(vn -ach m, gs ~)
+baslach+Verbal+Noun+VT+Gen:baslach	VN-INIT;	! GENITIVE	***
+baslaithe+Verbal+Adj:baslaithe	VA-INIT;	! ADJECTIVE	***
+blocáil+Verbal+Noun+VT:blocáil	VN-INIT;	! VERB::blocáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+blocáil+Verbal+Noun+VT+Gen:blocála	VN-INIT;	! GENITIVE
+blocáilte+Verbal+Adj:blocáilte	VA-INIT;	! ADJECTIVE
+bocsáil+Verbal+Noun+VT:bocsáil	VN-INIT;	! VERB::bocsáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+bocsáil+Verbal+Noun+VT+Gen:bocsála	VN-INIT;	! GENITIVE
+bocsáilte+Verbal+Adj:bocsáilte	VA-INIT;	! ADJECTIVE
+bodhradh+Verbal+Noun+VT:bodhradh	VN-INIT;	! VERB::bodhair; Grammar::(pres -dhrann; vn -dhradh m, gs & pp-artha)
+bodhradh+Verbal+Noun+VT+Gen:bodhartha	VN-INIT;	! GENITIVE
+bodhartha+Verbal+Adj:bodhartha	VA-INIT;	! ADJECTIVE
+brúscadh+Verbal+Noun+VT:brúscadh	VN-INIT;	! VERB::brúisc; Grammar::(pp ~the; vn -úscadh m, gs-úsctha)
+brúscadh+Verbal+Noun+VT+Gen:brúsctha	VN-INIT;	! GENITIVE
+brúiscthe+Verbal+Adj:brúiscthe	VA-INIT;	! ADJECTIVE	***
+buacadh+Verbal+Noun+VT:buacadh	VN-INIT;	! VERB::buac; Grammar::(vn ~adh m, gs & pp ~tha)
+buacadh+Verbal+Noun+VT+Gen:buactha	VN-INIT;	! GENITIVE
+buactha+Verbal+Adj:buactha	VA-INIT;	! ADJECTIVE
+buinniú+Verbal+Noun+VT:buinniú	VN-INIT;	! VERB::buinnigh; Grammar::(vn -iú m, gs -ithe)
+buinniú+Verbal+Noun+VT+Gen:buinnithe	VN-INIT;	! GENITIVE
+buinnithe+Verbal+Adj:buinnithe	VA-INIT;	! ADJECTIVE
+buíochasú+Verbal+Noun+VT:buíochasú	VN-INIT;	! VERB::buíochasaigh; Grammar::(vn -sú m, gs -ithe)
+buíochasú+Verbal+Noun+VT+Gen:buíochasaithe	VN-INIT;	! GENITIVE
+buíochasaithe+Verbal+Adj:buíochasaithe	VA-INIT;	! ADJECTIVE
+cabáil+Verbal+Noun+VT:cabáil	VN-INIT;	! VERB::cabáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+cabáil+Verbal+Noun+VT+Gen:cabála	VN-INIT;	! GENITIVE
+cabáilte+Verbal+Adj:cabáilte	VA-INIT;	! ADJECTIVE
+cánáil+Verbal+Noun+VT:cánáil	VN-INIT;	! VERB::cánáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+cánáil+Verbal+Noun+VT+Gen:cánála	VN-INIT;	! GENITIVE
+cánáilte+Verbal+Adj:cánáilte	VA-INIT;	! ADJECTIVE
+cantáil+Verbal+Noun+VT:cantáil	VN-INIT;	! VERB::cantáil; Grammar::(pres -álann; vn ~ f, gs-ála)
+cantáil+Verbal+Noun+VT+Gen:cantála	VN-INIT;	! GENITIVE
+cantáilte+Verbal+Adj:cantáilte	VA-INIT;	! ADJECTIVE
+caochfháithimiú+Verbal+Noun+VT:caochfháithimiú	VN-INIT;	! VERB::caochfháithimigh; Grammar::(vn -iú m, gs -ithe)
+caochfháithimiú+Verbal+Noun+VT+Gen:caochfháithimithe	VN-INIT;	! GENITIVE
+caochfháithimithe+Verbal+Adj:caochfháithimithe	VA-INIT;	! ADJECTIVE
+carthain+Verbal+Noun+VT:carthain	VN-INIT;	! VERB::car; Grammar::(vn ~thain, pp ~tha)
+carthain+Verbal+Noun+VT+Gen:cartha	VN-INIT;	! GENITIVE
+cartha+Verbal+Adj:cartha	VA-INIT;	! ADJECTIVE
+céadcheapadh+Verbal+Noun+VT:céadcheapadh	VN-INIT;	! VERB::céadcheap; Grammar::(vn ~adh m, gs & pp ~tha)
+céadcheapadh+Verbal+Noun+VT+Gen:céadcheaptha	VN-INIT;	! GENITIVE
+céadcheaptha+Verbal+Adj:céadcheaptha	VA-INIT;	! ADJECTIVE
+ceasacht+Verbal+Noun+VT:ceasacht	VN-INIT;	! VERB::ceis; Grammar::(vn ceasacht)
+ceasacht+Verbal+Noun+VT+Gen:ceasachta	VN-INIT;	! GENITIVE	***
+ceiste+Verbal+Adj:ceiste	VA-INIT;	! ADJECTIVE	*** Guess
+cineadh+Verbal+Noun+VT:cineadh	VN-INIT;	! VERB::cin; Grammar::(vn ~eadh m, gs ~te)
+cineadh+Verbal+Noun+VT+Gen:cinte	VN-INIT;	! GENITIVE
+cinte+Verbal+Adj:cinte	VA-INIT;	! ADJECTIVE
+cleitiú+Verbal+Noun+VT:cleitiú	VN-INIT;	! VERB::cleitigh; Grammar::(vn -iú m, gs -ithe)
+cleitiú+Verbal+Noun+VT+Gen:cleitithe	VN-INIT;	! GENITIVE
+cleitithe+Verbal+Adj:cleitithe	VA-INIT;	! ADJECTIVE
+cliceáil+Verbal+Noun+VT:cliceáil	VN-INIT;	! VERB::cliceáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+cliceáil+Verbal+Noun+VT+Gen:cliceála	VN-INIT;	! GENITIVE
+cliceáilte+Verbal+Adj:cliceáilte	VA-INIT;	! ADJECTIVE
+cluicheáil+Verbal+Noun+VT:cluicheáil	VN-INIT;	! VERB::cluicheáil; Grammar::(pres -álann; vn ~ f, gs-ála)
+cluicheáil+Verbal+Noun+VT+Gen:cluicheála	VN-INIT;	! GENITIVE
+cluicheáilte+Verbal+Adj:cluicheáilte	VA-INIT;	! ADJECTIVE
+cocáil+Verbal+Noun+VT:cocáil	VN-INIT;	! VERB::cocáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+cocáil+Verbal+Noun+VT+Gen:cocála	VN-INIT;	! GENITIVE
+cocáilte+Verbal+Adj:cocáilte	VA-INIT;	! ADJECTIVE
+codhnú+Verbal+Noun+VT:codhnú	VN-INIT;	! VERB::codhnaigh; Grammar::(vn -nú m, gs -ithe)
+codhnú+Verbal+Noun+VT+Gen:codhnaithe	VN-INIT;	! GENITIVE
+codhnaithe+Verbal+Adj:codhnaithe	VA-INIT;	! ADJECTIVE
+coirbeadh+Verbal+Noun+VT:coirbeadh	VN-INIT;	! VERB::coirb; Grammar::(vn ~eadh m, gs & pp ~the)
+coirbeadh+Verbal+Noun+VT+Gen:coirbthe	VN-INIT;	! GENITIVE
+coirbthe+Verbal+Adj:coirbthe	VA-INIT;	! ADJECTIVE
+conáil+Verbal+Noun+VT:conáil	VN-INIT;	! VERB::conáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+conáil+Verbal+Noun+VT+Gen:conála	VN-INIT;	! GENITIVE
+conáilte+Verbal+Adj:conáilte	VA-INIT;	! ADJECTIVE
+cóstáil+Verbal+Noun+VT:cóstáil	VN-INIT;	! VERB::cóstáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+cóstáil+Verbal+Noun+VT+Gen:cóstála	VN-INIT;	! GENITIVE
+cóstáilte+Verbal+Adj:cóstáilte	VA-INIT;	! ADJECTIVE
+craiceáil+Verbal+Noun+VT:craiceáil	VN-INIT;	! VERB::craiceáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+craiceáil+Verbal+Noun+VT+Gen:craiceála	VN-INIT;	! GENITIVE
+craiceáilte+Verbal+Adj:craiceáilte	VA-INIT;	! ADJECTIVE
+crampáil+Verbal+Noun+VT:crampáil	VN-INIT;	! VERB::crampáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+crampáil+Verbal+Noun+VT+Gen:crampála	VN-INIT;	! GENITIVE
+crampáilte+Verbal+Adj:crampáilte	VA-INIT;	! ADJECTIVE
+creimneáil+Verbal+Noun+VT:creimneáil	VN-INIT;	! VERB::creimneáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+creimneáil+Verbal+Noun+VT+Gen:creimneála	VN-INIT;	! GENITIVE
+creimneáilte+Verbal+Adj:creimneáilte	VA-INIT;	! ADJECTIVE
+creimseáil+Verbal+Noun+VT:creimseáil	VN-INIT;	! VERB::creimseáil; Grammar::(pres -álann; vn ~ f, gs-ála)
+creimseáil+Verbal+Noun+VT+Gen:creimseála	VN-INIT;	! GENITIVE
+creimseáilte+Verbal+Adj:creimseáilte	VA-INIT;	! ADJECTIVE
+cuilteáil+Verbal+Noun+VT:cuilteáil	VN-INIT;	! VERB::cuilteáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+cuilteáil+Verbal+Noun+VT+Gen:cuilteála	VN-INIT;	! GENITIVE
+cuilteáilte+Verbal+Adj:cuilteáilte	VA-INIT;	! ADJECTIVE
+cúinneáil+Verbal+Noun+VT:cúinneáil	VN-INIT;	! VERB::cúinneáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+cúinneáil+Verbal+Noun+VT+Gen:cúinneála	VN-INIT;	! GENITIVE
+cúinneáilte+Verbal+Adj:cúinneáilte	VA-INIT;	! ADJECTIVE
+cúláil+Verbal+Noun+VT:cúláil	VN-INIT;	! VERB::cúláil; Grammar::(pres -álann; vn ~ f, gs -ála)
+cúláil+Verbal+Noun+VT+Gen:cúlála	VN-INIT;	! GENITIVE
+cúláilte+Verbal+Adj:cúláilte	VA-INIT;	! ADJECTIVE
+damhnadh+Verbal+Noun+VT:damhnadh	VN-INIT;	! VERB::damhain; Grammar::(pres -mhnann; vn -mhnadh m, gs ~te)
+damhnadh+Verbal+Noun+VT+Gen:damhainte	VN-INIT;	! GENITIVE
+damhainte+Verbal+Adj:damhainte	VA-INIT;	! ADJECTIVE
+deachrú+Verbal+Noun+VT:deachrú	VN-INIT;	! VERB::deachair; Grammar::(pres -chraíonn, vn -chrú)
+deachrú+Verbal+Noun+VT+Gen:deachraithe	VN-INIT;	! GENITIVE	***
+deachraithe+Verbal+Adj:deachraithe	VA-INIT;	! ADJECTIVE	*** Probably
+dipeáil+Verbal+Noun+VT:dipeáil	VN-INIT;	! VERB::dipeáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+dipeáil+Verbal+Noun+VT+Gen:dipeála	VN-INIT;	! GENITIVE
+dipeáilte+Verbal+Adj:dipeáilte	VA-INIT;	! ADJECTIVE
+dísliú+Verbal+Noun+VT:dísliú	VN-INIT;	! VERB::dísligh; Grammar::(vn -iú m, gs -ithe)
+dísliú+Verbal+Noun+VT+Gen:díslithe	VN-INIT;	! GENITIVE
+díslithe+Verbal+Adj:díslithe	VA-INIT;	! ADJECTIVE
+doiléiriú+Verbal+Noun+VT:doiléiriú	VN-INIT;	! VERB::doiléirigh; Grammar::(vn -iú m, gs -ithe)
+doiléiriú+Verbal+Noun+VT+Gen:doiléirithe	VN-INIT;	! GENITIVE
+doiléirithe+Verbal+Adj:doiléirithe	VA-INIT;	! ADJECTIVE
+donnú+Verbal+Noun+VT:donnú	VN-INIT;	! VERB::donnaigh; Grammar::(vn -nnú m, gs -ithe)
+donnú+Verbal+Noun+VT+Gen:donnaithe	VN-INIT;	! GENITIVE
+donnaithe+Verbal+Adj:donnaithe	VA-INIT;	! ADJECTIVE
+dópáil+Verbal+Noun+VT:dópáil	VN-INIT;	! VERB::dópáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+dópáil+Verbal+Noun+VT+Gen:dópála	VN-INIT;	! GENITIVE
+dópáilte+Verbal+Adj:dópáilte	VA-INIT;	! ADJECTIVE
+dramhailt+Verbal+Noun+VT:dramhailt	VN-INIT;	! VERB::dramhail; Grammar::(pres -mhlaíonn; vn ~t f, gs ~te)
+dramhailt+Verbal+Noun+VT+Gen:dramhailte	VN-INIT;	! GENITIVE
+dramhailte+Verbal+Adj:dramhailte	VA-INIT;	! ADJECTIVE
+dustáil+Verbal+Noun+VT:dustáil	VN-INIT;	! VERB::dustáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+dustáil+Verbal+Noun+VT+Gen:dustála	VN-INIT;	! GENITIVE
+dustáilte+Verbal+Adj:dustáilte	VA-INIT;	! ADJECTIVE
+fadhbhadh+Verbal+Noun+VT:fadhbhadh	VN-INIT;	! VERB::fadhbh; Grammar::(vn ~adh m)
+fadhbhadh+Verbal+Noun+VT+Gen:fadhbhtha	VN-INIT;	! GENITIVE	*** Guess
+fadhbhtha+Verbal+Adj:fadhbhtha		VA-INIT;	! ADJECTIVE	***
+faghairt+Verbal+Noun+VT:faghairt	VN-INIT;	! VERB::faghair; Grammar::(pres -ghraíonn, vn ~t, pp -artha)
+faghairt+Verbal+Noun+VT+Gen:faghartha	VN-INIT;	! GENITIVE
+faghartha+Verbal+Adj:faghartha	VA-INIT;	! ADJECTIVE
+faoileáil+Verbal+Noun+VT:faoileáil	VN-INIT;	! VERB::faoileáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+faoileáil+Verbal+Noun+VT+Gen:faoileála	VN-INIT;	! GENITIVE
+faoileáilte+Verbal+Adj:faoileáilte	VA-INIT;	! ADJECTIVE
+feamnú+Verbal+Noun+VT:feamnú	VN-INIT;	! VERB::feamnaigh; Grammar::(vn -nú m, gs -ithe)
+feamnú+Verbal+Noun+VT+Gen:feamnaithe	VN-INIT;	! GENITIVE
+feamnaithe+Verbal+Adj:feamnaithe	VA-INIT;	! ADJECTIVE
+foirgniú+Verbal+Noun+VT:foirgniú	VN-INIT;	! VERB::foirgnigh; Grammar::(vn -iú m, gs -ithe)
+foirgniú+Verbal+Noun+VT+Gen:foirgnithe	VN-INIT;	! GENITIVE
+foirgnithe+Verbal+Adj:foirgnithe	VA-INIT;	! ADJECTIVE
+fórsáil+Verbal+Noun+VT:fórsáil	VN-INIT;	! VERB::fórsáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+fórsáil+Verbal+Noun+VT+Gen:fórsála	VN-INIT;	! GENITIVE
+fórsáilte+Verbal+Adj:fórsáilte	VA-INIT;	! ADJECTIVE
+foscnamh+Verbal+Noun+VT:foscnamh	VN-INIT;	! VERB::foscain; Grammar::(vn -cnamh m, gs -cnaimh)
+foscnamh+Verbal+Noun+VT+Gen:foscnaimh	VN-INIT;	! GENITIVE
+foscnainte+Verbal+Adj:foscnainte	VA-INIT;	! ADJECTIVE	*** Guess based on variant of VN 'foscaint'
+frapáil+Verbal+Noun+VT:frapáil	VN-INIT;	! VERB::frapáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+frapáil+Verbal+Noun+VT+Gen:frapála	VN-INIT;	! GENITIVE
+frapáilte+Verbal+Adj:frapáilte	VA-INIT;	! ADJECTIVE
+giosáil+Verbal+Noun+VT:giosáil	VN-INIT;	! VERB::giosáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+giosáil+Verbal+Noun+VT+Gen:giosála	VN-INIT;	! GENITIVE
+giosáilte+Verbal+Adj:giosáilte	VA-INIT;	! ADJECTIVE
+glasú+Verbal+Noun+VT:glasú	VN-INIT;	! VERB::glasaigh; Grammar::(vn -sú m, gs -ithe)
+glasú+Verbal+Noun+VT+Gen:glasaithe	VN-INIT;	! GENITIVE
+glasaithe+Verbal+Adj:glasaithe	VA-INIT;	! ADJECTIVE
+gléghlanadh+Verbal+Noun+VT:gléghlanadh	VN-INIT;	! VERB::gléghlan; Grammar::(vn ~adh m, gs ~ta)
+gléghlanadh+Verbal+Noun+VT+Gen:gléghlanta	VN-INIT;	! GENITIVE
+gléghlanta+Verbal+Adj:gléghlanta	VA-INIT;	! ADJECTIVE
+gligleáil+Verbal+Noun+VT:gligleáil	VN-INIT;	! VERB::gligleáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+gligleáil+Verbal+Noun+VT+Gen:gligleála	VN-INIT;	! GENITIVE
+gligleáilte+Verbal+Adj:gligleáilte	VA-INIT;	! ADJECTIVE
+gormú+Verbal+Noun+VT:gormú	VN-INIT;	! VERB::gormaigh; Grammar::(vn -mú m, gs -ithe)
+gormú+Verbal+Noun+VT+Gen:gormaithe	VN-INIT;	! GENITIVE
+gormaithe+Verbal+Adj:gormaithe	VA-INIT;	! ADJECTIVE
+grinnscrúdú+Verbal+Noun+VT:grinnscrúdú	VN-INIT;	! VERB::grinnscrúdaigh; Grammar::(vn -dú m, gs ithe)
+grinnscrúdú+Verbal+Noun+VT+Gen:grinnsrcúdaithe	VN-INIT;	! GENITIVE	*** (Due to typo in grammar section)
+grinnsrcúdaithe+Verbal+Adj:grinnsrcúdaithe	VA-INIT;	! ADJECTIVE
+hapáil+Verbal+Noun+VT:hapáil	VN-INIT;	! VERB::hapáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+hapáil+Verbal+Noun+VT+Gen:hapála	VN-INIT;	! GENITIVE
+hapáilte+Verbal+Adj:hapáilte	VA-INIT;	! ADJECTIVE
+Heilléanú+Verbal+Noun+VT:Heilléanú	VN-INIT;	! VERB::Heilléanaigh; Grammar::(vn -nú m, gs -ithe)
+Heilléanú+Verbal+Noun+VT+Gen:Heilléanaithe	VN-INIT;	! GENITIVE
+Heilléanaithe+Verbal+Adj:Heilléanaithe	VA-INIT;	! ADJECTIVE
+ibhe+Verbal+Noun+VT:ibhe	VN-INIT;	! VERB::ibh; Grammar::(vn ~e, pp ife)
+ibhe+Verbal+Noun+VT+Gen:ibhe	VN-INIT;	! GENITIVE	*** Guess. Could be 'ife'?
+ife+Verbal+Adj:ife	VA-INIT;	! ADJECTIVE	***
+inneallfhuáilf+Verbal+Noun+VT:inneallfhuáilf	VN-INIT;	! VERB::inneallfhuaigh; Grammar::(pres -ann, fut -afaidh; vn -uáilf, gs -uála; pp -ite)
+inneallfhuáilf+Verbal+Noun+VT+Gen:inneallfhuála	VN-INIT;	! GENITIVE
+inneallfhuáite+Verbal+Adj:inneallfhuáite	VA-INIT;	! ADJECTIVE	***
+laoidheadh+Verbal+Noun+VT:laoidheadh	VN-INIT;	! VERB::laoidh; Grammar::(vn ~eadh m, gs ~te)
+laoidheadh+Verbal+Noun+VT+Gen:laoidhte	VN-INIT;	! GENITIVE
+laoidhte+Verbal+Adj:laoidhte	VA-INIT;	! ADJECTIVE
+lastáil+Verbal+Noun+VT:lastáil	VN-INIT;	! VERB::lastáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+lastáil+Verbal+Noun+VT+Gen:lastála	VN-INIT;	! GENITIVE
+lastáilte+Verbal+Adj:lastáilte	VA-INIT;	! ADJECTIVE
+leictreaphlátáil+Verbal+Noun+VT:leictreaphlátáil	VN-INIT;	! VERB::leictreaphlátáil; Grammar::(pres -álann; vn ~ f, gs-ála)
+leictreaphlátáil+Verbal+Noun+VT+Gen:leictreaphlátála	VN-INIT;	! GENITIVE
+leictreaphlátáilte+Verbal+Adj:leictreaphlátáilte	VA-INIT;	! ADJECTIVE
+léirghlanadh+Verbal+Noun+VT:léirghlanadh	VN-INIT;	! VERB::léirghlan; Grammar::(vn ~adh m, gs ~ta)
+léirghlanadh+Verbal+Noun+VT+Gen:léirghlanta	VN-INIT;	! GENITIVE
+léirghlanta+Verbal+Adj:léirghlanta	VA-INIT;	! ADJECTIVE
+linseáil+Verbal+Noun+VT:linseáil	VN-INIT;	! VERB::linseáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+linseáil+Verbal+Noun+VT+Gen:linseála	VN-INIT;	! GENITIVE
+linseáilte+Verbal+Adj:linseáilte	VA-INIT;	! ADJECTIVE
+lochradh+Verbal+Noun+VT:lochradh	VN-INIT;	! VERB::lochair; Grammar::(vn -chradh, pp -artha)
+lochradh+Verbal+Noun+VT+Gen:lochartha	VN-INIT;	! GENITIVE
+lochartha+Verbal+Adj:lochartha	VA-INIT;	! ADJECTIVE
+lógadh+Verbal+Noun+VT:lógadh	VN-INIT;	! VERB::lóg; Grammar::(vn ~adh m, gs ~tha)
+lógadh+Verbal+Noun+VT+Gen:lógtha	VN-INIT;	! GENITIVE
+lógtha+Verbal+Adj:lógtha	VA-INIT;	! ADJECTIVE
+loingsiú+Verbal+Noun+VT:loingsiú	VN-INIT;	! VERB::loingsigh; Grammar::(vn -iú m, gs -ithe)
+loingsiú+Verbal+Noun+VT+Gen:loingsithe	VN-INIT;	! GENITIVE
+loingsithe+Verbal+Adj:loingsithe	VA-INIT;	! ADJECTIVE
+luadh+Verbal+Noun+VT:luadh	VN-INIT;	! VERB::luaidh; Grammar::(vn luadh m, gs ~te)
+luadh+Verbal+Noun+VT+Gen:luaidhte	VN-INIT;	! GENITIVE
+luaidhte+Verbal+Adj:luaidhte	VA-INIT;	! ADJECTIVE
+machtadh+Verbal+Noun+VT:machtadh	VN-INIT;	! VERB::macht; Grammar::(vn ~adh m, gs & pp ~a)
+machtadh+Verbal+Noun+VT+Gen:machta	VN-INIT;	! GENITIVE
+machta+Verbal+Adj:machta	VA-INIT;	! ADJECTIVE
+mámáil+Verbal+Noun+VT:mámáil	VN-INIT;	! VERB::mámáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+mámáil+Verbal+Noun+VT+Gen:mámála	VN-INIT;	! GENITIVE
+mámáilte+Verbal+Adj:mámáilte	VA-INIT;	! ADJECTIVE
+mapáil+Verbal+Noun+VT:mapáil	VN-INIT;	! VERB::mapáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+mapáil+Verbal+Noun+VT+Gen:mapála	VN-INIT;	! GENITIVE
+mapáilte+Verbal+Adj:mapáilte	VA-INIT;	! ADJECTIVE
+meaitseáil+Verbal+Noun+VT:meaitseáil	VN-INIT;	! VERB::meaitseáil; Grammar::(pres -álann; vn ~ f, gs-ála)
+meaitseáil+Verbal+Noun+VT+Gen:meaitseála	VN-INIT;	! GENITIVE
+meaitseáilte+Verbal+Adj:meaitseáilte	VA-INIT;	! ADJECTIVE
+mionroinnt+Verbal+Noun+VT:mionroinnt	VN-INIT;	! VERB::mionroinn; Grammar::(vn ~t)
+mionroinnt+Verbal+Noun+VT+Gen:mionroinnte	VN-INIT;	! GENITIVE	***
+mionroinnte+Verbal+Adj:mionroinnte	VA-INIT;	! ADJECTIVE	***
+nicilphlátáil+Verbal+Noun+VT:nicilphlátáil	VN-INIT;	! VERB::nicilphlátáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+nicilphlátáil+Verbal+Noun+VT+Gen:nicilphlátála	VN-INIT;	! GENITIVE
+nicilphlátáilte+Verbal+Adj:nicilphlátáilte	VA-INIT;	! ADJECTIVE
+práibeadh+Verbal+Noun+VT:práibeadh	VN-INIT;	! VERB::práib; Grammar::(vn ~eadh m, gs & pp ~the)
+práibeadh+Verbal+Noun+VT+Gen:práibthe	VN-INIT;	! GENITIVE
+práibthe+Verbal+Adj:práibthe	VA-INIT;	! ADJECTIVE
+prapáil+Verbal+Noun+VT:prapáil	VN-INIT;	! VERB::prapáil; Grammar::(pres -álann; vn ~ f, gs-ála)
+prapáil+Verbal+Noun+VT+Gen:prapála	VN-INIT;	! GENITIVE
+prapáilte+Verbal+Adj:prapáilte	VA-INIT;	! ADJECTIVE
+púitseáil+Verbal+Noun+VT:púitseáil	VN-INIT;	! VERB::púitseáil; Grammar::(pres -álann; vn ~ f, gs-ála)
+púitseáil+Verbal+Noun+VT+Gen:púitseála	VN-INIT;	! GENITIVE
+púitseáilte+Verbal+Adj:púitseáilte	VA-INIT;	! ADJECTIVE
+reitheadh+Verbal+Noun+VT:reitheadh	VN-INIT;	! VERB::reith; Grammar::(vn ~eadh m, gs & pp -ite)
+reitheadh+Verbal+Noun+VT+Gen:reite	VN-INIT;	! GENITIVE
+reite+Verbal+Adj:reite	VA-INIT;	! ADJECTIVE
+rialladh+Verbal+Noun+VT:rialladh	VN-INIT;	! VERB::riall; Grammar::(vn ~adh m, gs ~ta)
+rialladh+Verbal+Noun+VT+Gen:riallta	VN-INIT;	! GENITIVE
+riallta+Verbal+Adj:riallta	VA-INIT;	! ADJECTIVE
+rí+Verbal+Noun+VT:rí	VN-INIT;	! VERB::rígh; Grammar::(pres ríonn, vn rí, pp ríthe)
+rí+Verbal+Noun+VT+Gen:ríthe	VN-INIT;	! GENITIVE	***
+ríthe+Verbal+Adj:ríthe	VA-INIT;	! ADJECTIVE	***
+rindreáil+Verbal+Noun+VT:rindreáil	VN-INIT;	! VERB::rindreáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+rindreáil+Verbal+Noun+VT+Gen:rindreála	VN-INIT;	! GENITIVE
+rindreáilte+Verbal+Adj:rindreáilte	VA-INIT;	! ADJECTIVE
+róbáil+Verbal+Noun+VT:róbáil	VN-INIT;	! VERB::róbáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+róbáil+Verbal+Noun+VT+Gen:róbála	VN-INIT;	! GENITIVE
+róbáilte+Verbal+Adj:róbáilte	VA-INIT;	! ADJECTIVE
+rodadh+Verbal+Noun+VT:rodadh	VN-INIT;	! VERB::rod; Grammar::(vn ~adh m, gs ~ta)
+rodadh+Verbal+Noun+VT+Gen:rodta	VN-INIT;	! GENITIVE
+rodta+Verbal+Adj:rodta	VA-INIT;	! ADJECTIVE
+rúnscríobh+Verbal+Noun+VT:rúnscríobh	VN-INIT;	! VERB::rúnscríobh; Grammar::(vn ~ m, gs & pp -ofa)
+rúnscríobh+Verbal+Noun+VT+Gen:rúnscríofa	VN-INIT;	! GENITIVE
+rúnscríofa+Verbal+Adj:rúnscríofa	VA-INIT;	! ADJECTIVE
+rútáil+Verbal+Noun+VT:rútáil	VN-INIT;	! VERB::rútáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+rútáil+Verbal+Noun+VT+Gen:rútála	VN-INIT;	! GENITIVE
+rútáilte+Verbal+Adj:rútáilte	VA-INIT;	! ADJECTIVE
+saibhseáil+Verbal+Noun+VT:saibhseáil	VN-INIT;	! VERB::saibhseáil; Grammar::(pres -álann; vn ~ f, gs-ála)
+saibhseáil+Verbal+Noun+VT+Gen:saibhseála	VN-INIT;	! GENITIVE
+saibhseáilte+Verbal+Adj:saibhseáilte	VA-INIT;	! ADJECTIVE
+saighdeadh+Verbal+Noun+VT:saighdeadh	VN-INIT;	! VERB::saighid; Grammar::(pres -ghdeann, vn -ghdeadh)
+saighdeadh+Verbal+Noun+VT+Gen:saighdte	VN-INIT;	! GENITIVE	***
+saighdeadh+Verbal+Adj:saighdte	VA-INIT;	! ADJECTIVE	***
+sáirsingiú+Verbal+Noun+VT:sáirsingiú	VN-INIT;	! VERB::sáirsingigh; Grammar::(vn -iú m, gs -ithe)
+sáirsingiú+Verbal+Noun+VT+Gen:sáirsingithe	VN-INIT;	! GENITIVE
+sáirsingithe+Verbal+Adj:sáirsingithe	VA-INIT;	! ADJECTIVE
+scáthlíniú+Verbal+Noun+VT:scáthlíniú	VN-INIT;	! VERB::scáthlínigh; Grammar::(vn -iú m, gs -ithe)
+scáthlíniú+Verbal+Noun+VT+Gen:scáthlínithe	VN-INIT;	! GENITIVE
+scáthlínithe+Verbal+Adj:scáthlínithe	VA-INIT;	! ADJECTIVE
+scinceáil+Verbal+Noun+VT:scinceáil	VN-INIT;	! VERB::scinceáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+scinceáil+Verbal+Noun+VT+Gen:scinceála	VN-INIT;	! GENITIVE
+scinceáilte+Verbal+Adj:scinceáilte	VA-INIT;	! ADJECTIVE
+sciortáil+Verbal+Noun+VT:sciortáil	VN-INIT;	! VERB::sciortáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+sciortáil+Verbal+Noun+VT+Gen:sciortála	VN-INIT;	! GENITIVE
+sciortáilte+Verbal+Adj:sciortáilte	VA-INIT;	! ADJECTIVE
+scoráil+Verbal+Noun+VT:scoráil	VN-INIT;	! VERB::scoráil; Grammar::(pres -álann; vn ~ f, gs -ála)
+scoráil+Verbal+Noun+VT+Gen:scorála	VN-INIT;	! GENITIVE
+scoráilte+Verbal+Adj:scoráilte	VA-INIT;	! ADJECTIVE
+scuitseáil+Verbal+Noun+VT:scuitseáil	VN-INIT;	! VERB::scuitseáil; Grammar::(pres -álann; vn ~ f, gs-ála)
+scuitseáil+Verbal+Noun+VT+Gen:scuitseála	VN-INIT;	! GENITIVE
+scuitseáilte+Verbal+Adj:scuitseáilte	VA-INIT;	! ADJECTIVE
+seachránú+Verbal+Noun+VT:seachránú	VN-INIT;	! VERB::seachránaigh; Grammar::(vn -nú m, gs -ithe)
+seachránú+Verbal+Noun+VT+Gen:seachránaithe	VN-INIT;	! GENITIVE
+seachránaithe+Verbal+Adj:seachránaithe	VA-INIT;	! ADJECTIVE
+siortáil+Verbal+Noun+VT:siortáil	VN-INIT;	! VERB::siortáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+siortáil+Verbal+Noun+VT+Gen:siortála	VN-INIT;	! GENITIVE
+siortáilte+Verbal+Adj:siortáilte	VA-INIT;	! ADJECTIVE
+siosadh+Verbal+Noun+VT:siosadh	VN-INIT;	! VERB::sios; Grammar::(vn ~adh m, gs ~ta)
+siosadh+Verbal+Noun+VT+Gen:siosta	VN-INIT;	! GENITIVE
+siosta+Verbal+Adj:siosta	VA-INIT;	! ADJECTIVE
+sireadh+Verbal+Noun+VT:sireadh	VN-INIT;	! VERB::sir; Grammar::(vn ~eadh m, gs & pp ~the)
+sireadh+Verbal+Noun+VT+Gen:sirthe	VN-INIT;	! GENITIVE
+sirthe+Verbal+Adj:sirthe	VA-INIT;	! ADJECTIVE
+smálú+Verbal+Noun+VT:smálú	VN-INIT;	! VERB::smálaigh; Grammar::(vn -lú m, gs -ithe)
+smálú+Verbal+Noun+VT+Gen:smálaithe	VN-INIT;	! GENITIVE
+smálaithe+Verbal+Adj:smálaithe	VA-INIT;	! ADJECTIVE
+smiogadh+Verbal+Noun+VT:smiogadh	VN-INIT;	! VERB::smiog; Grammar::(vn ~adh m, gs & pp ~tha)
+smiogadh+Verbal+Noun+VT+Gen:smiogtha	VN-INIT;	! GENITIVE
+smiogtha+Verbal+Adj:smiogtha	VA-INIT;	! ADJECTIVE
+soiscéalú+Verbal+Noun+VT:soiscéalú	VN-INIT;	! VERB::soiscéalaigh; Grammar::(vn -lú m, gs -ithe)
+soiscéalú+Verbal+Noun+VT+Gen:soiscéalaithe	VN-INIT;	! GENITIVE
+soiscéalaithe+Verbal+Adj:soiscéalaithe	VA-INIT;	! ADJECTIVE
+soncáil+Verbal+Noun+VT:soncáil	VN-INIT;	! VERB::soncáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+soncáil+Verbal+Noun+VT+Gen:soncála	VN-INIT;	! GENITIVE
+soncáilte+Verbal+Adj:soncáilte	VA-INIT;	! ADJECTIVE
+spearadh+Verbal+Noun+VT:spearadh	VN-INIT;	! VERB::spear; Grammar::(vn ~adh m, gs & pp ~tha)
+spearadh+Verbal+Noun+VT+Gen:speartha	VN-INIT;	! GENITIVE
+speartha+Verbal+Adj:speartha	VA-INIT;	! ADJECTIVE
+spéiceáil+Verbal+Noun+VT:spéiceáil	VN-INIT;	! VERB::spéiceáil; Grammar::(vn ~ f, gs -ála)
+spéiceáil+Verbal+Noun+VT+Gen:spéiceála	VN-INIT;	! GENITIVE
+spéiceáilte+Verbal+Adj:spéiceáilte	VA-INIT;	! ADJECTIVE
+spíceáil+Verbal+Noun+VT:spíceáil	VN-INIT;	! VERB::spíceáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+spíceáil+Verbal+Noun+VT+Gen:spíceála	VN-INIT;	! GENITIVE
+spíceáilte+Verbal+Adj:spíceáilte	VA-INIT;	! ADJECTIVE
+spotáil+Verbal+Noun+VT:spotáil	VN-INIT;	! VERB::spotáil; Grammar::(vn ~ f, gs -ála)
+spotáil+Verbal+Noun+VT+Gen:spotála	VN-INIT;	! GENITIVE
+spotáilte+Verbal+Adj:spotáilte	VA-INIT;	! ADJECTIVE
+spreachallú+Verbal+Noun+VT:spreachallú	VN-INIT;	! VERB::spreachallaigh; Grammar::(vn -llú m, gs -ithe)
+spreachallú+Verbal+Noun+VT+Gen:spreachallaithe	VN-INIT;	! GENITIVE
+spreachallaithe+Verbal+Adj:spreachallaithe	VA-INIT;	! ADJECTIVE
+sprúilleadh+Verbal+Noun+VT:sprúilleadh	VN-INIT;	! VERB::sprúill; Grammar::(vn ~eadh m, gs ~te)
+sprúilleadh+Verbal+Noun+VT+Gen:sprúillte	VN-INIT;	! GENITIVE
+sprúillte+Verbal+Adj:sprúillte	VA-INIT;	! ADJECTIVE
+stánphlátáil+Verbal+Noun+VT:stánphlátáil	VN-INIT;	! VERB::stánphlátáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+stánphlátáil+Verbal+Noun+VT+Gen:stánphlátála	VN-INIT;	! GENITIVE
+stánphlátáilte+Verbal+Adj:stánphlátáilte	VA-INIT;	! ADJECTIVE
+stoithneadh+Verbal+Noun+VT:stoithneadh	VN-INIT;	! VERB::stoithin; Grammar::(pres -thníonn; vn -thneadh m, gs~te)
+stoithneadh+Verbal+Noun+VT+Gen:stoithinte	VN-INIT;	! GENITIVE
+stoithinte+Verbal+Adj:stoithinte	VA-INIT;	! ADJECTIVE
+straidhpeáil+Verbal+Noun+VT:straidhpeáil	VN-INIT;	! VERB::straidhpeáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+straidhpeáil+Verbal+Noun+VT+Gen:straidhpeála	VN-INIT;	! GENITIVE
+straidhpeáilte+Verbal+Adj:straidhpeáilte	VA-INIT;	! ADJECTIVE
+strapáil+Verbal+Noun+VT:strapáil	VN-INIT;	! VERB::strapáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+strapáil+Verbal+Noun+VT+Gen:strapála	VN-INIT;	! GENITIVE
+strapáilte+Verbal+Adj:strapáilte	VA-INIT;	! ADJECTIVE
+subhú+Verbal+Noun+VT:subhú	VN-INIT;	! VERB::subhaigh; Grammar::(vn -bhú m, gs -ithe)
+subhú+Verbal+Noun+VT+Gen:subhaithe	VN-INIT;	! GENITIVE
+subhaithe+Verbal+Adj:subhaithe	VA-INIT;	! ADJECTIVE
+suiteáil+Verbal+Noun+VT:suiteáil	VN-INIT;	! VERB::suiteáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+suiteáil+Verbal+Noun+VT+Gen:suiteála	VN-INIT;	! GENITIVE
+suiteáilte+Verbal+Adj:suiteáilte	VA-INIT;	! ADJECTIVE
+tácláil+Verbal+Noun+VT:tácláil	VN-INIT;	! VERB::tácláil; Grammar::(pres -álann; vn ~ f, gs -ála)
+tácláil+Verbal+Noun+VT+Gen:táclála	VN-INIT;	! GENITIVE
+tácláilte+Verbal+Adj:tácláilte	VA-INIT;	! ADJECTIVE
+tairiseamh+Verbal+Noun+VT:tairiseamh	VN-INIT;	! VERB::tairis; Grammar::(vn ~eamh)
+tairiseamh+Verbal+Noun+VT+Gen:tairisimh	VN-INIT;	! GENITIVE	***
+tairiste+Verbal+Adj:tairiste	VA-INIT;	! ADJECTIVE	*** Guess
+talladh+Verbal+Noun+VT:talladh	VN-INIT;	! VERB::tall; Grammar::(vn ~adh m, gs ~ta)
+talladh+Verbal+Noun+VT+Gen:tallta	VN-INIT;	! GENITIVE
+tallta+Verbal+Adj:tallta	VA-INIT;	! ADJECTIVE
+tapáil+Verbal+Noun+VT:tapáil	VN-INIT;	! VERB::tapáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+tapáil+Verbal+Noun+VT+Gen:tapála	VN-INIT;	! GENITIVE
+tapáilte+Verbal+Adj:tapáilte	VA-INIT;	! ADJECTIVE
+tatuáil+Verbal+Noun+VT:tatuáil	VN-INIT;	! VERB::tatuáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+tatuáil+Verbal+Noun+VT+Gen:tatuála	VN-INIT;	! GENITIVE
+tatuáilte+Verbal+Adj:tatuáilte	VA-INIT;	! ADJECTIVE
+teinm+Verbal+Noun+VT:teinm	VN-INIT;	! VERB::teinn; Grammar::(vn -inm)
+teinme+Verbal+Noun+VT+Gen:teinme	VN-INIT;	! GENITIVE	*** Guess
+teinnte+Verbal+Adj:teinnte	VA-INIT;	! ADJECTIVE	*** Guess
+teisteáil+Verbal+Noun+VT:teisteáil	VN-INIT;	! VERB::teisteáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+teisteáil+Verbal+Noun+VT+Gen:teisteála	VN-INIT;	! GENITIVE
+teisteáilte+Verbal+Adj:teisteáilte	VA-INIT;	! ADJECTIVE
+tileadh+Verbal+Noun+VT:tileadh	VN-INIT;	! VERB::til; Grammar::(vn ~eadh m, gs ~te)
+tileadh+Verbal+Noun+VT+Gen:tilte	VN-INIT;	! GENITIVE
+tilte+Verbal+Adj:tilte	VA-INIT;	! ADJECTIVE
+tiomaint+Verbal+Noun+VT:tiomaint	VN-INIT;	! VERB::tiomain; Grammar::(pres -mnann; vn ~t f, gs & pp-anta)
+tiomaint+Verbal+Noun+VT+Gen:tiomanta	VN-INIT;	! GENITIVE
+tiomanta+Verbal+Adj:tiomanta	VA-INIT;	! ADJECTIVE
+tirimghlanadh+Verbal+Noun+VT:tirimghlanadh	VN-INIT;	! VERB::tirimghlan; Grammar::(vn ~adh m, gs ~ta)
+tirimghlanadh+Verbal+Noun+VT+Gen:tirimghlanta	VN-INIT;	! GENITIVE
+tirimghlanta+Verbal+Adj:tirimghlanta	VA-INIT;	! ADJECTIVE
+tlúáil+Verbal+Noun+VT:tlúáil	VN-INIT;	! VERB::tlúáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+tlúáil+Verbal+Noun+VT+Gen:tlúála	VN-INIT;	! GENITIVE
+tlúáilte+Verbal+Adj:tlúáilte	VA-INIT;	! ADJECTIVE
+torchra+Verbal+Noun+VT:torchra	VN-INIT;	! VERB::torchair; Grammar::(pres -chrann; vn -chra m, pp-artha)
+torchra+Verbal+Noun+VT+Gen:torchartha	VN-INIT;	! GENITIVE
+torchartha+Verbal+Adj:torchartha	VA-INIT;	! ADJECTIVE
+tornáil+Verbal+Noun+VT:tornáil	VN-INIT;	! VERB::tornáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+tornáil+Verbal+Noun+VT+Gen:tornála	VN-INIT;	! GENITIVE
+tornáilte+Verbal+Adj:tornáilte	VA-INIT;	! ADJECTIVE
+trampáil+Verbal+Noun+VT:trampáil	VN-INIT;	! VERB::trampáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+trampáil+Verbal+Noun+VT+Gen:trampála	VN-INIT;	! GENITIVE
+trampáilte+Verbal+Adj:trampáilte	VA-INIT;	! ADJECTIVE
+treaghdadh+Verbal+Noun+VT:treaghdadh	VN-INIT;	! VERB::treaghd; Grammar::(vn ~adh m, gs ~ta)
+treaghdadh+Verbal+Noun+VT+Gen:treaghdta	VN-INIT;	! GENITIVE
+treaghdta+Verbal+Adj:treaghdta	VA-INIT;	! ADJECTIVE
+triosc+Verbal+Noun+VT:triosc	VN-INIT;	! VERB::triosc; Grammar::(vn ~ m, gs ~a; pp ~tha)
+triosc+Verbal+Noun+VT+Gen:triosca	VN-INIT;	! GENITIVE
+triosctha+Verbal+Adj:triosctha	VA-INIT;	! ADJECTIVE	***
+truam+Verbal+Noun+VT:truam	VN-INIT;	! VERB::truaigh; Grammar::(pres -ann, fut -afaidh; vn truam, gs & pp -ite)
+truam+Verbal+Noun+VT+Gen:truaite	VN-INIT;	! GENITIVE
+truaite+Verbal+Adj:truaite	VA-INIT;	! ADJECTIVE
+truipeáil+Verbal+Noun+VT:truipeáil	VN-INIT;	! VERB::truipeáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+truipeáil+Verbal+Noun+VT+Gen:truipeála	VN-INIT;	! GENITIVE
+truipeáilte+Verbal+Adj:truipeáilte	VA-INIT;	! ADJECTIVE
+truncáil+Verbal+Noun+VT:truncáil	VN-INIT;	! VERB::truncáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+truncáil+Verbal+Noun+VT+Gen:truncála	VN-INIT;	! GENITIVE
+truncáilte+Verbal+Adj:truncáilte	VA-INIT;	! ADJECTIVE
+trusáil+Verbal+Noun+VT:trusáil	VN-INIT;	! VERB::trusáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+trusáil+Verbal+Noun+VT+Gen:trusála	VN-INIT;	! GENITIVE
+trusáilte+Verbal+Adj:trusáilte	VA-INIT;	! ADJECTIVE
+tua+Verbal+Noun+VT:tua	VN-INIT;	! VERB::tuaigh; Grammar::(pres -ann, fut -afaidh; vn tua m, gs & pp-ite)
+tua+Verbal+Noun+VT+Gen:tuaite	VN-INIT;	! GENITIVE
+tuaite+Verbal+Adj:tuaite	VA-INIT;	! ADJECTIVE

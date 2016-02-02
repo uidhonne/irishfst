@@ -1,0 +1,55 @@
+LEXICON AdjE
+!!!!!
+!!!!! manually classified
+!!!!!
+achomair	Adj4-3;	 ! a1 gsf, npl & comp -oimre concise,
+anacair		Adj4-4;	 ! f3 & a1 gs -cra pl -craí unevenness; discomfort;
+anuasal		Adj4-3;	 ! m1 & a1 pl -uaisle low-born person a1, gsf,
+beo		Adj3-1;	 ! m4 & a3 gs & pl ~ living being;
+beo+Adj+Comp:beocha	#;	! Dialectal comparative, very rare. - CW 09/08
+beo+Adj+Comp+Len:bheocha	#;
+cam		Adj1-2;	 ! m1 & a1 & vt & i npl ~a bend; crooked object; crookedness,
+caoch		Adj1-1;	 ! m1 & a1 & vt & i npl ~a blind, purblind, person a1,
+cearr		AdjBASE; ! f3 & a1 pl ~anna injury, wrong, tá ~
+ceart		Adj1-2;	 ! m1 & a1 npl ~a right, ~ vótála franchise,
+cian		Adj1-1;	 ! a1 gsm céin gsf & comp céine CHECK IA -> ÉI
+ciar		Adj1-1;	 ! a1 gsm céir gsf & comp céire CHECK IA -> ÉI
+claon		Adj1-2;	 ! m1 & a1 & vt & i pl ~ta incline; slope; inclination, tendency,
+comair		Adj4-3;	 ! a1 gsf, npl & comp coimre (of
+críon		Adj1-2;	 ! m1 & a1 & vt & i pl ~ta anything old or withered
+cóir		Adj2-1;	 ! f3 & a1 pl córacha justice, equity; proper share,
+diamhair	Adj4-2;	 ! f2 & a1 pl -mhra dark, secluded, place; solitude;
+dian		Adj1-1;	 ! a1 gsm déin gsf & comp déine
+doilbhir	Adj4-3;	 ! a1 gsf, npl & comp -bhre dark,
+!!!!XX igh -> í doiligh	Adj4-SYNC;	 ! a1 gsf, npl & comp -lí hard,
+easumhal	Adj4-2;	 ! a1 npl -mhla disobedient, insubordinate
+fial		Adj4-1;	 ! a1 gsm féil gsf & comp féile
+fiar		Adj1-1;	 ! m1 & a1 & vt & i npl ~a slant, bias; bend, twist;
+!!!!XXfollas ll -> l	Adj4-SYNC;	 ! a1 gsf & comp foilse clear, evident;
+furasta		Adj3-1;	 ! a3 comp fusa easy (to do) SEE ALSO AI-COMP for fusa
+gar		Adj1-2;	 ! m1 & a1 pl ~anna proximity; convenience, i n~
+grod 		Adj1-2;  ! grod a1 sudden
+ionúin		Adj2-2;	 ! a1 comp ansa dear, beloved
+lán		Adj1-2;	 ! m1 & a1 full; contents, charge; arrogance, ~ a
+lúitheach	Adj1-3;	 ! f2 & a1 ligament, tendon pl sinews a1 sinewy,
+nua	Adj3-1;	 ! XX FIX FEM GEN = COMP = NUAÍ m4 & a3 newness; new thing, as an ~
+
+olc	Adj1-2;	 ! m1 & a1 evil, harm; grudge, spite, ~ a SEE ALSO AI-COMP for measa
+otair	Adj4-4;	 ! a1 gsf, npl & comp otra filthy;
+righin	Adj4-3;	 ! a1 gsf, npl & comp -ghne tough;
+rúndaingean	Adj4-3;	 ! a1 gsf, npl & comp -gne strongminded,
+rúndiamhair	Adj4-2;	 ! f2 & a1 pl -mhra (religious) mystery a1, npl
+sleamhain	Adj4-2;	 ! a1 npl -mhna smooth, slippery; sleek; sly
+slán	Adj1-2;	 ! m1 & a1 npl ~a healthy person; health; farewell;
+soilbhir	Adj4-3;	 ! a1 gsf, npl & comp -bhre pleas
+!!!! ADV ONLY suas	Adj4-ETC;	 ! adv & prep & a up, ~ go Corcaigh south to
+teann	Adj1-1;	 ! m3 & a1 & vt & i gs & npl ~a gpl ~
+tochtmhar	Adj1-2;	 ! a1 deeply emotional
+tréan	Adj1-2;	 ! m1 & a1 strong man, warrior; strength, intensity; abundance,
+uiríseal	Adj4-3;	 ! a1 gsf, npl & comp -sle lowly,
+ábhal	Adj4-1;	 ! a1 gsf & comp áibhle great, immense FIX PL NO SYNC ábhala not ábhla
+éadaingean	Adj4-3;	 ! a1 gsf, npl & comp -gne insecure;
+éadomhain	Adj4-3;	 ! a1 gsf, npl & comp -oimhne shallow
+óg	Adj1-2;	 ! m1 & a1 npl ~a young person, youth a1
+!!NUM dara	Adj3-1;	 ! second; next, other, níl
+annamh		Adj1-2;	 ! seldom

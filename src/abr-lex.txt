@@ -1,0 +1,78 @@
+!****************************************************************************
+! Abbreviations 
+! and a few English words
+!
+!  E. Uí Dhonnchadha
+!****************************************************************************
+Multichar_Symbols
+
++Abr		! Abbreviation
++Foreign	! Foreign
++English	! English
+
+!---------------------------------------------------------------------------
+
+LEXICON Root
+	Abbrev;
+
+LEXICON Abbrev
+
+the	English-tag;
+and	English-tag;
+of	English-tag;
+on	English-tag;
+no	English-tag;
+by	English-tag;
+just	English-tag;
+jus	English-tag;
+
+! Abbreviations with full stop(s)
+! MUST BE INCLUDED IN TOKENIZER ALSO
+
+Dochtúir+Abr+Title:Dr.	#;
+Miss+Abr+Title:Ms.	#;
+Missus+Abr+Title:Mrs.	#;
+Mister+Abr+Title:Mr.	#;
+
+leathanach:lch.		Abr-tag;
+leathanaigh:lgh.	Abr-tag;
+uimhir:uimh.		Abr-tag;
+Uasal:Uas.		Abr-tag;
+srl.			Abr-tag;
+R.Ch.			Abr-tag;
+Co.			Abr-tag;
+gCo.			Abr-tag;
+m.sh.			Abr-tag;
+St.			Abr-tag;
+i.e.			Abr-tag;
+.i.			Abr-tag;
+e.g.			Abr-tag;
+eag.			Abr-tag;
+Teo.			Abr-tag;
+
+! Abbreviations without full stop(s)
+GAA			Abr-tag;
+TG4			Abr-tag;
+SC4			Abr-tag;
+BBC1			Abr-tag;
+BBC2			Abr-tag;
+RTÉ			Abr-tag;
+RTE			Abr-tag;
+RnaG			Abr-tag;
+INTO			Abr-tag;
+CD-ROM			Abr-tag;
+DVD			Abr-tag;
+R-phoist		Abr-tag;
+r-phoist		Abr-tag;
+
+cm			Abr-tag;
+km			Abr-tag;
+
+LEXICON Abr-tag
++Abr:	#;
+
+LEXICON Foreign-tag
++Foreign:	#;
+
+LEXICON English-tag
++Foreign+English:	#;

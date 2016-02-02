@@ -1,0 +1,408 @@
+# xfst-guess-typo.script 10/06/08
+# Christoph Wendler
+# v3
+# Replacement of alledged typos.
+# The regular expression SpellCheck looks for common typos such as double
+# vowels and consonants (e.g. "ÁÁirítear", "vótaíí", "oraibhh") and removes 
+# the alleged typos in order to see if the result makes any sense.
+#
+# *************************************************************************
+# * Version 3 of this script incorporates a mechanism designed by 
+# * Kenneth R. Beesley to keep track of the correctly spelled form
+# * of a word, i.e. it copies the lower-side of an FST to the upper side.
+# * This was necessitated by the introduction of an additional tag that
+# * gives the standard spelling of a word.
+# * The output of a misspelled word in the pos files is now:
+# * "Gaillimh" Prop Noun Fem Com Sg *Gaillimh* ^Gailliimh^
+# * that is, the correct version that was produced by the spell checker is 
+# * preserved within '*'.
+# * 
+# * Note: The script lookup.script now only needs to run "spellcheck"
+# * instead of "spellcheck initcaps all", because all.fst is now defined
+# * in this script.
+# * 18/07/08
+# *************************************************************************
+
+clear stack
+
+# Start section of copy lower-side of an FST to the upper side
+# By Kenneth R. Beesley, 14 July 2008
+echo <<< define lex >>>
+#define FSTLexicon @"bin/all.fst";
+define FSTLexicon @"bin/prep.fst";
+
+# See XFST handbook p. 387. Did not work correctly.
+#define BracketFilter [
+#~[ ?* "^[" ~$["^]"] ] & ~[ ~$["^["] "^]" ?* ]
+#];
+
+! Extract the lower side of FSTLexicon and insert (tricky) markers
+! for 'compile-replace' on the lower side,
+! resulting in strings like ^[[{dogs}"<std>"]^2^]</std>
+! on the lower side of the result (on the stack).  Note that
+! <std> and </std> are multichar symbols.
+echo <<< extract lower >>>
+regex  FSTLexicon.l
+.o.
+[..] -> "^[" "[" "{" || .#. _
+.o.
+[..] -> "}" "\"<std>\"" "]" "^2" "^]" "</std>" || _ .#. 
+;
+
+# read regex [FSTLexicon.l .o. BracketFilter];
+# Alt:
+# read regex [FSTLexicon .o. BracketFilter].l;
+
+echo <<< augment lex >>>
+
+! Call "compile-replace lower", resulting in strings like
+! dogs<std>dogs<std></std>
+! on the lower side
+compile-replace lower
+define FSTLexLowerAug
+
+! Now get rid of the second <std>, and take the lower side.
+define LexLowerExt [FSTLexLowerAug .o. "<std>" -> 0 || _ "</std>"].l ;
+
+! Extract (again) the lower side of the original FSTLexicon.l and
+! surround it with <std> and </std>.  This will be concatenated
+! onto the original FSTLexicon.
+define CatMe "<std>" FSTLexicon.l "</std>" ;
+
+! Concatenate [FSTLexicon CatMe] and then filter the result
+! by composing LexLowerExt on the lower side.  Then get rid of
+! <std>...</std> on the lower side.  This is to ensure
+! that <std>dogs</std> on the upper side corresponds to "dogs"
+! on the lower side.
+define FSTLexiconExt [FSTLexicon CatMe] 
+.o. LexLowerExt 
+.o. ? -> 0 || "<std>" ?* _ 
+.o. "<std>" -> 0 ;
+
+# Start section spell checker.
+
+# Double consonants lower case.
+define Doubb [b b];
+define Doucc [c c];
+define Doudd [d d];
+define Douff [f f]; 
+define Dougg [g g];
+define Douhh [h h];
+define Doujj [j j]; # A semivowel in some languages (e.g. German).
+define Doukk [k k]; # Not in the Irish consonant set.
+define Doull [l l];
+define Doumm [m m];
+define Dounn [n n];
+define Doupp [p p];
+define Douqq [q q]; # Not in the Irish consonant set.
+define Dourr [r r];
+define Douss [s s];
+define Doutt [t t];
+define Douvv [v v]; # Not in the Irish consonant set.
+define Douww [w w]; # Not in the Irish consonant set.
+define Douxx [x x];
+define Douyy [y y];
+define Douzz [z z];
+
+# Double consonants upper case.
+define DouBB [B B];
+define DouCC [C C];
+define DouDD [D D];
+define DouFF [F F];
+define DouGG [G G];
+define DouHH [H H];
+define DouJJ [J J]; # A semivowel in some languages (e.g. German).
+define DouKK [K K]; # Not in the Irish consonant set.
+define DouLL [L L];
+define DouMM [M M];
+define DouNN [N N];
+define DouPP [P P];
+define DouQQ [Q Q]; # Not in the Irish consonant set.
+define DouRR [R R];
+define DouSS [S S];
+define DouTT [T T];
+define DouVV [V V]; # Not in the Irish consonant set.
+define DouWW [W W]; # Not in the Irish consonant set.
+define DouXX [X X];
+define DouYY [Y Y];
+define DouZZ [Z Z];
+
+# Double consonants upper case - lower case.
+define DouBb [B b];
+define DouCc [C c];
+define DouDd [D d];
+define DouFf [F f];
+define DouGg [G g];
+define DouHh [H h];
+define DouJj [J j]; # A semivowel in some languages (e.g. German).
+define DouKk [K k]; # Not in the Irish consonant set.
+define DouLl [L l];
+define DouMm [M m];
+define DouNn [N n];
+define DouPp [P p];
+define DouQq [Q q]; # Not in the Irish consonant set.
+define DouRr [R r];
+define DouSs [S s];
+define DouTt [T t];
+define DouVv [V v]; # Not in the Irish consonant set.
+define DouWw [W w]; # Not in the Irish consonant set.
+define DouXx [X x];
+define DouYy [Y y];
+define DouZz [Z z];
+
+# Double consonants lower case - upper case (added 23/07/08)
+define DoubB [b B];
+define DoucC [c C];
+define DoudD [d D];
+define DoufF [f F];
+define DougG [g G];
+define DouhH [h H];
+define DoujJ [j J]; # A semivowel in some languages (e.g. German).
+define DoukK [k K]; # Not in the Irish consonant set.
+define DoulL [l L];
+define DoumM [m M];
+define DounN [n N];
+define DoupP [p P];
+define DouqQ [q Q]; # Not in the Irish consonant set.
+define DourR [r R];
+define DousS [s S];
+define DoutT [t T];
+define DouvV [v V]; # Not in the Irish consonant set.
+define DouwW [w W]; # Not in the Irish consonant set.
+define DouxX [x X];
+define DouyY [y Y];
+define DouzZ [z Z];
+
+define DouAFada [ á á ];
+define DouAFadaRel [ a t á á ];
+
+define SwapFadaA [ a í l ];
+define SwapFadaU [ u í l ];
+define SwapFadaIU [ í u i l ];
+
+# Common and likely typos concerning the word Gaeilge. The list may be extended.
+define TwistGa [ G a e i g l e | G a e i l e g e | G a e i l g a | G a e g i l e | G a i e l g e | G a e l i g e | G a e l g e ];
+
+# Digits glued to the end of a word, often a result of footnotes.
+define Digit [ %0|1|2|3|4|5|6|7|8|9 ];
+
+# The mapping
+
+# Replace grave with acute, e.g. àbhar -> ábhar.
+define ReplaceFada [ [ á (->) à ] .o. [ é (->) è ] .o. [ í (->) ì ] .o. [ ó (->) ò ] .o. [ ú (->) ù ] .o. [ Á (->) À ] .o. [ É (->) È ] .o. [ Í (->) Ì ] .o. [ Ó (->) Ò ] .o. [ Ú (->) Ù ] ];
+#[ á (->) à, é (->) è, í (->) ì, ó (->) ò, ú (->) ù, Á (->) À, É (->) È, Í (->) Ì, Ó (->) Ò, Ú (->) Ù ];
+# Replace double vowels with one vowel, e.g. bliaiin -> bliain.
+define ReplaceDoubleVowels [ a (->) a a, á (->) á á, A (->) A A, A (->) A a, Á (->) Á Á, Á (->) Á A, Á (->) Á a, Á (->) A á, e (->) e e, é (->) é é, é (->) é e, é (->) e é, E (->) E E, E (->) E e, É (->) É é, É (->) É e, É (->) E é, i (->) i i, í (->) í í, í (->) í i, í (->) i í, I (->) I I, I (->) I i, Í (->) Í í, Í (->) Í i, Í (->) I í, o (->) o o, ó (->) ó ó, ó (->) ó o, ó (->) o ó, O (->) O O, O (->) O o, Ó (->) Ó ó, Ó (->) Ó o, Ó (->) O ó, u (->) u u, ú (->) ú ú, ú (->) ú u, U (->) U U, U (->) U u, Ú (->) Ú Ú, Ú (->) Ú ú, Ú (->) Ú u, Ú (->) U ú ];
+
+# Replace two consonants at the beginning of the word with one, e.g. ssoláthróidh -> soláthróidh
+define ReplaceDoubleConsStart [ [ b (->) Doubb || .#. _ ] # lower case - lower case bb
+.o. 
+[ c (->) Doucc || .#. _ ] 
+.o. 
+[ d (->) Doudd || .#. _ ] 
+.o.
+[ f (->) Douff || .#. _ ] 
+.o.
+[ g (->) Dougg || .#. _ ] 
+.o.
+[ h (->) Douhh || .#. _ ] 
+.o.
+[ j (->) Doujj || .#. _ ] 
+.o.
+[ l (->) Doull || .#. _ ] 
+.o.
+[ m (->) Doumm || .#. _ ] 
+.o.
+[ n (->) Dounn || .#. _ ] 
+.o.
+[ p (->) Doupp || .#. _ ] 
+.o.
+[ r (->) Dourr || .#. _ ] 
+.o.
+[ s (->) Douss || .#. _ ] 
+.o.
+[ t (->) Doutt || .#. _ ] 
+.o.
+[ x (->) Douxx || .#. _ ] 
+.o.
+[ y (->) Douyy || .#. _ ] 
+.o.
+[ z (->) Douzz || .#. _ ] 
+.o. 
+[ B (->) DouBB || .#. _ ] # upper case - upper case BB
+.o. 
+[ C (->) DouCC || .#. _ ] 
+.o. 
+[ D (->) DouDD || .#. _ ] 
+.o.
+[ F (->) DouFF || .#. _ ] 
+.o.
+[ G (->) DouGG || .#. _ ] 
+.o.
+[ H (->) DouHH || .#. _ ] 
+.o.
+[ J (->) DouJJ || .#. _ ] 
+.o.
+[ L (->) DouLL || .#. _ ] 
+.o.
+[ M (->) DouMM || .#. _ ] 
+.o.
+[ N (->) DouNN || .#. _ ] 
+.o.
+[ P (->) DouPP || .#. _ ] 
+.o.
+[ R (->) DouRR || .#. _ ] 
+.o.
+[ S (->) DouSS || .#. _ ] 
+.o.
+[ T (->) DouTT || .#. _ ] 
+.o.
+[ X (->) DouXX || .#. _ ] 
+.o.
+[ Y (->) DouYY || .#. _ ] 
+.o.
+[ Z (->) DouZZ || .#. _ ] 
+.o. 
+[ B (->) DouBb || .#. _ ] # upper case - lower case Bb
+.o. 
+[ C (->) DouCc || .#. _ ] 
+.o. 
+[ D (->) DouDd || .#. _ ] 
+.o.
+[ F (->) DouFf || .#. _ ] 
+.o.
+[ G (->) DouGg || .#. _ ] 
+.o.
+[ H (->) DouHh || .#. _ ] 
+.o.
+[ J (->) DouJj || .#. _ ] 
+.o.
+[ L (->) DouLl || .#. _ ] 
+.o.
+[ M (->) DouMm || .#. _ ] 
+.o.
+[ N (->) DouNn || .#. _ ] 
+.o.
+[ P (->) DouPp || .#. _ ] 
+.o.
+[ R (->) DouRr || .#. _ ] 
+.o.
+[ S (->) DouSs || .#. _ ] 
+.o.
+[ T (->) DouTt || .#. _ ] 
+.o.
+[ t (->) DouTt || .#. _ ] 
+.o.
+[ X (->) DouXx || .#. _ ] 
+.o.
+[ Y (->) DouYy || .#. _ ] 
+.o.
+[ Z (->) DouZz || .#. _ ]
+.o.
+[ B (->) DoubB || .#. _ ] # lower case - upper case bB
+.o. 
+[ C (->) DoucC || .#. _ ] 
+.o. 
+[ D (->) DoudD || .#. _ ] 
+.o.
+[ F (->) DoufF || .#. _ ] 
+.o.
+[ G (->) DougG || .#. _ ] 
+.o.
+[ H (->) DouhH || .#. _ ] 
+.o.
+[ J (->) DoujJ || .#. _ ] 
+.o.
+[ L (->) DoulL || .#. _ ] 
+.o.
+[ M (->) DoumM || .#. _ ] 
+.o.
+[ N (->) DounN || .#. _ ] 
+.o.
+[ P (->) DoupP || .#. _ ] 
+.o.
+[ R (->) DourR || .#. _ ] 
+.o.
+[ S (->) DousS || .#. _ ] 
+.o.
+[ T (->) DoutT || .#. _ ] 
+.o.
+[ X (->) DouxX || .#. _ ] 
+.o.
+[ Y (->) DouyY || .#. _ ] 
+.o.
+[ Z (->) DouzZ || .#. _ ] 
+];
+# This should happen in the tokenizer
+!.o. 
+![ a t á .#. á .#. (->) DouAFadaRel || .#. _ ]
+!.o.
+![ á .#. (->) DouAFada || .#. _ ] 
+
+# Replace double consonants at the end of a word, e.g. caitheamhh -> caitheamh
+# Be careful to exclude possible Irish double consonants: ll, nn, rr.
+define ReplaceDoubleConsEnd [ [ b (->) Doubb || _ .#. ] 
+[ c (->) Doucc || _ .#. ] 
+.o. 
+[ d (->) Doudd || _ .#. ] 
+.o.
+[ f (->) Douff || _ .#. ] 
+.o.
+[ g (->) Dougg || _ .#. ] 
+.o.
+[ h (->) Douhh || _ .#. ] 
+.o.
+[ m (->) Doumm || _ .#. ] 
+.o.
+[ p (->) Doupp || _ .#. ] 
+.o.
+[ s (->) Douss || _ .#. ] 
+.o.
+[ t (->) Doutt || _ .#. ] 
+];
+
+# Replace double vowels with fada, i.e. eacnamaiiocht -> eacnamaíocht
+# Note: This should not be part of ReplaceDoubleVowels, since it covers
+# a rare case. For performance reasons the first substitution should always be 
+# "one vowel for two vowels" (e.g. sainiúiil -> sainiúil), since it is by far more common.
+# (added 23/07/08)
+define FadaForDoubleVowel [ [ í (->) i i ] ];
+
+# Replace -aíl and -uíl with -áil and -úil, e.g. áitiuíl ->  áitiúil
+define SwapFada [ [ á i l (->) SwapFadaA || _ .#. ] .o. [ ú i l (->) SwapFadaU || _ .#. ] .o. [ i ú i l (->) SwapFadaIU || _ .#. ]];
+
+# Replace misspelling of "Gaeilge"
+define CorrectGaeilge [ G a e i l g e (->) TwistGa ];
+
+# Replace bionn with bíonn
+define BionnFada [ [ b í o n n (->) b i o n n ] .o. [ b h í o n n (->) b h i o n n ] .o. [ B í o n n (->) B i o n n ] ];
+
+# Replace "said" with "siad"
+define RepSiad [ s i a d (->) s a i d ];
+
+# Replace ta/Ta with tá/Tá respectively
+# NOTE: Has been moved to the analyzer.
+# define TaUpper [ T á (->) T a || .#. _ .#. ];
+# define TaLower [ t á (->) t a || .#. _ .#. ];
+# define ReplaceTa [ TaUpper .o. TaLower ];
+
+# Replace ata with atá
+# <ReplaceTa> must be put before <ReplaceDoubleConsStart>. This is to ensure
+# that the pattern will be applied correctly to cases like Tta -> Tá (195 hits in the 
+# Sketch Engine). Else Tta would be guessed as proper noun.
+# NOTE: <ReplaceTa> has been moved to the analyzer. Else 'ata' won't make it to the typo guesser,
+# since it will invariably be recognized as belonging to 'at' ('swelling').
+# 23/06/08.
+# define ReplaceAta [ a t á (->) a t a || .#. _ .#. ];
+
+# Replace trailing digits
+define ReplaceDigitEnd [ 0 (->) Digit+ || _ .#. ];
+
+# Put the peaces together
+define SpellCheck [ ReplaceFada .o. ReplaceDoubleVowels .o. FadaForDoubleVowel .o. ReplaceDoubleConsStart .o. ReplaceDoubleConsEnd .o. SwapFada .o. CorrectGaeilge .o. BionnFada .o. RepSiad .o. ReplaceDigitEnd ];
+
+# Reading and saving. The extended FST lexicon is composed to the spell checker.
+read regex FSTLexiconExt .o. SpellCheck;
+concatenate net
+save stack bin/guess_typo.fst
+echo << saved xfst-guess-typo.script as bin/guess_typo.fst...>>>

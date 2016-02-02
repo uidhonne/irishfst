@@ -1,0 +1,133 @@
+! Noun & Adjective (Gaeilge) Replace Rules
+! Elaine Uí Dhonnchadha
+!
+! (c) January 2001
+!
+! Athrú   : Ending Changes (^Ath)
+!
+! 2004 included ^FC in ea -> 0 correction rule 
+!***************************************************************************!
+define Cons  b|c|d|f|g|h|j|k|l|m|n|p|q|r|s|t|v|w|x|y|z|%^FC|%^FY;
+define Vowel a|e|i|o|u|á|é|í|ó|ú|%^AE|%^AO|%^UA;
+read regex é -> %^FC é i || _ %^Ath	! finné -> finnéi+the
+!----------------------------------------------------------------------
+.o.
+ í -> %^FC i || _ %^Ath t	! ainmhí -> ainmhi+the
+				! NOTE must fire before ch->í rule as we
+				! don't want the new í being turned into i
+!----------------------------------------------------------------------
+.o.
+ i ú -> %^FC i || _ %^Ath t	! deimhniú -> deimhni+the (pl)
+.o.
+ ú -> %^FC u i || _ %^Ath t	! tarlú -> tarlui+the (pl)
+
+!----------------------------------------------------------------------
+.o.
+ i ú -> [%^FC ] || _ %^Ath i	! deimhniú -> deimhn+ithe (gen sg)
+.o.
+!!! ú -> [%^FC ] || _ %^Ath a	! tarlú -> tarl+aithe (gen sg)
+ ú -> [%^FC a] || _ %^Ath i	! tarlú -> tarla+ithe (gen sg)
+
+!----------------------------------------------------------------------
+.o.
+ a í -> [%^FC ] || _ %^Ath a	! cónaí -> cón+aithe (gen sg)
+
+
+!----------------------------------------------------------------------
+! Nouns :final syllable "adh" become "tha|ta" , eg folcadh -> folctha
+! moladh -> molta / moltaí
+! and "eadh" become "the|te" loiceadh -> loicthe
+! and "gt" become "gthe" tarraingt -> tarraingthe
+!new 28/3/08
+.o.
+ m h n %^X a d h -> [%^FC m h a n]  || _ %^Ath (%^Caol) t ! tamhnadh -> tamhanta
+.o.
+ n l %^X a d h   -> [%^FC n n a l]  || _ %^Ath (%^Caol) t ! ionladh -> ionnalta
+.o.
+ a n n %^X a d h   -> [%^FC a n]  || _ %^Ath (%^Caol) t ! foirceannadh -> foirceanta
+.o.
+ n l %^X e a d h   -> [%^FC n n e a l]  || _ %^Ath (%^Caol) t ! inleadh -> innealta
+.o.
+ d l %^X a d h   -> [%^FC d l a]  || _ %^Ath (%^Caol) t	! codladh -> codlata
+.o.
+ t h %^X a d h   -> [%^FC ]   || _ %^Ath (%^Caol) t	! leathadh -> leata
+.o.
+ t h %^X a d h   -> [%^FC ]   || _ %^Ath (%^Caol) t	! leathadh -> leata
+.o.
+ t e %^X a d h   -> [%^FC ]   || _ %^Ath (%^Caol) t
+.o.
+ t %^X a d h     -> [%^FC ]   || _ %^Ath (%^Caol) t
+.o.
+ e a d h     -> [%^FC ]   || %^X _ %^Ath (%^Caol) t
+.o.
+    g t      -> [%^FC g]  || _ %^Ath (%^Caol) t	! tarrXaingt -> tarrXaingthe
+.o.
+  a d h      -> [%^FC ]   || %^X _ %^Ath (%^Caol) t
+!!.o.
+!!  a d h      -> [%^FC ]   ||  [d|n|t|l|s] %^X _ %^Ath (%^Caol) t
+!end new
+ 
+!----------------------------------------------------------------------
+! Nouns :final syllable "ach"  and "adh" become "aí" , eg bealach 
+! "each" and "eadh" become "í"
+! stems must be polysyllabic e.g. not beach, sceach etc (teach is an exception)
+! Adj Like Nouns :final syllable "ach"  (no "adh"?) become "aí" , eg déanach  - déanaí
+
+.o.
+ c h -> %^FC í ,		! bealach -> bealaí, soitheach -> soithí
+				! margadh -> margaí, geimhreadh -> geimhrí
+ d h -> %^FC í || Vowel+ Cons+ %^X (e) a _ %^Ath (%^Caol) (\t)	! added \t 31/08/06
+!----------------------------------------------------------------------
+.o.
+ e a  -> [] || _ %^FC í %^Ath 	! correction : geimhrea^FCí->geimhr^FCí, 
+				! soitheaí->soithí
+				! Adj: leochaileaí -> leochailí
+!----------------------------------------------------------------------
+.o.
+ b h -> %^FC a í || _ %^Ath	! leanbh -> leanaí
+
+!----------------------------------------------------------------------
+.o.
+ d h -> %^FC t || i _ %^Ath %^Lea	! iarraidh(aí) -> iarrait(aí)
+
+
+!----------------------------------------------------------------------
+.o.
+ t -> [%^FC ] || n _ %^Ath	! tiomáint -> tiomána  ( was t->a but D3 appenda a)
+
+!----------------------------------------------------------------------
+.o.
+ t -> %^FC t h || r _ %^Ath	! tagairt -> tagartha, buairt -> buartha
+
+!----------------------------------------------------------------------
+.o.
+ e -> [%^FC ] || _ %^Ath	! "e" is removed and "í" or "te" is appended
+				! buille -> buillí, císte -> cístí
+				! míle -> mílte, sloinne -> sloinnte
+!----------------------------------------------------------------------
+.o.
+ i o -> %^FC e a || _ [c|n|s|r] (h t) %^Ath	! sioc(m) -> seaca, 
+					! briocht -> breachta 
+					! smior(m) -> smeara
+					! fios(m) -> feasa, crios(m) -> creasa
+					! cion(m) -> ceana
+					! gion(m) -> geana
+!
+!----------------------------------------------------------------------
+! Adjectives: final syllable íoch becomes íthí, e.g. buíoch -> buíthí
+! AND [(e)á,ó,eo,ua] ch becomes thaí e.g.gnách -> gnáthaí, spleách->spleáthaí???
+
+.o.
+ o c h -> [%^FC ] || %^X (?) í _ %^Ath	! buíoch -> buí +thí
+
+.o.
+ c h -> [%^FC ] || %^X [á|ó|o|%^UA] _ %^Ath	! sách,sóch,gleoch,díomuach (^UA=ua)
+
+! --- end adj stuff ---
+
+!----------------------------------------------------------------------
+.o.
+%^Ath -> []
+
+;
+

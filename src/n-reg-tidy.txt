@@ -1,0 +1,26 @@
+! Noun (Gaeilge) Replace Rules
+! Elaine Uí Dhonnchadha
+! May 2001
+! Last Part - tidy up
+!
+!**************************************************************************
+read regex [ %^AE -> a e]
+.o.
+![ %^IA -> i a]
+!.o.
+[ %^AO -> a o]
+.o.
+[ %^UA -> u a]
+.o.
+[%^F -> []]
+.o.
+[%^M -> []]
+.o.
+[%^N -> []]
+.o.
+[%^G -> []]
+.o.
+[%^V -> []]
+.o.
+[%^CB -> []]
+;

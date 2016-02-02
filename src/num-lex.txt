@@ -1,0 +1,90 @@
+
+!***********************************************************************
+! NUMERALS
+! Cardinal numbers are described seperately here rather than with other
+! Adjectives
+! For Personal Numerals (duine, beirt, triúr) SEE NOUNS
+!***********************************************************************
+Multichar_Symbols
+
++Num		! Numeral
++Card		! Cardinal (one two three ...)
++Ord		! Ordinal (first, second, third..) i.e.  mo dhá lámh, an chéad dhá theach 
++Def		! after definite article etc. (an, na, aon, céad)
++Len
++Ecl
++hPref
++Op
+^IM
+^Urú
+^Sé
+^hv
+^tv
+^ts
+
+LEXICON Root
+	Numerals;
+
+LEXICON Numerals
+
+!!!! CARDINAL !!!!
+aon+Num+Card:aon			SéUrú;
+aon+Num+Card:haon			#;
+aon+Num+Card+Def:t-aon		#;
+dó+Num+Card:dó				SéUrú; ! a dó (two)
+dó+Num+Card:dhá				#; ! with a noun: dhá chapall (two horses)
+dó+Num+Card+Def:dá			#;
+trí+Num+Card:trí			SéUrú;
+ceathair+Num+Card:ceathair	SéUrú; ! a ceathair (four)
+ceathair+Num+Card:ceithre	SéUrú; ! ceithre chapall (four horses)
+cúig+Num+Card:cúig			SéUrú;
+sé+Num+Card:sé				SéUrú;
+seacht+Num+Card:seacht		SéUrú;
+ocht+Num+Card:ocht			SéUrú;
+naoi+Num+Card:naoi			SéUrú;
+deich+Num+Card:deich		SéUrú;
+fiche+Num+Card:fiche		SéUrú;
+tríocha+Num+Card:tríocha	SéUrú;
+daichead+Num+Card:daichead	SéUrú;
+caoga+Num+Card:caoga		SéUrú;
+seasca+Num+Card:seasca		SéUrú;
+seachtó+Num+Card:seachtó	SéUrú;
+ochtó+Num+Card:ochtó		SéUrú;
+ochtó+Num+Card:t-ochtó		#;
+nócha+Num+Card:nócha		SéUrú;
+céad+Num+Card:céad			SéUrú; ! hundred
+míle+Num+Card:míle			SéUrú;
+milliún+Num+Card:milliún	SéUrú;
+
+!!!! ORDINAL !!!!
+
+céad+Num+Ord:céad			SéUrú; ! first
+!!céad+Num+Ord+Def:chéad	#;
+aon+Num+Ord:aonú			SéUrú;
+aon+Num+Ord+Def:t-aonú		#;
+dara+Num+Ord:dara			SéUrú;
+dó+Num+Ord:dóú				SéUrú;
+treas+Num+Ord:treas			SéUrú;
+trí+Num+Ord:tríú			SéUrú;
+ceathair+Num+Ord:ceathrú	SéUrú;
+cúig+Num+Ord:cúigiú			SéUrú;
+sé+Num+Ord:séú				SéUrú;
+seacht+Num+Ord:seachtú		SéUrú;
+ocht+Num+Ord:ochtú			SéUrú;
+!!ocht+Num+Ord+Def:t-ochtú	#;
+naoi+Num+Ord:naoú			SéUrú;
+deich+Num+Ord:deichiú		SéUrú;
+
+!!!! Operators !!!!
+++Num+Op:+	#;
+-+Num+Op:-	#;
+*+Num+Op:*	#;
+=+Num+Op:=	#;
+/+Num+Op:/	#;
+
+
+LEXICON SéUrú
+#;
++Len:^IM^Sé^tv		#;
++Ecl:^IM^Urú		#;
++hPref:^IM^hv^ts		#;

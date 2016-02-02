@@ -1,0 +1,95 @@
+! First Conjugation Verb Stems
+!------------------------------------------------------------------------
+! V1-BR: 	one syllable (broad vowel - gutha leathan)
+!------------------------------------------------------------------------
+! V1-SL: 	one syllable (slender vowel - gutha caol )
+!------------------------------------------------------------------------
+! V1-BR-LV: Broad F-sufixes Slender T-suffixes (áigh, eoigh, óigh, uaigh, úigh)
+!------------------------------------------------------------------------
+! V!-SL-LV: Slender F-suffixes Slender T-suffixes (verbs ending in -éigh ) p99
+!------------------------------------------------------------------------
+! V1-SV:	Slender F Slender T ( verbs ending in -igh preceded
+! 		by a cons. or cons. + short vowel ) p100
+!------------------------------------------------------------------------
+! V1-SL-BR:	eisceachtaí do V1-SL; e.g. siúil
+!		leathnaítear iad SEACHAS
+!		a) Imperative 2P Sg, e.g. siúil
+!		b) All of Past Ind. except 1P Pl, e.g. shiúlamar
+!------------------------------------------------------------------------
+! V1-BR-SL:	eisceachtaí do V1-BR; a mhalairt de V1-SL-BR; e.g. tafann 
+!		caolaítear agus coimrítear iad SEACHAS
+!		a) Imperative 2P Sg, e.g. tafann
+!		b) All of Past Ind. except 1P Pl, e.g. ????
+!------------------------------------------------------------------------
+! V1-SL-X:	eisceachtaí do V1-SL; leathnaítear iad ; 
+!		?? polysyllabic with stress on second syllable  
+!		is this a reason why they are in the first declension?
+!------------------------------------------------------------------------
+! V1-SL-LC:	ends in áil
+!------------------------------------------------------------------------
+LEXICON VerbsC1A
+
+mol+Verb+VTI:mol	V1-BR;	
+glac+Verb+VT:glac	V1-BR;	! ta -. tha (glactha)
+lúb+Verb+VTI:lúb	V1-BR;	
+gabh+Verb+VTI:gabh	V1-BR;	! bha - fa (gafa)
+gearr+Verb+VTI:gearr	V1-BR;	! cut
+scríobh+Verb+VTI:scríobh	V1-BR;	
+tóg+Verb+VTI:tóg	V1-BR;	
+iarr+Verb+VT+Vow:iarr	V1-BR;	! d' : Past Ind, imperfect Ind and Conditional
+íoc+Verb+VTI+Vow:íoc	V1-BR;	
+fág+Verb+VTI:fág	V1-BR;	
+féach+Verb+VTI:féach	V1-BR;	
+scréach+Verb+VI:scéach	V1-BR;	
+ceap+Verb+VTI:ceap	V1-BR;	! think, invent
+seas+Verb+VTI:seas	V1-BR;	! stand
+fan+Verb+VI:fan	V1-BR;	
+féad+Verb+VTI:féad	V1-BR;	
+!!!lag		V1-BR;	
+lean+Verb+VTI:lean	V1-BR;	
+leag+Verb+VTI:leag	V1-BR;	! knock, lay out
+cas+Verb+VTI:cas	V1-BR;	! turn
+can+Verb+VTI:can	V1-BR;	! sing
+seol+Verb+VTI:seol	V1-BR;	! sail, launch
+driog+Verb+VTI:driog	V1-BR;  ! distil	
+bris+Verb+VTI:bris	V1-SL;	
+buail+Verb+VTI:buail	V1-SL;	! beat
+caith+Verb+VTI:caith	V1-SL;	! tht -> t (caite)
+cuir+Verb+VTI:cuir	V1-SL;	
+roinn+Verb+VTI:roinn	V1-SL;	
+loit+Verb+VT:loit	V1-SL;	! tt -> t (loite)
+scaip+Verb+VTI:scaip	V1-SL;	! -te -> the (scaipthe)
+loisc+Verb+VT:loisc	V1-SL;	
+éist+Verb+VTI+Vow:éist	V1-SL;	! d' : Past Ind, imperfect Ind and Conditional
+rith+Verb+VTI:rith	V1-SL;	
+bain+Verb+VTI:bain	V1-SL;	
+úsáid+Verb+VT+Vow:úsáid	V1-SL;	
+lig+Verb+VTI:lig	V1-SL;	
+mair+Verb+VTI:mair	V1-SL;	! live, last
+siúil+Verb+VTI:siúil	V1-SL;	! walk
+tit+Verb+VI:tit	V1-SL;	! fall
+tuig+Verb+VTI:tuig	V1-SL;	! understand
+cráigh+Verb+VT:cráigh	V1-BR-LV;	! Broad,Long Vowel
+dóigh+Verb+VTI:dóigh	V1-BR-LV;	
+brúigh+Verb+VTI:brúigh	V1-BR-LV;	
+buaigh+Verb+VTI:buaigh	V1-BR-LV;	
+clóigh+Verb+VT:clóigh	V1-BR-LV;	
+luaigh+Verb+VTI:luaigh	V1-BR-LV;	
+fuaigh+Verb+VTI:fuaigh	V1-BR-LV;	
+léigh+Verb+VTI:léigh	V1-SL-LV;	! Slender, Long Vowel
+pléigh+Verb+VTI:pléigh	V1-SL-LV;	
+réigh+Verb+VT:réigh		V1-SL-LV;	
+spréigh+Verb+VTI:spréigh	V1-SL-LV;	
+téigh+Verb+VTI:téigh	V1-SL-LV;	
+guigh+Verb+VTI:guigh	V1-SV;	!Short vowel
+bligh+Verb+VT:bligh	V1-SV;	
+figh+Verb+VTI:figh	V1-SV;	
+luigh+Verb+VI:luigh	V1-SV;	
+nigh+Verb+VTI:nigh	V1-SV;	
+suigh+Verb+VTI:suigh	V1-SV;	
+taispeáin+Verb+VT:taispeáin	V1-SL-BR;	! was V1-SL-X;	
+gearáin+Verb+VTI:gearáin	V1-SL-BR;		! was V1-SL-X;	
+tionóil+Verb+VTI:tionóil	V1-SL-BR;	! was V1-SL-X;	
+tíolaic+Verb+VTI:tíolaic	V1-SL-BR;	! was V1-SL-X;	
+sábháil+Verb+VTI:sábháil	V1-SL-LC;	
+foráil+Verb+VTI:foráil		V1-SL-LC;	! command, urge

@@ -1,0 +1,500 @@
+# Irish Verb Guesser - Conjugation 1
+# 
+# Root covers strings that looks like a valid Irish root
+# Pref lists some verb prefixes
+# There are many classes of Verb Suffix
+#
+# May 2008
+# Included +VTI as default transitivity on all verb guesses 
+# (it is used in disambiguation rule) EUD
+#
+clear stack
+echo << Verb Guesser Starting >>
+
+#define BrVowel [ a | o | u | á | ó | ú ] ; 	# Broad Vowels
+#define SlVowel [ e | i | é | í ] ; 			# Slender Vowels
+
+define V [ a | o | u | á | ó | ú| e | i | é | í]; # all vowels
+
+define C [b|c|d|f|g|h|l|m|n|p|r|s|t|%-];		# traditional cons
+define I [j|k|q|v|w|x|y|z];			# other cons in loanwords
+
+# Root includes all strings
+# that look like valid Irish roots.
+
+# up to 4 consequtive consonants e.g. ullmhaigh
+# even 5 e.g. tonnchrith
+
+##!!!define Syl1 [ (C|I) (%-) (C) (C) V (V) (V) (C) (C) (C) ];
+##!!!define Syl2 [ (C) V (V) (V) (C) (C) (C) ];
+
+# up to 3 syllables e.g. easportáil, liteagraf
+
+###!!!define Root [ Syl1 (Syl2) (Syl2) ];
+###!!!!!!!!!!!!!!!!!!!!!
+define VL [ a | o | u | á | ó | ú| e | i | é | í]; # all vowels
+define VF [a|o|u|á|ó|ú|e|i|é|í|y]; # all vowels incl. "y"
+                                                                                
+define UV [ A | O | U | Á | Ó | Ú| E | I | É | Í]; # all uppercase vowels
+                                                                                
+define CN [b|c|d|f|g|h|l|m|n|p|r|s|t|j|k|q|v|w|x|y|z|%-]; # all consonants
+define AllCap [B|C|D|F|G|H|L|M|N|P|R|S|T|J|K|Q|V|W|X|Y|Z|A|E|I|O|U|Á|É|Í|Ó|Ú];
+                                                                                
+define MutE [[[b] .x. [m b]]
+           | [[c] .x. [g c]]
+           | [[d] .x. [n d]]
+           | [[f] .x. [b h f]]
+           | [[g] .x. [n g]]
+           | [[p] .x. [b p]]
+           | [[t] .x. [d t]]
+] (CN);  
+# e.g. mbr...
+
+define MutL [ [[b] .x. [b h]]
+           | [[c] .x. [c h]]
+           | [[d] .x. [d h]]
+           | [[f] .x. [f h]]
+           | [[g] .x. [g h]]
+           | [[m] .x. [m h]]
+           | [[p] .x. [p h]]
+           | [[s] .x. [s h]]
+           | [[t] .x. [t h]]
+] (CN);  
+# e.g. ghr...
+
+define MutVE [[a] .x. [n %- a]]
+           | [[e] .x. [n %- e]]
+           | [[i] .x. [n %- i]]
+           | [[o] .x. [n %- o]]
+           | [[u] .x. [n %- u]]
+           | [[á] .x. [n %- á]]
+           | [[é] .x. [n %- é]]
+           | [[í] .x. [n %- í]]
+           | [[ó] .x. [n %- ó]]
+           | [[ú] .x. [n %- ú]]
+;
+
+define CC [ [b|d|f|p] (l|r)
+          | [c|g|t] (l|n|r)
+          | h
+          | l
+          | m (n|r)
+          | n
+          | r
+          | s (c|g|l|m|n|p|r|t) (r)
+          | j
+          | k
+          | v
+          | x
+          | z
+]; # all consonant clusters
+
+                                                                                
+define Rest [VL (VL) (CN) (CN) (CN)]; # rest or first syllable e.g. tráú
+define VRest [(VL) (VL) (CN) (CN) (CN)]; # rest or first syllable
+#define Syl2 [ (C) V (V) (V) (C) (C) (C) ( %- AllCap)];
+define Syl2 [ (%- AllCap) (CN) (CN) VL (VL) (VL) (CN) (CN) (CN)];
+#define Syl3 [ (%- AllCap) (CN) VL (VL) (VL) (CN) (CN) (CN) ];
+# Root includes all strings that look like valid Irish roots.
+# up to 3 syllables e.g. easportáil, liteagraf
+# up to 4 syllables e.g. ind|ibh|id|i+úla
+#define Root [ Syl1 (Syl2) (Syl2) (Syl3) ];
+define Root  [ [[CC] Rest] |
+               [[VL] VRest]
+             ] (Syl2) (Syl2) (Syl2) ;
+                                                                                
+define RootE [ [MutE Rest] | [MutVE VRest]
+             ] (Syl2) (Syl2) (Syl2) ;
+                                                                                
+define RootL [ MutL Rest
+             ] (Syl2) (Syl2) (Syl2) ;
+                                                                                
+
+###!!!!!!!!!!!!!!!!!!!!!
+## prefixes now handled separately
+##define VerbPref [ %+VPref%+ .x. [ a t h ]  ] | [ %+VPref .x. [ c o m h ] ] ;
+
+# tense mood, person & number
+########
+# PART 1 - 1st & 2nd. conjugation - longer suffixes
+########
+# Present 
+define VPresSuf [C [%+Guess %+Verb %+VTI %+PresInd %+1P %+Sg .x. a i m ] 
+                   | [%+Guess %+Verb %+VTI %+PresInd  .x. e a n n ]  
+#                  | [%+Guess %+Verb %+VTI %+PresInd %+Auto .x. t (e) a r ] PART 2
+		]
+;
+# Past
+# not -feadh AND -eadh
+define VPastSuf [C [%+Guess %+Verb %+VTI %+PastInd %+1P %+Pl .x. e a m a r  ]
+                 | [%+Guess %+Verb %+VTI %+PastInd %+3P %+Pl .x. e a d a r  ]
+##new bit ###
+                 | [a i g h %+Guess %+Verb %+VTI %+PastInd .x. a i g h ]
+# NOUN ALSO
+              | [a c h %+Guess %+Noun %+Masc %+Com %+Pl .x. a i g h]
+              | [a c h %+Guess %+Noun %+Masc %+Gen %+Sg .x. a i g h]
+## end new bit ###
+#              | [%+Guess %+Verb %+VTI %+PastInd %+Auto .x. \f e a d h ] PART 2
+		]
+;
+# Past Habitual (Imperfective)
+define VPastHSuf [%+Guess %+Verb %+VTI %+PastImp %+2P %+Sg .x. t á ]
+              | [%+Guess %+Verb %+VTI %+PastImp %+Auto .x.  t a í ]
+# NOUN ALSO
+              | [t a [%+Guess %+Noun %+Masc %+Com %+Pl .x. í] ]
+;
+
+#  1st Conj. - Future
+define VFutSuf  [%+Guess %+Verb %+VTI %+FutInd  .x. f (a) i d h ] 
+	      | [%+Guess %+Verb %+VTI %+FutInd %+1P %+Pl .x. f (a) i m i d ]
+              | [%+Guess %+Verb %+VTI %+FutInd  %+Auto .x. f (e) a r ]
+#  2nd Conj. - Future
+	      | [C [i g h %+Guess %+Verb %+VTI %+FutInd  .x. e o i d h ] 
+                | [a i g h %+Guess %+Verb %+VTI %+FutInd  .x. ó i d h ] 
+	        | [a i g h %+Guess %+Verb %+VTI %+FutInd %+1P %+Pl .x. ó i m i d  ]
+	        | [i g h %+Guess %+Verb %+VTI %+FutInd %+1P %+Pl .x. e o i m i d  ]
+                | [a i g h %+Guess %+Verb %+VTI %+FutInd %+Auto .x. ó f a r ] 
+                | [i g h %+Guess %+Verb %+VTI %+FutInd %+Auto .x. e o f a r ]
+	        ]	
+;
+
+#  Conditional
+define VCondSuf [%+Guess %+Verb %+VTI %+Cond %+1P %+Sg .x. f (a) i n n ]
+	      | [%+Guess %+Verb %+VTI %+Cond %+2P %+Sg .x. f (e) á ]
+	      | [%+Guess %+Verb %+VTI %+Cond  .x. f (e) a d h ]
+	      | [%+Guess %+Verb %+VTI %+Cond %+1P %+Pl .x. f (a) i m i s  ]
+	      | [%+Guess %+Verb %+VTI %+Cond %+3P %+Pl .x. f (a) i d í s  ]
+#  2nd Conj. - Conditional
+	      | [C  [a i g h %+Guess %+Verb %+VTI %+Cond %+1P %+Sg .x. ó i n n ]
+	        | [i g h %+Guess %+Verb %+VTI %+Cond %+1P %+Sg .x. e o i n n ]
+	        | [a i g h %+Guess %+Verb %+VTI %+Cond %+2P %+Sg .x. ó f á ]
+	        | [i g h %+Guess %+Verb %+VTI %+Cond %+2P %+Sg .x. e o f á ]
+	        | [a i g h %+Guess %+Verb %+VTI %+Cond  .x. ó d h ]
+	        | [i g h %+Guess %+Verb %+VTI %+Cond  .x. e o d h ]
+	        | [a i g h %+Guess %+Verb %+VTI %+Cond %+1P %+Pl .x. ó i m i s  ]
+	        | [i g h %+Guess %+Verb %+VTI %+Cond %+1P %+Pl .x. e o i m i s  ]
+	        | [a i g h %+Guess %+Verb %+VTI %+Cond %+3P %+Pl .x. ó i d í s  ]
+	        | [i g h %+Guess %+Verb %+VTI %+Cond %+3P %+Pl .x. e o i d í s  ]
+                | [a i g h %+Guess %+Verb %+VTI %+Cond %+Auto .x. ó f a í ] 
+                | [i g h %+Guess %+Verb %+VTI %+Cond %+Auto .x. e o f a í ]
+	        ]
+;
+# Pres Subj
+#define VPresSSuf [%+Guess %+Verb %+VTI %+PresSubj %+Auto .x. t (e) a r ] 
+#	      | [%+Guess %+Verb %+VTI %+PresSubj  .x. a (í) ]
+#	      | [%+Guess %+Verb %+VTI %+PresSubj  .x. e  ]
+#	      | [%+Guess %+Verb %+VTI %+PresSubj  .x. í  ]
+
+#  Imperative
+define VImperSuf [C [%+Guess %+Verb %+VTI %+Imper %+1P %+Sg .x. a i m ]
+              | [%+Guess %+Verb %+VTI %+Imper %+2P %+Sg .x. a i g h ]
+# NOUN ALSO
+              | [a c h %+Guess %+Noun %+Masc %+Com %+Pl .x. a i g h]
+              | [a c h %+Guess %+Noun %+Masc %+Gen %+Sg .x. a i g h]
+#              | [%+Guess %+Verb %+VTI %+Imper %+2P %+Sg .x. (a) i (l | n | r | s) ]
+	      | [%+Guess %+Verb %+VTI %+Imper %+1P %+Pl .x. a i m i s  ]
+	      | [%+Guess %+Verb %+VTI %+Imper %+2P %+Pl .x. a i g í  ]
+	     ]
+#              | [%+Guess %+Verb %+VTI %+Imper %+Auto .x. t (e) a r ] 
+;
+#define VImperNoSuf  [%+Guess %+Verb %+VTI %+Imper %+2P %+Sg .x. [] ];
+
+
+define Verb1a [ Root [VPresSuf | VPastSuf | VPastHSuf | 
+                     VFutSuf | VCondSuf |  VImperSuf ]
+             ] ;
+
+# don't include Imperative as not lenited or eclipsed
+define Verb1aE [ RootE [VPresSuf | VPastSuf | VPastHSuf | 
+                     VFutSuf | VCondSuf ] "+Ecl":0
+             ] ;
+
+# don't include Imperative as not lenited or eclipsed
+define Verb1aL [ RootL [VPresSuf | VPastSuf | VPastHSuf | 
+                     VFutSuf | VCondSuf ] "+Len":0
+             ] ;
+
+define Verbs [Verb1a| Verb1aE | Verb1aL];
+
+read regex Verbs ;
+echo << saving bin/guessv1a.fst to file >>
+save stack bin/guessv1a.fst
+clear stack
+############################################
+########
+# PART 2 - 1st conjugation - shorter suffixes
+########
+# Present 
+# a consonant (C) must precede some suffixes to prevent Liatroim = verb
+define VPresSuf [C [%+Guess %+Verb %+VTI %+PresInd %+1P %+Sg .x. i m ]
+                 | [%+Guess %+Verb %+VTI %+PresInd  .x. a n n ]  
+	         | [%+Guess %+Verb %+VTI %+PresInd %+1P %+Pl .x. a i m i d ] 
+		]
+# NOUN ALSO
+                   | [l a n n %+Guess %+Noun %+Fem %+Com %+Sg .x. l a n n ]  
+;
+# Past
+# not -feadh AND -eadh
+define VPastSuf [C [%+Guess %+Verb %+VTI %+PastInd %+1P %+Pl .x. a m a r  ]
+                 | [%+Guess %+Verb %+VTI %+PastInd %+3P %+Pl .x. a d a r  ]
+                 | [%+Guess %+Verb %+VTI %+PastInd %+Auto .x.  e a d h ]
+###new bit ###
+                 | [i g h %+Guess %+Verb %+VTI %+PastInd .x. i g h ]
+# NOUN ALSO
+              | [e a c h %+Guess %+Noun %+Fem %+Com %+Pl .x. i g h]
+              | [e a c h %+Guess %+Noun %+Fem %+Gen %+Sg .x. i g h]
+### end new bit ###
+		]
+;
+# Past Habitual (Imperfective)
+define VPastHSuf [C [%+Guess %+Verb %+VTI %+PastImp %+1P %+Sg .x. a i n n ]
+	         | [%+Guess %+Verb %+VTI %+PastImp %+1P %+Pl .x. a i d í s  ]
+	         | [%+Guess %+Verb %+VTI %+PastImp .x. e a d h  ]
+		]
+# not -tí, but allow -taí
+                 | [%+Guess %+Verb %+VTI %+PastImp %+Auto .x. t í ]
+# NOUN ALSO
+                 | [t [%+Guess %+Noun %+Masc %+Com %+Pl .x. í] ]
+;
+
+# Conditional
+
+# Pres Subj
+define VPresSSuf [C [%+Guess %+Verb %+VTI %+PresSubj %+1P %+Pl .x. a i m i d  ]
+#	      | [%+Guess %+Verb %+VTI %+PresSubj  .x. a (í) ]
+#	      | [%+Guess %+Verb %+VTI %+PresSubj  .x. e  ]
+#	      | [%+Guess %+Verb %+VTI %+PresSubj  .x. í  ]
+		]
+;
+#  Imperative
+define VImperSuf [C [%+Guess %+Verb %+VTI %+Imper %+1P %+Sg .x. i m ]
+              | [i g h %+Guess %+Verb %+VTI %+Imper %+2P %+Sg .x. i g h ]
+# NOUN ALSO
+              | [e a c h %+Guess %+Noun %+Fem %+Com %+Pl .x. i g h]
+              | [e a c h %+Guess %+Noun %+Fem %+Gen %+Sg .x. i g h]
+#              | [%+Guess %+Verb %+VTI %+Imper %+2P %+Sg .x. (a) i (l | n | r | s) ]
+	        | [%+Guess %+Verb %+VTI %+Imper %+3P %+Sg .x. e a d h  ]
+	        | [%+Guess %+Verb %+VTI %+Imper %+1P %+Pl .x. a i m i s  ]
+	        | [%+Guess %+Verb %+VTI %+Imper %+2P %+Pl .x. i g í  ]
+	        | [%+Guess %+Verb %+VTI %+Imper %+3P %+Pl .x. a i d í s  ]
+		]
+;
+#define VImperNoSuf  [%+Guess %+Verb %+VTI %+Imper %+2P %+Sg .x. [] ];
+
+
+define Verb1b [ Root [VPresSuf | VPastSuf | VPastHSuf | 
+                       VPresSSuf | VImperSuf ]
+             ] ;
+# don't include Imperative as not lenited or eclipsed
+define Verb1bE [ RootE [VPresSuf | VPastSuf | VPastHSuf | 
+                       VPresSSuf ]"+Ecl":0
+             ] ;
+
+define Verb1bL [ RootL [VPresSuf | VPastSuf | VPastHSuf | 
+                       VPresSSuf ]"+Len":0
+             ] ;
+
+
+define Verbs [Verb1b| Verb1bE | Verb1bL];
+read regex Verbs ;
+echo << saving bin/guessv1b.fst to file >>
+save stack bin/guessv1b.fst
+
+########
+# PART 3 - 1st conjugation - shortest suffixes
+########
+clear stack
+define VSuf [C [%+Guess %+Verb %+VTI %+Imper %+3P %+Sg .x. a d h ]
+	   |[%+Guess %+Verb %+VTI %+PresSubj %+1P %+Pl .x. i m i d  ]
+	   |[%+Guess %+Verb %+VTI %+PresInd %+1P %+Pl .x. i m i d ] 
+	   |[%+Guess %+Verb %+VTI %+PastImp  .x. a d h  ]
+	   |[%+Guess %+Verb %+VTI %+PastImp %+1P %+Sg .x. i n n ]
+           |[%+Guess %+Verb %+VTI %+PastInd %+Auto .x. a d h ]
+# NOUN & VN also ..
+           |[a d h %+Guess %+Verbal %+Noun .x. a d h ]
+           |[a d h %+Guess %+Noun %+Masc %+Com %+Sg .x. a d h ]
+	   |[%+Guess %+Verb %+VTI %+Imper %+1P %+Pl .x. i m i s  ]
+	   | [%+Guess %+Verb %+VTI %+PastImp %+1P %+Pl .x. i d í s  ]
+	   | [%+Guess %+Verb %+VTI %+Imper %+3P %+Pl .x. i d í s  ]
+           | [%+Guess %+Verb %+VTI %+Cond %+Auto .x. f (a) í ] 
+	]
+;
+
+define Verb1c [ Root VSuf ];
+define Verb1cE [ RootE VSuf "+Ecl":0];
+define Verb1cL [ RootL VSuf "+Len":0];
+define Verbs [Verb1c| Verb1cE | Verb1cL];
+read regex Verbs ;
+echo << saving bin/guessv1c.fst to file >>
+save stack bin/guessv1c.fst
+
+###############################
+clear stack
+########
+# PART 4  - 2nd. conjugation - longest suffixes
+########
+# Present 
+define VPresSuf [C [a i g h %+Guess %+Verb %+VTI %+PresInd %+1P %+Sg .x. a í m ] 
+              | [a i g h %+Guess %+Verb %+VTI %+PresInd  .x. a í o n n ]  
+	      | [a i g h %+Guess %+Verb %+VTI %+PresInd %+1P %+Pl .x. a í m i d ] 
+              | [a i g h %+Guess %+Verb %+VTI %+PresInd %+Auto .x. a í t e a r ]
+	     ]
+;
+
+# Past
+define VPastSuf [C [a i g h %+Guess %+Verb %+VTI %+PastInd %+1P %+Pl .x. a í o m a r  ]
+                 | [a i g h %+Guess %+Verb %+VTI %+PastInd %+3P %+Pl .x. a í o d a r  ]
+	      | [a i g h %+Guess %+Verb %+VTI %+PastInd %+Auto .x. a í o d h ] 
+	]
+;
+
+# Past Habitual (Imperfective)
+define VPastHSuf [C [a i g h %+Guess %+Verb %+VTI %+PastImp %+1P %+Sg .x. a í n n ]
+	      | [a i g h %+Guess %+Verb %+VTI %+PastImp %+2P %+Sg .x. a í t e á ]
+	      | [a i g h %+Guess %+Verb %+VTI %+PastImp  .x. a í o d h  ]
+	      | [a i g h %+Guess %+Verb %+VTI %+PastImp %+1P %+Pl .x. a í m í s  ]
+	      | [a i g h %+Guess %+Verb %+VTI %+PastImp %+3P %+Pl .x. a í d í s  ]
+              | [a i g h %+Guess %+Verb %+VTI %+PastImp %+Auto .x. a í t í]
+	]
+;
+
+
+# Pres Subj
+define VPresSSuf [C [a i g h %+Guess %+Verb %+VTI %+PresSubj %+1P %+Pl .x. a í m i d  ]
+#	      | [%+Guess %+Verb %+VTI %+PresSubj  .x. a (í) ]
+#	      | [%+Guess %+Verb %+VTI %+PresSubj  .x. e  ]
+#	      | [%+Guess %+Verb %+VTI %+PresSubj  .x. í  ]
+              | [a i g h %+Guess %+Verb %+VTI %+PresSubj %+Auto .x. a í t e a r ] 
+	]
+;
+
+#  Imperative
+define VImperSuf [C [a i g h %+Guess %+Verb %+VTI %+Imper %+1P %+Sg .x. a í m ]
+#              | [%+Guess %+Verb %+VTI %+Imper %+2P %+Sg .x. (a) i g h ]
+#              | [%+Guess %+Verb %+VTI %+Imper %+2P %+Sg .x. (a) i (l | n | r | s) ]
+	      | [a i g h %+Guess %+Verb %+VTI %+Imper %+3P %+Sg .x. a í o d h  ]
+	      | [a i g h %+Guess %+Verb %+VTI %+Imper %+1P %+Pl .x. a í m i s  ]
+	      | [a i g h %+Guess %+Verb %+VTI %+Imper %+2P %+Pl .x. a í g í  ]
+	      | [a i g h %+Guess %+Verb %+VTI %+Imper %+3P %+Pl .x. a í d í s  ]
+              | [a i g h %+Guess %+Verb %+VTI %+Imper %+Auto .x. a í t e a r ] 
+	]
+;
+
+#define VImperNoSuf  [%+Guess %+Verb %+VTI %+Imper %+2P %+Sg .x. [] ];
+
+
+define Verb2a [ [Root] [VPresSuf | VPastSuf | VPastHSuf | 
+	 VPresSSuf | VImperSuf ]
+             ] ;
+
+define Verb2aE [ [RootE] [VPresSuf | VPastSuf | VPastHSuf | 
+	 VPresSSuf | VImperSuf ]"+Ecl":0
+             ] ;
+
+define Verb2aL [ [RootL] [VPresSuf | VPastSuf | VPastHSuf | 
+	 VPresSSuf | VImperSuf ]"+Len":0
+             ] ;
+
+define Verbs [Verb2a| Verb2aE | Verb2aL];
+read regex Verbs ;
+echo << saving bin/guessv2a.fst to file >>
+save stack bin/guessv2a.fst
+####################################
+########
+# PART 5   - 2nd. conjugation - shorter suffixes - all slender
+########
+clear stack
+# Present 
+define VPresSuf [C [i g h %+Guess %+Verb %+VTI %+PresInd %+1P %+Sg .x. í m ] 
+              | [i g h %+Guess %+Verb %+VTI %+PresInd  .x. í o n n ]  
+	      | [i g h %+Guess %+Verb %+VTI %+PresInd %+1P %+Pl .x. í m i d ] 
+              | [i g h %+Guess %+Verb %+VTI %+PresInd %+Auto .x. í t e a r ]
+	]
+;
+
+# Past
+define VPastSuf [C [i g h %+Guess %+Verb %+VTI %+PastInd %+1P %+Pl .x. í o m a r  ]
+                 | [i g h %+Guess %+Verb %+VTI %+PastInd %+3P %+Pl .x. í o d a r  ]
+	      | [i g h %+Guess %+Verb %+VTI %+PastInd %+Auto .x. í o d h ] 
+	]
+;
+
+# Past Habitual (Imperfective)
+define VPastHSuf [C [i g h %+Guess %+Verb %+VTI %+PastImp %+1P %+Sg .x. í n n ]
+	      | [i g h %+Guess %+Verb %+VTI %+PastImp %+2P %+Sg .x. í t e á ]
+	      | [i g h %+Guess %+Verb %+VTI %+PastImp  .x. í o d h  ]
+	      | [i g h %+Guess %+Verb %+VTI %+PastImp %+1P %+Pl .x. í m í s  ]
+	      | [i g h %+Guess %+Verb %+VTI %+PastImp %+3P %+Pl .x. í d í s  ]
+              | [i g h %+Guess %+Verb %+VTI %+PastImp %+Auto .x. í t í]
+	]
+;
+
+
+# Pres Subj
+define VPresSSuf [C [i g h %+Guess %+Verb %+VTI %+PresSubj %+1P %+Pl .x. í m i d  ]
+#	      | [%+Guess %+Verb %+VTI %+PresSubj  .x. a (í) ]
+#	      | [%+Guess %+Verb %+VTI %+PresSubj  .x. e  ]
+#	      | [%+Guess %+Verb %+VTI %+PresSubj  .x. í  ]
+              | [i g h %+Guess %+Verb %+VTI %+PresSubj %+Auto .x. í t e a r ] 
+	]
+;
+
+#  Imperative
+define VImperSuf [C [i g h %+Guess %+Verb %+VTI %+Imper %+1P %+Sg .x. í m ]
+#              | [%+Guess %+Verb %+VTI %+Imper %+2P %+Sg .x. (a) i g h ]
+#              | [%+Guess %+Verb %+VTI %+Imper %+2P %+Sg .x. (a) i (l | n | r | s) ]
+	      | [i g h %+Guess %+Verb %+VTI %+Imper %+3P %+Sg .x. í o d h  ]
+	      | [i g h %+Guess %+Verb %+VTI %+Imper %+1P %+Pl .x. í m i s  ]
+	      | [i g h %+Guess %+Verb %+VTI %+Imper %+2P %+Pl .x. í g í  ]
+	      | [i g h %+Guess %+Verb %+VTI %+Imper %+3P %+Pl .x. í d í s  ]
+              | [i g h %+Guess %+Verb %+VTI %+Imper %+Auto .x. í t e a r ] 
+	]
+;
+define Verb2b [ [Root] [VPresSuf | VPastSuf | VPastHSuf | 
+                     VPresSSuf | VImperSuf ]
+             ] ;
+
+define Verb2bE [ [RootE] [VPresSuf | VPastSuf | VPastHSuf | 
+                     VPresSSuf | VImperSuf ] "+Ecl":0   
+             ] ;
+
+define Verb2bL [ [RootL] [VPresSuf | VPastSuf | VPastHSuf | 
+                     VPresSSuf | VImperSuf ] "+Len":0
+             ] ;
+
+define Verbs [Verb2b| Verb2bE | Verb2bL];
+read regex Verbs ;
+echo << saving bin/guessv2b.fst to file >>
+save stack bin/guessv2b.fst
+
+####################################
+########
+# PART 6   - 2nd. conjugation - shorter suffixes 
+########
+clear stack
+define VPresSuf  [%+Guess %+Verb %+VTI %+PresInd %+Auto .x. t (e) a r ] 
+;
+define VPresSSuf [%+Guess %+Verb %+VTI %+PresSubj %+Auto .x. t (e) a r ] 
+;
+define VPastHSuf [%+Guess %+Verb %+VTI %+PastImp %+2P %+Sg .x. t e á ]
+;
+define VImperSuf [%+Guess %+Verb %+VTI %+Imper %+Auto .x. t (e) a r ] 
+;
+define Verb2c [ [Root] [VPresSuf | VPastHSuf | VPresSSuf | VImperSuf ]
+             ] ;
+
+
+define Verb2cE [ [RootE] [VPresSuf | VPastHSuf | VPresSSuf | VImperSuf]"+Ecl":0 
+             ] ;
+
+
+define Verb2cL [ [RootL] [VPresSuf | VPastHSuf | VPresSSuf | VImperSuf ]"+Len":0
+             ] ;
+
+define Verbs [Verb2c| Verb2cE | Verb2cL];
+
+read regex Verbs;
+echo << saving bin/guessv2c.fst to file >>
+save stack bin/guessv2c.fst
+clear stack
+echo << Verb Guesser Complete >>

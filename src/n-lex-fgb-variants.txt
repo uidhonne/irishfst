@@ -1,0 +1,3522 @@
+LEXICON NounsVariants
+
+! *** Assigned by hand.
+! These variants have, for the most part, the same CC
+! as the headwords.
+! CW 25/08/08
+abhcóidíocht		Nf3-SINGULAR;	! Headword: abhcóideacht
+agraitheoir		Nm3-1;	! Headword: agróir
+áibhéis		Nf2-SINGULAR;	! Headword: aibhéis
+aicseán		Nm1-1;	! Headword: aicsean
+aighneastóir		Nm3-1;	! Headword: aighneasóir
+áilse		Nm4-SINGULAR;	! Headword: áilseadh ***
+ainbhfios		Nm3-SINGULAR;	! Headword: ainbhios
+ainbhreath		Nf2-6;	! Headword: ainbhreith
+aindiadhacht		Nf3-SINGULAR;	! Headword: aindiagacht
+aindlighe		Nm4-SINGULAR;	! Headword: aindlí ***
+airneálach		Nm1-1;	! Headword: airneánach
+aislingtheach		Nm1-1;	! Headword: aislingeach
+aislingíocht		Nf3-SINGULAR;	! Headword: aislingeacht
+áltán		Nm1-1;	! Headword: altán
+amaidíocht		Nf3-SINGULAR;	! Headword: amaideacht
+amainiris	Ns;	! The second day after tomorrow ***
+amairinis	Ns;	! The second day after tomorrow ***
+amanarthar		Ns;	! Headword: amanathar
+amhdhoircheacht		Nf3-SINGULAR;	! Headword: amhdhorchacht
+amhscarnach		Nf2-4;	! Headword: amhscarthanach
+ársacht		Nf3-SINGULAR;	! Headword: ársaíocht
+ataráisce		Nf4-SINGULAR;	! Headword: ataraicse
+áthrach		Nm1-1;	! Headword: athrach
+bacadáil		Nf3-SINGULAR;	! Headword: bacadaíl
+bacard		Nm1-1;	! Headword: bacart
+badhb		Nf2-1;	! Headword: badhbh
+bailcín		Nm4-1;	! Headword: bailcimín
+baintreabhachas		Nm1-1;	! Headword: baintreachas
+banphríor		Nm3-1;	! Headword: banphrióir
+banradán		Nm1-SINGULAR;	! Headword: banrán
+barrúilteacht		Nf3-SINGULAR;	! Headword: barrúlacht
+básadán		Nm1-1;	! Headword: básachán
+bastairtíocht		Nf3-SINGULAR;	! Headword: bastardaíocht
+bealaitheacht		Nf3-SINGULAR;	! Headword: bealaíocht
+béalastrán		Nm1-1;	! Headword: béalastán
+beanglán		Nm1-1;	! Headword: beangán
+bladhrúch		Nf2a-SINGULAR;	! Headword: bladhrach ???
+bleachtas		Nm1-SINGULAR;	! Headword: bleachtanas
+bligeardaíocht		Nf3-SINGULAR;	! Headword: bligeardacht
+boigearán		Nm1-1;	! Headword: boigeartán
+bóirichín		Nm4-SINGULAR;	! Headword: bóiricín
+boislín		Nm4-1;	! Headword: boislichín
+bóitseachán		Nm1-1;	! Headword: boitseachán
+bolaireacht		Nf3-SINGULAR;	! Headword: bolaíocht
+bolaistín		Nm4-1;	! Headword: bolaistrín
+bolmánacht		Nf3-SINGULAR;	! Headword: bolmántacht
+bolsaire		Nm4-2;	! Headword: bolscaire
+bothántaí		Nm4-4;	! Headword: bothánaí
+braichlionn		Nm3-7;	! Headword: braichleann
+bráillín		Nf2-7;	! Headword: braillín
+braimileog		Nf2-1;	! Headword: braimleog
+brataing		Nf2-7;	! Headword: bratainn
+breathnadóireacht		Nf3-SINGULAR;	! Headword: breathnóireacht
+breoiteán		Nm1-1;	! Headword: breoiteachán
+broicealach		Nm1-1;	! Headword: broicleach
+brúidreacht		Nf3-SINGULAR;	! Headword: brúidiúlacht
+buachaillíocht		Nf3-SINGULAR;	! Headword: buachailleacht
+buachaltán		Nm1-1;	! Headword: buachalán
+buimléad		Nm1-1;	! Headword: buimbiléad
+buirghéiseach		Nm1-1;	! Headword: buirgéiseach
+bundúnaíocht		Nf3-SINGULAR;	! Headword: bundúnacht
+burdúnaíocht		Nf3-SINGULAR;	! Headword: burdúnacht
+caifé		Nm4-2;	! Headword: caife
+caillteamas		Nm1-1;	! Headword: caillteanas
+caimlínteacht		Nf3-SINGULAR;	! Headword: caimiléireacht
+cáiréad		Nm1-1;	! Headword: cairéad
+cairéis		Nf2-SINGULAR;	! Headword: cáiréis
+caisínteacht		Nf3-SINGULAR;	! Headword: caisíneacht
+camalama		Nm4-SINGULAR;	! Headword: camalanga
+cancaracht		Nf3-SINGULAR;	! Headword: cancracht
+canóndacht		Nf3-SINGULAR;	! Headword: canóntacht
+caoilteachán		Nm1-1;	! Headword: caoilteamán
+caoinche		Nf4-2;	! Headword: caoince
+caoineadas		Nm1-1;	! Headword: caoineas
+caomhnaitheoir		Nm3-1;	! Headword: caomhnóir
+captaoin		Nm1-1;	! Headword: captaen ???
+cargas		Nm1-1;	! Headword: carghas
+cartan		Nm1-SINGULAR;	! Headword: cártan
+carthannas		Nm1-1;	! Headword: carthanas
+ceachlach		Nm1-1;	! Headword: ceachrach
+céadal		Nm1-1;	! Headword: ceadal
+céadfaíocht		Nf3-SINGULAR;	! Headword: céadfacht
+ceailí		Nm4-SINGULAR;	! Headword: ceaile
+ceanglachán		Nm1-1;	! Headword: ceangaltán
+ceannasacht		Nf3-SINGULAR;	! Headword: ceannasaíocht
+ceannascacht		Nf3-SINGULAR;	! Headword: ceannasaíocht; Subvariant: (Var: ceannas(c)acht)
+ceannsmách		Nm3-SINGULAR;	! Headword: ceannsmacht
+céaslaíocht		Nf3-SINGULAR;	! Headword: céaslóireacht
+ceileatrom		Nm1-SINGULAR;	! Headword: ceileatram
+ceilteamas		Nm1-SINGULAR;	! Headword: ceilteanas
+ceisteoir		Nm3-1;	! Headword: ceistitheoir
+ceobáisteach		Nf2a-SINGULAR;	! Headword: ceobháisteach
+cibhir		Nf2-3;	! Headword: cibhear ***
+cifile		Nm4-2;	! Headword: cifle
+cíliantacht		Nf3-SINGULAR;	! Headword: cílíontacht
+ciméar		Nm1-1;	! Headword: ciméara ***
+cinéal		Nm1-11;	! Headword: cineál
+ciontaitheoir		Nm3-1;	! Headword: ciontóir
+claimhtheoir		Nm3-1;	! Headword: claimhteoir
+claimhtheoireacht		Nf3-SINGULAR;	! Headword: claimhteoireacht
+cláirineach		Nm1-1;	! Headword: cláiríneach
+cláradóir		Nm3-1;	! Headword: cláraitheoir
+clascán		Nm1-1;	! Headword: clasán
+cléirceach		Nm1-1;	! Headword: cléireach
+cléitheog		Nf2-1;	! Headword: cleitheog
+clingíneacht		Nf3-SINGULAR;	! Headword: clingireacht
+clúmhnán		Nm1-SINGULAR;	! Headword: clúmhnachán
+cnáimhseánaí		Nm4-4;	! Headword: cnáimhseálaí
+cnocaireacht		Nf3-SINGULAR;	! Headword: cnocadóireacht
+cogubhas		Nm1-1;	! Headword: cogús
+coibhneasaíocht		Nf3-SINGULAR;	! Headword: coibhneasacht
+coichín		Nm4-1;	! Headword: coicheán ***
+cóilíneach		Nm1-1;	! Headword: coilíneach
+cóilíneacht		Nf3-SINGULAR;	! Headword: coilíneacht
+coimheád		Nm5-7;	! Headword: coimhéad
+coinbhliocht		Nf3-1;	! Headword: coinbhleacht
+coirpeoireacht		Nf3-SINGULAR;	! Headword: coirpeacht
+cómhalartaíocht		Nf3-SINGULAR;	! Headword: cómhalartacht
+comharsantacht		Nf3-1;	! Headword: comharsanacht
+comhghairdeachas		Nm1-1;	! Headword: comhghairdeas
+comhráidhteach		Nm1-1;	! Headword: comhráiteach
+conspóidíocht		Nf3-SINGULAR;	! Headword: conspóideacht
+corraduanóg		Ns;	! Headword: corraghiob
+corraicíocht		Nf3-SINGULAR;	! Headword: corraiceacht
+costasúlacht		Nf3-SINGULAR;	! Headword: costasacht
+cothaíocht		Nf3-SINGULAR;	! Headword: cothaitheacht
+crandóir		Nm3-1;	! Headword: crandúir
+creagairneacht		Nf3-SINGULAR;	! Headword: creagaireacht
+creathnaitheach		Nf2a-SINGULAR;	! Headword: creathnach
+crincleach		Nm1-1;	! Headword: cringleach
+críochaireacht		Nf3-SINGULAR;	! Headword: críochadóireacht
+croíleachán		Nm1-1;	! Headword: croíleacán
+croimbéal		Nm1-1;	! Headword: croiméal
+croinicíocht		Nf3-SINGULAR;	! Headword: croiniceacht
+cruatalán		Nm1-1;	! Headword: cruatan
+crúnca		Nm4-1;	! Headword: crunca
+cuibhdheasacht		Nf3-SINGULAR;	! Headword: cuibheasacht
+cúilfhéith		Nf2-SINGULAR;	! Headword: cúiléith
+cuinse		Nm4-2;	! Headword: cúinse
+cúirtín		Nm4-1;	! Headword: cuirtín
+cumúlacht		Nf3-SINGULAR;	! Headword: cumthacht
+custamóir		Nm3-1;	! Headword: custaiméir
+custamóireacht		Nf3-SINGULAR;	! Headword: custaiméireacht
+dallacháil		Nf3-SINGULAR;	! Headword: dallacáil
+dallachán		Nm1-1;	! Headword: dallacán
+dallamhlán		Nm1-1;	! Headword: dallamlán
+daoirsineach		Nm1-1;	! Headword: daoirseach
+daonfhlaitheas		Nm1-1;	! Headword: daonlathas
+deánfas		Nm1-SINGULAR;	! Headword: déanfas
+deann		Nm1-2;	! Headword: deannach ***
+dearlagadh		Nm5-4;	! Headword: dearlacadh
+dearlaig		Nf2-7;	! Headword: dearlaic
+dearmhad		Nm1-1;	! Headword: dearmad
+deideagha		Nm4-7;	! Headword: deideighe
+deilgíneach		Nf2-4;	! Headword: deilgneach
+deilíneacht		Nf3-SINGULAR;	! Headword: deilínteacht
+deimhníocht		Nf3-SINGULAR;	! Headword: deimhneacht
+deismínteacht		Nf3-SINGULAR;	! Headword: deismíneacht
+deoirínteacht		Nf3-SINGULAR;	! Headword: deoiríneacht
+diabhar		Nm1-1;	! Headword: diabhal
+diallaid		Nf2-7;	! Headword: diallait
+diamhaslaitheoir		Nm3-1;	! Headword: diamhaslóir
+diamhraíocht		Nf3-SINGULAR;	! Headword: diamhracht
+díleaighteacht		Nf3-SINGULAR;	! Headword: díleáiteacht
+diomaileacht		Nf3-SINGULAR;	! Headword: diomailteacht
+díorthaíoch		Nm1-1;	! Headword: díorthach
+diospóid		Nf2-7;	! Headword: díospóid
+diospóir		Nm3-1;	! Headword: díospóir
+diospóireacht		Nf3-1;	! Headword: díospóireacht
+díthriúch		Nm1-1;	! Headword: díthreabhach
+dleathacht		Nf3-SINGULAR;	! Headword: dleathaíocht
+dlúitheas		Nm1-1;	! Headword: dlús
+dobhramán		Nm1-1;	! Headword: dobhrán
+docheansacht		Nf3-SINGULAR;	! Headword: docheansaitheacht
+dochuimsitheacht		Nf3-SINGULAR;	! Headword: dochuimseacht
+doghraing		Nf2-SINGULAR;	! Headword: doghrainn
+dóirteadh		Nm5-5-SINGULAR;	! Headword: doirteadh
+dóirteal		Nm1-1;	! Headword: doirteal
+dóiteánaíocht		Nf3-SINGULAR;	! Headword: dóiteánacht
+dolaireacht		Nf3-SINGULAR;	! Headword: dolaíocht
+dordsanacht		Nf3-SINGULAR;	! Headword: dordánacht
+dordsantacht		Nf3-SINGULAR;	! Headword: dordánacht; Subvariant: (Var: dordsan(t)acht)
+dornfhásc		Nm1-1;	! Headword: dornásc
+doruga		Nm4-4;	! Headword: dorú
+dorugha		Nm4-4;	! Headword: dorú; Subvariant: (Var: dorug(h)a)
+doscaidheacht		Nf3-SINGULAR;	! Headword: doscaíocht
+dríodaráil		Nf3-SINGULAR;	! Headword: dríodáil
+dromhlach		Nm1-1;	! Headword: dromhlaíoch
+druadhlus		Nm3-SINGULAR;	! Headword: drualus
+druncaireacht		Nf3-SINGULAR;	! Headword: druncaeireacht
+dúlsháith		Nf2-SINGULAR;	! Headword: dúlsáith
+Eabhraíoch		Nm1-1;	! Headword: Eabhrach
+eachmairc		Nf2-SINGULAR;	! Headword: eachmairt
+éadláthas		Nm1-SINGULAR;	! Headword: éadlás
+éadromántaíocht		Nf3-SINGULAR;	! Headword: éadromántacht
+éanlaíocht		Nf3-SINGULAR;	! Headword: éanlaitheacht
+éibhear		Nm1-1;	! Headword: eibhear
+éighdeán		Nm1-SINGULAR;	! Headword: eighdeán
+eirisearc		Nm4-12;	! Headword: eirisiarc
+fábhar		Nm1-1;	! Headword: fabhar
+fachairne		Nm4-2;	! Headword: fachmaire
+fadfhulag		Nf5-7;	! Headword: fadfhulaingt
+fadfhulang		Nf5-7;	! Headword: fadfhulaingt; Subvariant: (Var: fadfhula(n)g)
+fadhbaí		Nm4-4;	! Headword: fadhbálaí
+fáidheoir		Nm3-1;	! Headword: fáidheadóir
+faiseán		Nm1-1;	! Headword: faisean
+fáisteanach		Nm1-1;	! Headword: fáistineach
+fáistiníocht		Nf3-SINGULAR;	! Headword: fáistineacht
+fánaireacht		Nf3-SINGULAR;	! Headword: fánaíocht
+farca		Nm4-1;	! Headword: farcha
+farraid		Ns;	! Headword: farradh
+fásach		Nm1-1;	! Headword: fasach
+fáscíle		Nf4-2;	! Headword: fáschíle
+fáscílle		Nf4-2;	! Headword: fáschíle; Subvariant: (Var: fáscíl(l)e)
+feán		Nm1-1;	! Headword: féan
+fearántas		Nm1-SINGULAR;	! Headword: fearantas
+feolbhach		Nm1-SINGULAR;	! Headword: feolmhach
+!fiafraighe		Nm5-3;	! Headword: fiafraí
+fiafraighe		Nm4-4;	! Headword: fiafraí ***
+fiagaistí		Nm4-4;	! Headword: fiagaí
+fíge		Nf4-2;	! Headword: fige
+finicín		Nm4-1;	! Headword: fínicín
+fínnéacht		Nf3-SINGULAR;	! Headword: finnéacht
+fiosróir		Nm3-1;	! Headword: fiosraitheoir
+fiughair		Nf2-SINGULAR;	! Headword: fiúir
+flip		Nf2-6;	! Headword: flíp
+flipeáil		Nf3-6a;	! Headword: flípeáil
+flipear		Nm1-1;	! Headword: flípear
+foighdhe		Nf4-SINGULAR;	! Headword: foighe
+foighdheach		Nm1-1;	! Headword: foigheach
+foirgeantóir		Nm3-1;	! Headword: foirgneoir
+foirgeantóireacht		Nf3-SINGULAR;	! Headword: foirgneoireacht
+foirgnitheacht		Nf3-SINGULAR;	! Headword: foirgníocht
+foirteacal		Nm1-SINGULAR;	! Headword: foirteagal
+folcán		Nm1-1;	! Headword: folcadán
+foluamhain		Nf3-SINGULAR;	! Headword: foluain
+fomhas		Nm1-SINGULAR;	! Headword: fómhas
+fuascaltacht		Nf3-SINGULAR;	! Headword: fuascailteacht
+gabhgaide		Nm4-2;	! Headword: gabhgaire
+Gaedhilgeoir		Nm3-1;	! Headword: Gaeilgeoir
+gaibhéal		Nm1-1;	! Headword: gáibéal
+gailéirí		Nm4-4;	! Headword: gailearaí
+gairdeachas		Nm1-1;	! Headword: gairdeas
+galabán		Nm1-1;	! Headword: galaban
+gangaidíocht		Nf3-SINGULAR;	! Headword: gangaideacht
+garbhántaíocht		Nf3-SINGULAR;	! Headword: garbhántacht
+gealltas		Nm1-1;	! Headword: gealltanas
+geámaíl		Nf3-SINGULAR;	! Headword: geamaíl
+géimreach		Nf2-4;	! Headword: géimneach
+geosandán		Nm1-1;	! Headword: geosadán
+geospaltacht		Nf3-SINGULAR;	! Headword: geospalacht
+gintleacht		Nf3-SINGULAR;	! Headword: gintlíocht
+giotamáil		Nf3-SINGULAR;	! Headword: gíotáil
+girrseach		Nf2-4;	! Headword: girseach
+giúistíocht		Nf3-SINGULAR;	! Headword: giúistíseacht
+giúsda		Nm4-1;	! Headword: giústa
+glacaíocht		Nf3-SINGULAR;	! Headword: glacaireacht
+glaigínteacht		Nf3-SINGULAR;	! Headword: glaigíneacht
+gláimíneacht		Nf3-SINGULAR;	! Headword: gláimínteacht
+glantas		Nm1-SINGULAR;	! Headword: glantachas
+gliadhaire		Nm4-2;	! Headword: gliaire
+gligínteacht		Nf3-SINGULAR;	! Headword: gligíneacht
+gliobach		Nm1-1;	! Headword: gliobachán
+gliodaireacht		Nf3-SINGULAR;	! Headword: gliodaíocht
+glórdhacht		Nf3-SINGULAR;	! Headword: glórmhaireacht
+gobhairnéir		Nm3-1;	! Headword: gobharnóir
+gocarnach		Nf2-4;	! Headword: gocarsach
+gogarlach		Nf2a-SINGULAR;	! Headword: gogalach
+góirín		Nm4-1;	! Headword: goirín
+goistibhe		Nm4-2;	! Headword: goiste
+gráistiúlacht		Nf3-SINGULAR;	! Headword: gráisciúlacht
+gramaraisc		Nf2-SINGULAR;	! Headword: gramaisc
+gréibhíní		Nspl;	! Headword: gréibhlí
+griobalach		Nm1-1;	! Headword: griobaltach
+griollsa		Nm4-1;	! Headword: griolsa
+grunda		Nm4-1;	! Headword: grúnta
+guailníocht		Nf3-SINGULAR;	! Headword: guaillíocht
+husaeireacht		Nf3-SINGULAR;	! Headword: husáireacht
+iarmhóireacht		Nf3-SINGULAR;	! Headword: iarmhóracht
+iarthrach		Nm1-1;	! Headword: iartharach
+inghreamthach		Nm1-1;	! Headword: inghreimtheach
+insin		Nf2-7;	! Headword: insint
+íomháíocht		Nf3-SINGULAR;	! Headword: íomháineacht
+iompairt		Nf2-SINGULAR;	! Headword: iompairc
+ioncholnú		Nm4-4;	! Headword: ionchollú
+íorthachánacht		Nf3-SINGULAR;	! Headword: íorthacht
+lábántacht		Nf3-SINGULAR;	! Headword: lábánacht
+láiriceach		Nm1-1;	! Headword: láirigeach
+láithreachán		Nm1-1;	! Headword: láithreán
+laomdhacht		Nf3-SINGULAR;	! Headword: laomthacht
+lapróg		Nf2-1;	! Headword: lapóg
+leamhchas		Nm1-1;	! Headword: leamhas
+leanbaois		Nf2-SINGULAR;	! Headword: leanbhaois
+leathdosaen		Nm4-5;	! Headword: leathdhosaen
+leathghiní		Nm4-1;	! Headword: leathghine ***
+leathtonna		Nm4-1;	! Headword: leath-thonna (added by hand)
+leibidiúlacht		Nf3-SINGULAR;	! Headword: leibideacht
+léimreach		Nf2-4;	! Headword: léimneach
+leisceadóir		Nm3-1;	! Headword: leisceoir
+lí		Nm4-6;	! Headword: lia
+linnteach		Nm1-SINGULAR;	! Headword: linntreach
+loghdhacht		Nf3-1;	! Headword: loghaíocht
+loimirceach		Nm1-1;	! Headword: loimíneach
+loingeasach		Nm1-1;	! Headword: loingseach
+luardhacht		Nf3-SINGULAR;	! Headword: luargacht
+lútaí		Nm4-4;	! Headword: lútálaí
+macaomhnacht		Nf3-SINGULAR;	! Headword: macaomhacht
+mádar		Nm1-SINGULAR;	! Headword: madar
+maicínteacht		Nf3-SINGULAR;	! Headword: maicíneacht
+maintiméireacht		Nf3-SINGULAR;	! Headword: maintíneacht
+mairnéalaíocht		Nf3-SINGULAR;	! Headword: mairnéalacht
+maiteanas		Nm1-1;	! Headword: maiteachas
+maithiúnachas		Nm1-1;	! Headword: maithiúnas
+malairteach		Nm1-1;	! Headword: malartach
+mallaíocht		Nf3-SINGULAR;	! Headword: mallaitheacht
+mánlaíocht		Nf3-SINGULAR;	! Headword: mánlacht
+maoraíocht		Nf3-SINGULAR;	! Headword: maoracht
+marmal		Nm1-1;	! Headword: marmar
+maslaitheoir		Nm3-1;	! Headword: maslóir
+mearnáil		Nf3-SINGULAR;	! Headword: méarnáil
+measaracht		Nf3-SINGULAR;	! Headword: measarthacht
+measardhacht		Nf3-SINGULAR;	! Headword: measarthacht; Subvariant: (Var: measar(dh)acht)
+méataracht		Nf3-SINGULAR;	! Headword: méataireacht
+meirbhiú		Nm5-3;	! Headword: meirbhliú
+míogadaíl		Nf3-SINGULAR;	! Headword: míogaíl
+míonsach		Nf2a-SINGULAR;	! Headword: mionsach
+míthuigsint		Nf3-2;	! Headword: míthuiscint
+móinfhéar		Nm1-1;	! Headword: móinéar
+monabrach		Nm1-1;	! Headword: monabhrach
+móra		Ns;	! Headword: mora
+muicfheoil		Nf3-SINGULAR;	! Headword: muiceoil
+muintearthas		Nm1-1;	! Headword: muintearas
+mulaid		Nf2-SINGULAR;	! Headword: muláid
+mulcán		Nm1-SINGULAR;	! Headword: mulchán
+mútrálaí		Nm4-4;	! Headword: mútálaí
+naíocht		Nf3-SINGULAR;	! Headword: naíonacht
+naíontacht		Nf3-SINGULAR;	! Headword: naíondacht
+naipicín		Nm4-1;	! Headword: naipcín
+niadhachas		Nm1-1;	! Headword: niachas
+!nóchadmhadh		Nm5-3;	! Headword: nóchadú ???
+nóchadmhadh+Noun+Masc+Com+Sg:0 #; !
+nóchadmhadh+Adj+Com+Sg:0 #; !
+ochán		Nm1-1;	! Headword: ochlán
+!ochtmhogha		Nm5-1;	! Headword: ochtó
+ochtmhogha+Noun+Masc+Com+Sg:0 #; !
+ochtmhogha+Adj+Com+Sg:0 #; !
+oificeach		Nm1-1;	! Headword: oifigeach
+oilíocht		Nf3-4;	! Headword: oiliúint
+oirmhidneach		Nm1-1;	! Headword: oirmhinneach
+oisfheoil		Nf3-SINGULAR;	! Headword: oiseoil
+óráideacht		Nf3-SINGULAR;	! Headword: óráidíocht
+ós		Nm1-1;	! Headword: os
+óspaidéal		Nm1-1;	! Headword: ospidéal
+otharluighe		Nm4-SINGULAR;	! Headword: otharluí
+pailís		Nf2-7;	! Headword: pailis
+páinseach		Nm1-1;	! Headword: páinteach
+paitfheoil		Nf3-SINGULAR;	! Headword: paiteoil
+papaireacht		Nf3-SINGULAR;	! Headword: pápaireacht
+pátrún		Nm1-1;	! Headword: patrún
+peataíocht		Nf3-SINGULAR;	! Headword: peataireacht
+piaránach		Nm1-1;	! Headword: piarálach
+piseogaíocht		Nf3-SINGULAR;	! Headword: piseogacht
+plod		Nm1-1;	! Headword: plód
+plucaidí		Nm4-SINGULAR;	! Headword: plucaí
+póitín		Nm4-1;	! Headword: poitín
+póitireáil		Nf3-SINGULAR;	! Headword: póitreáil
+porcadán		Nm1-1;	! Headword: porcán
+práidhinn		Nf2-8;	! Headword: práinn
+práisiléad		Nm1-1;	! Headword: práisléad
+préaláid		Nf2-7;	! Headword: prealáid
+purpar		Nf2-SINGULAR;	! Headword: purpair
+púrtánaí		Nm4-4;	! Headword: púrtaí
+pusnach		Nm1-1;	! Headword: puslach
+raig		Nf2-6;	! Headword: ráig
+ráiméis		Nf2-SINGULAR;	! Headword: raiméis
+raitréachta		Nm4-1;	! Headword: raitréata
+ramhú		Nm5-3;	! Headword: ramhrú
+rathúnachas		Nm1-1;	! Headword: rathúnas
+réabthóir		Nm3-1;	! Headword: réabóir
+reacadóireacht		Nf3-SINGULAR;	! Headword: reacaireacht
+reachtáil		Nf3-SINGULAR;	! Headword: reáchtáil
+reathaireacht		Nf3-SINGULAR;	! Headword: reathaíocht
+réimheas		Nm1-1;	! Headword: réimeas
+rógáid		Nf2-7;	! Headword: rogáid
+roghainteachas		Nm1-1;	! Headword: roghnachas
+roilléith		Nm4-2;	! Headword: roilléire ???
+roithleacán		Nm1-1;	! Headword: roithleagán
+ronntach		Nm1-1;	! Headword: ronnach
+ruaisíocht		Nf3-SINGULAR;	! Headword: ruaiseacht
+ruibhleach		Nf2-1a;	! Headword: ruibhseach
+ruifínteacht		Nf3-SINGULAR;	! Headword: ruifíneacht
+Rúiseánach		Nm1-1;	! Headword: Rúiseach
+rúndiamhaireacht		Nf3-SINGULAR;	! Headword: rúndiamhracht
+rúplach		Nf2-4;	! Headword: rúpach
+rúrachadh		Nm1-SINGULAR;	! Headword: rúradh
+saightheanach		Nm1-1;	! Headword: saightheach
+salacharáil		Nf3-SINGULAR;	! Headword: salacharaíl
+sámhbhréidín		Nm4-1;	! Headword: sámhbhréitsín
+saobhthacht		Nf3-SINGULAR;	! Headword: saofacht
+saoithínteacht		Nf3-SINGULAR;	! Headword: saoithíneacht
+saontaíocht		Nf3-SINGULAR;	! Headword: saontacht
+saothrún		Nm1-1;	! Headword: saotrún
+sáspán		Nm1-1;	! Headword: sáspan
+Satán		Nm1-SINGULAR;	! Headword: Sátan
+scabal		Nm1-1;	! Headword: scaball
+scafaireacht		Nf3-SINGULAR;	! Headword: scafántacht
+scagadóireacht		Nf3-SINGULAR;	! Headword: scagaireacht
+scallaireacht		Nf3-SINGULAR;	! Headword: scalladóireacht
+scamóg		Nf2-1;	! Headword: scamhóg
+scannradh		Nm1-1;	! Headword: scanradh
+scéach		Nf2-1;	! Headword: sceach
+sceamhlóg		Nf2-1;	! Headword: sceamhóg
+sceanfartáil		Nf3-SINGULAR;	! Headword: sceanartáil
+scéanshúil		Nf2-3;	! Headword: scéansúil
+sceillig		Nf2-2;	! Headword: sceilg
+sciathlach		Nf2-4;	! Headword: sciathrach
+sciobaile		Nm4-2;	! Headword: sciobairle
+sciobthaíocht		Nf3-SINGULAR;	! Headword: sciobthacht
+sciodrach		Nf2-4;	! Headword: sciodarnach
+sciotaraíl		Nf3-SINGULAR;	! Headword: sciotaráil
+sciúchaire		Nm4-2;	! Headword: sciúgaire
+sciúrsaigh		Nf3-SINGULAR;	! Headword: sciúrsáil
+scléipíocht		Nf3-SINGULAR;	! Headword: scléipireacht
+scolgnach		Nf2-4;	! Headword: scolgarnach
+scothachán		Nm1-1;	! Headword: scothán
+screabachán		Nm1-1;	! Headword: screabán
+!seachtmhogha		Nm5-1;	! Headword: seachtó
+seachtmhogha+Noun+Masc+Com+Sg:0 #; !
+seachtmhogha+Adj+Com+Sg:0 #; !
+seanfaíoch		Nf2-4;	! Headword: seanfach
+seanmóintíocht		Nf3-SINGULAR;	! Headword: seanmóireacht
+séapáil		Nf3-SINGULAR;	! Headword: seápáil
+séileoir		Nm3-1;	! Headword: séiléir
+seirseánach		Nm1-1;	! Headword: seirseanach
+siollabach		Nm1-1;	! Headword: siollach
+siollabhach		Nm1-1;	! Headword: siollach; Subvariant: (Var: siollab(h)ach)
+siollfartach		Nf2a-SINGULAR;	! Headword: siollfarnach
+síománacht		Nf3-SINGULAR;	! Headword: síománaíocht
+sioróip		Nf2-7;	! Headword: síoróip
+siosmáid		Nf2-SINGULAR;	! Headword: siosmaid
+síothlaitheoir		Nm3-1;	! Headword: síothlóir
+siúchra		Nm4-1;	! Headword: siúcra
+siúit		Nm4-2;	! Headword: siúite ???
+siúltóir		Nm3-1;	! Headword: siúlóir
+slaimín		Nm4-1;	! Headword: sláimín
+slámás		Nm1-SINGULAR;	! Headword: slamás
+slapróg		Nf2-1;	! Headword: slapóg
+sleacht		Nm3-2;	! Headword: sléacht
+sleaghdóir		Nm3-1;	! Headword: sleádóir
+sleaghdóireacht		Nf3-SINGULAR;	! Headword: sleádóireacht
+sleanntróg		Nf2-1;	! Headword: sleanntóg
+slibireálaí		Nm4-4;	! Headword: slibreálaí
+sligireach		Nf2-4;	! Headword: sligreach
+sligirneach		Nf2-4;	! Headword: sligreach; Subvariant: (Var: sligir(n)each)
+sliogart		Nm1-1;	! Headword: slíogart
+sliopadán		Nm1-1;	! Headword: sliopachán
+sliúcaidéir		Nm3-1;	! Headword: sliúcaiméir
+smaillic		Nf2-3;	! Headword: smailleac ***
+smeádráil		Nf3-6a;	! Headword: smeadráil
+smeádaráil		Nf3-6a;	! Headword: smeadráil; Subvariant: (Var: smeád(a)ráil)
+smucsáil		Nf3-SINGULAR;	! Headword: smúcháil
+snágaíocht		Nf3-SINGULAR;	! Headword: snagaíocht
+snasadóireacht		Nf3-SINGULAR;	! Headword: snasaireacht
+sneachtacht		Nf3-SINGULAR;	! Headword: sneachtúlacht
+snoidheadóir		Nm3-1;	! Headword: snoíodóir
+snúta		Nm4-1;	! Headword: snúda
+sochaidhe		Nf4-4;	! Headword: sochaí
+sodán		Nm1-1;	! Headword: sodamán
+soipíneacht		Nf3-SINGULAR;	! Headword: soipínteacht
+spadharthacht		Nf3-SINGULAR;	! Headword: spadhrúlacht
+spailpíneacht		Nf3-SINGULAR;	! Headword: spailpínteacht
+Spáinnéarach		Nm1-1;	! Headword: Spáinneach
+speabhraoid		Nf2-7;	! Headword: speabhraíd
+speathnach		Nf2a-SINGULAR;	! Headword: speathánach
+spiadóireacht		Nf3-SINGULAR;	! Headword: spiaireacht
+spíol		Nf2-10;	! Headword: spíon
+splé		Nf4-SINGULAR;	! Headword: spleá
+splíota		Nm4-1;	! Headword: spliota
+spólla		Nm4-1;	! Headword: spóla
+spriata		Nm4-1;	! Headword: spreota
+spreoitseáil		Nf3-SINGULAR;	! Headword: spreotáil
+sprionlóireacht		Nf3-SINGULAR;	! Headword: sprionlaitheacht
+sprionlaitheoir		Nm3-1;	! Headword: sprionlóir
+sprúdar		Nm1-1;	! Headword: spruadar
+srathaíocht		Nf3-SINGULAR;	! Headword: srathaireacht
+sreamlóg		Nf2-1;	! Headword: sréamlóg
+stáblán		Nm1-1;	! Headword: stáblachán
+staicealach		Nm1-1;	! Headword: staicearlach
+stáicín		Nm4-1;	! Headword: staicín
+staidéarthacht		Nf3-SINGULAR;	! Headword: staidéaracht
+steallaireacht		Nf3-SINGULAR;	! Headword: stealladóireacht
+stóinseáilteacht		Nf3-SINGULAR;	! Headword: stóinsitheacht
+stuacaíocht		Nf3-SINGULAR;	! Headword: stuacacht
+stuamdhacht		Nf3-SINGULAR;	! Headword: stuamacht
+súgraíocht		Nf3-SINGULAR;	! Headword: súgracht
+sundas		Nm1-1;	! Headword: suntas
+suthaíocht		Nf3-SINGULAR;	! Headword: suthaireacht
+sútrall		Nm1-1;	! Headword: sutrall
+tabhartanas		Nm1-1;	! Headword: tabhartas
+tacharán		Nm1-1;	! Headword: tachrán
+táimhirlín		Nm4-1;	! Headword: táimhín
+taimhín		Nm4-SINGULAR;	! Headword: taimín
+tairdiol		Nm1-1;	! Headword: tairdeal
+tairtfheoil		Nf3-SINGULAR;	! Headword: tairteoil
+taithneamh		Nm1-1;	! Headword: taitneamh
+tancart		Nm1-1;	! Headword: tancard
+tarra		Nm4-1;	! Headword: tarr
+tarr		Nm1-1;	! Headword: tarra
+teaghdhais		Nf2-7;	! Headword: teaghais
+teannaitheacht		Nf3-SINGULAR;	! Headword: teannaireacht
+teastbháil		Nf3-6a;	! Headword: teastáil
+timpeallóireacht		Nf3-SINGULAR;	! Headword: timpeallaíocht
+tinnreamh		Nm1-1;	! Headword: tinreamh
+tionóntaíocht		Nf3-SINGULAR;	! Headword: tionóntacht
+tíosúlacht		Nf3-SINGULAR;	! Headword: tíosaíocht
+tochartadh		Nm5-7;	! Headword: tochardadh
+toghaileacht		Nf3-SINGULAR;	! Headword: toghailíocht
+toircfheoil		Nf3-SINGULAR;	! Headword: toirceoil
+tormach		Nm1-1;	! Headword: tórmach
+torpachán		Nm1-1;	! Headword: torpán
+tra		Nf4-8;	! Headword: trá
+traislín		Nm4-1;	! Headword: traisnín
+trangáil		Nf3-SINGULAR;	! Headword: trangláil
+trataí		Nm4-4;	! Headword: tratanálaí
+treaspag		Nm1-1;	! Headword: treaspac
+triáil		Nf5-1;	! Headword: triail
+triáil		Nf5-1;	! Headword: triail
+triailfheadán		Nm1-1;	! Headword: triaileadán
+trufais		Nf2-SINGULAR;	! Headword: truflais
+tuairgneálaí		Nm4-4;	! Headword: tuairgní
+tuarascbháil		Nf3-6a;	! Headword: tuarascáil
+tubaistíocht		Nf3-SINGULAR;	! Headword: tubaisteoireacht
+tuinidhe		Nf4-4;	! Headword: tuiní
+turgabháil		Nf3-SINGULAR;	! Headword: turgbháil
+turraiceáil		Nf3-SINGULAR;	! Headword: turraingeáil
+údragáil		Nf3-SINGULAR;	! Headword: údramáil
+ullmhaíocht		Nf3-SINGULAR;	! Headword: ullmhacht
+urramasach		Nm1-1;	! Headword: urramach
+úthanach		Nm1-1;	! Headword: úthach
+váschóta		Nm4-1;	! Headword: vástchóta
+
+! *** Assigned by hand.
+! Note:
+! These variants vary from the headwords either in gender
+! and/or belong to a different CC.
+! (In some cases, the CC remains the same, though, as in
+! 'aireachas/aireachán' that both belong to Nm1-1.)
+! Often the CC is obvious as in 'gáinnéir/gáinneálaí' where
+! the variant 'gáinnéir' obviously belongs to Nm3-1.
+! In some cases, however, only a 'best guess' can be given
+! and CCs might need revision. Furthermore, when the CC
+! could not even be guessed the entry is transformed to, e.g.
+! altan+Noun+Fem+Com+Sg:0	#;
+! CW 25/08/08
+! (994 variants)
+abhcóid		Nf2-7;	! Headword: abhcóir (m) ***
+abhógadh		Nm1-1;	! Headword: abhógacht (f) ***
+abhrasóir		Nm3-1;	! Headword: abhraiseach (f) ***
+abstaine		Nf4-SINGULAR;	! Headword: abstanaid (f) ***
+adharcóg		Nf2-1;	! Headword: adharcán (m) ***
+adhlacan		Nm1-1;	! Headword: adhlacadh (m)  *** ???
+adhlacanach		Nm1-1;	! Headword: adhlacóir (m) ***
+adhnó		Nm4-1;	! Headword: adhnua (m)
+aermáil		Nf3-SINGULAR;	! Headword: aermaíocht (f) ***
+aibhle		Nf4-2;	! Headword: aibhleog (f) ***
+aidhlinn		Nf2-7;	! Headword: aidhleann (f) ***
+aigéal		Nm1-1;	! Headword: aigéan (m)
+ailiam		Nm1-1;	! Headword: ailím (f) ??? ***
+!aimsear		Nf2-7;	! Headword: aimsir (f)
+aimsear+Noun+Fem+Com+Sg:aimsir #;	! Headword: aimsir (f)
+aimsear+Noun+Fem+Com+Sg+DefArt:aimsir #;
+ainrianach		Nm1-1;	! Headword: ainrianaí (m) ***
+ainriochtaí		Nm4-4;	! Headword: ainriochtán (m) ***
+aireachán		Nm1-1;	! Headword: aireachas (m)
+aireachtaint		Nf3-SINGULAR;	! Headword: aireachtáil (f)
+airleagadh		Nm1-1;	! Headword: airleacan (m)
+airneál		Nm1-1;	! Headword: airneán (m)
+aisteacht		Nf3-SINGULAR;	! Headword: aisteachas (m) ***
+aithnidh		Nf2-SINGULAR;	! Headword: aithnid (f)
+almóid		Nf2-7;	! Headword: almóinn (f)
+alpachán		Nm1-1;	! Headword: alpaire (m) ***
+alpaíl		Nf3-SINGULAR;	! Headword: alpaireacht (f)
+!altan		Nf?-??;	! Headword: altán (m)
+altan+Noun+Fem+Com+Sg:0	#;	! Headword: altán (m)
+altan+Noun+Fem+Com+Sg+DefArt:0	#;
+altramacht		Nf3-SINGULAR;	! Headword: altramas (m) ***
+amhastraíl		Nf3-SINGULAR;	! Headword: amhastrach (f)
+amhsóg		Nf2-1;	! Headword: amhsán (m)
+amóin		Nf2-SINGULAR;	! Headword: amóinia (f)
+ampar		Nm1-1;	! Headword: amparán (m)
+anagar		Nm1-SINGULAR;	! Headword: anagal (m)
+anchúinsí		Nm4-4;	! Headword: anchúinse (m) ***
+anfhortas		Nm1-1;	! Headword: anfhortacht (f)
+annamhaíocht		Nf3-SINGULAR;	! Headword: annamhacht (f)
+!anróití		Nf3-SINGULAR;	! Headword: anróiteacht (f)
+anróití+Noun+Fem+Com+Sg:0	#;	! Headword: anróiteacht (f)
+ansa		Nf4-SINGULAR;	! Headword: ansacht (f) ***
+aonarachas		Nm1-1;	! Headword: aonaracht (f) ***
+aontachas		Nm1-1;	! Headword: aontacht (f) ***
+aothó		Nm5-3;	! Headword: aothú (m) *** (aothú should be Nm5-3 ???)
+aragaint		Nf2-7;	! Headword: aragail (f)
+arrachtacht		Nf3-SINGULAR;	! Headword: arrachtas (m) ***
+asclann		Nm1-1;	! Headword: asclán (m)
+atarrac		Nm1-1;	! Headword: atarraingt (f) *** (cf. tarrac (An Foclóir Beag))
+!athbheos		Nm?-??;	! Headword: athbheocht (f)
+athbheos+Noun+Masc+Com+Sg:0	#;	! Headword: athbheocht (f)
+athbheos+Noun+Masc+Com+Sg+DefArt:0	#;
+athchoillteoireacht		Nf3-SINGULAR;	! Headword: athchoilltiú (m) ***
+babhal		Nm1-1;	! Headword: babhla (m) ***
+bacain		Nf2-7;	! Headword: bacainn (f)
+bacaint		Nf2-7;	! Headword: bacainn (f); Subvariant: (Var: bacain(t) f)
+!bacla		Nf2-8;	! Headword: baclainn (f)
+bacla+Noun+Fem+Com+Sg:0	#;	! Headword: baclainn (f)
+bacla+Noun+Fem+Com+Sg+DefArt:0	#;
+bad		Nm1-1;	! Headword: badán (m)
+badhbóir		Nm3-1;	! Headword: badhbaire (m) ***
+!báig		Nm4-2;	! Headword: baige (m)
+báig+Noun+Masc+Com+Sg:0	#;	! Headword: baige (m)
+báig+Noun+Masc+Com+Sg+DefArt:0	#;
+báillí		Nm4-4;	! Headword: báille (m) ***
+baitheas		Nm1-1;	! Headword: baithis (f)
+ballasc		Nm1-1;	! Headword: ballasta (m) ***
+banaltras		Nm1-1;	! Headword: banaltracht (f)
+!bandál		Nf3-6a;	! Headword: bandáil (f)
+bandál+Noun+Fem+Com+Sg:bandáil #;	! Headword: bandáil (f)
+bandál+Noun+Fem+Com+Sg+DefArt:bandáil #;
+!bansíogaí		Nf2-1;	! Headword: bansióg (f)
+bansíogaí+Noun+Fem+Com+Sg:0	#;	! Headword: bansióg (f)
+bansíogaí+Noun+Fem+Com+Sg+DefArt:0	#;
+baoiteachán		Nm1-1;	! Headword: baoiteálaí (m) ***
+baothaire		Nm4-2;	! Headword: baothán (m) ***
+bardáil		Nf3-SINGULAR;	! Headword: bardaíocht (f)
+basaíl		Nf3-SINGULAR;	! Headword: basaíocht (f)
+bascaire		Nm4-2;	! Headword: bascarnach (f) ***
+bastart		Nm1-1;	! Headword: bastard (m)
+!bastairt		Nm1-1;	! Headword: bastard (m); Subvariant: (Var: basta(i)rt m)
+bastairt+Noun+Masc+Com+Sg:0	#;	! Headword: bastard (m); Subvariant: (Var: basta(i)rt m)
+bastairt+Noun+Masc+Com+Sg+DefArt:0	#;
+beachtaire		Nm4-2;	! Headword: beachtaí (m) ***
+beagaidín		Nm4-1;	! Headword: beagadán (m) ***
+beagmhaith		Nf2-3;	! Headword: beagmhaitheas (m) ***
+béalchnáimhseán		Nm1-1;	! Headword: béalchnáimhseáil (f) ***
+béisteachas		Nm1-1;	! Headword: béistiúlacht (f) ***
+bindeal		Nm1-1;	! Headword: bindealán (m)
+binneacht		Nf3-1;	! Headword: binneas (m) ***
+bíocum		Nm1-1;	! Headword: bíocunta (m) ***
+bíogarnaíl		Nf3-SINGULAR;	! Headword: bíogarnach (f)
+biolra		Nm4-1;	! Headword: biolar (m) ***
+bitse		Nf4-5;	! Headword: bitseach (f) ***
+bitsíocht		Nf3-SINGULAR;	! Headword: bitseachas (m) ***
+bladarálaí		Nm4-4;	! Headword: bladaire (m) ***
+blaiseacht		Nf3-SINGULAR;	! Headword: blaiseadh (m) ***
+blaiseachtáil		Nf3-SINGULAR;	! Headword: blaiseadh (m); Subvariant: (Var: blaiseacht(áil) f) ***
+bleadrálaí		Nm4-4;	! Headword: bleadrachán (m) ***
+bocán		Nm1-1;	! Headword: bocánach (m)
+bóchain		Nf2-8;	! Headword: bóchna (f) ***
+bogadaíl		Nf3-SINGULAR;	! Headword: bogadach (f) ***
+bogadúram		Nm1-SINGULAR;	! Headword: bogadúradh (m)
+bogarlach		Nm1-1;	! Headword: bogán (m)
+bogaireacht		Nf3-SINGULAR;	! Headword: bogarnach (f) ***
+bogúir		Nf2-SINGULAR;	! Headword: bogúire (f)
+boinéid		Nf2-7;	! Headword: boinéad (m) ***
+bólach		Nm1-1;	! Headword: bólacht (f)
+bolastram		Nm1-1;	! Headword: bolastar (m)
+bolgaire		Nm4-2;	! Headword: bolgadán (m) ***
+bolgairne		Nm4-2;	! Headword: bolgadán (m); Subvariant: (Var: bolgair(n)e m) ***
+bómántas		Nm1-1;	! Headword: bómántacht (f) ***
+bonnaíl		Nf3-SINGULAR;	! Headword: bonnaireacht (f)
+bosaireacht		Nf3-SINGULAR;	! Headword: bosaíl (f)
+bothántaíl		Nf3-SINGULAR;	! Headword: bothántaíocht (f)
+brácadh		Nm1-1;	! Headword: brácáil (f) ***
+bradaíocht		Nf3-SINGULAR;	! Headword: bradaíl (f)
+bráideog		Nf2-2;	! Headword: bráidín (m) ***
+braighdeán		Nm1-1;	! Headword: braighdeanach (m)
+braisil		Nf4-2;	! Headword: braisle (f)
+bráisleog		Nf2-1;	! Headword: bráisléad (m) ***
+brandubh		Nm1-SINGULAR;	! Headword: brannamh (m)
+braonaíocht		Nf3-SINGULAR;	! Headword: braonaíl (f)
+brathaire		Nm4-2;	! Headword: brathadóir (m) ***
+brathlaing		Nf2-7;	! Headword: brathlang (f) ***
+breabálaí		Nm4-4;	! Headword: breabaire (m) ***
+breacadóir		Nm3-1;	! Headword: breacaire (m) ***
+bréagchráifeacht		Nf3-SINGULAR;	! Headword: bréagchrábhadh (m)
+breallacán		Nm1-1;	! Headword: breallach (m)
+breallálaí		Nm4-4;	! Headword: breallaire (m)
+bríc		Nf2-7;	! Headword: bríce (m) ***
+bricfeast		Nm3-3;	! Headword: bricfeasta (m) ***
+briogaill		Nf2-7;	! Headword: briogaid (f)
+brioscbhruan		Nm1-SINGULAR;	! Headword: brioscbhruar (m)
+briotachán		Nm1-1;	! Headword: briotaire (m) ***
+briotaíl		Nf3-SINGULAR;	! Headword: briotaireacht (f)
+briotas		Nm1-1;	! Headword: briotais (f) ***
+broghain		Nf2-7;	! Headword: broghadh (m) ***
+broidire		Nm4-2;	! Headword: broidéir (m) ***
+broimsilín		Nm4-1;	! Headword: broimseánaí (m) ***
+bromán		Nm1-1;	! Headword: bromaire (m) ***
+bruasachán		Nm1-1;	! Headword: bruasaire (m) ***
+brúchtaíl		Nf3-SINGULAR;	! Headword: brúchtadh (m)
+bruitheálach		Nm1-1;	! Headword: bruithleachán (m)
+brúscar		Nm1-1;	! Headword: bruscar (m)
+builtéar		Nm3-1;	! Headword: builtéir (m)
+buíochaint		Nf2-SINGULAR;	! Headword: buíochan (f) ***
+buíochar		Nm1-1;	! Headword: buíochán (m)
+buirgéis		Nf2-7;	! Headword: buirg (f)
+buirghéis		Nf2-7;	! Headword: buirg (f); Subvariant: (Var: buirg(h)éis f)
+bumba		Nm4-2;	! Headword: bumaile (m)
+bumbaí		Nm4-4;	! Headword: bumbóg (f) ***
+bundlach		Nf2-4;	! Headword: bundlaoi (f) ***
+burlaimín		Nm4-1;	! Headword: burlamán (m) ***
+cadogha		Nm4-6;	! Headword: cadó (m)
+cadragáil		Nf3-SINGULAR;	! Headword: cadráil (f)
+cadrann		Nm1-SINGULAR;	! Headword: cadrán (m)
+cágaireacht		Nf3-SINGULAR;	! Headword: cágaíl (f)
+caidreadh		Nm1-1;	! Headword: caidreamh (m)
+caidreamhas		Nm1-1;	! Headword: caidreamhacht (f) ***
+caifeacht		Nf3-SINGULAR;	! Headword: caifeachas (m) ***
+cáipéas		Nm1-1;	! Headword: cáipéis (f)
+caire		Nf4-SINGULAR;	! Headword: caireacht (f) ***
+cáithneán		Nm1-1;	! Headword: cáithnín (m) ***
+camchóch		Nm1-1;	! Headword: camchuaifeach (m)
+camstáca		Nm4-1;	! Headword: camstarrán (m) ***
+candal		Nm1-1;	! Headword: candam (m)
+cantalán		Nm1-1;	! Headword: cantalóir (m) ***
+cantalachán		Nm1-1;	! Headword: cantalóir (m); Subvariant: (Var: cantal(ach)án m) ***
+cantladh		Nm1-SINGULAR;	! Headword: cantlamh (m)
+caogaidín		Nm4-1;	! Headword: caogaide (m) ***
+caoifeachas		Nm1-1;	! Headword: caoifeacht (f) ***
+!caomhna		Nm4-4;	! Headword: caomhnaí (m)
+caomhna+Noun+Masc+Com+Sg:0	#;	! Headword: caomhnaí (m)
+caomhna+Noun+Masc+Com+Sg+DefArt:0	#;
+caomhúint		Nf3-4;	! Headword: caomhnú (m) ***
+carraoin		Nf2-SINGULAR;	! Headword: carrán (m) ***
+cartláid		Nf2-SINGULAR;	! Headword: cartlainn (f)
+ceacharán		Nm1-2;	! Headword: ceachaire (m) ***
+cealgaí		Nm4-4;	! Headword: cealgaire (m) ***
+ceannadhart		Nm1-1;	! Headword: ceannadhairt (f) ***
+!cearchall		Nf2-7;	! Headword: cearchaill (f)
+cearchall+Noun+Fem+Com+Sg:0	#;	! Headword: cearchaill (f)
+cearchall+Noun+Fem+Com+Sg+DefArt:0	#;
+ceardchumannach		Nm1-1;	! Headword: ceardchumannaí (m) ***
+céilitheoir		Nm3-1;	! Headword: céilíoch (m) ***
+ceimicí		Nm4-4;	! Headword: ceimiceoir (m) ***
+ceisniú		Nm5-3;	! Headword: ceisneamh (m) ***
+ciabhagán		Nm1-1;	! Headword: ciabhóg (f) ***
+!ciall		Nf?-??;	! Headword: ciallach (m)
+ciall+Noun+Fem+Com+Sg:0	#;	! Headword: ciallach (m)
+ciall+Noun+Fem+Com+Sg+DefArt:0	#;
+ciarabúca		Nm4-SINGULAR;	! Headword: ciaramáboc (m)
+ciarsúir		Nm3-1;	! Headword: ciarsúr (m) ***
+cíléir		Nm3-1;	! Headword: cíléar (m) ***
+cinciseán		Nm1-1;	! Headword: cincíseach (m)
+cíocraíocht		Nf3-SINGULAR;	! Headword: cíocras (m) ***
+cíonaí		Nm4-SINGULAR;	! Headword: cíoná (m)
+cionmhaire		Nf4-SINGULAR;	! Headword: cionmhaireacht (f) ***
+ciorcaid		Nf2-SINGULAR;	! Headword: ciorcad (m) ***
+cipeadáil		Nf3-SINGULAR;	! Headword: cipiléireacht (f)
+clabhan		Nm1-1;	! Headword: clabhar (m)
+clabhcán		Nm1-1;	! Headword: clabhca (m) ***
+clabht		Nm4-7;	! Headword: clabhta (m) ***
+cladram		Nm1-1;	! Headword: cladrach (m)
+clagar		Nm1-1;	! Headword: clagairt (f) ***
+claidhreachas		Nm1-1;	! Headword: claidhreacht (f) ***
+claimh		Nf2-SINGULAR;	! Headword: claimhe (f) ***
+claimhsín		Nf4-1;	! Headword: claimhseog (f) ***
+clamhradh		Nm1-1;	! Headword: clamhairt (f) ***
+claonacht		Nf3-SINGULAR;	! Headword: claonachas (m)
+claonaire		Nm4-2;	! Headword: claonaí (m)
+clármhagh		Nf2-2;	! Headword: clármhachaire (m) ***
+cleamadóir		Nm3-1;	! Headword: cleamaire (m) ***
+cléireacht		Nf3-SINGULAR;	! Headword: cléireachas (m) ***
+clíbhéir		Nm3-1;	! Headword: clíbhéar (m) ***
+clibis		Nf2-7;	! Headword: clibirt (f)
+cluanaí		Nm4-4;	! Headword: cluanaire (m) ***
+cluasáil		Nf3-SINGULAR;	! Headword: cluasaíocht (f)
+cluasánaí		Nm4-4;	! Headword: cluasánach (m)
+clúdadh		Nm1-1;	! Headword: clúdach (m)
+cnáfartach		Nf2a-SINGULAR;	! Headword: cnáfairt (f) ***
+cnáibh		Nf2-SINGULAR;	! Headword: cnáib (f)
+cnáimhseán		Nm1-1;	! Headword: cnáimhseáil (f) ***
+cneadaíl		Nf3-SINGULAR;	! Headword: cneadach (f) ***
+cnocaire		Nm4-2;	! Headword: cnocadóir (m) ***
+cocailín		Nm4-1;	! Headword: cocaire (m) ***
+codarsna		Nf4-1;	! Headword: codarsnacht (f) ***
+cogarnaíl		Nf3-SINGULAR;	! Headword: cogarnach (f) ***
+coigríoch		Nm1-1;	! Headword: coigríochach (m)
+coilice		Nf4-2;	! Headword: coiliceam (m) ***
+coimeádóir		Nm3-1;	! Headword: coimeádaí (m) ***
+coimhling		Nf2-7;	! Headword: coimhlint (f)
+coimíneas		Nm1-1;	! Headword: coimíneacht (f) ***
+coimpléas		Nm1-1;	! Headword: coimpléasc (m)
+coinleog		Nf2-1;	! Headword: coinlín (m) ***
+coirpeoir		Nm3-1;	! Headword: coirpeach (m) ***
+!colbh		Nm4-1;	! Headword: colbha (m)
+colbh+Noun+Masc+Com+Sg:0	#;	! Headword: colbha (m)
+colbh+Noun+Masc+Com+Sg+DefArt:0	#;
+comaoineach		Nm1-1;	! Headword: comaoineoir (m) ***
+comharbacht		Nf3-SINGULAR;	! Headword: comharbas (m) ***
+comhardamh		Nm1-1;	! Headword: comhardú (m) ***
+comhbhia		Nm4-6;	! Headword: comhbhiathú (m) ***
+comhbhiathadh		Nm1-1;	! Headword: comhbhiathú (m); Subvariant: (Var: comhbhia(thadh) m) ***
+comhfhoigse		Nf4-SINGULAR;	! Headword: comhfhoisce (f)
+comhfhoigseacht		Nf3-SINGULAR;	! Headword: comhfhoisce (f); Subvariant: (Var: comhfhoigse(acht) f) ***
+comhleagadh		Nm1-SINGULAR;	! Headword: comhleagan (m)
+comhraicí		Nm4-4;	! Headword: comhraiceoir (m) ***
+comórú		Nm5-3;	! Headword: comóradh (m) ***
+compall		Nm1-1;	! Headword: compal (m)
+compán		Nm1-1;	! Headword: compánach (m)
+comráda		Nm4-1;	! Headword: comrádaí (m) ***
+cónaitheach		Nm1-1;	! Headword: cónaitheoir (m) ***
+connalbhas		Nm1-1;	! Headword: connailbhe (f) ***
+corparás		Nm1-1;	! Headword: corparáil (f) ***
+crabhait		Nf2-7;	! Headword: crabhaitéal (m)
+crágaire		Nm4-2;	! Headword: crágálaí (m)
+crannaíolach		Nf2a-SINGULAR;	! Headword: crannaíl (f)
+craobhracán		Nm1-1;	! Headword: craobhraic (f) ***
+creathadaíl		Nf3-SINGULAR;	! Headword: creathadach (f) ***
+creidiúnas		Nm1-1;	! Headword: creidiúnacht (f) ***
+creidiúnachas		Nm1-1;	! Headword: creidiúnacht (f); Subvariant: (Var: creidiún(ach)as m) ***
+críochaire		Nm4-2;	! Headword: críochadóir (m) ***
+críontach		Nm1-1;	! Headword: críontachán (m)
+crobhang		Nf2-2;	! Headword: crobhaing (f) ***
+crochaire		Nm4-2;	! Headword: crochadóir (m) ***
+croinicí		Nm4-4;	! Headword: croiniceoir (m) ***
+crónachán		Nm1-1;	! Headword: crónachan (f) ***
+crónstaic		Nf2-7;	! Headword: crónstaig (f)
+crostálaí		Nm4-4;	! Headword: crostóir (m) ***
+cruachaint		Nf3-SINGULAR;	! Headword: cruachan (f)
+cruideán		Nm1-1;	! Headword: cruidín (m) ***
+crúscán		Nm1-1;	! Headword: crúsca (m) ***
+!cuchtar		Nf5-2;	! Headword: cuchtair (f)
+cuchtar+Noun+Fem+Com+Sg:0	#;	! Headword: cuchtair (f)
+cuchtar+Noun+Fem+Com+Sg+DefArt:0	#;
+cuchtaire		Nm4-2;	! Headword: cuchtróir (m) ***
+cuilith		Nf2-SINGULAR;	! Headword: cuilithe (f) ***
+cúirialtas		Nm1-1;	! Headword: cúirialtacht (f) ***
+cuisneán		Nm1-1;	! Headword: cuisneoir (m) ***
+cúláis		Nf2-7;	! Headword: cúláisean (m) ***
+cumannach		Nm1-1;	! Headword: cumannaí (m) ***
+!cumhachtaidh		Nm1-1;	! Headword: cumhachtach (m)
+cumhachtaidh+Noun+Masc+Com+Sg:0	#;	! Headword: cumhachtach (m)
+cumhachtaidh+Noun+Masc+Com+Sg+DefArt:0	#;
+cumhsanadh		Nm1-1;	! Headword: cumhsanú (m) ***
+cuntasaí		Nm4-4;	! Headword: cuntasóir (m) ***
+cúplálaí		Nm4-4;	! Headword: cúplaire (m) ***
+daibhre		Nf4-SINGULAR;	! Headword: daibhreas (m) ***
+dairghin		Nf2a-SINGULAR;	! Headword: dairín (m)
+dalbh		Nm1-SINGULAR;	! Headword: dalbhadh (m) ???
+dallacántaíocht		Nf3-SINGULAR;	! Headword: dallacántacht (f)
+dallachántaíocht		Nf3-SINGULAR;	! Headword: dallacántacht (f); Subvariant: (Var: dallac(h)ántaíocht f)
+daltacht		Nf3-SINGULAR;	! Headword: daltachas (m) ***
+damantán		Nm1-1;	! Headword: damantóir (m) ***
+dámhadh		Nm1-1;	! Headword: dámhachtain (f) ***
+damhsaire		Nm4-2;	! Headword: damhsóir (m) ***
+dát		Nm3-1;	! Headword: dáta (m) ***
+dathaire		Nm4-2;	! Headword: dathadóir (m) ***
+deabha		Nf4-SINGULAR;	! Headword: deabhadh (m) ***
+déantas		Nm1-1;	! Headword: déantús (m)
+dearcaint		Nf2-7;	! Headword: dearcadh (m)
+deilbhís		Nf2-SINGULAR;	! Headword: deilbhíocht (f) ***
+déirceoir		Nm3-1;	! Headword: déirceach (m) ***
+deismire		Nf4-1;	! Headword: deismireacht (f) ***
+déistean		Nf2-SINGULAR;	! Headword: déistin (f)
+deoradh		Nm1-1;	! Headword: deoraí (m) ***
+!deoraidh		Nm4-4;	! Headword: deoraí (m); Subvariant: (Var: deora(i)dh m)
+deoraidh+Noun+Masc+Com+Sg:0	#;	! Headword: deoraí (m); Subvariant: (Var: deora(i)dh m)
+deoraidh+Noun+Masc+Com+Sg+DefArt:0	#;	
+diabhaldán		Nm1-1;	! Headword: diabhaldánacht (f) ***
+diabhlán		Nm1-1;	! Headword: diabhlánach (m)
+dícheannú		Nm5-3;	! Headword: dícheannadh (m) ***
+did		Nf2-7;	! Headword: dide (f) ***
+díleaghadh		Nm5-6;	! Headword: díleá (m) ***
+dintiúir		Nm1-1;	! Headword: dintiúr (m)
+díogarnaíl		Nf3-SINGULAR;	! Headword: díogarnach (f) ***
+díolamaí		Nm4-4;	! Headword: díolamóir (m) ***
+díolúntacht		Nf3-SINGULAR;	! Headword: díolúnas (m) ***
+díolúntaíocht		Nf3-SINGULAR;	! Headword: díolúnas (m); Subvariant: (Var: díolúnta(ío)cht f) ***
+diomachas		Nm1-1;	! Headword: diomaí (f) ***
+díonachán		Nm1-1;	! Headword: díonadóireacht (f) ***
+díthreibh		Nf2-7;	! Headword: díthreabh (f) ***
+diúltaí		Nm4-4;	! Headword: diúltach (m) ***
+diúltaidheach	Nm1-1;	! Headword: diúltach (m)	(Var: diúlta(i)dh(e)ach, diúltaitheach)
+diúltadhach	Nm1-1;	! Headword: diúltach (m)	(Var: diúlta(i)dh(e)ach, diúltaitheach)
+diúltaitheach	Nm1-1;	! Headword: diúltach (m)
+diúltamh		Nm1-1;	! Headword: diúltú (m) ***
+dlaoinín		Nm4-4;	! Headword: dlaíóg (f) ***
+dlisteanas		Nm1-1;	! Headword: dlisteanacht (f) ***
+dlocht		Nm1-1;	! Headword: dlochtán (m)
+dobhrántas		Nm1-1;	! Headword: dobhrántacht (f) ***
+dobuan		Nm1-SINGULAR;	! Headword: dobuar (m)
+dochraid		Nf2-SINGULAR;	! Headword: dochraide (f)
+doilbhreacht		Nf3-SINGULAR;	! Headword: doilbhreas (m) ***
+doimhneas		Nm1-1;	! Headword: doimhneacht (f) ***
+doirneálaí		Nm4-4;	! Headword: doirneálach (m) ***
+doriar		Nf2-1;	! Headword: doriarthacht (f) ***
+dornaíl		Nf3-SINGULAR;	! Headword: dornáil (f)
+draíodaí		Nm4-4;	! Headword: draíodóir (m) ***
+drannaíl		Nf3-SINGULAR;	! Headword: drannaireacht (f)
+dreap		Nm4-2;	! Headword: dreapa (m) ***
+dreapaire		Nm4-2;	! Headword: dreapadóir (m) ***
+dreochaint		Nf2-SINGULAR;	! Headword: dreochan (f)
+dreoghchtaint		Nf2-SINGULAR;	! Headword: dreochan (f); Subvariant: (Var: dreo(gh)ch(t)aint f)
+drochghnáth		Nm1-2;	! Headword: drochghnáthú (m) ***
+drochiarracht		Nf3-1;	! Headword: drochiarraidh (f) ***
+drúchtán		Nm1-1;	! Headword: drúchtín (m) ***
+drúiseoir		Nm3-1;	! Headword: drúiseach (m) ***
+druncaire		Nm4-2;	! Headword: druncaeir (m) ***
+dualadóir		Nm3-1;	! Headword: dualaí (m) ***
+dúbail		Nf2-SINGULAR;	! Headword: dúbailt (f)
+dubhacht		Nf3-SINGULAR;	! Headword: dubhachas (m) ***
+dúchaint		Nf2-SINGULAR;	! Headword: dúchan (f) ***
+dúchrónach		Nm1-1;	! Headword: dúchrónachan (f) ***
+dúdarnaíl		Nf3-SINGULAR;	! Headword: dúdaireacht (f)
+dúnoircne		Nf4-SINGULAR;	! Headword: dúnorgain (f) ***
+dúrantas		Nm1-1;	! Headword: dúrantacht (f) ***
+eachtrann		Nm1-1;	! Headword: eachtrannach (m)
+éadoimhneas		Nm1-1;	! Headword: éadoimhneacht (f) ***
+eagras		Nm1-1;	! Headword: eagraíocht (f) ***
+éalann		Nf2-2;	! Headword: éalang (f) ***
+ealbhán		Nm1-1;	! Headword: ealbha (f) ***
+earnail		Nf2-SINGULAR;	! Headword: earnáil (f) *** ???
+easc		Nf2-1;	! Headword: easca (f) *** ???
+eascain		Nf2-7;	! Headword: eascaine (f) *** ???
+easláinteach		Nm1-1;	! Headword: easlán (m)
+éidearbhadh		Nm1-1;	! Headword: éidearbhú (m) ***
+éilneadh		Nm1-1;	! Headword: éilliú (m) ***
+!eineachlógh		Nm?-??;	! Headword: eineachlann (f)
+eineachlógh+Noun+Masc+Com+Sg:0 #;	! Headword: eineachlann (f)
+eineachlógh+Noun+Masc+Com+Sg+DefArt:0 #;
+éinirte		Nf4-SINGULAR;	! Headword: éineart (m) ***
+eisinn		Nf2-SINGULAR;	! Headword: eisint (f)
+eisíoth		Nf3-3;	! Headword: eisíth (f) ***
+eisreacht		Nm1-1;	! Headword: eisreachtaí (m) ***
+eolach		Nm1-1;	! Headword: eolaí (m)
+fabhtaíl		Nf3-SINGULAR;	! Headword: fabhtacht (f)
+fachnaid		Nf2-SINGULAR;	! Headword: fachnaoid (f)
+fadhbadh		Nm1-1;	! Headword: fadhbáil (f) ***
+fágaint		Nf2-SINGULAR;	! Headword: fágáil (f) ***
+fágálaí		Nm4-4;	! Headword: fágálach (m) ***
+faichilt		Nf2-SINGULAR;	! Headword: faichill (f)
+fáiméar		Nm1-1;	! Headword: fáiméad (m)
+faing		Nf2-7;	! Headword: fainge (m) ***
+faince		Nf4-1;	! Headword: fainic (f) ***
+fáinle		Nf4-1;	! Headword: fáinleog (f) *** ???
+fainnéiriú		Nm4-4;	! Headword: fainnéirí (m)
+fairgse		Nf4-SINGULAR;	! Headword: fairgsin (f)
+faisnéisí		Nm4-4;	! Headword: faisnéiseoir (m) ***
+fáiteallach		Nm1-1;	! Headword: fáiteallaí (m) ***
+falaire		Nf4-SINGULAR;	! Headword: falaireacht (f) ***
+falsán		Nm1-1;	! Headword: falsóir (m) ***
+fánadóir		Nm3-1;	! Headword: fánaí (m) ***
+fantais		Nf2-7;	! Headword: fantaise (f) ***
+féacháil		Nf2-6;	! Headword: féachaint (f) ***
+feadalach		Nf2a-SINGULAR;	! Headword: feadaíl (f) ***
+feadhan		Nm1-1;	! Headword: feadhán (m)
+fearannacht		Nf3-1;	! Headword: fearannas (m) ***
+fearbóg		Nf2-1;	! Headword: fearbán (m) ***
+féarmhagh		Nf4-8;	! Headword: féarmhá (f)
+!fearsad		Nf2-7;	! Headword: fearsaid (f)
+fearsad+Noun+Fem+Com+Sg:0	#;	! Headword: fearsaid (f)
+fearsad+Noun+Fem+Com+Sg+DefArt:0	#;
+fearúla		Nf3-SINGULAR;	! Headword: fearúlacht (f) ??? Tír Chonaill/Ulster Irish???
+feascar		Nm1-1;	! Headword: feascairt (f) ***
+feiceálaí		Nf4-4;	! Headword: feiceálacht (f) ***
+féichiúnach		Nm1-1;	! Headword: féichiúnaí (m) ***
+féig		Nf2-7;	! Headword: féige (f) ***
+feistíocht		Nf3-SINGULAR;	! Headword: feistiúlacht (f)
+féitheán		Nm1-1;	! Headword: féitheog (f) ***
+feosaí		Nm4-4;	! Headword: feosachán (m) ***
+feothán		Nm1-1;	! Headword: feothan (m)
+fianchoscar		Nm1-1;	! Headword: fianchoscairt (f) ***
+fiántacht		Nf3-1;	! Headword: fiántas (m) ***
+fiarsceo		Nm4-SINGULAR;	! Headword: fiarsceabha (m) ***
+fidleáil		Nf3-SINGULAR;	! Headword: fidléireacht (f)
+fíneáltas		Nm1-1;	! Headword: fíneáltacht (f) ***
+fionaíolacht		Nf3-SINGULAR;	! Headword: fionaíl (f)
+fionnachló		Nm4-SINGULAR;	! Headword: fionnachruth (m) ***
+fionnachtóir		Nm3-1;	! Headword: fionnachtaí (m) ***
+fiothnais		Nf2-SINGULAR;	! Headword: fiothnaise (f)
+fisicí		Nm4-4;	! Headword: fisiceoir (m) ***
+fluparnaíl		Nf3-SINGULAR;	! Headword: fluparnach (f) ***
+foirneadh		Nm1-1;	! Headword: foirneáil (f)
+foithíoch		Nm1-1;	! Headword: foitheach (m)
+follúnas		Nm1-1;	! Headword: follúnacht (f) ***
+folrú		Nm5-3;	! Headword: folradh (m) **
+fondaire		Nm4-2;	! Headword: fondúir (m) ***
+foracún		Nm1-SINGULAR;	! Headword: foracan (m)
+forb		Nm3-SINGULAR;	! Headword: forba (m) *** ???
+!forchongar		Nm4-1;	! Headword: forchongra (m)
+forchongar+Noun+Masc+Com+Sg:0	#;	! Headword: forchongra (m)
+forchongar+Noun+Masc+Com+Sg+DefArt:0	#;
+formálach		Nm1-1;	! Headword: formálaí (m) ***
+fortachtaí		Nm4-4;	! Headword: fortaitheoir (m) ***
+!fostó		Nm4-4;	! Headword: fostú (m)
+fostó+Noun+Masc+Com+Sg:fostú	#;	! Headword: fostú (m)
+fostó+Noun+Masc+Com+Sg+DefArt:fostú	#;
+fraighfhliuchadh		Nm1-SINGULAR;	! Headword: fraighfhliuchras (m)
+freagraí		Nm4-4;	! Headword: freagróir (m) ***
+!freang		Nf4-1;	! Headword: freanga (f)
+freang+Noun+Fem+Com+Sg:freanga	#;	! Headword: freanga (f)
+freang+Noun+Fem+Com+Sg+DefArt:freanga	#;
+fuafaire		Nf4-SINGULAR;	! Headword: fuafaireacht (f) ***
+fuaidrín		Nm4-1;	! Headword: fuaidrimín (m)
+fuairnéal		Nm1-1;	! Headword: fuairnéalach (m)
+fuaraigne		Nf4-SINGULAR;	! Headword: fuaraigeantacht (f) *** (cf. aigne)
+fuarchaoineachán		Nm1-1;	! Headword: fuarchaoineadh (m) ***
+fuilleadh		Nm1-1;	! Headword: fuilleamh (m)
+!fuine		Nm1-1;	! Headword: fuineadh (m)
+fuine+Noun+Masc+Com+Sg:fuineadh	#;	! Headword: fuineadh (m)
+fuine+Noun+Masc+Com+Sg+DefArt:fuineadh	#;
+fuirsire		Nm4-2;	! Headword: fuirseoir (m) ***
+fuirseáil		Nf3-SINGULAR;	! Headword: fuirseoireacht (f)
+!fuiscí		Nm4-2;	! Headword: fuisce (m)
+fuiscí+Noun+Masc+Com+Sg:fuisce	#;	! Headword: fuisce (m)
+fuiscí+Noun+Masc+Com+Sg+DefArt:fuisce	#;
+fútrálaí		Nm4-4;	! Headword: fútar (m) ***
+gabhang		Nm1-1;	! Headword: gabhann (m)
+gadhraíocht		Nf3-SINGULAR;	! Headword: gadhraíl (f)
+gágartach		Nm1-1;	! Headword: gágaire (m) ***
+gaigín		Nm4-1;	! Headword: gaige (m) ***
+gáinnéir		Nm3-1;	! Headword: gáinneálaí (m) ***
+gairtéal		Nm1-1;	! Headword: gairtéar (m)
+gaisceachán		Nm1-1;	! Headword: gaisceoir (m) ***
+galamás		Nm1-1;	! Headword: galamaisíocht (f) ***
+galldacht		Nf3-SINGULAR;	! Headword: galldachas (m)
+!gám		Nm4-4;	! Headword: gámaí (m)
+gám+Noun+Masc+Com+Sg:gámaí	#;	! Headword: gámaí (m)
+gám+Noun+Masc+Com+Sg+DefArt:gámaí	#;
+ganntan		Nm1-1;	! Headword: ganntanas (m)
+gart		Nm3-3;	! Headword: garta (m) ***
+gárthaíl		Nf3-SINGULAR;	! Headword: gárthach (f) ***
+geabadán		Nm1-1;	! Headword: geabaire (m) ***
+géagaí		Nm4-4;	! Headword: géagachán (m) ***
+gealtaí		Nf4-SINGULAR;	! Headword: gealtacht (f)
+gealtaíocht		Nf3-SINGULAR;	! Headword: gealtacht (f); Subvariant: (Var: gealtaí(ocht) f)
+geancán		Nm1-1;	! Headword: geancánach (m)
+gearántóireacht		Nf3-SINGULAR;	! Headword: gearánaíl (f)
+gearraide		Nf4-2;	! Headword: gearraidín (m) ***
+geocaireacht		Nf3-SINGULAR;	! Headword: geocaíl (f)
+geograife		Nf4-SINGULAR;	! Headword: geografaíocht (f)
+geonlach		Nf2a-SINGULAR;	! Headword: geonaíl (f)
+ginide		Nf4-2;	! Headword: ginideach (m) ??? ***
+giobúis		Nf2-7;	! Headword: giobús (m)
+giol		Nm3-5;	! Headword: giolc (m)
+giolcáil		Nf3-6a;	! Headword: giolcadh (m) ***
+!giollaraidh		Nf?-??;	! Headword: giollanra (m)
+!giollanraidh		Nf?-??;	! Headword: giollanra (m); Subvariant: (Var: giolla(n)raidh f)
+giollaraidh+Noun+Fem+Com+Sg:0	#;
+giollaraidh+Noun+Fem+Com+Sg+DefArt:0	#;
+giollanraidh+Noun+Fem+Com+Sg:0	#;
+giollanraidh+Noun+Fem+Com+Sg+DefArt:0	#;
+gíománaí		Nm4-4;	! Headword: gíománach (m) ***
+giorraide		Nm4-2;	! Headword: giorradán (m) ***
+giurnálaíocht		Nf3-SINGULAR;	! Headword: giurnáil (f)
+glacóg		Nf2-1;	! Headword: glacán (m) ***
+glais		Nf2-7;	! Headword: glaise (f)
+glaisne		Nm4-2;	! Headword: glaisneach (m) ***
+glamairt		Nf2-7;	! Headword: glamaireacht (f) ***
+gleacaire		Nm4-2;	! Headword: gleacaí (m) ***
+gléas		Nm1-6;	! Headword: gléasadh (m) ***
+gliadramán		Nm1-1;	! Headword: gliadaire (m) ***
+glibí		Nm4-4;	! Headword: glibire (m) ***
+gliodaire		Nm4-2;	! Headword: gliodaí (m) ***
+gliogaíl		Nf3-SINGULAR;	! Headword: gliogaireacht (f)
+gliúcáil		Nf3-SINGULAR;	! Headword: gliúcaíocht (f)
+!gluais		Nf2-6;	! Headword: gluaiseacht (f) already in lexicon
+gníomhaitheoir		Nm3-1;	! Headword: gníomhaire (m) ***
+gnóthachtáil		Nf3-6a;	! Headword: gnóthachan (m) ***
+gobadóir		Nm3-1;	! Headword: gobachán (m) ***
+goilliúnaí		Nf4-SINGULAR;	! Headword: goilliúnacht (f) ***
+graeip		Nf2-7;	! Headword: graeipe (f) ***
+gramhais		Nf2-SINGULAR;	! Headword: gramhas (m)
+Gréag		Nm1-1;	! Headword: Gréagach (m)
+greannmhaire		Nf4-SINGULAR;	! Headword: greannmhaireacht (f)
+griothaíl		Nf3-SINGULAR;	! Headword: griotháil (f) ***
+gróigín		Nm4-1;	! Headword: gróigeán (m)
+gruamachán		Nm1-1;	! Headword: gruamaire (m) ***
+grugaid		Nf2-7;	! Headword: grugaill (f)
+grúnlais		Nf2-7;	! Headword: grúnlach (m) ***
+guagán		Nm1-1;	! Headword: guaigín (m) ***
+gunbhál		Nm1-1;	! Headword: gunail (f) ***
+gutálaí		Nm4-4;	! Headword: gutachán (m) ***
+ialtán		Nm1-1;	! Headword: ialtóg (f) ***
+iarchomaoin		Nf2-SINGULAR;	! Headword: iarchomaoineach (f) ***
+iarchomaoine		Nf4-SINGULAR;	! Headword: iarchomaoineach (f); Subvariant: (Var: iarchomaoin(e) f)
+iarmhéirghe		Nf4-SINGULAR;	! Headword: iarmhéirí (m)
+iarrthach		Nm1-1;	! Headword: iarrthóir (m) ***
+idircheirt		Nf2-SINGULAR;	! Headword: idircheart (m) ***
+imirceoir		Nm3-1;	! Headword: imirceach (m) ***
+imneadh		Nm1-1;	! Headword: imní (f) *** ???
+iníonas		Nm1-1;	! Headword: iníonacht (f) ???
+iodhlang		Nf2-2;	! Headword: iodhlann (f)
+íogaire		Nf4-SINGULAR;	! Headword: íogaireacht (f) ***
+íomháineas		Nm1-1;	! Headword: íomháineachas (m)
+iomramhaí		Nm4-4;	! Headword: iomramhach (m) ***
+ionathrach		Nm1-1;	! Headword: ionathar (m)
+ionnarba		Nm4-1;	! Headword: ionnarbadh (m) ***
+láchaint		Nf2-SINGULAR;	! Headword: láchan (f)
+lagspiorad		Nm1-SINGULAR;	! Headword: lagsprid (f)
+laincide		Nf4-1;	! Headword: laincis (f) ***
+lainnéir		Nm3-1;	! Headword: láinnéar (m)
+láireachán		Nm1-1;	! Headword: láireog (f) ***
+laist		Nf2-7;	! Headword: laiste (m) ***
+lámhacánach		Nm1-1;	! Headword: lámhacánaí (m) ***
+langa		Nm4-SINGULAR;	! Headword: langach (m) *** ???
+laparán		Nm1-1;	! Headword: lapairín (m) ***
+laprachánaí		Nm4-4;	! Headword: laprachán (m) ***
+lásadh		Nm1-1;	! Headword: lásáil (f)
+lascáil		Nf3-1;	! Headword: lascadh (m) ***
+lascálaí		Nm4-4;	! Headword: lascaire (m) ***
+lathaigh		Nf2-6;	! Headword: lathach (f) *** ???
+leabhaire		Nf4-SINGULAR;	! Headword: leabhaireacht (f) ***
+leadaire		Nm4-2;	! Headword: leadaí (m) ***
+leadránaí		Nf4-SINGULAR;	! Headword: leadránacht (f) ***
+léanscaire		Nm4-2;	! Headword: léanscach (m) ***
+léar		Nm4-1;	! Headword: lear (m)
+leasaire		Nm4-2;	! Headword: leasaitheoir (m) ***
+leathmhaing		Nf2-SINGULAR;	! Headword: leathmhaig (f)
+leathphiont		Nm3-1;	! Headword: leathphionta (m) ***
+leicnín		Nm4-1;	! Headword: leicneán (m) ***
+léintín		Nm4-1;	! Headword: léinteog (f) ***
+léirstin		Nf2-SINGULAR;	! Headword: léirstean (f)
+léirstint		Nf2-SINGULAR;	! Headword: léirstean (f); Subvariant: (Var: léirstin(t) f)
+leisire		Nm4-1;	! Headword: leisíneach (m)
+leithleas		Nm3-SINGULAR;	! Headword: leithleachas (m) *** (analysed as belonging to 'leas')
+leomhan		Nm1-1;	! Headword: leon (m)
+liachadh		Nm1-1;	! Headword: liacharnach (f) *** ???
+!liocairis		Nm1-1;	! Headword: liocras (m)
+liocairis+Noun+Masc+Com+Sg:0	#;	! Headword: liocras (m)
+liocairis+Noun+Masc+Com+Sg+DefArt:0	#;
+líofa		Nm4-SINGULAR;	! Headword: líofacht (f) ***
+líonmhaire		Nf4-SINGULAR;	! Headword: líonmhaireacht (f) ***
+liost		Nm3-1;	! Headword: liosta (m) ***
+liúráil		Nf3-SINGULAR;	! Headword: liúradh (m) ***
+lofadas		Nm1-1;	! Headword: lofacht (f) ***
+lóinse		Nm4-1;	! Headword: loinsiún (m) *** ???
+lóipéis		Nf2-7;	! Headword: lóipín (m)
+lóistíneach		Nm1-1;	! Headword: lóistéir (m) ***
+lomadóir		Nm3-1;	! Headword: lomaire (m) ***
+loncairt		Nf2-7;	! Headword: loncaird (f)
+lorg		Nf3-1;	! Headword: lorga (f) ***
+losainséir		Nm3-1;	! Headword: losainn (f) ***
+loscán		Nm1-1;	! Headword: loscann (m)
+luadhaighe		Nm4-2;	! Headword: luadhaire (m)
+luadradh		Nm1-1;	! Headword: luadráil (f) ***
+luaithghríos		Nm1-1;	! Headword: luaithghríosach (f) *** (cf gríos)
+luaithreadh		Nm1-1;	! Headword: luaithreach (m)
+luathlámhas		Nm1-1;	! Headword: luathlámhacht (f) ***
+lúbarnach		Nf4-SINGULAR;	! Headword: lúbarnaíl (f) ***
+lúfaire		Nf4-SINGULAR;	! Headword: lúfaireacht (f)
+lúideog		Nf2-1;	! Headword: lúidín (m) ***
+lútaíl		Nf3-SINGULAR;	! Headword: lútáil (f)
+macántas		Nm1-1;	! Headword: macántacht (f) ***
+mágaire		Nm4-2;	! Headword: mágaí (m) ***
+mágairt		Nf2-SINGULAR;	! Headword: mágaíocht (f)
+magarla		Nm4-2;	! Headword: magairle (m)
+maintiméir		Nm3-1;	! Headword: maintín (f) ***
+maireachtaint		Nm2-SINGULAR;	! Headword: maireachtáil (f) ***
+mairtír		Nm4-1;	! Headword: mairtíreach (m) *** ???
+maist		Nf2-7;	! Headword: maiste (m) ***
+máithreacht		Nf3-SINGULAR;	! Headword: máithreachas (m) ***
+mallachtóireacht		Nf3-1;	! Headword: mallachtach (f) ***
+mamailín		Nm4-1;	! Headword: mamailíneach (m) ***
+mann		Nf2-SINGULAR;	! Headword: manna (m) *** ???
+maoilinn		Nf2-7;	! Headword: maoileann (m) ***
+maoisc		Nf2-SINGULAR;	! Headword: maoisceach (f)
+maothail		Nf2-SINGULAR;	! Headword: maothal (f)
+martaíl		Nf3-SINGULAR;	! Headword: martaíocht (f)
+meacán		Nm1-1;	! Headword: meacan (m)
+meáchaint		Nf2-7;	! Headword: meáchan (m) ***
+meáchtaint		Nf2-7;	! Headword: meáchan (m); Subvariant: (Var: meách(t)aint f) ***
+meamhaíl		Nf3-6a;	! Headword: meamhlach (f) ***
+meamhlóir		Nm3-1;	! Headword: meamhlachán (m) ***
+meangaíl		Nf3-SINGULAR;	! Headword: meangaireacht (f)
+méaráil		Nf3-SINGULAR;	! Headword: méaraíocht (f)
+mearathal		Nm1-1;	! Headword: mearbhall (m)
+meataire		Nm4-2;	! Headword: meatachán (m) ***
+meathló		Nm5-3;	! Headword: meathlú (m) Change Nm5-3 to cater for -ó as well. 
+meathló+Noun+Masc+Sg:meathlú	#;
+meathló+Noun+Masc+Sg+DefArt:meathlú	#;
+meiliteoir		Nm3-1;	! Headword: meiliteálaí (m) ***
+meilsceán		Nm1-SINGULAR;	! Headword: meilsceánach (m)
+meilteachán		Nm1-1;	! Headword: meilteoireacht (f) ***
+mian		Nm1-3;	! Headword: mianach (m) ***
+midheamh		Nm1-1;	! Headword: midheamhain (f) ***
+midheamhnas		Nm1-1;	! Headword: midheamhain (f); Subvariant: (Var: midheamh(nas) m) ***
+míolaire		Nm4-2;	! Headword: míoladóir (m) ***
+mionbhradaíocht		Nf3-SINGULAR;	! Headword: mionbhradaíl (f)
+mioscas		Nm1-1;	! Headword: mioscais (f) ***
+mirleog		Nf2-1;	! Headword: mirleán (m) ***
+místainc		Nf2-7;	! Headword: místá (m) ***
+móintín		Nm4-1;	! Headword: móinteán (m) ***
+mongháir		Nf2-7;	! Headword: monghar (m) ***
+morgthas		Nm1-1;	! Headword: morgthacht (f) ***
+mórtais		Nf2-SINGULAR;	! Headword: mórtas (m)
+mothálaí		Nf4-SINGULAR;	! Headword: mothálacht (f) ***
+mothallach		Nf2-1a;	! Headword: mothallachán (m) ***
+mucáil		Nf3-SINGULAR;	! Headword: mucaireacht (f)
+muidh		Nm2-SINGULAR;	! Headword: muidhe (m)
+muincheann		Nm1-1;	! Headword: muinceann (f) *** ???
+muingleáil		Nf3-SINGULAR;	! Headword: muingilt (f)
+muinis		Nf2-7;	! Headword: muinisean (m)
+muirneacht		Nf3-SINGULAR;	! Headword: muirnéis (f)
+múis		Nf2-SINGULAR;	! Headword: múisc (f)
+muslaire		Nm4-2;	! Headword: muslachán (m) ***
+nagaidín		Nm4-1;	! Headword: nagadán (m) ***
+náisián		Nm1-1;	! Headword: náisiún (m)
+néalfairt		Nf2-SINGULAR;	! Headword: néalfartach (f)
+!neanaidh		Nf?-??;	! Headword: neanta (m)
+neanaidh+Noun+Fem+Sg:0	#;	! Headword: neanta (m)
+neanaidh+Noun+Fem+Sg+DefArt:0	#;
+neantán		Nm1-1;	! Headword: neantóg (f) ***
+niúmón		Nm1-SINGULAR;	! Headword: niúmóine (m) ***
+ofráid		Nf2-SINGULAR;	! Headword: ofráil (f)
+ógán		Nm1-1;	! Headword: ógánach (m)
+ógbhadh		Nf2-SINGULAR;	! Headword: ógbhaidh (f)
+oidimeal		Nf2-SINGULAR;	! Headword: oidimil (f) ??? (not changed)
+oilithrí		Nm4-4;	! Headword: oilithreach (m) ***
+oilithre		Nf4-SINGULAR;	! Headword: oilithreacht (f)
+oirirce		Nf4-SINGULAR;	! Headword: oirirceas (m) ***
+onfaiseach		Nm1-1;	! Headword: onfaiseoir (m) ***
+órcheard		Nm1-1;	! Headword: órcheardaí (m) ***
+ósta		Nm4-7;	! Headword: óstach (m) *** ???
+óstán		Nm1-1;	! Headword: óstlann (f) ***
+otrainn		Nf2-1;	! Headword: otrann (f)
+pábhaile		Nm4-1;	! Headword: pábháil (f) *** ???
+pács		Nm3-1;	! Headword: pácsa (m) ***
+págán		Nm1-1;	! Headword: págánach (m)
+painnéir		Nm3-1;	! Headword: painnéar (m) ***
+pánach		Nm1-1;	! Headword: pánaí (m) ***
+pápaiste		Nm4-2;	! Headword: pápaire (m)
+parabhail		Nf2-7;	! Headword: parabal (m) *** ???
+parlúr		Nm1-7;	! Headword: parlús (m) ???
+peasachán		Nm1-1;	! Headword: peasánach (m)
+pianaí		Nf4-SINGULAR;	! Headword: pianmhaireacht (f) ***
+piar		Nm3-1;	! Headword: piara (m) ***
+píl		Nf2-7;	! Headword: píle (m)
+pilear		Nm1-1;	! Headword: piléar (m)
+pinniúir		Nm3-1;	! Headword: pinniúr (m) ***
+!pins		Nm4-2;	! Headword: pinse (m)
+pins+Noun+Masc+Com+Sg:0	#;	! Headword: pinse (m)
+pins+Noun+Masc+Com+Sg+DefArt:0	#;
+piocadóir		Nm3-1;	! Headword: piocaire (m) ***
+piodarlann		Nm1-1;	! Headword: piodarlán (m)
+piolla		Nm4-2;	! Headword: piollaire (m)
+pitséir		Nm3-1;	! Headword: pitséar (m) ***
+plabarálaí		Nm4-2;	! Headword: plabaire (m)
+plaitíneach		Nm1-1;	! Headword: plaiteachán (m)
+!plán		Nm4-1;	! Headword: plána (m) (already in lexicon)
+plandálaí		Nm4-4;	! Headword: plandóir (m) ***
+plástra		Nm4-1;	! Headword: plástar (m) *** ???
+pléascáil		Nf3-6a;	! Headword: pléascadh (m) ***
+pléascarnáil		Nf3-SINGULAR;	! Headword: pléascarnach (f) ***
+pleisteálaí		Nm4-4;	! Headword: pleistíoch (m) ***
+plimpeáil		Nf3-SINGULAR;	! Headword: plimpíl (f)
+plobaíl		Nf3-SINGULAR;	! Headword: plobáil (f)
+plobaistín		Nm4-1;	! Headword: plobaire (m) ***
+plobarnaíl		Nf3-6a;	! Headword: plobarnach (f) ***
+plot		Nm3-1;	! Headword: plota (m) ***
+plotáil		Nf3-SINGULAR;	! Headword: plotaireacht (f)
+plúchtáil		Nf3-SINGULAR;	! Headword: plúchtacht (f)
+pogaide		Nm4-2;	! Headword: pogaí (m) ***
+póitreálach		Nm1-1;	! Headword: póitreálaí (m) ***
+póitséir		Nm3-1;	! Headword: póitseálaí (m) ***
+pollaire		Nm4-2;	! Headword: polladóir (m) ***
+pollaid		Nf2-7;	! Headword: pollaide (m) ***
+pónair		Nf2-7;	! Headword: pónaire (f) ***
+pósaí		Nm4-4;	! Headword: pósae (m) *** ???
+potadóir		Nm3-1;	! Headword: potaire (m) ***
+potrálaíocht		Nf3-SINGULAR;	! Headword: potráil (f)
+prabhtais		Nf2-SINGULAR;	! Headword: prabhait (f)
+prams		Nm3-1;	! Headword: pramsa (m) ***
+preabarnaíl		Nf3-6a;	! Headword: preabarnach (f) ***
+priacail		Nf2-1;	! Headword: priacal (m) *** ???
+printís		Nf3-SINGULAR;	! Headword: printíseacht (f)
+priocaide		Nm4-2;	! Headword: priocaire (m)
+príocas		Nm1-1;	! Headword: príocaisín (m) ***
+prioslaíocht		Nf3-SINGULAR;	! Headword: priosláil (f)
+prispín		Nm4-1;	! Headword: prispíneach (m) ***
+probasc		Nm1-1;	! Headword: próboscas (m)
+Protastún		Nm1-1;	! Headword: Protastúnach (m)
+púdarlán		Nm1-1;	! Headword: púdarlach (m)
+púicirliún		Nm1-1;	! Headword: púicearlach (m)
+púits		Nf3-1;	! Headword: púitse (m) ***
+purpar		Nm1-1 ;	! Headword: purpair (f) *** ???
+pusaí		Nm4-4;	! Headword: pusaire (m) ***
+pusaíoch		Nm1-1;	! Headword: pusaire (m); Subvariant: (Var: pusaí(och) m) ***
+puscóid		Nf2-7;	! Headword: pusca (m)
+rabhairt		Nf2-6;	! Headword: rabhait (f)
+rabhdlamán		Nm1-1;	! Headword: rabhdalam (m)
+rachlais		Nf2-7;	! Headword: rachlas (m) ***
+ráflaíocht		Nf3-SINGULAR;	! Headword: ráfláil (f)
+raidhsiúlacht		Nf3-SINGULAR;	! Headword: raidhse (f)
+raifeal		Nm1-1;	! Headword: raifil (m) ***
+ráigiúnach		Nm1-1;	! Headword: ráigí (m) ***
+rámhadóir		Nm3-1;	! Headword: rámhaí (m) ***
+rampúch		Nm1-1;	! Headword: rampaireacht (f) ***
+rannaí		Nm4-4;	! Headword: rannaire (m) ***
+rannpháirteoir		Nm3-1;	! Headword: rannpháirtí (m) ***
+ransáil		Nf3-6a;	! Headword: ransú (m) ***
+rascal		Nm1-1;	! Headword: rascail (m) ***
+rascalam		Nm1-SINGULAR;	! Headword: rascalach (m)
+rát		Nm3-1;	! Headword: ráta (m) ***
+réab		Nm1-1;	! Headword: réabach (m)
+réabann		Nm1-1;	! Headword: réabán (m)
+reacadóir		Nm3-1;	! Headword: reacaire (m) ***
+réamán		Nm1-1;	! Headword: réama (m) ***
+réamhtheachta		Nm4-1;	! Headword: réamhtheachtaí (m) *** (cf teachta)
+reast		Nm3-1;	! Headword: reasta (m) ***
+réileog		Nf2-1;	! Headword: réileán (m) ***
+riblíneach		Nm1-1;	! Headword: ribleachán (m)
+rins		Nf2-7;	! Headword: rinse (m) ***
+rionnadóir		Nm3-1;	! Headword: rionnaí (m) ***
+robaire		Nm4-2;	! Headword: robálaí (m) ***
+roithleog		Nf2-7;	! Headword: roithleán (m) ***
+rónaire		Nm4-2;	! Headword: rónadóir (m) ***
+ronn		Nm3-1;	! Headword: ronna (m) ***
+ropáil		Nf3-6a;	! Headword: ropadh (m) ***
+ropadóir		Nm3-1;	! Headword: ropaire (m) ***
+ruacán		Nm1-1;	! Headword: ruacan (m)
+ruadas		Nm1-1;	! Headword: ruacht (f) ***
+ruaille		Nf4-7;	! Headword: ruailleach (f) *** (cf An Foclóir Beag)
+rúca		Nm4-1;	! Headword: rúcach (m) ***
+rúcam		Nm1-1;	! Headword: rúcáil (f) *** ???
+rufán		Nm1-1;	! Headword: rufa (m) ***
+ruifín		Nm4-1;	! Headword: ruifíneach (m) ***
+ruitheantacht		Nf3-SINGULAR;	! Headword: ruithneas (m)
+rúnscript		Nf2-6;	! Headword: rúnscríbhinn (f) *** (cf script)
+rúscthóir		Nm3-1;	! Headword: rúscaire (m) ***
+sabhrain		Nm4-1;	! Headword: sabhran (m) *** ???
+sabhsáil		Nf3-6a;	! Headword: sabhsa (m)
+samhlacht		Nf3-SINGULAR;	! Headword: samhlachas (m) ***
+samhlachtain		Nf3-SINGULAR;	! Headword: samhlachas (m); Subvariant: (Var: samhlacht(ain) f) ***
+saobhchráifeacht		Nf3-SINGULAR;	! Headword: saobhchrábhadh (m) ***
+saoistín		Nm4-1;	! Headword: saoisteog (f) ***
+saotharcóg		Nf2-1;	! Headword: saotharcán (m) ***
+scabhaire		Nm4-2;	! Headword: scabhaitéir (m) ***
+scaipire		Nm4-2;	! Headword: scaiptheoir (m) ***
+scairbheán		Nm1-1;	! Headword: scairbheach (m)
+scaireachán		Nm1-1;	! Headword: scairíneach (m)
+scallaire		Nm4-2;	! Headword: scalladóir (m) ***
+scannail		Nm4-1;	! Headword: scannal (m) *** ???
+scanráil		Nf3-6a;	! Headword: scanrú (m)
+scaobán		Nm1-1;	! Headword: scaobóg (f) ***
+scaoinn		Nf2-7;	! Headword: scaoinse (m) ***
+sceabh		Nm3-1;	! Headword: sceabha (m) ***
+sceachóid		Nf2-7;	! Headword: sceachóir (m)
+scealparnach		Nf2a-SINGULAR;	! Headword: scealpaireacht (f) ***
+sceamhthóir		Nm3-1;	! Headword: sceamhlachán (m) ***
+sceidhreach		Nf2-1a;	! Headword: sceidhreog (f) ***
+scéimeáil		Nf3-SINGULAR;	! Headword: scéiméireacht (f)
+scéineadóir		Nm3-1;	! Headword: scéineachán (m) ***
+scinnfeadh		Nm5-5;	! Headword: scinneadh (m)
+sciobadóir		Nm3-1;	! Headword: sciobaire (m) ***
+sciollaire		Nm4-2;	! Headword: sciolladóir (m) ***
+sciotairín		Nm4-1;	! Headword: sciotar (m) ***
+sciúráil		Nf3-6a;	! Headword: sciúradh (m) ***
+sciúrsóir		Nm3-1;	! Headword: sciúrsálaí (m) ***
+scoláir		Nm4-1;	! Headword: scoláire (m) *** ???
+scolbánach		Nm1-1;	! Headword: scolbaire (m) ***
+sconnachán		Nm1-1;	! Headword: sconnaire (m) ***
+scraimín		Nm4-1;	! Headword: scraimíneach (m) ***
+scrataí		Nm4-1;	! Headword: scrata (m)
+screadaire		Nm4-2;	! Headword: screadachán (m) ***
+scríbheann		Nf2-7;	! Headword: scríbhinn (f)
+scríobarnach		Nf2a-SINGULAR;	! Headword: scríobaireacht (f)
+scrogaíl		Nf3-SINGULAR;	! Headword: scrogaireacht (f)
+scrogartach		Nm1-1;	! Headword: scroglachán (m)
+scuitseoir		Nm3-1;	! Headword: scuitseálaí (m) ***
+sculcaeir		Nm3-1;	! Headword: sculcaire (m) ***
+seaghas		Nm1-1;	! Headword: seaghais (f) *** ???
+sealbhaire		Nm4-2;	! Headword: sealbhóir (m) ***
+seamsa		Nm4-1;	! Headword: seamsán (m) *** ???
+seanbhalla		Nm4-1;	! Headword: seanbhallóg (f) *** ???
+seanmóin		Nf3-SINGULAR;	! Headword: seanmóir (f) (could also be Nf2-SINGULAR?)
+séaracht		Nf3-SINGULAR;	! Headword: séarachas (m)
+searbhaíocht		Nf3-SINGULAR;	! Headword: searbhas (m)
+searbhfhoghantaidhe		Nm4-1;	! Headword: searbhónta (m)
+seascaire		Nf4-SINGULAR;	! Headword: seascaireacht (f) ***
+séasún		Nm1-1;	! Headword: séasúr (m)
+seiceadúir		Nm3-1;	! Headword: seiceadóir (m)
+seifteálaí		Nm4-4;	! Headword: seifteoir (m) ***
+seitreacht		Nf3-SINGULAR;	! Headword: seitríl (f)
+seitireacht		Nf3-SINGULAR;	! Headword: seitríl (f); Subvariant: (Var: seit(i)reacht f)
+sianaíocht		Nf3-SINGULAR;	! Headword: sianaíl (f)
+sians		Nm3-1;	! Headword: siansa (m) ***
+simpleachán		Nm1-1;	! Headword: simpleoir (m) ***
+sinsearas		Nm1-SINGULAR;	! Headword: sinsearacht (f) ***
+siobairne		Nf4-SINGULAR;	! Headword: siobarnach (f) ***
+síochaimh		Nf3-SINGULAR;	! Headword: síocháin (f)
+síochántas		Nm1-SINGULAR;	! Headword: síochántacht (f)
+síofrach		Nf2-1a;	! Headword: síofróg (f) ***
+siolpálaí		Nm4-4;	! Headword: siolpaire (m) ***
+siolpáil		Nf3-SINGULAR;	! Headword: siolpaireacht (f)
+síolradh		Nm1-1;	! Headword: síolrach (m)
+siolraide		Nm4-2;	! Headword: siolrachán (m) ***
+síománach		Nm1-1;	! Headword: síománaí (m) ***
+síothló		Nm4-4;	! Headword: síothlú (m) ???
+sirtheach		Nm1-1;	! Headword: sirtheoir (m) ***
+siúráltas		Nm1-SINGULAR;	! Headword: siúráilteacht (f) ***
+slab		Nm3-1;	! Headword: slaba (m) ***
+slacaireacht		Nf3-1;	! Headword: slacairt (f) ***
+slachtaire		Nm4-2;	! Headword: slachtaitheoir (m) ***
+sladaire		Nm4-2;	! Headword: sladaí (m) ***
+slaisíoch		Nm1-1;	! Headword: slaisire (m) ***
+slaodaire		Nm4-2;	! Headword: slaodaí (m) ***
+slapáil		Nf3-SINGULAR;	! Headword: slapaireacht (f)
+slasaíocht		Nf3-1;	! Headword: slascairt (f) ***
+sleáchtain		Nf2-7;	! Headword: sléachtadh (m) ***
+slibirín		Nm4-1;	! Headword: slibire (m) ***
+slíomaire		Nm4-2;	! Headword: slíomadóir (m) ***
+sliseán		Nm1-1;	! Headword: sliseog (f) ***
+sliútrálaí		Nm4-4;	! Headword: sliútrachán (m) ***
+slod		Nm1-1;	! Headword: slodán (m)
+slogáil		Nf3-SINGULAR;	! Headword: slogaireacht (f)
+smaointeachas		Nm1-SINGULAR;	! Headword: smaointeoireacht (f)
+smaoisireacht		Nf3-SINGULAR;	! Headword: smaoisíl (f)
+smigéal		Nm1-1;	! Headword: smigiall (f) *** ???
+smíochtálaí		Nm4-4;	! Headword: smíochtóir (m) ***
+smiolgar		Nm1-SINGULAR;	! Headword: smiolgaireacht (f) ***
+smiorlach		Nm1-SINGULAR;	! Headword: smior (m) ***
+smur		Nm1-1;	! Headword: smúr (m)
+smúrla		Nf4-1;	! Headword: smúrlach (f) ***
+smús		Nm1-1;	! Headword: smúsach (m)
+snasadóir		Nm3-1;	! Headword: snasaire (m) ***
+snáthad		Nf2-7;	! Headword: snáthaid (f) ??? (not changed)
+sníomhadóir		Nm3-1;	! Headword: sníomhaí (m) ***
+sochraidhe		Nf4-SINGULAR;	! Headword: sochraíocht (f)
+soláthairt		Nf2-7;	! Headword: soláthar (m) *** ???
+soláthrach		Nm1-1;	! Headword: soláthraí (m) ***
+somach		Nm1-1;	! Headword: somachán (m)
+sonaíocht		Nf3-SINGULAR;	! Headword: sonas (m) ***
+soraire		Nm4-2;	! Headword: sorachán (m) ***
+sotach		Nm1-1;	! Headword: sotaire (m) ***
+spadaí		Nm4-4;	! Headword: spadaire (m) ***
+spadántas		Nm1-SINGULAR;	! Headword: spadántacht (f) ***
+spídeoireacht		Nf3-SINGULAR;	! Headword: spídiúchán (m) ***
+spiléad		Nm1-1;	! Headword: spiléar (m) ***
+spinéid		Nf2-7;	! Headword: spinéad (m) ***
+spíol		Nf2-10;	! Headword: spíon (f)
+spionntaíl		Nf3-SINGULAR;	! Headword: spionntacht (f)
+spiorán		Nm1-1;	! Headword: spioraicín (m) ***
+splaid		Nf2-7;	! Headword: splaideog (f) ***
+splaiseáil		Nf3-SINGULAR;	! Headword: splaisearnach (f) ***
+spleota		Nm4-1;	! Headword: spleotán (m) ***
+splíonaí		Nm4-4;	! Headword: splíonach (m) ***
+spochaire		Nm4-2;	! Headword: spochadóir (m) ***
+spoitseachán		Nm1-1;	! Headword: spoitseálaí (m) ***
+spot		Nm3-1;	! Headword: spota (m) ***
+spraeálaí		Nm4-4;	! Headword: spraeire (m) ***
+sprinle		Nm4-1;	! Headword: sprinlín (m) ??? (not changed)
+spriongadh		Nm1-SINGULAR;	! Headword: spriongar (m)
+sprochall		Nf2-SINGULAR;	! Headword: sprochaille (f)
+sprochailleáil		Nf3-SINGULAR;	! Headword: sprochailleacht (f)
+sraoilleacht		Nf3-SINGULAR;	! Headword: sraoilleachas (m) ***
+srathaí		Nm4-4;	! Headword: srathaire (m) ***
+srónaíocht		Nf3-SINGULAR;	! Headword: srónaíl (f)
+stadachán		Nm1-1;	! Headword: stadaire (m) ***
+stairs		Nf2-7;	! Headword: stáirse (m) ***
+stápal		Nm3-1;	! Headword: stápla (m) ***
+steipeadaíl		Nf3-SINGULAR;	! Headword: steipeáil (f)
+stileáil		Nf3-SINGULAR;	! Headword: stiléireacht (f)
+stiocard		Nm1-1;	! Headword: stiocaire (m) ***
+stod		Nm3-1;	! Headword: stoda (m) ***
+stollúnaí		Nm4-4;	! Headword: stollaire (m) ***
+stráic		Nm4-1;	! Headword: stráice (m) ***
+stran		Nm3-1;	! Headword: strana (m) ***
+strangadh		Nm1-1;	! Headword: strangláil (f) ***
+strap		Nm3-1;	! Headword: strapa (m) ***
+struisiúnach		Nm1-1;	! Headword: struisire (m) ***
+suanmhaire		Nf4-SINGULAR;	! Headword: suanmhaireacht (f) ***
+suasánach		Nm1-1;	! Headword: suasánaí (m) ***
+suiminteáil		Nf3-6a;	! Headword: suimintiú (m)
+suirghe		Nf4-SINGULAR;	! Headword: suirí (f)
+súist		Nf2-7;	! Headword: súiste (m) ***
+sultmhaire		Nf4-SINGULAR;	! Headword: sultmhaireacht (f) ***
+suthaine		Nf4-1;	! Headword: suthaineacht (f) ***
+tachtóir		Nm3-1;	! Headword: tachtaire (m) ***
+tafant		Nm1-1;	! Headword: tafann (m)
+táilliúr		Nm3-1;	! Headword: táilliúir (m) (not changed should be the same, except it follows Nm1-1)
+tairsing		Nf2-7;	! Headword: tairseach (f) *** ???
+taisceánaí		Nm4-4;	! Headword: taisceoir (m) ***
+taistealach		Nm1-1;	! Headword: taistealaí (m)
+tallainn		Nf2-1;	! Headword: tallann (f)
+talmhadóir		Nm3-1;	! Headword: talmhaí (m) ***
+tanaíochaint		Nf2-SINGULAR;	! Headword: tanaíochan (f) ***
+tangna		Nf4-SINGULAR;	! Headword: tangnacht (f) ***
+tát		Nm1-1;	! Headword: tátal (m)
+tathac		Nm1-1;	! Headword: tathag (m)
+téadaí		Nm4-4;	! Headword: téadaire (m) ***
+teagmhang		Nf2-2;	! Headword: teagmhas (m) ***
+teannál		Nf3-6a;	! Headword: teannáil (f) ??? (not changed)
+tearmainn		Nf2-7;	! Headword: tearmann (m)
+téarnó		Nm4-1;	! Headword: téarnamh (m) *** ???
+téarnó		Nm4-6;	! Headword: téarnamh (m) *** ??? (could be either)
+teilgint		Nf2-7;	! Headword: teilgean (m) ***
+teilgire		Nm4-2;	! Headword: teilgeoir (m) ***
+teirse		Nf4-1;	! Headword: teirt (f) ***
+tiarpóg		Nf2-1;	! Headword: tiarpán (m) ***
+tinfise		Nf4-1;	! Headword: tinfeadh (m) ***
+tiortáladh		Nm1-1;	! Headword: tiortáil (f) *** ???
+tíosaí		Nm4-4;	! Headword: tíosach (m) ***
+tiúchaint		Nf2-SINGULAR;	! Headword: tiúchan (f)
+tógálaí		Nf4-SINGULAR;	! Headword: tógálacht (f) ***
+toirbheart		Nf3-2;	! Headword: toirbhirt (f) ??? (not changed)
+toirmeascóir		Nm3-1;	! Headword: toirmeascaí (m) ***
+toirmeascthóir		Nm3-1;	! Headword: toirmeascaí (m); Subvariant: (Var: toirmeasc(th)óir m) ***
+tois		Nf2-7;	! Headword: toise (m) ***
+tonntaoscacht		Nf3-1;	! Headword: tonntaoscadh (m) ***
+tornálaí		Nm4-4;	! Headword: tornóir (m) ***
+torp		Nm3-1;	! Headword: torpa (m) ***
+traibhleáil		Nf3-SINGULAR;	! Headword: traibhléireacht (f)
+trálach		Nm3-SINGULAR;	! Headword: trálacht (m) (not changed; could also be Nm1-1)
+trálaeir		Nm3-1;	! Headword: trálaer (m) *** (could also belong to the Nm4- declension)
+traochaint		Nf2-SINGULAR;	! Headword: traochadh (m)
+traona		Nm4-1;	! Headword: traonach (m)
+traonaire		Nm4-2;	! Headword: traonaí (m) ***
+treascradh		Nm1-1;	! Headword: treascairt (f) *** ???
+treifead		Nf2-7;	! Headword: treifid (f)
+tréithiúlacht		Nf3-SINGULAR;	! Headword: tréitheachas (m) ***
+!triacail		Nf?-??;	! Headword: triacla (m)
+triacail+Noun+Fem+Sg:0	#;
+triacail+Noun+Fem+Sg+DefArt:0	#;
+trilleán		Nm1-1;	! Headword: trillín (m) ***
+trochladh		Nm1-1;	! Headword: trochlú (m) *** ???
+trodaire		Nm4-2;	! Headword: trodaí (m) ***
+truacántas		Nm1-SINGULAR;	! Headword: truacántacht (f)
+truanaid		Nf2-7;	! Headword: truanairt (f)
+trudarsach		Nf2a-SINGULAR;	! Headword: trudaireacht (f) ***
+truiceálaí		Nm4-4;	! Headword: truiceadóir (m) ***
+tuaipleálaí		Nm4-4;	! Headword: tuaipléir (m) ***
+tuaipleáil		Nf3-SINGULAR;	! Headword: tuaipléireacht (f)
+tualang		Nf2-SINGULAR;	! Headword: tualaing (f) ??? (not changed)
+tubaist		Nf2-7;	! Headword: tubaiste (f) ***
+tulaigh		Nf2-6;	! Headword: tulach (f) ***
+turbheatha		Nf4-SINGULAR;	! Headword: turbhia (m) ***
+turcach		Nm1-1;	! Headword: turcaí (m) ***
+turtair		Nf2-7;	! Headword: turtar (m) ***
+tútaíocht		Nf3-SINGULAR;	! Headword: tútachas (m)
+tutálaí		Nm4-4;	! Headword: tutaire (m) ***
+tútar		Nm1-SINGULAR;	! Headword: tútán (m)
+uafaire		Nf4-SINGULAR;	! Headword: uafaireacht (f) ***
+uamhnaí		Nf4-SINGULAR;	! Headword: uamhnacht (f) ***
+úcamáil		Nf3-SINGULAR;	! Headword: úcaireacht (f)
+únfartán		Nm1-1;	! Headword: únfartálaí (m) ***
+urlacadh		Nm1-1;	! Headword: urlacan (m) ***
+urnaighe		Nf4-6;	! Headword: urnaí (f) ***
+urrúntas		Nm1-SINGULAR;	! Headword: urrúntacht (f) ***
+úsáidire		Nm4-2;	! Headword: úsáideoir (m) ***
+vaidhtéaraí		Nm4-4;	! Headword: vaidhtéir (m) ***
+
+! *** Assigned by hand.
+! A good deal of these variants belong to the same
+! CC as the headwords, because they only slightly
+! change, e.g. ainbhiosán->ainbhiosachán.
+! If the gender changes, a direct mapping is often possible,
+! e.g. adhaltranas (Nm1-SINGULAR) -> adhaltraíocht (Nf3-SINGULAR).
+! Sometimes, however, the assignment of the CC is just a 'best guess' 
+! and may need to be revised.
+! CW 28/08/08
+adhaltraíocht		Nf3-SINGULAR;	! Headword: adhaltranas (m) ***
+adhaltras		Nm1-1;	! Headword: adhaltranas (m)
+áilleacán		Nm1-1;	! Headword: áilleagán (m)
+áilleán		Nm1-1;	! Headword: áilleagán (m)
+áiméar		Nf2-2;	! Headword: áiméar (m) ***
+áimear		Nm1-1;	! Headword: áiméar (m)
+ainbhfiosán		Nm1-1;	! Headword: ainbhiosán (m)
+ainbhiosachán		Nm1-1;	! Headword: ainbhiosán (m)
+ainbhfiosachán		Nm1-1;	! Headword: ainbhiosán (m); Subvariant: (Var: ainbhfiosán, ainbh(f)iosachán)
+ainscéan		Nf2-SINGULAR;	! Headword: ainscian (f)
+ainsciath		Nf2-SINGULAR;	! Headword: ainscian (f)
+airneálach		Nm1-1;	! Headword: airneánach (m)
+airneálaí		Nm4-4;	! Headword: airneánach (m) ***
+airneánaí		Nm4-4;	! Headword: airneánach (m) ***
+!aisfhreagar		Nm4-1;	! Headword: aisfhreagra (m)
+aisfhreagar+Noun+Masc+Com+Sg:aisfhreagra	#;
+aisfhreagar+Noun+Masc+Com+Sg+DefArt:aisfhreagra	#;
+aisfhreagairt		Nf3-8;	! Headword: aisfhreagra (m) *** (cf freagairt)
+alpachán		Nm1-1;	! Headword: alpán (m)
+alpóg		Nf2-1;	! Headword: alpán (m) ***
+amadánacht		Nf3-SINGULAR;	! Headword: amadántacht (f)
+amadántaíocht		Nf3-SINGULAR;	! Headword: amadántacht (f)
+anumhla		Nf4-SINGULAR;	! Headword: anumhlaíocht (f) ***
+anumhlacht		Nf3-SINGULAR;	! Headword: anumhlaíocht (f)
+ársaidh		Nm3-6;	! Headword: ársa (m) ***
+ársach		Nm1-1;	! Headword: ársa (m) ***
+artharach		Nm1-5;	! Headword: árthach (m)
+árthrach		Nm1-5;	! Headword: árthach (m)
+athiompáil		Nf3-6a;	! Headword: athiompú (m) ***
+!athiompó		Nm5-3;	! Headword: athiompú (m) ??? (not changed)
+athiompó+Noun+Masc+Com+Sg:athiompú	#;
+athiompó+Noun+Masc+Com+Sg+DefArt:athiompú	#;
+athnuachain		Nf3-SINGULAR;	! Headword: athnuachan (f)
+athnuachaint		Nf2-SINGULAR;	! Headword: athnuachan (f); Subvariant: (Var: athnuachain(t) f, athnuachtadh m) ***
+athnuachtadh		Nm1-1;	! Headword: athnuachan (f) ***
+baintreabhach		Nf2-4;	! Headword: baintreach (f)
+baintreách		Nf2-4;	! Headword: baintreach (f)
+baothaireacht		Nf3-SINGULAR;	! Headword: baothántacht (f)
+baothaíocht		Nf3-SINGULAR;	! Headword: baothántacht (f)
+baothántaíocht		Nf3-SINGULAR;	! Headword: baothántacht (f); Subvariant: (Var: baothaireacht, baoth(ánt)aíocht)
+barrchonla		Nm4-SINGULAR;	! Headword: barrchonlach (m) ***
+barrchuanla		Nm4-SINGULAR;	! Headword: barrchonlach (m) ***
+bastúnachas		Nm1-1;	! Headword: bastúnacht (f) ***
+bastúntaíocht		Nf3-SINGULAR;	! Headword: bastúnacht (f)
+bathalach		Nm1-1;	! Headword: bathlach (m)
+bathalóg		Nf2-1;	! Headword: bathlach (m)
+béasacht		Nf3-SINGULAR;	! Headword: béasaíocht (f)
+béasmhaireacht		Nf3-SINGULAR;	! Headword: béasaíocht (f)
+béasúlacht		Nf3-SINGULAR;	! Headword: béasaíocht (f)
+béicfeach		Nf2a-SINGULAR;	! Headword: béicíl (f) ***
+béicfeadhach		Nf2a-SINGULAR;	! Headword: béicíl (f) ***
+beochadh		Nm1-1;	! Headword: beochan (f) ***
+beochaint		Nf2-SINGULAR;	! Headword: beochan (f) ***
+beodhacht		Nf3-SINGULAR;	! Headword: beocht (f)
+beodhas		Nm1-1;	! Headword: beocht (f) ***
+beodhúlacht		Nf3-SINGULAR;	! Headword: beocht (f)
+binbhe		Nf4-SINGULAR;	! Headword: binb (f) ***
+binib		Nf2-SINGULAR;	! Headword: binb (f)
+bithiúntacht		Nf3-SINGULAR;	! Headword: bithiúntas (m) ***
+bithiúntaíl		Nf3-SINGULAR;	! Headword: bithiúntas (m) ***
+bithiúntaíocht		Nf3-SINGULAR;	! Headword: bithiúntas (m) ***
+bladhmadóireacht		Nf3-SINGULAR;	! Headword: bladhmaireacht (f)
+bladhmarach		Nf2a-SINGULAR;	! Headword: bladhmaireacht (f) ***
+blagad		Nf2-7;	! Headword: blagaid (f) ??? (not changed)
+blagóid		Nf2-7;	! Headword: blagaid (f)
+bleadaracht		Nf3-SINGULAR;	! Headword: bleadracht (f)
+bleadráil		Nf3-SINGULAR;	! Headword: bleadracht (f)
+bobarán		Nm1-1;	! Headword: bobarún (m)
+bobaró		Nm4-6;	! Headword: bobarún (m) ***
+bocailiú		Nm5-3;	! Headword: bocaileá (m) ***
+bocaileaidí		Nm4-4;	! Headword: bocaileá (m) ***
+bochtacht		Nf3-SINGULAR;	! Headword: bochtaineacht (f)
+bochtaine		Nf4-SINGULAR;	! Headword: bochtaineacht (f) ***
+bochtanacht		Nf3-SINGULAR;	! Headword: bochtaineacht (f)
+bochtanas		Nm1-1;	! Headword: bochtaineacht (f) ***
+bocsaeir		Nm3-1;	! Headword: bocsálaí (m) ***
+bocsóir		Nm3-1;	! Headword: bocsálaí (m) ***
+bodalán		Nm1-1;	! Headword: bodalach (m)
+bodaireach		Nm1-1;	! Headword: bodalach (m)
+bodairseach		Nm1-1;	! Headword: bodalach (m); Subvariant: (Var: bodalán m, bodair(s)each m)
+boilscean		Nm1-SINGULAR;	! Headword: boilsceann (m)
+boilsceán		Nm1-SINGULAR;	! Headword: boilsceann (m)
+bóleatha		Nf4-1;	! Headword: bóleathóg (f) *** ???
+bóleith		Nf2-1;	! Headword: bóleathóg (f)
+borrachadh		Nm5-6;	! Headword: borradh (m)
+borraíl		Nf3-1;	! Headword: borradh (m) ***
+braighdeach		Nm1-1;	! Headword: braighdeán (m)
+braighdeachán		Nm1-1;	! Headword: braighdeán (m)
+braighdín		Nm4-1;	! Headword: braighdeán (m) ***
+bráithreacht		Nf3-SINGULAR;	! Headword: bráithreachas (m) ***
+bráithreas		Nm1-1;	! Headword: bráithreachas (m)
+bréagachán		Nm1-1;	! Headword: bréagadóir (m) ***
+bréagaire		Nm4-2;	! Headword: bréagadóir (m) ***
+bréagaí		Nf4-SINGULAR;	! Headword: bréagadóireacht (f) ***
+bréagaíl		Nf3-SINGULAR;	! Headword: bréagadóireacht (f)
+bréagaireacht		Nf3-SINGULAR;	! Headword: bréagadóireacht (f)
+breallaí		Nf4-SINGULAR;	! Headword: breallaireacht (f) ***
+brealláil		Nf3-SINGULAR;	! Headword: breallaireacht (f)
+breallachán		Nm1-1;	! Headword: breallán (m)
+breallamán		Nm1-1;	! Headword: breallán (m)
+breallánacht		Nf3-SINGULAR;	! Headword: breallántacht (f)
+breallántaíocht		Nf3-SINGULAR;	! Headword: breallántacht (f)
+brealsach		Nm1-1;	! Headword: brealsún (m)
+brealsán		Nm1-1;	! Headword: brealsún (m)
+brealscaire		Nm4-2;	! Headword: brealsún (m) ***
+breathnadóir		Nm3-1;	! Headword: breathnóir (m)
+breathnaitheoir		Nm3-1;	! Headword: breathnóir (m)
+bromannacht		Nf3-SINGULAR;	! Headword: bromántacht (f)
+bromántas		Nm1-1;	! Headword: bromántacht (f) ***
+bruitheal		Nm1-SINGULAR;	! Headword: bruithean (f) *** ???
+bruithin		Nf2-SINGULAR;	! Headword: bruithean (f)
+buabhallach		Nf2-1a;	! Headword: buabhallaí (m) ***
+buabhallóir		Nm3-1;	! Headword: buabhallaí (m) ***
+buachtáil		Nf3-SINGULAR;	! Headword: buachan (f)
+buachtaint		Nf2-SINGULAR;	! Headword: buachan (f)
+búbaí		Nm4-4;	! Headword: búbaire (m) ***
+búbán		Nm1-1;	! Headword: búbaire (m) ***
+buimbileoir		Nm3-1;	! Headword: buimbiléir (m)
+buimiléir		Nm3-1;	! Headword: buimbiléir (m)
+búireadhach		Nf2-4;	! Headword: búireach (f)
+búirfeach		Nf2-4;	! Headword: búireach (f)
+bumaeireacht		Nf3-SINGULAR;	! Headword: bumaireacht (f)
+bumáil		Nf3-SINGULAR;	! Headword: bumaireacht (f)
+cabaíl		Nf3-SINGULAR;	! Headword: cabaireacht (f)
+cabaíocht		Nf3-SINGULAR;	! Headword: cabaireacht (f)
+cadrantacht		Nf3-SINGULAR;	! Headword: cadrántacht (f)
+cadrantas		Nm1-1;	! Headword: cadrántacht (f) ***
+cáible		Nm4-SINGULAR;	! Headword: cáibleáil (f)
+caibleáil		Nf3-SINGULAR;	! Headword: cáibleáil (f) ***
+cáinteachán		Nm1-1;	! Headword: cáinteoireacht (f) ***
+cáinteacht		Nf3-SINGULAR;	! Headword: cáinteoireacht (f)
+caismeacht		Nf2-4;	! Headword: caismirneach (f)
+caismearnach		Nf2-4;	! Headword: caismirneach (f)
+camasaíl		Nf3-SINGULAR;	! Headword: camastaíl (f)
+camastóireacht		Nf3-SINGULAR;	! Headword: camastaíl (f)
+caochántacht		Nf3-SINGULAR;	! Headword: caochaíl (f)
+caochántaíocht		Nf3-SINGULAR;	! Headword: caochaíl (f); Subvariant: (Var: caochánta(ío)cht f, caocharnach f)
+caocharnach		Nf2a-SINGULAR;	! Headword: caochaíl (f) ***
+carabóm		Nm1-1;	! Headword: carabuaic (f) ***
+carabunca		Nm4-1;	! Headword: carabuaic (f) ***
+cathraitheoir		Nm3-1;	! Headword: cathróir (m)
+cathránach		Nm1-1;	! Headword: cathróir (m) ***
+ceachaireacht		Nf3-SINGULAR;	! Headword: ceacharthacht (f)
+ceachardhacht		Nf3-SINGULAR;	! Headword: ceacharthacht (f)
+ceanndáine		Nf4-SINGULAR;	! Headword: ceanndánacht (f) ***
+ceanndánaíocht		Nf3-SINGULAR;	! Headword: ceanndánacht (f)
+cearnamán		Nm1-1;	! Headword: cearnamhán (m)
+cearndamhán		Nm1-1;	! Headword: cearnamhán (m)
+cearndubhán		Nm1-1;	! Headword: cearnamhán (m)
+cigileacht		Nf3-SINGULAR;	! Headword: cigilteacht (f)
+cigilteas		Nm1-1;	! Headword: cigilteacht (f) ***
+cineáltacht		Nf3-SINGULAR;	! Headword: cineáltas (m) ***
+cinéaltacht		Nf3-SINGULAR;	! Headword: cineáltas (m) ***
+cinéaltas		Nm1-1;	! Headword: cineáltas (m)
+cinntíocht		Nf3-1;	! Headword: cinnteacht (f)
+cinntíos		Nm1-SINGULAR;	! Headword: cinnteacht (f) ***
+ciontaíl		Nf3-SINGULAR;	! Headword: ciontacht (f)
+ciontaíocht		Nf3-SINGULAR;	! Headword: ciontacht (f)
+ciontas		Nm1-SINGULAR;	! Headword: ciontacht (f)
+ciorrbhadh		Nm1-1;	! Headword: ciorrú (m) *** ???
+ciorrbhú		Nm4-4;	! Headword: ciorrú (m)
+ciotrúnacht		Nf3-SINGULAR;	! Headword: ciotrúntacht (f)
+ciotrúntaíocht		Nf3-SINGULAR;	! Headword: ciotrúntacht (f)
+clabaíl		Nf3-SINGULAR;	! Headword: clabaireacht (f)
+clabáil		Nf3-SINGULAR;	! Headword: clabaireacht (f)
+clagairneach		Nf2-4;	! Headword: clagarnach (f)
+clagarnadh		Nm1-1;	! Headword: clagarnach (f) *** ???
+clagarnaíl		Nf3-6a;	! Headword: clagarnach (f) ***
+!claochló		Nm4-4;	! Headword: claochlú (m) ??? (not changed)
+claochló+Noun+Masc+Com+Sg:claochlú	#;
+claochló+Noun+Masc+Com+Sg+DefArt:claochlú	#;
+claochmú		Nm4-4;	! Headword: claochlú (m)
+cleasadóir		Nm3-1;	! Headword: cleasaí (m) ***
+cleasaíodóir		Nm3-1;	! Headword: cleasaí (m); Subvariant: (Var: cleasa(ío)dóir m, cleasamh(n)ach m)
+cleasamhach		Nm1-1;	! Headword: cleasaí (m) ***
+cleasamhnach		Nm1-1;	! Headword: cleasaí (m); Subvariant: (Var: cleasa(ío)dóir m, cleasamh(n)ach m) ***
+climreadh		Nm1-1;	! Headword: climirt (f) *** ???
+climseáil		Nf3-6a;	! Headword: climirt (f) ***
+cliútaire		Nm4-2;	! Headword: cliútach (m) ***
+cliútrálaí		Nm4-4;	! Headword: cliútach (m) ***
+clogad		Nf2-2;	! Headword: clogad (m) ***
+clogaid		Nf2-7;	! Headword: clogad (m) ***
+clogaide		Nf4-1;	! Headword: clogad (m); Subvariant: (Var: f, clogaid(e) f) ***
+cluasánacht		Nf3-SINGULAR;	! Headword: cluasántacht (f)
+cluasántaíocht		Nf3-SINGULAR;	! Headword: cluasántacht (f)
+cnagaíl		Nf3-SINGULAR;	! Headword: cnagaireacht (f)
+cnagairt		Nf2-SINGULAR;	! Headword: cnagaireacht (f) ***
+cneadhaireacht		Nf3-SINGULAR;	! Headword: cneáireacht (f)
+cneáirseáil		Nf3-SINGULAR;	! Headword: cneáireacht (f)
+cneamhaire		Nm4-2;	! Headword: cneámhaire (m)
+cnéamhaire		Nm4-2;	! Headword: cneámhaire (m)
+cnuasaire		Nm4-2;	! Headword: cnuasaitheoir (m) ***
+cnuastóir		Nm3-1;	! Headword: cnuasaitheoir (m)
+cocaíl		Nf3-SINGULAR;	! Headword: cocaireacht (f)
+cocaíocht		Nf3-SINGULAR;	! Headword: cocaireacht (f)
+coicíos		Nm1-7;	! Headword: coicís (f) ***
+cóicís		Nf2-7;	! Headword: coicís (f)
+cóicíos		Nf2-7;	! Headword: coicís (f); Subvariant: (Var: coicíos m, cóicí(o)s, coicthighis) ??? (not changed)
+coicthighis		Nf2-7;	! Headword: coicís (f)
+coigeál		Nf2-1;	! Headword: coigeal (f)
+coigéal		Nf2-1;	! Headword: coigeal (f)
+coipe		Nf4-SINGULAR;	! Headword: coipeadh (m) ***
+coipeáil		Nf3-6a;	! Headword: coipeadh (m) ***
+coisreacadh		Nm1-1;	! Headword: coisreacan (m)
+coisreagadh		Nm1-1;	! Headword: coisreacan (m)
+coisreagan		Nm1-1;	! Headword: coisreacan (m)
+comhbhráithreacht		Nf3-SINGULAR;	! Headword: comhbhráithreachas (m) ***
+comhbhráithreas		Nm1-1;	! Headword: comhbhráithreachas (m)
+comhráidhteach		Nm1-1;	! Headword: comhráiteach (m)
+comhráití		Nm4-4;	! Headword: comhráiteach (m) ***
+comhráidhtí		Nm4-4;	! Headword: comhráiteach (m); Subvariant: (Var: comhráidhteach, comhrái(dh)tí m) ***
+constrabhálaí		Nm4-4;	! Headword: construálaí (m)
+constrálaí		Nm4-4;	! Headword: construálaí (m)
+contrárdha		Nm4-SINGULAR;	! Headword: contrárthacht (f)
+contrárdhacht		Nf3-SINGULAR;	! Headword: contrárthacht (f)
+coparas		Nm1-SINGULAR;	! Headword: coparás (m)
+coparós		Nm1-SINGULAR;	! Headword: coparás (m)
+cráiteálaí		Nm4-4;	! Headword: cráiteachán (m) ***
+cráiteán		Nm1-1;	! Headword: cráiteachán (m)
+cráiteánach		Nm1-1;	! Headword: cráiteachán (m)
+cráiteánaí		Nm4-4;	! Headword: cráiteachán (m) ***
+craosach		Nm1-1;	! Headword: craosaire (m) ***
+craosachán		Nm1-1;	! Headword: craosaire (m) ***
+craosaí		Nm4-4;	! Headword: craosaire (m) ***
+craosánach		Nm1-1;	! Headword: craosaire (m) ***
+crócharn		Nm1-1;	! Headword: crócharnaid (f) *** ???
+crócharnán		Nm1-1;	! Headword: crócharnaid (f) ***
+cróchnaid		Nf2-7;	! Headword: crócharnaid (f)
+cróchrann		Nf2-2;	! Headword: crócharnaid (f) ***
+croitheal		Nm1-1;	! Headword: croithleán (m)
+croithleamán		Nm1-1;	! Headword: croithleán (m)
+cromadaíl		Nf3-SINGULAR;	! Headword: cromadach (f) ***
+cromaíl		Nf3-SINGULAR;	! Headword: cromadach (f) ***
+crostáil		Nf3-SINGULAR;	! Headword: crostacht (f)
+crostáltacht		Nf3-SINGULAR;	! Headword: crostacht (f)
+crupaide		Nm4-1;	! Headword: crupach (m) ***
+crupaire		Nm4-4;	! Headword: crupach (m) ***
+cuimhneachtáil		Nf3-6a;	! Headword: cuimhneamh (m)
+cuimhneachtain		Nf3-SINGULAR;	! Headword: cuimhneamh (m) *** (could be Nf2-SINGULAR or Nf4-SINGULAR)
+cuimhniú		Nm5-3;	! Headword: cuimhneamh (m) ***
+cuiscearach		Nf2a-SINGULAR;	! Headword: cuiscreach (f)
+cuiscearnach		Nf2a-SINGULAR;	! Headword: cuiscreach (f); Subvariant: (Var: cuiscear(n)ach, cuiscireach)
+cuiscireach		Nf2a-SINGULAR;	! Headword: cuiscreach (f)
+cumhscal		Nm1-1;	! Headword: cumhscú (m) *** ???
+cumhscladh		Nm1-1;	! Headword: cumhscú (m) *** ???
+dailtíneas		Nm1-1;	! Headword: dailtíneacht (f) ***
+dailtínteacht		Nf3-SINGULAR;	! Headword: dailtíneacht (f)
+dearcaidh		Nm3-6;	! Headword: dearcaí (m) ***
+dearcadóir		Nm3-1;	! Headword: dearcaí (m) ***
+deasachán		Nm1-1;	! Headword: deasagán (m)
+deasaí		Nm4-4;	! Headword: deasagán (m) ***
+deichear		Nm1-1;	! Headword: deichniúr (m)
+deichneabhar		Nm1-1;	! Headword: deichniúr (m)
+diagaitheacht		Nf3-SINGULAR;	! Headword: diagantacht (f)
+diagántacht		Nf3-SINGULAR;	! Headword: diagantacht (f)
+diagantas		Nm1-1;	! Headword: diagantacht (f) ***
+diagasúlacht		Nf3-SINGULAR;	! Headword: diagantacht (f)
+díobhal		Nm1-SINGULAR;	! Headword: díobhlás (m)
+díobhlacht		Nf3-SINGULAR;	! Headword: díobhlás (m) ***
+díobhlas		Nm1-SINGULAR;	! Headword: díobhlás (m)
+dioghrais		Nf2-3;	! Headword: díograis (f)
+díoghrais		Nf2-3;	! Headword: díograis (f)
+díogras		Nf2-3;	! Headword: díograis (f) ??? (not changed)
+díoghras		Nf2-3;	! Headword: díograis (f); Subvariant: (Var: dioghrais, díoghrais, díog(h)ras f)  ??? (not changed)
+diomail		Nf2-SINGULAR;	! Headword: diomailt (f)
+díomailt		Nf2-SINGULAR;	! Headword: diomailt (f)
+dóchasacht		Nf3-SINGULAR;	! Headword: dóchasúlacht (f)
+dóchasaí		Nf4-SINGULAR;	! Headword: dóchasúlacht (f)
+dornchar		Nm1-1;	! Headword: dornchla (m) ***
+dornchúl		Nm1-1;	! Headword: dornchla (m) ***
+dosca		Nf4-SINGULAR;	! Headword: doscaí (f)
+doscaidh		Nf3-SINGULAR;	! Headword: doscaí (f) ***
+dreapadach		Nf2a-SINGULAR;	! Headword: dreapadóireacht (f) ***
+dreapaireacht		Nf3-SINGULAR;	! Headword: dreapadóireacht (f)
+drisleach		Nf2a-SINGULAR;	! Headword: drisleach (m) ***
+drisle		Nf4-SINGULAR;	! Headword: drisleach (m) ***
+dronnán		Nm1-1;	! Headword: dronnachán (m)
+dronnaire		Nm4-2;	! Headword: dronnachán (m) ***
+duanaíocht		Nf3-SINGULAR;	! Headword: duanaireacht (f)
+duanaíl		Nf3-SINGULAR;	! Headword: duanaireacht (f)
+dundalán		Nm1-1;	! Headword: dundarlán (m)
+dundarmán		Nm1-1;	! Headword: dundarlán (m)
+eachlaisc		Nf2-2;	! Headword: eachlasc (f)
+eachfhleasc		Nf2-2;	! Headword: eachlasc (f)
+ealaíonacht		Nf3-SINGULAR;	! Headword: ealaíontacht (f)
+ealaíontóireacht		Nf3-SINGULAR;	! Headword: ealaíontacht (f)
+easómáid		Nf2-SINGULAR;	! Headword: easómós (m) ***
+easómóid		Nf2-SINGULAR;	! Headword: easómós (m) ***
+eatal		Nm1-1;	! Headword: eatal (f) ***
+eatail		Nf2-SINGULAR;	! Headword: eatal (f)
+eirice		Nm4-1;	! Headword: eiriceach (m) *** ???
+éiriceach		Nm1-1;	! Headword: eiriceach (m)
+eiricí		Nm4-4;	! Headword: eiriceach (m) ***
+eiseamlárú		Nm5-3;	! Headword: eiseamláiriú (m)
+eiseamlú		Nm5-3;	! Headword: eiseamláiriú (m)
+eisíona		Nf4-SINGULAR;	! Headword: eisíontas (m) ***
+eisíonacht		Nf3-SINGULAR;	! Headword: eisíontas (m) ***
+éisteacht		Nf3-SINGULAR;	! Headword: éisteacht (f) ***
+éisteach		Nf2a-SINGULAR;	! Headword: éisteacht (f) ***
+éisteachán		Nm1-1;	! Headword: éisteacht (f) ***
+éitheachtóir		Nm3-1;	! Headword: éitheoir (m)
+éitheadóir		Nm3-1;	! Headword: éitheoir (m)
+éithíodóir		Nm3-1;	! Headword: éitheoir (m)
+faicseanachas		Nm1-1;	! Headword: faicseanacht (f) ***
+faicseanaíocht		Nf3-SINGULAR;	! Headword: faicseanacht (f)
+faisnéidh		Nf2-7;	! Headword: faisnéis (f)
+faisníocht		Nf3-1;	! Headword: faisnéis (f) ***
+faoile		Nf4-1;	! Headword: faoileán (m) ***
+faoileadán		Nm1-1;	! Headword: faoileán (m)
+faoileagán		Nm1-1;	! Headword: faoileán (m)
+faoileannán		Nm1-1;	! Headword: faoileán (m)
+faoileog		Nf2-1;	! Headword: faoileán (m) ***
+feisteasóir		Nm3-1;	! Headword: feisteoir (m)
+feistitheoir		Nm3-1;	! Headword: feisteoir (m)
+feochaire		Nf4-SINGULAR;	! Headword: feochracht (f) ***
+feochaireacht		Nf3-SINGULAR;	! Headword: feochracht (f)
+feochra		Nf4-SINGULAR;	! Headword: feochracht (f) ***
+ficheallach		Nm1-1;	! Headword: ficheallaí (m) ***
+ficheallóir		Nm3-1;	! Headword: ficheallaí (m) ***
+fínéagra		Nm4-1;	! Headword: fínéagar (m) ***
+finéagra		Nm4-1;	! Headword: fínéagar (m) ***
+fiosraíl		Nf3-SINGULAR;	! Headword: fiosracht (f)
+fiosraitheacht		Nf3-SINGULAR;	! Headword: fiosracht (f)
+fíréantas		Nm1-1;	! Headword: fíréantacht (f) ***
+fíriántacht		Nf3-SINGULAR;	! Headword: fíréantacht (f)
+fisige		Nm4-1;	! Headword: fisigeach (m) ***
+fisigidh		Nm3-6;	! Headword: fisigeach (m) *** (??? could also belong to Nm4-CC)
+flaghdaireacht		Nf3-SINGULAR;	! Headword: flaidireacht (f)
+flaighdireacht		Nf3-SINGULAR;	! Headword: flaidireacht (f)
+flaighdeoireacht		Nf3-SINGULAR;	! Headword: flaidireacht (f)
+flaithiúnachas		Nm1-1;	! Headword: flaithiúnas (m)
+flaithiúnacht		Nf3-SINGULAR;	! Headword: flaithiúnas (m) ***
+fliuchnas		Nm1-SINGULAR;	! Headword: fliuchras (m) ***
+fliuchra		Nm4-SINGULAR;	! Headword: fliuchras (m) ***
+foighid		Nf2-SINGULAR;	! Headword: foighne (f)
+foighidne		Nf4-SINGULAR;	! Headword: foighne (f)
+fóirithin		Nf2-3;	! Headword: fóirithint (f)
+fóirint		Nf2-3;	! Headword: fóirithint (f)
+fóiriúint		Nf3-4;	! Headword: fóirithint (f) ***
+fuinse		Nf4-1;	! Headword: fuinseog (f) ***
+fuinseann		Nm1-1;	! Headword: fuinseog (f) ***
+fulaingeacht		Nf3-SINGULAR;	! Headword: fulangacht (f)
+fulaingtheacht		Nf3-SINGULAR;	! Headword: fulangacht (f); Subvariant: (Var: fulaing(th)eacht, fulangthacht)
+fulangthacht		Nf3-SINGULAR;	! Headword: fulangacht (f)
+gadsáda		Nm4-2;	! Headword: gadsaide (m)
+gadsáide		Nm4-2;	! Headword: gadsaide (m)
+gaibhneoireacht		Nf3-SINGULAR;	! Headword: gaibhneacht (f)
+gaibhníocht		Nf3-SINGULAR;	! Headword: gaibhneacht (f)
+gáirse		Nf4-SINGULAR;	! Headword: gáirsiúlacht (f) ***
+gáirseacht		Nf3-SINGULAR;	! Headword: gáirsiúlacht (f)
+gáirseantacht		Nf3-SINGULAR;	! Headword: gáirsiúlacht (f)
+gaisceadhach		Nm1-1;	! Headword: gaiscíoch (m)
+gaiscidheach		Nm1-1;	! Headword: gaiscíoch (m)
+garasan		Nm1-1;	! Headword: garastún (m)
+garastan		Nm1-1;	! Headword: garastún (m); Subvariant: (Var: garas(t)an, garasún)
+garasún		Nm1-1;	! Headword: garastún (m)
+geancaide		Nm4-1;	! Headword: geancachán (m) ***
+geancaire		Nm4-2;	! Headword: geancachán (m) ***
+geancaí		Nf4-SINGULAR;	! Headword: geancaíocht (f) ***
+geancas		Nm1-1;	! Headword: geancaíocht (f) ***
+giallachas		Nm1-1;	! Headword: giallacht (f) ***
+giallaí		Nf4-SINGULAR;	! Headword: giallacht (f) ***
+giallaíocht		Nf3-SINGULAR;	! Headword: giallacht (f)
+giallas		Nm1-1;	! Headword: giallacht (f) ***
+gilibín		Nm4-1;	! Headword: gilidín (m)
+gilicín		Nm4-1;	! Headword: gilidín (m)
+gilide		Nm4-1;	! Headword: gilidín (m) ??? (not changed)
+gilimín		Nm4-1;	! Headword: gilidín (m)
+gioblachas		Nm1-1;	! Headword: gioblacht (f) ***
+gioblaíocht		Nf3-SINGULAR;	! Headword: gioblacht (f)
+giollaíocht		Nf3-SINGULAR;	! Headword: giollacht (f)
+giollachan		Nf3-SINGULAR;	! Headword: giollacht (f)
+glafaíl		Nf3-SINGULAR;	! Headword: glafaireacht (f)
+glafairt		Nf2-SINGULAR;	! Headword: glafaireacht (f) ***
+glafar		Nm1-1;	! Headword: glafaireacht (f) ***
+glágarnach		Nf2a-SINGULAR;	! Headword: glagarnach (f)
+glágarnaíl		Nf3-SINGULAR;	! Headword: glagarnach (f) ***
+gláglach		Nf2a-SINGULAR;	! Headword: glagarnach (f)
+glaisean		Nf2-SINGULAR;	! Headword: glaisin (f)
+glaisín		Nm4-1;	! Headword: glaisin (f) ***
+gliceacht		Nf3-SINGULAR;	! Headword: gliceas (m) ***
+glicíl		Nf3-SINGULAR;	! Headword: gliceas (m) ***
+gliciúlacht		Nf3-SINGULAR;	! Headword: gliceas (m) ***
+gliúcaí		Nm4-4;	! Headword: gliúcach (m) ***
+gliúcálaí		Nm4-4;	! Headword: gliúcach (m) ***
+gliúrascach		Nf2a-SINGULAR;	! Headword: gliúrascnach (f)
+gliúrascáil		Nf3-SINGULAR;	! Headword: gliúrascnach (f) ***
+gliúscáil		Nf3-SINGULAR;	! Headword: gliúrascnach (f) ***
+gliúscairt		Nf2-SINGULAR;	! Headword: gliúrascnach (f) ***
+gniúdáil		Nf3-SINGULAR;	! Headword: gniúdán (m) ***
+gniúdaíl		Nf3-SINGULAR;	! Headword: gniúdán (m) ***
+grabhal		Nm1-1;	! Headword: grabhar (m)
+grabhlach		Nm1-1;	! Headword: grabhar (m)
+grágadaíl		Nf3-SINGULAR;	! Headword: grágaíl (f)
+grágáil		Nf3-SINGULAR;	! Headword: grágaíl (f)
+grágalach		Nf2a-SINGULAR;	! Headword: grágaíl (f) ***
+grágalaíocht		Nf3-SINGULAR;	! Headword: grágaíl (f)
+grágalaí		Nm4-4;	! Headword: grágaire (m) ***
+grágálaí		Nm4-4;	! Headword: grágaire (m) ***
+grásmhaireacht		Nf3-SINGULAR;	! Headword: grástúlacht (f)
+grásúlacht		Nf3-SINGULAR;	! Headword: grástúlacht (f)
+guagaíl		Nf3-SINGULAR;	! Headword: guagacht (f)
+guagaíocht		Nf3-SINGULAR;	! Headword: guagacht (f)
+guíochan		Nf3-SINGULAR;	! Headword: guíodóireacht (f)
+guíochaint		Nf2-SINGULAR;	! Headword: guíodóireacht (f) ***
+guíochtaint		Nf2-SINGULAR;	! Headword: guíodóireacht (f); Subvariant: (Var: guíochan f, guíoch(t)aint f) ***
+gúngaíl		Nf3-SINGULAR;	! Headword: gúngáil (f)
+gúngaireacht		Nf3-SINGULAR;	! Headword: gúngáil (f)
+gunnaeireacht		Nf3-SINGULAR;	! Headword: gunnadóireacht (f)
+gunnaireacht		Nf3-SINGULAR;	! Headword: gunnadóireacht (f)
+<h u r l a %_:%  h a r l a>		Nm4-SINGULAR;	! Headword: hurlamaboc (m)
+<h u r l a m a %_:%  g i ú r l a m a>	Nm4-SINGULAR;	! Headword: hurlamaboc (m)
+iargnó		Nm4-1;	! Headword: iarghnó (m)
+iargnú		Nm5-3;	! Headword: iarghnó (m) ***
+íobarthach		Nm1-1;	! Headword: íobartach (m)
+íobarthaí		Nm4-4;	! Headword: íobartach (m) ***
+ioscadach		Nm1-1;	! Headword: ioscadán (m)
+ioscadachán		Nm1-1;	! Headword: ioscadán (m)
+ioscadánaí		Nm4-4;	! Headword: ioscadán (m) ***
+jabaeireacht		Nf3-SINGULAR;	! Headword: jabaireacht (f)
+jabóireacht		Nf3-SINGULAR;	! Headword: jabaireacht (f)
+labhral		Nm1-1;	! Headword: labhras (m)
+labhran		Nm1-1;	! Headword: labhras (m)
+láirg		Nf2-8;	! Headword: láirig (f)
+láiric		Nf2-8;	! Headword: láirig (f)
+landa		Nf4-1;	! Headword: landair (f) ***
+landaíl		Nf3-6a;	! Headword: landair (f) ***
+landaoir		Nf2-7;	! Headword: landair (f)
+lánúnachas		Nm1-1;	! Headword: lánúnas (m)
+lánúineachas		Nm1-1;	! Headword: lánúnas (m)
+lascain		Nf2-7;	! Headword: lascaine (f) ***
+lascán		Nm1-1;	! Headword: lascaine (f) ***
+leanbacht		Nf3-SINGULAR;	! Headword: leanbaíocht (f)
+leanbánacht		Nf3-SINGULAR;	! Headword: leanbaíocht (f)
+leanbántacht		Nf3-SINGULAR;	! Headword: leanbaíocht (f); Subvariant: (Var: leanbacht, leanbán(t)acht, leanbhaíocht)
+leanbhaíocht		Nf3-SINGULAR;	! Headword: leanbaíocht (f)
+leanúnacht		Nf3-SINGULAR;	! Headword: leanúnachas (m) ***
+leanúnas		Nm1-1;	! Headword: leanúnachas (m)
+léaspairtíocht		Nf3-SINGULAR;	! Headword: léaspartaíocht (f)
+léaspairtíl		Nf3-SINGULAR;	! Headword: léaspartaíocht (f)
+leidhcide		Nf4-1;	! Headword: leidhce (m) ***
+leidhcín		Nm4-1;	! Headword: leidhce (m) ***
+léimreoir		Nm3-1;	! Headword: léimneoir (m)
+léimteoir		Nm3-1;	! Headword: léimneoir (m)
+léimtreoir		Nm3-1;	! Headword: léimneoir (m); Subvariant: (Var: léimreoir, léimt(r)eoir)
+liathachan		Nf3-SINGULAR;	! Headword: liathadh (m) ***
+liathachtaint		Nf2-SINGULAR;	! Headword: liathadh (m) ***
+limistéir		Nf2-7;	! Headword: limistéar (m) ***
+límistéireacht		Nf3-6a;	! Headword: limistéar (m) ***
+liobarnach		Nf2a-SINGULAR;	! Headword: liobarnacht (f)
+liobarnaíl		Nf3-SINGULAR;	! Headword: liobarnacht (f)
+liobarnaíocht		Nf3-SINGULAR;	! Headword: liobarnacht (f)
+líonraith		Nm4-1;	! Headword: líonrith (m)
+líonrú		Nm5-3;	! Headword: líonrith (m) ***
+luaithreamán		Nm1-1;	! Headword: luaithreamhán (m)
+luaithreán		Nm1-1;	! Headword: luaithreamhán (m)
+lucharbán		Nm1-1;	! Headword: lucharachán (m)
+luchargán		Nm1-1;	! Headword: lucharachán (m)
+lucharpán		Nm1-1;	! Headword: lucharachán (m)
+luchramán		Nm1-1;	! Headword: lucharachán (m)
+lug		Nm3-4;	! Headword: lugach (m) ***
+luga		Nm4-7;	! Headword: lugach (m) ***
+lugán		Nm1-1;	! Headword: lugach (m) ***
+luiteachas		Nm1-SINGULAR;	! Headword: luiteamas (m)
+luiteacht		Nf3-SINGULAR;	! Headword: luiteamas (m) ***
+luiteanas		Nm1-SINGULAR;	! Headword: luiteamas (m)
+Lúna		Nm4-1;	! Headword: Lúnasa (m)
+Lúnasna		Nf4-1;	! Headword: Lúnasa (m) ***
+macadán		Nm1-1;	! Headword: macán (m)
+macaidín		Nm4-1;	! Headword: macán (m) ***
+mairgne		Nf2-8;	! Headword: mairgneach (f) ***
+mairgní		Nf4-5;	! Headword: mairgneach (f) ***
+mangadaeir		Nm3-1;	! Headword: mangaire (m) ***
+mangadóir		Nm3-1;	! Headword: mangaire (m) ***
+mantaí		Nf4-SINGULAR;	! Headword: mantaíl (f) ***
+mantarnach		Nf2a-SINGULAR;	! Headword: mantaíl (f) ***
+méanfadhach		Nf2-4;	! Headword: méanfach (f)
+méanfaíoch		Nf2-1;	! Headword: méanfach (f) ***
+méanfaíl		Nf3-6a;	! Headword: méanfach (f)
+meirtean		Nf4-SINGULAR;	! Headword: meirtne (f) ??? (not changed)
+meirtní		Nf4-SINGULAR;	! Headword: meirtne (f)
+mochóirí		Nf4-SINGULAR;	! Headword: mochóirí (m) ***
+mochéirí		Nm4-SINGULAR;	! Headword: mochóirí (m) ***
+mochóireacht		Nf3-SINGULAR;	! Headword: mochóirí (m)
+móiméad		Nm1-1;	! Headword: móimint (f) *** (cf nóiméad)
+móimid		Nf2-7;	! Headword: móimint (f)
+mongailt		Nf2-7;	! Headword: monglait (f)
+monglach		Nm1-1;	! Headword: monglait (f) *** ???
+muileat		Nm3-1;	! Headword: muileata (m) *** ??? (could be Nm1-1 as well)
+muilit		Nf2-7;	! Headword: muileata (m)
+muirighean		Nm4-1;	! Headword: muirín (f)
+muirighin		Nm4-1;	! Headword: muirín (f)
+múiseán		Nm1-1;	! Headword: múisiam (m) *** (was Nm4-12 and could still be)
+múisiúm		Nm1-1;	! Headword: múisiam (m) *** (was Nm4-12 and could still be)
+múisiún		Nm1-1;	! Headword: múisiam (m) *** (was Nm4-12 and could still be)
+mursaireacht		Nf3-SINGULAR;	! Headword: mursantacht (f)
+mursanacht		Nf3-SINGULAR;	! Headword: mursantacht (f)
+naonbhar		Nm1-1;	! Headword: naonúr (m)
+naonmhar		Nm1-1;	! Headword: naonúr (m)
+nathaireacht		Nf3-SINGULAR;	! Headword: nathaíocht (f)
+nathánacht		Nf3-SINGULAR;	! Headword: nathaíocht (f)
+nimhneacht		Nf3-SINGULAR;	! Headword: nimhneachas (m) ***
+nimhneadas		Nm1-SINGULAR;	! Headword: nimhneachas (m) ***
+nimhneas		Nm1-SINGULAR;	! Headword: nimhneachas (m)
+nimhní		Nf4-SINGULAR;	! Headword: nimhneachas (m) ***
+óglách		Nm1-1;	! Headword: óglach (m)
+óglaoch		Nm1-1;	! Headword: óglach (m)
+óinseachaín		Nf4-1;	! Headword: óinsín (f)
+óinseog		Nf2-1;	! Headword: óinsín (f) ***
+óinsichín		Nf4-1;	! Headword: óinsín (f)
+óinseacht		Nf3-SINGULAR;	! Headword: óinsiúlacht (f)
+óinsíneacht		Nf3-SINGULAR;	! Headword: óinsiúlacht (f)
+óinsíocht		Nf3-SINGULAR;	! Headword: óinsiúlacht (f)
+ornáideacht		Nf3-SINGULAR;	! Headword: ornáideachas (m) ***
+ornáidíocht		Nf3-SINGULAR;	! Headword: ornáideachas (m) ***
+osnaí		Nf4-SINGULAR;	! Headword: osnaíl (f) ***
+osnaíocht		Nf3-SINGULAR;	! Headword: osnaíl (f)
+óstachas		Nm1-SINGULAR;	! Headword: óstaíocht (f) ***
+óstas		Nm1-SINGULAR;	! Headword: óstaíocht (f) ***
+otráil		Nf3-SINGULAR;	! Headword: otracht (f)
+otraíocht		Nf3-SINGULAR;	! Headword: otracht (f)
+págánacht		Nf3-SINGULAR;	! Headword: págántacht (f)
+págántaíocht		Nf3-SINGULAR;	! Headword: págántacht (f)
+paidreachas		Nm1-SINGULAR;	! Headword: paidreoireacht (f) ***
+paidreáil		Nf3-SINGULAR;	! Headword: paidreoireacht (f) ***
+pastaí		Nm4-4;	! Headword: pastaire (m) ***
+pastrachán		Nm1-1;	! Headword: pastaire (m) ***
+patalach		Nm1-1;	! Headword: pataire (m) ***
+patalachán		Nm1-1;	! Headword: pataire (m); Subvariant: (Var: patalach(án) m, patalán m, patalóg f, patán m, patarán m, patarún m, patlachán m)
+patalán		Nm1-1;	! Headword: pataire (m) ***
+patalóg		Nf2-1;	! Headword: pataire (m) ***
+patán		Nm1-1;	! Headword: pataire (m) ***
+patarán		Nm1-1;	! Headword: pataire (m) ***
+patarún		Nm1-1;	! Headword: pataire (m) ***
+patlachán		Nm1-1;	! Headword: pataire (m) ***
+piocadóireacht		Nf3-SINGULAR;	! Headword: piocaireacht (f)
+piocadradh		Nm1-1;	! Headword: piocaireacht (f) *** ???
+píolóid		Nf2-7;	! Headword: piolóid (f)
+piolóir		Nm3-1;	! Headword: piolóid (f) ***
+píolóit		Nm4-1;	! Headword: píolóta (m)
+píolóití		Nm4-4;	! Headword: píolóta (m) ***
+piteachán		Nm1-1;	! Headword: piteog (f) ***
+piteán		Nm1-1;	! Headword: piteog (f) ***
+plabaíl		Nf3-SINGULAR;	! Headword: plabaireacht (f)
+plabarnach		Nf2a-SINGULAR;	! Headword: plabaireacht (f)
+plásánaíocht		Nf3-SINGULAR;	! Headword: plásántacht (f)
+plásántas		Nm1-1;	! Headword: plásántacht (f) ***
+plódadh		Nm1-1;	! Headword: plódú (m) ***
+plodú		Nm5-3;	! Headword: plódú (m)
+portaíl		Nf3-SINGULAR;	! Headword: portaireacht (f)
+portaíocht		Nf3-SINGULAR;	! Headword: portaireacht (f)
+portanacht		Nf3-SINGULAR;	! Headword: portaireacht (f)
+prásaire		Nm4-2;	! Headword: prásaí (m) ***
+prásálaí		Nm4-4;	! Headword: prásaí (m)
+príosúntacht		Nf3-SINGULAR;	! Headword: príosúnacht (f)
+príosúntaíocht		Nf3-SINGULAR;	! Headword: príosúnacht (f)
+pusaíl		Nf3-SINGULAR;	! Headword: pusaireacht (f)
+pusaíocht		Nf3-SINGULAR;	! Headword: pusaireacht (f)
+racadh		Nm1-1;	! Headword: racáil (f) ***
+racadóireacht		Nf3-1;	! Headword: racáil (f) ***
+reangaire		Nm4-2;	! Headword: reangartach (m) ***
+reangaide		Nm4-2;	! Headword: reangartach (m) ***
+reanglach		Nm1-1;	! Headword: reanglamán (m)
+reanglachán		Nm1-1;	! Headword: reanglamán (m)
+reiligeadóir		Nm3-1;	! Headword: reiligire (m) ***
+reiligeoir		Nm3-1;	! Headword: reiligire (m) ***
+riaraí		Nm4-4;	! Headword: riarthóir (m) ***
+riaraitheoir		Nm3-1;	! Headword: riarthóir (m) ***
+righneacáil		Nf3-SINGULAR;	! Headword: righneáil (f) ***
+righneadóireacht		Nf3-SINGULAR;	! Headword: righneáil (f) ***
+righnealtaíocht		Nf3-SINGULAR;	! Headword: righneáil (f) ***
+righneacálaí		Nm4-4;	! Headword: righneálaí (m)
+righneadóir		Nm3-1;	! Headword: righneálaí (m) ***
+righneálach		Nm1-1;	! Headword: righneálaí (m) ***
+righneartálaí		Nm4-4;	! Headword: righneálaí (m)
+roithleadh		Nm5-6;	! Headword: roithleagadh (m)
+roithleáil		Nf3-6a;	! Headword: roithleagadh (m)
+rothmhaol		Nm1-1;	! Headword: rothmhol (m)
+rothmhual		Nm1-1;	! Headword: rothmhol (m)
+rothnuall		Nm1-1;	! Headword: rothmhol (m)
+ruatharnach		Nm1-1;	! Headword: ruatharach (m)
+ruatharúch		Nm1-1;	! Headword: ruatharach (m)
+ruchtach		Nf2a-SINGULAR;	! Headword: ruchtaíl (f)
+ruchtladh		Nm1-1;	! Headword: ruchtaíl (f) *** ???
+sacraiméid		Nf2-7;	! Headword: sacraimint (f)
+sácraimint		Nf2-7;	! Headword: sacraimint (f)
+sagartóide		Nf4-SINGULAR;	! Headword: sagartacht (f) ***
+sagartóireacht		Nf3-SINGULAR;	! Headword: sagartacht (f)
+sáimhreacht		Nf3-SINGULAR;	! Headword: sáimhríocht (f)
+sáimhrí		Nf4-SINGULAR;	! Headword: sáimhríocht (f) ***
+saírse		Nf4-2;	! Headword: sairse (f)
+sáirse		Nf4-2;	! Headword: sairse (f)
+samhlas		Nm1-1;	! Headword: samhnas (m)
+samhlás		Nm1-1;	! Headword: samhnas (m)
+samhnás		Nm1-1;	! Headword: samhnas (m)
+saobhthaí		Nm4-4;	! Headword: saofóir (m) ***
+saobhthóir		Nm3-1;	! Headword: saofóir (m)
+saoltas		Nm1-1;	! Headword: saoltacht (f) ***
+saoltachas		Nm1-1;	! Headword: saoltacht (f); Subvariant: (Var: saolt(ach)as m, saoltántacht) ***
+saoltántacht		Nf3-SINGULAR;	! Headword: saoltacht (f)
+scaibéas		Nm1-SINGULAR;	! Headword: scaibéis (f) ***
+scaibís		Nf2-SINGULAR;	! Headword: scaibéis (f)
+scaibhí		Nm4-4;	! Headword: scaibéis (f) ***
+scanrabóid		Nm4-1;	! Headword: scanróir (m) *** ???
+scanrachóid		Nm4-1;	! Headword: scanróir (m) *** ???
+scanradóir		Nm3-1;	! Headword: scanróir (m)
+sceitheadóir		Nm3-1;	! Headword: sceithire (m) ***
+sceitheoir		Nm3-1;	! Headword: sceithire (m) ***
+sciathlúileach		Nf2-1a;	! Headword: sciathlúireach (f)
+sciathrúileach		Nf2-1a;	! Headword: sciathlúireach (f)
+scibhear		Nm1-1;	! Headword: scibhéar (m)
+scibhéir		Nm3-1;	! Headword: scibhéar (m) ***
+sciúg		Nm4-7;	! Headword: sciúg (f) *** ??? (cf fúg, but just an analogy)
+sciúig		Nf2-SINGULAR;	! Headword: sciúg (f)
+sciúchaíl		Nf3-SINGULAR;	! Headword: sciúgaíl (f)
+sciúigíl		Nf3-SINGULAR;	! Headword: sciúgaíl (f)
+sclamhadóir		Nm3-1;	! Headword: sclamhaire (m) ***
+sclamhaí		Nm4-4;	! Headword: sclamhaire (m) ***
+sclamhaíl		Nf3-SINGULAR;	! Headword: sclamhairt (f) ***
+sclamhaireacht		Nf3-SINGULAR;	! Headword: sclamhairt (f) ***
+scolfarnach		Nf2a-SINGULAR;	! Headword: scolfairt (f) ***
+scolfartach		Nf2a-SINGULAR;	! Headword: scolfairt (f) ***
+scrabhaire		Nm4-2;	! Headword: scrabhdóir (m) ***
+scrabhdálaí		Nm4-4;	! Headword: scrabhdóir (m) ***
+scrabhaireacht		Nf3-SINGULAR;	! Headword: scrabhdóireacht (f)
+scrabhdáil		Nf3-SINGULAR;	! Headword: scrabhdóireacht (f)
+scráid		Nf2-7;	! Headword: scráidín (m) ***
+scráideog		Nf2-1;	! Headword: scráidín (m) ***
+scraistíocht		Nf3-SINGULAR;	! Headword: scraisteacht (f)
+scraistireacht		Nf3-SINGULAR;	! Headword: scraisteacht (f)
+scraistiúlacht		Nf3-SINGULAR;	! Headword: scraisteacht (f)
+screadadh		Nm1-1;	! Headword: screadach (f) *** ???
+screadaíl		Nf3-SINGULAR;	! Headword: screadach (f)
+screadalach		Nf2-4;	! Headword: screadach (f)
+screadarnach		Nf2-4;	! Headword: screadach (f)
+seanórdhacht		Nf3-SINGULAR;	! Headword: seanórthacht (f)
+seanórtas		Nm1-1;	! Headword: seanórthacht (f) ***
+séitreachas		Nm1-1;	! Headword: séitreacht (f) ***
+séitrí		Nf4-SINGULAR;	! Headword: séitreacht (f) ***
+seoide		Nm4-2;	! Headword: seoidire (m)
+seoideadh		Nm1-1;	! Headword: seoidire (m) ***
+simléir		Nm3-1;	! Headword: simléar (m) ***
+simné		Nm4-2;	! Headword: simléar (m) ***
+siortaí		Nm4-4;	! Headword: siortaitheoir (m) ***
+siortálaí		Nm4-4;	! Headword: siortaitheoir (m) ***
+siosaireacht		Nf3-SINGULAR;	! Headword: siosarnach (f) ***
+siosamar		Nm1-SINGULAR;	! Headword: siosarnach (f) ***
+siosarnáil		Nf3-SINGULAR;	! Headword: siosarnach (f) ***
+sítheadh		Nm1-7;	! Headword: sitheadh (m)
+sitheamh		Nm1-1;	! Headword: sitheadh (m) *** ???
+slabaíl		Nf3-SINGULAR;	! Headword: slabáil (f)
+slabaireacht		Nf3-SINGULAR;	! Headword: slabáil (f)
+slabaráil		Nf3-SINGULAR;	! Headword: slabáil (f)
+slabarnaíl		Nf3-SINGULAR;	! Headword: slabáil (f)
+slam		Nm4-7;	! Headword: slám (m)
+slama		Nm4-1;	! Headword: slám (m) ***
+sleanntán		Nm1-1;	! Headword: sleanntach (m)
+sleanntrach		Nm1-1;	! Headword: sleanntach (m)
+slibireáil		Nf3-SINGULAR;	! Headword: slibreáil (f)
+slibleáil		Nf3-SINGULAR;	! Headword: slibreáil (f)
+smísteach		Nm1-1;	! Headword: smísteoir (m) ***
+smísteálaí		Nm4-4;	! Headword: smísteoir (m) ***
+smugach		Nm1-1;	! Headword: smugachán (m)
+smugaire		Nm4-2;	! Headword: smugachán (m) ***
+smugarlach		Nm1-1;	! Headword: smugachán (m)
+smugarlachán		Nm1-1;	! Headword: smugachán (m)
+smuigiléireacht		Nf3-SINGULAR;	! Headword: smuigíneacht (f)
+smuigirlíneacht		Nf3-SINGULAR;	! Headword: smuigíneacht (f)
+smúrthaíl		Nf3-SINGULAR;	! Headword: smúrthacht (f)
+smúrtháil		Nf3-SINGULAR;	! Headword: smúrthacht (f)
+smutaí		Nm4-4;	! Headword: smutachán (m) ***
+smutaire		Nm1-1;	! Headword: smutachán (m)
+snagadán		Nm1-1 ;	! Headword: snagaí (m) ***
+snágaí		Nm4-4;	! Headword: snagaí (m)
+snámhacálaí		Nm4-4;	! Headword: snámhaí (m)
+snámhaire		Nm4-2;	! Headword: snámhaí (m) ***
+snoidheadóireacht		Nf3-SINGULAR;	! Headword: snoíodóireacht (f)
+snoíochán		Nm1-1;	! Headword: snoíodóireacht (f) ***
+sodaráil		Nf3-SINGULAR;	! Headword: sodarnaíl (f)
+sodarnach		Nf2a-SINGULAR;	! Headword: sodarnaíl (f) ***
+soineannaí		Nf4-SINGULAR;	! Headword: soineantacht (f) ***
+soineantas		Nm1-1;	! Headword: soineantacht (f) ***
+sollúnacht		Nf3-SINGULAR;	! Headword: sollúntacht (f)
+sollúntas		Nm1-1;	! Headword: sollúntacht (f) ***
+sopadaíl		Nf3-SINGULAR;	! Headword: sopaireacht (f)
+sopáil		Nf3-SINGULAR;	! Headword: sopaireacht (f)
+soparáil		Nf3-SINGULAR;	! Headword: sopaireacht (f)
+spéiread		Nm1-1;	! Headword: spéireata (m) *** (could belong to Nm4- as well)
+spéireat		Nm1-1;	! Headword: spéireata (m) *** (could belong to Nm4- as well)
+spéirlín		Nm4-1;	! Headword: spéirlint (f) ***
+spéirling		Nf2-7;	! Headword: spéirlint (f)
+spiothóg		Nf2-1;	! Headword: spitheog (f)
+spíothóg		Nf2-1;	! Headword: spitheog (f)
+spochaireacht		Nf3-SINGULAR;	! Headword: spochadóireacht (f)
+spocharnaíl		Nf3-SINGULAR;	! Headword: spochadóireacht (f)
+spréachaíl		Nf3-SINGULAR;	! Headword: spréachadh (m) ***
+spréacháil		Nf3-SINGULAR;	! Headword: spréachadh (m) ***
+spréachaláil		Nf3-SINGULAR;	! Headword: spréachadh (m) ***
+spreagaí		Nm4-4;	! Headword: spreagthóir (m) ***
+spreagaire		Nm4-2;	! Headword: spreagthóir (m) ***
+sprúileach		Nm1-SINGULAR;	! Headword: sprúilleach (m)
+sprúireach		Nm1-SINGULAR;	! Headword: sprúilleach (m)
+sramaí		Nm4-4;	! Headword: sramaide (m) ***
+sramaire		Nm4-2;	! Headword: sramaide (m)
+srannfadhach		Nf2a-SINGULAR;	! Headword: srannfach (f)
+srannfaíl		Nf3-SINGULAR;	! Headword: srannfach (f) ***
+srannfairt		Nf2-SINGULAR;	! Headword: srannfach (f) ***
+srannfartach		Nf2a-SINGULAR;	! Headword: srannfach (f)
+sranntaíl		Nf3-SINGULAR;	! Headword: srannfach (f) ***
+sranntarnach		Nf2a-SINGULAR;	! Headword: srannfach (f)
+sranntarnaíl		Nf3-SINGULAR;	! Headword: srannfach (f) ***
+sraothairt		Nf2-SINGULAR;	! Headword: sraothartach (f) ***
+sraothartaíl		Nf3-6a;	! Headword: sraothartach (f) ***
+srúmataíl		Nf3-SINGULAR;	! Headword: srúmáil (f)
+srumatáil		Nf3-SINGULAR;	! Headword: srúmáil (f)
+stadaíl		Nf3-SINGULAR;	! Headword: stadaireacht (f)
+stadarnáil		Nf3-SINGULAR;	! Headword: stadaireacht (f)
+stealláil		Nf3-6a;	! Headword: stealladh (m) ***
+steallaíl		Nf3-6a;	! Headword: stealladh (m) ***
+stopadán		Nm1-1;	! Headword: stopaide (m) ***
+stopaire		Nm4-2;	! Headword: stopaide (m)
+straedóir		Nm3-1;	! Headword: straeire (m) ***
+straethaire		Nm4-2;	! Headword: straeire (m)
+straindéir		Nm3-1;	! Headword: strainséir (m)
+stráinséir		Nm3-1;	! Headword: strainséir (m)
+streachladh		Nm1-1;	! Headword: streachailt (f) ***
+streachláil		Nf3-SINGULAR;	! Headword: streachailt (f) ***
+suaraí		Nf4-SINGULAR;	! Headword: suaraíocht (f) ***
+suaraíl		Nf3-SINGULAR;	! Headword: suaraíocht (f)
+talcantacht		Nf3-SINGULAR;	! Headword: talcántacht (f)
+talcmhaireacht		Nf3-SINGULAR;	! Headword: talcántacht (f)
+teibirse		Nf4-SINGULAR;	! Headword: teibearsain (f) ***
+teibirsin		Nf2-SINGULAR;	! Headword: teibearsain (f)
+tincléireacht		Nf3-SINGULAR;	! Headword: tincéireacht (f)
+tincleoireacht		Nf3-SINGULAR;	! Headword: tincéireacht (f)
+tnúthánach		Nm1-1;	! Headword: tnúthánaí (m) ***
+tnúthaire		Nm4-2;	! Headword: tnúthánaí (m) ***
+tnúthálaí		Nm4-4;	! Headword: tnúthánaí (m)
+tóirpeachán		Nm1-1;	! Headword: toirpín (m) ***
+tóirpín		Nm4-1;	! Headword: toirpín (m)
+torchuirthe		Nm4-2;	! Headword: torchaire (m)
+torchur		Nm1-1;	! Headword: torchaire (m) ***
+trostaíl		Nf3-SINGULAR;	! Headword: trostal (m) ***
+trostar		Nm1-1;	! Headword: trostal (m)
+truailleán		Nm1-1;	! Headword: truailleachán (m)
+truailleánach		Nm1-1;	! Headword: truailleachán (m)
+truailleadas		Nm1-SINGULAR;	! Headword: truailleachas (m)
+truailleánacht		Nf3-SINGULAR;	! Headword: truailleachas (m) ***
+truamhéil		Nf2-SINGULAR;	! Headword: truamhéala (f) *** ???
+truamhéile		Nf4-SINGULAR;	! Headword: truamhéala (f)
+trumpaireacht		Nf3-SINGULAR;	! Headword: trumpadóireacht (f)
+trumpóireacht		Nf3-SINGULAR;	! Headword: trumpadóireacht (f)
+trupáis		Nf2-SINGULAR;	! Headword: trupás (m) ***
+truplásc		Nm1-SINGULAR;	! Headword: trupás (m)
+turair		Nf2-SINGULAR;	! Headword: turaireacht (f) ***
+turaire		Nf3-SINGULAR;	! Headword: turaireacht (f)
+turrac		Nm1-1;	! Headword: turraing (f) *** (cf tarrac)
+turraic		Nf2-7;	! Headword: turraing (f)
+uallacht		Nf3-SINGULAR;	! Headword: uallachas (m) ***
+uallaíocht		Nf3-SINGULAR;	! Headword: uallachas (m) ***
+úidh		Nf2-SINGULAR;	! Headword: uídh (f)
+uidhe		Nf2-SINGULAR;	! Headword: uídh (f)
+uirléis		Nf2-7;	! Headword: uirlis (f)
+uirnéis		Nf2-7;	! Headword: uirlis (f)
+uirnis		Nf2-7;	! Headword: uirlis (f)
+ulagán		Nm1-1;	! Headword: ulchabhán (m)
+ulcachán		Nm1-1;	! Headword: ulchabhán (m)
+ulchabhchán		Nm1-1;	! Headword: ulchabhán (m)
+úspáil		Nf3-SINGULAR;	! Headword: úspaireacht (f)
+úspairt		Nf3-SINGULAR;	! Headword: úspaireacht (f)
+vótaeir		Nm3-1;	! Headword: vótálaí (m) ***
+vótóir		Nm3-1;	! Headword: vótálaí (m) ***
+
+! *** Assigned by hand.
+! Variants where only endings where given, e.g. bloghra, m. [...] (Var: ~idh f)
+! Changes in gender and/or CC are fairly common.
+! CW 28/08/08
+adhnáireacht	Nf3-SINGULAR;	! Headword: adhnáire (f) ***
+aimhréidheas	Nm1-1;	! Headword: aimhréidh (f) ***
+aindiúide	Nf4-SINGULAR;	! Headword: aindiúid (f) ***
+almsain	Nf2-SINGULAR;	! Headword: almsa (f) *** ???
+amhainseacht	Nf3-SINGULAR;	! Headword: amhainse (f) ***
+amhaisce	Nf4-SINGULAR;	! Headword: amhaisc (f) ***
+anbhuaine	Nf4-SINGULAR;	! Headword: anbhuain (f) ***
+antromán	Nm1-SINGULAR;	! Headword: antrom (m) ***
+baicleach	Nf2-1a;	! Headword: baicle (f) *** ???
+beachóg	Nf2-1;	! Headword: beach (f)
+béascnaíocht	Nf3-1;	! Headword: béascna (f) ***
+béitíne	Nm4-SINGULAR;	! Headword: béitín (m)
+bladhmannas	Nm1-1;	! Headword: bladhmann (m)
+bloghraidh	Nf2-SINGULAR;	! Headword: bloghra (m) ***
+bochtánach	Nm1-1;	! Headword: bochtán (m)
+bogásacht	Nf3-SINGULAR;	! Headword: bogás (m)
+bóibéisíocht	Nf3-SINGULAR;	! Headword: bóibéis (f)
+boilsce	Nf4-2;	! Headword: boilsc (f) ***
+breochtaint	Nf2-SINGULAR;	! Headword: breo (m) ***
+bríde	Nf4-5;	! Headword: bríd (f) ***
+brionna	Nm4-1;	! Headword: brionn (m) *** ???
+bulca	Nm4-1;	! Headword: bulc (m) *** ???
+búrach	Nm1-1;	! Headword: búr (m)
+cafarra	Nm4-1;	! Headword: cafarr (m) *** ???
+caidirseach	Nf2-1a;	! Headword: caidir (f)
+cairdinéalach	Nm1-1;	! Headword: cairdinéal (m)
+calma	Nm4-1;	! Headword: calm (m) *** ???
+canránacht	Nf2-SINGULAR;	! Headword: canrán (m) ***
+cantarnaíl	Nf3-SINGULAR;	! Headword: cantarna (f) ***
+carbánach	Nm1-1;	! Headword: carbán (m)
+carbhánach	Nm1-1;	! Headword: carbhán (m)
+carbhata	Nm4-1;	! Headword: carbhat (m) *** ???
+cása	Nm4-6;	! Headword: cás (m) ***
+Céadaoine	Nf4-5;	! Headword: Céadaoin (f)
+ceannachadh	Nm1-1;	! Headword: ceannach (m)
+ceannasc	Nm1-SINGULAR;	! Headword: ceannas (m)
+cearna	Nf4-SINGULAR;	! Headword: cearn (f) ***
+ceolánaí	Nm4-4;	! Headword: ceolán (m) ***
+ciafartán	Nm1-1;	! Headword: ciafart (m)
+ciallúint	Nf3-4;	! Headword: ciallú (m) ***
+cimeach	Nm1-1;	! Headword: cime (m) ***
+clóbhas	Nm1-1;	! Headword: clóbh (m)
+clochrach	Nf2-1a;	! Headword: clochra (m) *** ???
+cloigneachán	Nm1-1;	! Headword: cloigneach (f) ***
+clupaide	Nf4-2;	! Headword: clupaid (f) ***
+cnatachán	Nm1-1;	! Headword: cnat (m)
+cnuasacht	Nm3-3;	! Headword: cnuasach (m) *** (cf comhlacht)
+codlatánach	Nm1-1;	! Headword: codlatán (m)
+coibhéiseacht	Nf3-SINGULAR;	! Headword: coibhéis (f) ***
+coillteánach	Nm1-1;	! Headword: coillteán (m)
+coirnéalach	Nm1-1;	! Headword: coirnéal (m)
+coisíoch	Nm1-1;	! Headword: coisí (m) ***
+comaoine	Nf4-5;	! Headword: comaoin (f) *** ???
+comhalladh	Nm1-1;	! Headword: comhall (m)
+comhbháidh	Nf4-SINGULAR;	! Headword: comhbhá (f) ***
+copógach	Nf2-1a;	! Headword: copóg (f) ***
+corrmhíoltóg	Nf2-1;	! Headword: corrmhíol (m) ***
+coscadh	Nm1-1;	! Headword: cosc (m)
+críonachán	Nm1-SINGULAR;	! Headword: críonach (m)
+Críosta	Nm4-1;	! Headword: Críost (m) (could be Nm4-7 as well)
+croinicil	Nf2-7;	! Headword: croinic (f)
+crónánacht	Nf3-SINGULAR;	! Headword: crónán (m)
+cuide	Nf4-6;	! Headword: cuid (f) ***
+cúirtéisí	Nf4-10;	! Headword: cúirtéis (f) *** ???
+cumascadh	Nm1-1;	! Headword: cumasc (m)
+dabhta	Nm4-8;	! Headword: dabht (m) ***
+dailtíneach	Nm1-1;	! Headword: dailtín (m) ***
+daingniúchán	Nm1-1;	! Headword: daingniú (m) ***
+damhraidh	Nf4-1;	! Headword: damhra (m) *** ???
+daoisteach	Nm1-1;	! Headword: daoiste (m) ***
+daonchaireacht	Nf3-SINGULAR;	! Headword: daonchaire (f) ***
+déirce	Nf4-SINGULAR;	! Headword: déirc (f) ***
+deoiseas	Nm1-1;	! Headword: deoise (f) ***
+deolcachán	Nm1-1;	! Headword: deolcach (m)
+dílleachtaí	Nm4-4;	! Headword: dílleachta (m) ***
+dínite	Nf4-SINGULAR;	! Headword: dínit (f) ***
+díoladh	Nm1-SINGULAR;	! Headword: díol (m) ***
+dísce	Nf4-SINGULAR;	! Headword: dísc (f) ***
+discréide	Nf4-SINGULAR;	! Headword: discréid (f) ***
+diúlcachán	Nm1-1;	! Headword: diúlcach (m)
+dochmacht	Nf3-SINGULAR;	! Headword: dochma (m)
+doice	Nf4-SINGULAR;	! Headword: doic (f) ***
+dóinge	Nf4-2;	! Headword: dóing (f) ***
+domlasc	Nm1-1;	! Headword: domlas (m)
+donnánach	Nm1-1;	! Headword: donnán (m)
+dreancaide	Nm4-2;	! Headword: dreancaid (f)
+dreoghadh	Nm4-1;	! Headword: dreo (m)
+dromchlaidhe	Nm4-2;	! Headword: dromchla (m) ***
+druideog	Nf2-1;	! Headword: druid (f) ***
+dúideán	Nm1-1;	! Headword: dúid (f) ***
+duileascarnach	Nm1-1;	! Headword: duileascar (m)
+duladh	Nm1-SINGULAR;	! Headword: dul (m) *** ???
+dúlraidh	Nf4-SINGULAR;	! Headword: dúlra (m) ***
+dúshraithe	Nf4-6;	! Headword: dúshraith (f) ***
+dusmas	Nm1-SINGULAR;	! Headword: dusma (m)
+!eachradh	Nf?-??;	! Headword: eachra (m)
+!eachraidh	Nf?-??;	! Headword: eachra (m); Subvariant: (Var: ~(i)dh f)
+eachradh+Noun+Fem+Com+Sg:0	#;
+eachradh+Noun+Fem+Com+Sg+DefArt:0	#;
+eachraidh+Noun+Fem+Com+Sg:0	#;
+eachraidh+Noun+Fem+Com+Sg+DefArt:0	#;
+éachta	Nm4-1;	! Headword: éacht (m) ***
+easpagán	Nm1-1;	! Headword: easpag (m)
+eiteachtáil	Nf3-SINGULAR;	! Headword: eiteach (m) ***
+fabhta	Nm4-6;	! Headword: fabht (m) ***
+fága	Nm4-6;	! Headword: fág (m) ***
+feabhránach	Nm1-1;	! Headword: feabhrán (m)
+feithide	Nf4-2;	! Headword: feithid (f) ***
+fionnánach	Nm1-SINGULAR;	! Headword: fionnán (m)
+fíréanach	Nm1-1;	! Headword: fíréan (m)
+flichneadh	Nm1-SINGULAR;	! Headword: flichne (f) *** ???
+fochaideadh	Nm1-SINGULAR;	! Headword: fochaid (f) *** ???
+fochlacán	Nm1-1;	! Headword: fochlac (m)
+foirbe	Nf4-5;	! Headword: foirb (f) ***
+foirneachán	Nm1-1;	! Headword: foirneach (m)
+foistineacht	Nf3-SINGULAR;	! Headword: foistine (f)
+forbhaise	Nf4-2;	! Headword: forbhais (f) ***
+forbhrígh	Nf4-SINGULAR;	! Headword: forbhrí (f) (not changed, could be Nf2-SINGULAR)
+forcraidh	Nf4-SINGULAR;	! Headword: forcra (f) (not changed, could be Nf2-SINGULAR)
+forlaogh	Nm4-SINGULAR;	! Headword: forlao (m)
+frídeog	Nf2-1;	! Headword: fríd (f) ***
+friotháilt	Nf2-SINGULAR;	! Headword: friotháil (f) ***
+fuireacht	Nm3-SINGULAR;	! Headword: fuireach (m) ***
+gabháilt	Nf2-SINGULAR;	! Headword: gabháil (f) ***
+gailbheach	Nf2-1a;	! Headword: gailbh (f)
+gamalachán	Nm1-1;	! Headword: gamal (m)
+garlachán	Nm1-1;	! Headword: garlach (m)
+garmain	Nf3-SINGULAR;	! Headword: garma (f) *** ???
+!gasradh	Nf?-??;	! Headword: gasra (m)
+!gasraidh	Nf?-??;	! Headword: gasra (m); Subvariant: (Var: ~(i)dh f)
+gasradh+Noun+Fem+Com+Sg:0	#;
+gasradh+Noun+Fem+Com+Sg+DefArt:0	#;
+gasraidh+Noun+Fem+Com+Sg:0	#;
+gasraidh+Noun+Fem+Com+Sg+DefArt:0	#;
+géise	Nf4-6;	! Headword: géis (f) ***
+geospalán	Nm1-1;	! Headword: geospal (m)
+geospaltán	Nm1-1;	! Headword: geospal (m); Subvariant: (Var: ~(t)án m)
+gibirisc	Nf2-SINGULAR;	! Headword: gibiris (f)
+ginearálaí	Nm4-4;	! Headword: ginearál (m) ***
+glasdíolaíocht	Nf3-SINGULAR;	! Headword: glasdíol (m) ***
+glasíocaíocht	Nf3-SINGULAR;	! Headword: glasíoc (m) ***
+gléineacht	Nf3-SINGULAR;	! Headword: gléine (f) ***
+gléireacht	Nf3-SINGULAR;	! Headword: gléire (f) ***
+gleoisíneach	Nm1-1;	! Headword: gleoisín (m) ***
+glóire	Nf4-SINGULAR;	! Headword: glóir (f) ***
+gráiscíneach	Nm1-1;	! Headword: gráiscín (m) ***
+grampard	Nm1-1;	! Headword: grampar (m)
+greamúsaí	Nf2-SINGULAR;	! Headword: greamús (m)
+hartas	Nm1-1;	! Headword: hart (m)
+idirshuíomh	Nm1-1;	! Headword: idirshuí (m) ***
+impireoir	Nm3-1;	! Headword: impire (m) ***
+inchleithe	Nf2-SINGULAR;	! Headword: inchleith (f)
+!iomarbhágh	Nf4-8;	! Headword: iomarbhá (f)
+!iomarbháigh	Nf4-8;	! Headword: iomarbhá (f); Subvariant: (Var: ~(i)gh f)
+iomarbhágh+Noun+Fem+Com+Sg:0	#;
+iomarbhágh+Noun+Fem+Com+Sg+DefArt:0	#;
+iomarbháigh+Noun+Fem+Com+Sg:0	#;
+iomarbháigh+Noun+Fem+Com+Sg+DefArt:0	#;
+iomarcaidh	Nf4-SINGULAR;	! Headword: iomarca (f)
+iomlascadh	Nm1-1;	! Headword: iomlasc (m)
+ladaráil	Nf3-6a;	! Headword: ladar (m) ***
+lainneachas	Nm1-1;	! Headword: lainne (f) ***
+leachta	Nm4-6;	! Headword: leacht (m) ***
+leathphunta	Nm4-6;	! Headword: leathphunt (m) *** ???
+leicneánaí	Nm4-4;	! Headword: leicneán (m) ***
+leircíneach	Nm1-1;	! Headword: leircín (m) ***
+líonraidh	Nf4-SINGULAR;	! Headword: líonra (f) ***
+líreacas	Nm1-1;	! Headword: líreac (m)
+liúchtaint	Nf2-SINGULAR;	! Headword: liúch (m) ***
+liúireacht	Nf3-1;	! Headword: liúireach (f) ***
+lobhracht	Nf3-SINGULAR;	! Headword: lobhra (f) ***
+lumparnach	Nf2a-SINGULAR;	! Headword: lumpar (m)
+macasamhailt	Nf2-7;	! Headword: macasamhail (f) ***
+macnasacht	Nf3-SINGULAR;	! Headword: macnas (m) ***
+!macraidh	Nf?-??;	! Headword: macra (m)
+macraidh+Noun+Fem+Com+Sg:0	#;
+macraidh+Noun+Fem+Com+Sg+DefArt:0	#;
+!malraidh	Nf?-??;	! Headword: malra (m)
+malraidh+Noun+Fem+Com+Sg:0	#;
+malraidh+Noun+Fem+Com+Sg+DefArt:0	#;
+malrachán	Nm1-1;	! Headword: malrach (m)
+manga	Nm4-6;	! Headword: mang (f) *** ???
+manta	Nm4-6;	! Headword: mant (m) ***
+mantachánaí	Nm4-4;	! Headword: mantachán (m) ***
+marbhánach	Nm1-1;	! Headword: marbhán (m)
+!marbhnaidh	Nf?-??;	! Headword: marbhna (m)
+marbhnaidh+Noun+Fem+Com+Sg:0	#;
+marbhnaidh+Noun+Fem+Com+Sg+DefArt:0	#;
+!meanmain	Nf5-3;	! Headword: meanma (f)
+meanmain+Noun+Fem+Com+Sg:0	#;
+meanmain+Noun+Fem+Com+Sg+DefArt:0	#;
+!measraidh	Nf?-??;	! Headword: measra (m)
+measraidh+Noun+Fem+Com+Sg:0	#;
+measraidh+Noun+Fem+Com+Sg+DefArt:0	#;
+meathánach	Nm1-1;	! Headword: meathán (m)
+méileachán	Nm1-1;	! Headword: méileach (f) ***
+mionna	Nm4-1;	! Headword: mionn (m) ***
+mogha	Nm4-6;	! Headword: mogh (m) *** ???
+moghaidh	Nm4-6;	! Headword: mogh (m); Subvariant: (Var: ~a(idh) m) *** ???
+moilliúint	Nf3-4;	! Headword: moilliú (m) ***
+mórintinneacht	Nf3-SINGULAR;	! Headword: mórintinn (f) ***
+murlasc	Nm1-1;	! Headword: murlas (m)
+neoide	Nf4-SINGULAR;	! Headword: neoid (f)
+niadh	Nm4-6;	! Headword: nia (m)
+núsc	Nm1-1;	! Headword: nús (m)
+ócamas	Nm1-SINGULAR;	! Headword: ócam (m)
+!ógraidh	Nf?-??;	! Headword: ógra (m)
+ógraidh+Noun+Fem+Com+Sg:0	#;
+ógraidh+Noun+Fem+Com+Sg+DefArt:0	#;
+oirbhireacht	Nf3-SINGULAR;	! Headword: oirbhire (f) ***
+onfaise	Nf4-SINGULAR;	! Headword: onfais (f) ***
+paidhce	Nf2-6;	! Headword: paidhc (f) ***
+pasúrach	Nm1-1;	! Headword: pasúr (m)
+patraisce	Nf4-2;	! Headword: patraisc (f) ***
+peice	Nm4-7;	! Headword: peic (f) ***
+plaitín	Nf2-6;	! Headword: plait (f)
+pléarácam	Nm1-1;	! Headword: pléaráca (m) ***
+plíomaire	Nm4-2;	! Headword: plíoma (m) ***
+pluaiséad	Nm1-1;	! Headword: pluais (f) ***
+pludach	Nm1-1;	! Headword: pluda (m) ***
+Poncánach	Nm1-1;	! Headword: Poncán (m)
+posta	Nm4-6;	! Headword: post (m) *** ???
+práibín	Nm4-1;	! Headword: práib (f) ***
+puinse	Nm4-7;	! Headword: puins (m)
+rabairneacht	Nm3-3;	! Headword: rabairne (f) ***
+rabhaisceach	Nf2a-SINGULAR;	! Headword: rabhaisc (f)
+ráfladh	Nm1-1;	! Headword: ráfla (m) *** ???
+rámha	Nm4-3;	! Headword: rámh (m) *** ???
+rása	Nm4-3;	! Headword: rás (m) ***
+réiteacht	Nf3-1;	! Headword: réiteach (m) ***
+riaradh	Nm1-1;	! Headword: riar (m) *** ???
+riglín	Nm4-1;	! Headword: riglí (m) ***
+ríomhadh	Nm1-SINGULAR;	! Headword: ríomh (m) ***
+roghain	Nf2-7;	! Headword: rogha (f) *** (definitely Nf2- cf corpus: roghaine)
+rósa	Nm4-6;	! Headword: rós (m) ***
+rúide	Nf4-6;	! Headword: rúid (f) ***
+rúma	Nm4-6;	! Headword: rúm (m) ***
+sáinne	Nm4-5;	! Headword: sáinn (f) ***
+scealla	Nm4-1;	! Headword: sceall (m) ***
+scinnide	Nm4-1;	! Headword: scinnid (f) ***
+scirmisc	Nf2-7;	! Headword: scirmis (f) 
+scrutachán	Nm1-1;	! Headword: scruta (m) ***
+seamlasc	Nm1-1;	! Headword: seamlas (m)
+seifte	Nf4-6;	! Headword: seift (f) ***
+sínteachán	Nm1-1;	! Headword: sínteach (m)
+síobha	Nm4-6;	! Headword: síobh (m) ***
+siolla	Nf4-1;	! Headword: siolla (m) 
+siollah	Nf4-1;	! Headword: siolla (m); Subvariant: (Var: ~(h) f) *** (most unusual)
+slaparnacht	Nf3-SINGULAR;	! Headword: slaparnach (f) ***
+slipeánach	Nm1-1;	! Headword: slip (f) ***
+slusaíodóir	Nm3-1;	! Headword: slusaí (m) ***
+smigead	Nm1-1;	! Headword: smig (f) *** ???
+snáthach	Nm1-1;	! Headword: snáth (m) ***
+srathairtín	Nm4-1;	! Headword: srathairt (f) ***
+sróll	Nm1-1;	! Headword: sról (m)
+stagúnaí	Nm4-1;	! Headword: stagún (m) ***
+stalca	Nm4-6;	! Headword: stalc (m) *** ???
+státa	Nm4-6;	! Headword: stát (m) *** ???
+stolpa	Nm4-6;	! Headword: stolp (m)  *** ???
+stothallach	Nm1-1;	! Headword: stothall (m)
+streille	Nf4-SINGULAR;	! Headword: streill (f)
+stróbh	Nm4-SINGULAR;	! Headword: stró (m) ***
+strompach	Nm1-1;	! Headword: strompa (m) ***
+substainte	Nf4-2;	! Headword: substaint (f) ***
+súramán	Nm1-1;	! Headword: súram (m)
+támhánach	Nm1-1;	! Headword: támhán (m)
+teannógaí	Nm4-4;	! Headword: teannóg (f) ***
+tiomthacht	Nf3-1;	! Headword: tiomthach (m) ***
+tionnúra	Nm4-SINGULAR;	! Headword: tionnúr (m) ***
+tobaca	Nm4-SINGULAR;	! Headword: tobac (m) ***
+toiceachán	Nm1-1;	! Headword: toice (f) ***
+toiliúint	Nf3-4;	! Headword: toiliú (m) ***
+tonachadh	Nm1-SINGULAR;	! Headword: tonach (m)
+tranglamán	Nm1-1;	! Headword: tranglam (m)
+treallúsacht	Nf3-SINGULAR;	! Headword: treallús (m) ***
+triosclach	Nm1-SINGULAR;	! Headword: triosc (m) ***
+trunca	Nm4-1;	! Headword: trunc (m) ***
+tuailngeas	Nm1-1;	! Headword: tuailnge (f) ***
+tubhadh	Nm1-SINGULAR;	! Headword: tubha (m)
+tuinníneach	Nm1-1;	! Headword: tuinnín (m) ***
+tuisleadh	Nm1-1;	! Headword: tuisle (m) *** ???
+urradh	Nm1-1;	! Headword: urra (m) *** ???
+úsca	Nm4-SINGULAR;	! Headword: úsc (m) ***
+veiste	Nf4-6;	! Headword: veist (f) ***
+
+adhmad+Noun+Masc+Com+Pl:adhmadaí	#;	! Headword: adhmad Nm1-1; (Var: pl. ~aí)
+adhmad+Noun+Masc+Gen+Pl:adhmadaí	#;	! Headword: adhmad Nm1-1; (Var: pl. ~aí)
+ae+Noun+Masc+Com+Pl:aebha	#;	! Headword: ae Nm4-6; (Var: pl. ~bha)
+ae+Noun+Masc+Gen+Pl:aebha	#;	! Headword: ae Nm4-6; (Var: pl. ~bha)
+agaill+Noun+Fem+Com+Pl:agailleacha	#;	! Headword: agaill Nf2-7; (Var: pl. ~eacha)
+agaill+Noun+Fem+Gen+Pl:agailleacha	#;	! Headword: agaill Nf2-7; (Var: pl. ~eacha)
+aice+Noun+Fem+Com+Pl:aiceacha	#;	! Headword: aice Nf4-2; (Var: pl. ~acha)
+aice+Noun+Fem+Gen+Pl:aiceacha	#;	! Headword: aice Nf4-2; (Var: pl. ~acha)
+aicíd+Noun+Fem+Com+Pl:aicídeacha	#;	! Headword: aicíd Nf2-7; (Var: pl. ~eacha)
+aicíd+Noun+Fem+Gen+Pl:aicídeacha	#;	! Headword: aicíd Nf2-7; (Var: pl. ~eacha)
+ailp+Noun+Fem+Com+Pl:ailpeacha	#;	! Headword: ailp Nf2-6; (Var: pl. ~eacha)
+ailp+Noun+Fem+Gen+Pl:ailpeacha	#;	! Headword: ailp Nf2-6; (Var: pl. ~eacha)
+airgead+Noun+Masc+Com+Pl:airgeadaí	#;	! Headword: airgead Nm1-1; (Var: pl. ~aí)
+airgead+Noun+Masc+Gen+Pl:airgeadaí	#;	! Headword: airgead Nm1-1; (Var: pl. ~aí)
+áit+Noun+Fem+Com+Pl:áiteacha	#;	! Headword: áit Nf2-6; (Var: pl. ~eacha)
+áit+Noun+Fem+Gen+Pl:áiteacha	#;	! Headword: áit Nf2-6; (Var: pl. ~eacha)
+anáil+Noun+Fem+Gen+Sg:anáile	#;	! Headword: anáil Nf3-SINGULAR; (Var: gs. ~e)
+athchairdeas+Noun+Masc+Gen+Sg:athchairdeasa	#;	! Headword: athchairdeas Nm1-1; (Var: gs. ~a)
+bád+Noun+Masc+Com+Pl:bádaí	#;	! Headword: bád Nm1-1; (Var: pl. ~aí)
+bád+Noun+Masc+Gen+Pl:bádaí	#;	! Headword: bád Nm1-1; (Var: pl. ~aí)
+banc+Noun+Masc+Com+Pl:bancanna	#;	! Headword: banc Nm1-1; (Var: pl. ~anna)
+banc+Noun+Masc+Gen+Pl:bancanna	#;	! Headword: banc Nm1-1; (Var: pl. ~anna)
+béaloideas+Noun+Masc+Gen+Sg:béaloideasa	#;	! Headword: béaloideas Nm1-1; (Var: gs. ~a)
+blaosc+Noun+Fem+Com+Pl:blaoscacha	#;	! Headword: blaosc Nf2-6; (Var: pl. ~acha)
+blaosc+Noun+Fem+Gen+Pl:blaoscacha	#;	! Headword: blaosc Nf2-6; (Var: pl. ~acha)
+bléin+Noun+Fem+Gen+Sg:bléineach	#;	! Headword: bléin Nf2-5; (Var: gs. ~each)
+bocht+Noun+Masc+Com+Pl:bochta	#;	! Headword: bocht Nm1-1; (Var: npl. ~a)
+bonn+Noun+Masc+Com+Pl:bonna	#;	! Headword: bonn Nm1-1; (Var: pl. ~a(cha))
+bonn+Noun+Masc+Com+Pl:bonnacha	#;	! Headword: bonn Nm1-1; (Var: pl. ~a(cha))
+bonn+Noun+Masc+Gen+Pl:bonna	#;	! Headword: bonn Nm1-1; (Var: pl. ~a(cha))
+bonn+Noun+Masc+Gen+Pl:bonnacha	#;	! Headword: bonn Nm1-1; (Var: pl. ~a(cha))
+botaí+Noun+Masc+Com+Pl:botaíocha	#;	! Headword: botaí Nm4-4; (Var: pl. ~ocha)
+botaí+Noun+Masc+Gen+Pl:botaíocha	#;	! Headword: botaí Nm4-4; (Var: pl. ~ocha)
+braon+Noun+Masc+Com+Pl:braonacha	#;	! Headword: braon Nm1-3; (Var: pl. ~acha)
+braon+Noun+Masc+Gen+Pl:braonacha	#;	! Headword: braon Nm1-3; (Var: pl. ~acha)
+bruan+Noun+Fem+Com+Pl:bruantacha	#;	! Headword: bruan Nf2-10; (Var: pl. ~tacha)
+bruan+Noun+Fem+Gen+Pl:bruantacha	#;	! Headword: bruan Nf2-10; (Var: pl. ~tacha)
+cabha+Noun+Masc+Com+Pl:cabhanna	#;	! Headword: cabha Nm4-SINGULAR; (Var: pl. ~nna)
+cabha+Noun+Masc+Gen+Pl:cabhanna	#;	! Headword: cabha Nm4-SINGULAR; (Var: pl. ~nna)
+cairdeas+Noun+Masc+Gen+Sg:cairdeasa	#;	! Headword: cairdeas Nm1-1; (Var: gs. ~a)
+cairt+Noun+Fem+Gen+Sg:cairteach	#;	! Headword: cairt Nf2-8; (Var: gs. ~each)
+caoth+Noun+Masc+Com+Pl:caothacha	#;	! Headword: caoth Nm1-2; (Var: pl. ~acha)
+caoth+Noun+Masc+Gen+Pl:caothacha	#;	! Headword: caoth Nm1-2; (Var: pl. ~acha)
+carcair+Noun+Fem+Com+Pl:carcaireacha	#;	! Headword: carcair Nf5-2; (Var: pl. ~eacha)
+carcair+Noun+Fem+Gen+Pl:carcaireacha	#;	! Headword: carcair Nf5-2; (Var: pl. ~eacha)
+casaoid+Noun+Fem+Com+Pl:casaoideacha	#;	! Headword: casaoid Nf2-7; (Var: pl. ~eacha)
+casaoid+Noun+Fem+Gen+Pl:casaoideacha	#;	! Headword: casaoid Nf2-7; (Var: pl. ~eacha)
+ceast+Noun+Masc+Gen+Sg:ceasta	#;	! Headword: ceast Nm4-12; (Var: gs. ~a)
+ceathrú+Noun+Fem+Com+Pl:ceathrúnacha	#;	! Headword: ceathrú Nf5-3; (Var: pl. ~nacha)
+ceathrú+Noun+Fem+Gen+Pl:ceathrúnacha	#;	! Headword: ceathrú Nf5-3; (Var: pl. ~nacha)
+cleas+Noun+Masc+Gen+Sg:cleasa	#;	! Headword: cleas Nm1-2; (Var: gs. ~a)
+cleite+Noun+Masc+Com+Pl:cleiteacha	#;	! Headword: cleite Nm4-2; (Var: pl. ~acha)
+cleite+Noun+Masc+Gen+Pl:cleiteacha	#;	! Headword: cleite Nm4-2; (Var: pl. ~acha)
+cliant+Noun+Masc+Com+Pl:cliantaí	#;	! Headword: cliant Nm1-1; (Var: pl. ~aí)
+cliant+Noun+Masc+Gen+Pl:cliantaí	#;	! Headword: cliant Nm1-1; (Var: pl. ~aí)
+clós+Noun+Masc+Com+Pl:clósanna	#;	! Headword: clós Nm1-1; (Var: pl. ~anna)
+clós+Noun+Masc+Gen+Pl:clósanna	#;	! Headword: clós Nm1-1; (Var: pl. ~anna)
+coim+Noun+Fem+Com+Pl:coime	#;	! Headword: coim Nf2-6; (Var: pl. ~e)
+coim+Noun+Fem+Gen+Pl:coime	#;	! Headword: coim Nf2-6; (Var: pl. ~e)
+com+Noun+Masc+Gen+Sg:coma	#;	! Headword: com Nm1-6; (Var: gs. ~a)
+comhairle+Noun+Fem+Com+Pl:comhairleacha	#;	! Headword: comhairle Nf4-2; (Var: pl. ~acha)
+comhairle+Noun+Fem+Gen+Pl:comhairleacha	#;	! Headword: comhairle Nf4-2; (Var: pl. ~acha)
+comharsa+Noun+Fem+Com+Pl:comharsain	#;	! Headword: comharsa Nf5-3; (Var: npl. ~in)
+crios+Noun+Masc+Gen+Sg:criosa	#;	! Headword: crios Nm3-4a; (Var: gs. ~a)
+crodh+Noun+Masc+Com+Pl:crodhanna	#;	! Headword: crodh Nm1-1; (Var: pl. ~anna)
+crodh+Noun+Masc+Gen+Pl:crodhanna	#;	! Headword: crodh Nm1-1; (Var: pl. ~anna)
+cruimh+Noun+Fem+Com+Pl:cruimhe	#;	! Headword: cruimh Nf2-6; (Var: pl. ~e)
+cruimh+Noun+Fem+Gen+Pl:cruimhe	#;	! Headword: cruimh Nf2-6; (Var: pl. ~e)
+cruinniú+Noun+Masc+Com+Pl:cruinniúcha	#;	! Headword: cruinniú Nm5-3; (Var: pl. ~cha)
+cruinniú+Noun+Masc+Gen+Pl:cruinniúcha	#;	! Headword: cruinniú Nm5-3; (Var: pl. ~cha)
+cuas+Noun+Masc+Gen+Sg:cuasa	#;	! Headword: cuas Nm1-2; (Var: gs. ~a)
+cúl+Noun+Masc+Com+Pl:cúla	#;	! Headword: cúl Nm1-1; (Var: pl. ~a)
+cúl+Noun+Masc+Gen+Pl:cúla	#;	! Headword: cúl Nm1-1; (Var: pl. ~a)
+dairt+Noun+Fem+Com+Pl:dairteacha	#;	! Headword: dairt Nf2-6; (Var: pl. ~eacha)
+dairt+Noun+Fem+Gen+Pl:dairteacha	#;	! Headword: dairt Nf2-6; (Var: pl. ~eacha)
+dán+Noun+Masc+Com+Pl:dána	#;	! Headword: dán Nm1-3; (Var: pl. ~a)
+dán+Noun+Masc+Gen+Pl:dána	#;	! Headword: dán Nm1-3; (Var: pl. ~a)
+deamhas+Noun+Masc+Com+Pl:deamhasanna	#;	! Headword: deamhas Nm1-SINGULAR; (Var: pl. ~anna)
+deamhas+Noun+Masc+Gen+Pl:deamhasanna	#;	! Headword: deamhas Nm1-SINGULAR; (Var: pl. ~anna)
+díog+Noun+Fem+Com+Pl:díogacha	#;	! Headword: díog Nf2-1; (Var: pl. ~acha)
+díog+Noun+Fem+Gen+Pl:díogacha	#;	! Headword: díog Nf2-1; (Var: pl. ~acha)
+díolghadh+Noun+Masc+Gen+Sg:díolghadha	#;	! Headword: díolghadh Nm1-SINGULAR; (Var: gs. ~a)
+dleacht+Noun+Fem+Com+Pl:dleachta	#;	! Headword: dleacht Nf3-3; (Var: pl. ~a)
+dleacht+Noun+Fem+Gen+Pl:dleachta	#;	! Headword: dleacht Nf3-3; (Var: pl. ~a)
+doilíos+Noun+Masc+Gen+Sg:doilíosa	#;	! Headword: doilíos Nm1-1; (Var: gs. ~a)
+dréacht+Noun+Masc+Com+Pl:dréachta	#;	! Headword: dréacht Nm3-3; (Var: pl. ~a)
+dréacht+Noun+Masc+Gen+Pl:dréachta	#;	! Headword: dréacht Nm3-3; (Var: pl. ~a)
+drithle+Noun+Fem+Com+Pl:drithleacha	#;	! Headword: drithle Nf4-2; (Var: pl. ~acha)
+drithle+Noun+Fem+Gen+Pl:drithleacha	#;	! Headword: drithle Nf4-2; (Var: pl. ~acha)
+driúcaí+Noun+Masc+Com+Pl:driúcaíocha	#;	! Headword: driúcaí Nm4-4; (Var: pl. ~ocha)
+driúcaí+Noun+Masc+Gen+Pl:driúcaíocha	#;	! Headword: driúcaí Nm4-4; (Var: pl. ~ocha)
+dúileamh+Noun+Masc+Gen+Sg:dúileamhan	#;	! Headword: dúileamh Nm1-SINGULAR; (Var: gs. ~an)
+eagaois+Noun+Fem+Com+Pl:eagaoiseacha	#;	! Headword: eagaois Nf2-6; (Var: pl. ~eacha)
+eagaois+Noun+Fem+Gen+Pl:eagaoiseacha	#;	! Headword: eagaois Nf2-6; (Var: pl. ~eacha)
+eaglais+Noun+Fem+Com+Pl:eaglaiseacha	#;	! Headword: eaglais Nf2-7; (Var: pl. ~eacha)
+eaglais+Noun+Fem+Gen+Pl:eaglaiseacha	#;	! Headword: eaglais Nf2-7; (Var: pl. ~eacha)
+éan+Noun+Masc+Com+Pl:éanacha	#;	! Headword: éan Nm1-1; (Var: pl. ~acha)
+éan+Noun+Masc+Gen+Pl:éanacha	#;	! Headword: éan Nm1-1; (Var: pl. ~acha)
+easmailt+Noun+Fem+Com+Pl:easmailteacha	#;	! Headword: easmailt Nf2-7; (Var: pl. ~eacha)
+easmailt+Noun+Fem+Gen+Pl:easmailteacha	#;	! Headword: easmailt Nf2-7; (Var: pl. ~eacha)
+eorna+Noun+Fem+Gen+Sg:eornan	#;	! Headword: eorna Nf4-SINGULAR; (Var: gs. ~n)
+fagóid+Noun+Fem+Com+Pl:fagóideacha	#;	! Headword: fagóid Nf2-7; (Var: pl. ~eacha)
+fagóid+Noun+Fem+Gen+Pl:fagóideacha	#;	! Headword: fagóid Nf2-7; (Var: pl. ~eacha)
+faol+Noun+Masc+Gen+Sg:faoladh	#;	! Headword: faol Nm1-3; (Var: gs. ~adh)
+fearann+Noun+Masc+Com+Pl:fearannta	#;	! Headword: fearann Nm1-1; (Var: pl. ~ta)
+fearann+Noun+Masc+Gen+Pl:fearannta	#;	! Headword: fearann Nm1-1; (Var: pl. ~ta)
+fearb+Noun+Fem+Com+Pl:fearbacha	#;	! Headword: fearb Nf2-1; (Var: pl. ~acha)
+fearb+Noun+Fem+Gen+Pl:fearbacha	#;	! Headword: fearb Nf2-1; (Var: pl. ~acha)
+fíoch+Noun+Masc+Gen+Sg:fíocha	#;	! Headword: fíoch Nm1-2; (Var: gs. ~a)
+fís+Noun+Fem+Com+Pl:físe	#;	! Headword: fís Nf2-6; (Var: pl. ~e)
+fís+Noun+Fem+Gen+Pl:físe	#;	! Headword: fís Nf2-6; (Var: pl. ~e)
+fithis+Noun+Fem+Com+Pl:fithiseacha	#;	! Headword: fithis Nf2-7; (Var: pl. ~eacha)
+fithis+Noun+Fem+Gen+Pl:fithiseacha	#;	! Headword: fithis Nf2-7; (Var: pl. ~eacha)
+flaitheas+Noun+Masc+Com+Pl:flaitheasa	#;	! Headword: flaitheas Nm1-1; (Var: pl. ~a)
+flaitheas+Noun+Masc+Gen+Pl:flaitheasa	#;	! Headword: flaitheas Nm1-1; (Var: pl. ~a)
+fód+Noun+Masc+Com+Pl:fóda	#;	! Headword: fód Nm1-1; (Var: pl. ~a)
+fód+Noun+Masc+Gen+Pl:fóda	#;	! Headword: fód Nm1-1; (Var: pl. ~a)
+foraois+Noun+Fem+Com+Pl:foraoiseacha	#;	! Headword: foraois Nf2-6; (Var: pl. ~eacha)
+foraois+Noun+Fem+Gen+Pl:foraoiseacha	#;	! Headword: foraois Nf2-6; (Var: pl. ~eacha)
+gábh+Noun+Masc+Gen+Sg:gábha	#;	! Headword: gábh Nm1-2; (Var: gs. ~a)
+gaoth+Noun+Masc+Gen+Sg:gaotha	#;	! Headword: gaoth Nf2-1; (Var: gs. ~a)
+garsún+Noun+Masc+Gen+Sg:garsúna	#;	! Headword: garsún Nm1-1; (Var: gs. ~a)
+gas+Noun+Masc+Com+Pl:gasa	#;	! Headword: gas Nm1-1; (Var: pl. ~a)
+gas+Noun+Masc+Gen+Pl:gasa	#;	! Headword: gas Nm1-1; (Var: pl. ~a)
+geábh+Noun+Masc+Com+Pl:geábha	#;	! Headword: geábh Nm3-2; (Var: npl. ~a)
+gealas+Noun+Masc+Com+Pl:gealasaí	#;	! Headword: gealas Nm1-11; (Var: pl. ~aí)
+gealas+Noun+Masc+Gen+Pl:gealasaí	#;	! Headword: gealas Nm1-11; (Var: pl. ~aí)
+géis+Noun+Fem+Com+Pl:géise	#;	! Headword: géis Nf2-6; (Var: pl. ~e)
+géis+Noun+Fem+Gen+Pl:géise	#;	! Headword: géis Nf2-6; (Var: pl. ~e)
+giob+Noun+Masc+Com+Pl:giobacha	#;	! Headword: giob Nm4-7; (Var: pl. ~acha)
+giob+Noun+Masc+Gen+Pl:giobacha	#;	! Headword: giob Nm4-7; (Var: pl. ~acha)
+glae+Noun+Masc+Com+Pl:glaecha	#;	! Headword: glae Nm4-2; (Var: pl. ~cha)
+glae+Noun+Masc+Gen+Pl:glaecha	#;	! Headword: glae Nm4-2; (Var: pl. ~cha)
+ilphobal+Noun+Masc+Gen+Sg:ilphobalidh	#;	! Headword: ilphobal Nm1-1; (Var: gs. ~idh)
+gnúis+Noun+Fem+Com+Pl:gnúise	#;	! Headword: gnúis Nf2-6; (Var: pl. ~e)
+gnúis+Noun+Fem+Gen+Pl:gnúise	#;	! Headword: gnúis Nf2-6; (Var: pl. ~e)
+gol+Noun+Masc+Gen+Sg:gola	#;	! Headword: gol Nm1-1; (Var: gs. ~a)
+graf+Noun+Masc+Com+Pl:grafanna	#;	! Headword: graf Nm1-1; (Var: pl. ~anna)
+graf+Noun+Masc+Gen+Pl:grafanna	#;	! Headword: graf Nm1-1; (Var: pl. ~anna)
+guaire+Noun+Masc+Com+Pl:guaireacha	#;	! Headword: guaire Nm4-2; (Var: pl. ~acha)
+guaire+Noun+Masc+Gen+Pl:guaireacha	#;	! Headword: guaire Nm4-2; (Var: pl. ~acha)
+inse+Noun+Fem+Com+Pl:inseacha	#;	! Headword: inse Nf4-2; (Var: pl. ~acha)
+inse+Noun+Fem+Gen+Pl:inseacha	#;	! Headword: inse Nf4-2; (Var: pl. ~acha)
+íoc+Noun+Fem+Gen+Sg:íoca	#;	! Headword: íoc Nm3-3; (Var: gs. ~a)
+iomramh+Noun+Masc+Gen+Sg:iomramha	#;	! Headword: iomramh Nm1-1; (Var: gs. ~a)
+íospairt+Noun+Fem+Gen+Sg:íospairte	#;	! Headword: íospairt Nf3-2; (Var: gs. ~e)
+laitís+Noun+Fem+Com+Pl:laitíseacha	#;	! Headword: laitís Nf2-7; (Var: pl. ~eacha)
+laitís+Noun+Fem+Gen+Pl:laitíseacha	#;	! Headword: laitís Nf2-7; (Var: pl. ~eacha)
+leac+Noun+Fem+Com+Pl:leacacha	#;	! Headword: leac Nf2-1; (Var: pl. ~acha)
+leac+Noun+Fem+Gen+Pl:leacacha	#;	! Headword: leac Nf2-1; (Var: pl. ~acha)
+liag+Noun+Fem+Com+Pl:liagacha	#;	! Headword: liag Nf2-1; (Var: pl. ~acha)
+liag+Noun+Fem+Gen+Pl:liagacha	#;	! Headword: liag Nf2-1; (Var: pl. ~acha)
+locht+Noun+Masc+Com+Pl:lochta	#;	! Headword: locht Nm3-2; (Var: npl. ~a)
+mallmhuir+Noun+Fem+Gen+Sg:mallmhuireach	#;	! Headword: mallmhuir Nf3-2; (Var: gs. ~each)
+manaois+Noun+Fem+Com+Pl:manaoiseacha	#;	! Headword: manaois Nf2-SINGULAR; (Var: pl. ~eacha)
+manaois+Noun+Fem+Gen+Pl:manaoiseacha	#;	! Headword: manaois Nf2-SINGULAR; (Var: pl. ~eacha)
+míol+Noun+Masc+Com+Pl:míola	#;	! Headword: míol Nm1-3; (Var: pl. ~a)
+míol+Noun+Masc+Gen+Pl:míola	#;	! Headword: míol Nm1-3; (Var: pl. ~a)
+nós+Noun+Masc+Com+Pl:nósa	#;	! Headword: nós Nm1-6; (Var: npl. ~a)
+oíche+Noun+Fem+Com+Pl:oícheanna	#;	! Headword: oíche Nf4-7; (Var: pl. ~anna)
+oíche+Noun+Fem+Gen+Pl:oícheanna	#;	! Headword: oíche Nf4-7; (Var: pl. ~anna)
+oireas+Noun+Masc+Gen+Sg:oireasa	#;	! Headword: oireas Nm1-1; (Var: gs. ~a)
+peann+Noun+Masc+Com+Pl:peanna	#;	! Headword: peann Nm1-1; (Var: npl. ~a)
+prioll+Noun+Fem+Com+Pl:priollanna	#;	! Headword: prioll Nf2-2; (Var: pl. ~anna)
+prioll+Noun+Fem+Gen+Pl:priollanna	#;	! Headword: prioll Nf2-2; (Var: pl. ~anna)
+scailp+Noun+Fem+Com+Pl:scailpeacha	#;	! Headword: scailp Nf2-6; (Var: pl. ~(r)eacha)
+scailp+Noun+Fem+Com+Pl:scailpreacha	#;	! Headword: scailp Nf2-6; (Var: pl. ~(r)eacha)
+scailp+Noun+Fem+Gen+Pl:scailpeacha	#;	! Headword: scailp Nf2-6; (Var: pl. ~(r)eacha)
+scailp+Noun+Fem+Gen+Pl:scailpreacha	#;	! Headword: scailp Nf2-6; (Var: pl. ~(r)eacha)
+sclamh+Noun+Fem+Com+Pl:sclamhacha	#;	! Headword: sclamh Nf2-6; (Var: pl. ~acha)
+sclamh+Noun+Fem+Gen+Pl:sclamhacha	#;	! Headword: sclamh Nf2-6; (Var: pl. ~acha)
+scraith+Noun+Fem+Com+Pl:scraitheacha	#;	! Headword: scraith Nf2-6; (Var: pl. ~eacha)
+scraith+Noun+Fem+Gen+Pl:scraitheacha	#;	! Headword: scraith Nf2-6; (Var: pl. ~eacha)
+seachtain+Noun+Fem+Com+Pl:seachtaineacha	#;	! Headword: seachtain Nf2-7; (Var: pl. ~eacha)
+seachtain+Noun+Fem+Gen+Pl:seachtaineacha	#;	! Headword: seachtain Nf2-7; (Var: pl. ~eacha)
+searc+Noun+Fem+Gen+Sg:searca	#;	! Headword: searc Nf2-1; (Var: gs. ~a)
+siomóid+Noun+Fem+Com+Pl:siomóideacha	#;	! Headword: siomóid Nf2-7; (Var: pl. ~eacha)
+siomóid+Noun+Fem+Gen+Pl:siomóideacha	#;	! Headword: siomóid Nf2-7; (Var: pl. ~eacha)
+slat+Noun+Fem+Com+Pl:slatacha	#;	! Headword: slat Nf2-1; (Var: pl. ~acha)
+slat+Noun+Fem+Gen+Pl:slatacha	#;	! Headword: slat Nf2-1; (Var: pl. ~acha)
+slisne+Noun+Masc+Com+Pl:slisneacha	#;	! Headword: slisne Nm4-2; (Var: pl. ~acha)
+slisne+Noun+Masc+Gen+Pl:slisneacha	#;	! Headword: slisne Nm4-2; (Var: pl. ~acha)
+sos+Noun+Masc+Com+Pl:sosa	#;	! Headword: sos Nm3-2; (Var: npl. ~a)
+speanc+Noun+Fem+Com+Pl:speancacha	#;	! Headword: speanc Nf2-2; (Var: pl. ~acha)
+speanc+Noun+Fem+Gen+Pl:speancacha	#;	! Headword: speanc Nf2-2; (Var: pl. ~acha)
+spile+Noun+Masc+Com+Pl:spileanna	#;	! Headword: spile Nm4-2; (Var: pl. ~anna)
+spile+Noun+Masc+Gen+Pl:spileanna	#;	! Headword: spile Nm4-2; (Var: pl. ~anna)
+splais+Noun+Fem+Com+Pl:splaistreacha	#;	! Headword: splais Nf2-6; (Var: pl. ~treacha)
+splais+Noun+Fem+Gen+Pl:splaistreacha	#;	! Headword: splais Nf2-6; (Var: pl. ~treacha)
+spreab+Noun+Fem+Com+Pl:spreabanna	#;	! Headword: spreab Nf2-1; (Var: pl. ~anna)
+spreab+Noun+Fem+Gen+Pl:spreabanna	#;	! Headword: spreab Nf2-1; (Var: pl. ~anna)
+sprioc+Noun+Fem+Com+Pl:spriocacha	#;	! Headword: sprioc Nf2-6; (Var: pl. ~acha)
+sprioc+Noun+Fem+Gen+Pl:spriocacha	#;	! Headword: sprioc Nf2-6; (Var: pl. ~acha)
+sráid+Noun+Fem+Com+Pl:sráideacha	#;	! Headword: sráid Nf2-6; (Var: pl. ~eacha)
+sráid+Noun+Fem+Gen+Pl:sráideacha	#;	! Headword: sráid Nf2-6; (Var: pl. ~eacha)
+sreang+Noun+Fem+Com+Pl:sreangacha	#;	! Headword: sreang Nf2-1; (Var: pl. ~acha)
+sreang+Noun+Fem+Gen+Pl:sreangacha	#;	! Headword: sreang Nf2-1; (Var: pl. ~acha)
+srón+Noun+Fem+Gen+Sg:sróna	#;	! Headword: srón Nf2-1; (Var: gs. ~a)
+srúill+Noun+Fem+Com+Pl:srúilleanna	#;	! Headword: srúill Nf2-7; (Var: pl. ~eanna)
+srúill+Noun+Fem+Gen+Pl:srúilleanna	#;	! Headword: srúill Nf2-7; (Var: pl. ~eanna)
+staidéar+Noun+Masc+Gen+Sg:staidéara	#;	! Headword: staidéar Nm1-SINGULAR; (Var: gs. ~a)
+stil+Noun+Fem+Gen+Sg:stileach	#;	! Headword: stil Nf2-6; (Var: gs. ~each)
+stól+Noun+Masc+Com+Pl:stólanna	#;	! Headword: stól Nm1-3; (Var: pl. ~anna)
+stól+Noun+Masc+Gen+Pl:stólanna	#;	! Headword: stól Nm1-3; (Var: pl. ~anna)
+tine+Noun+Fem+Gen+Sg:tineadh	#;	! Headword: tine Nf4-3; (Var: gs. ~adh)
+tlú+Noun+Masc+Com+Pl:tlúite	#;	! Headword: tlú Nm4-6; (Var: pl. ~ite)
+tlú+Noun+Masc+Gen+Pl:tlúite	#;	! Headword: tlú Nm4-6; (Var: pl. ~ite)
+toil+Noun+Fem+Gen+Sg:toile	#;	! Headword: toil Nf3-SINGULAR; (Var: gs. ~e)
+tomhas+Noun+Masc+Com+Pl:tomhasanna	#;	! Headword: tomhas Nm1-1; (Var: pl. ~anna)
+tomhas+Noun+Masc+Gen+Pl:tomhasanna	#;	! Headword: tomhas Nm1-1; (Var: pl. ~anna)
+tonn+Noun+Fem+Com+Pl:tonna	#;	! Headword: tonn Nf2-10; (Var: pl. ~a)
+tonn+Noun+Fem+Gen+Pl:tonna	#;	! Headword: tonn Nf2-10; (Var: pl. ~a)
+treibh+Noun+Fem+Com+Pl:treibheacha	#;	! Headword: treibh Nf2-6; (Var: pl. ~eacha)
+treibh+Noun+Fem+Gen+Pl:treibheacha	#;	! Headword: treibh Nf2-6; (Var: pl. ~eacha)
+triuf+Noun+Masc+Com+Pl:triufasaí	#;	! Headword: triuf Nm4-7; (Var: pl. ~asaí)
+triuf+Noun+Masc+Gen+Pl:triufasaí	#;	! Headword: triuf Nm4-7; (Var: pl. ~asaí)
+tuismeadh+Noun+Masc+Gen+Sg:tuismeadha	#;	! Headword: tuismeadh Nm1-SINGULAR; (Var: gs. ~a)
+
+! *** Assigned by hand.
+! CW 01/09/08
+achaine 	Nf4-2;	! Headword: achainí (f); Forms: achaine f, pl. ~ ***
+amhsa	Nf4-SINGULAR;	! Headword: amhsaine (f)
+amhsaineacht	Nf3-SINGULAR;	! Headword: amhsaine (f) ***
+anglálaí	Nm4-4;	! Headword: anglán (m) ***
+anglánaí	Nm4-4;	! Headword: anglán (m) ***
+ara	Nf5-1;	! Headword: ara (m); Forms: f, gs. & gpl. ~ch, npl. ~cha ***
+arrachta	Nm4-1;	! Headword: arracht (m) ***
+arrachtaí	Nm4-4;	! Headword: arracht (m); Subvariant: (Var: ~a(í) m, ~ach m) ***
+arrachtach	Nm1-1;	! Headword: arracht (m) ***
+athsmigead	Nm1-8;	! Headword: athsmig (f) ***
+athsmigín	Nm4-1;	! Headword: athsmig (f) ***
+báinseachán	Nm1-1;	! Headword: báinseach (f) ***
+báinseán	Nm1-1;	! Headword: báinseach (f) ***
+bastallachas	Nm1-SINGULAR;	! Headword: bastall (m)
+bastallacht	Nf3-SINGULAR;	! Headword: bastall (m)
+bléitheach	Nm1-1;	! Headword: bleitheach (m)
+bleitheachán	Nm1-1;	! Headword: bleitheach (m)
+bromachán	Nm1-1;	! Headword: bromach (m)
+bromaistín	Nm4-1;	! Headword: bromach (m) ***
+brothallán	Nm1-1;	! Headword: brothall (m)
+brothaíl	Nf3-SINGULAR;	! Headword: brothall (m) ***
+bruithleacán	Nm1-1;	! Headword: bruithleach (m)
+bruithleachán	Nm1-1;	! Headword: bruithleach (m)
+bruithlín	Nm4-1;	! Headword: bruithleach (m) ***
+brútach	Nm1-1;	! Headword: brúta (m) ***
+brútaí	Nm4-4;	! Headword: brúta (m) ***
+bualtach	Nf2-4;	! Headword: bualtrach (f)
+bualtrachas	Nm1-SINGULAR;	! Headword: bualtrach (f) ***
+búisteachán	Nm1-1;	! Headword: búiste (m) ***
+búistín	Nm4-1;	! Headword: búiste (m) ***
+caldaire	Nm4-2;	! Headword: caldar (m) ***
+caldarún	Nm1-1;	! Headword: caldar (m)
+casúr	Nf5-1;	! Headword: casúr (m); Forms: f, gs. ~ach ***
+cathmhílidh 	Nm3-6;	! Headword: cathmhíle (m); Forms: cathmhílidh m, gs. ~adh ***
+!!!! CC Evaluation céadfaidh 	Nf?-??;	! Headword: céadfa (f); Forms: ~idh f, gs. ~dh, pl. ~dha
+céadfaidh+Noun+Fem+Com+Sg:0	#;
+céadfaidh+Noun+Fem+Com+Sg+DefArt:0	#;
+céadfaidh+Noun+Fem+Gen+Sg:céadfadh	#;
+céadfaidh+Noun+Fem+Com+Pl:céadfadha	#;
+céadfaidh+Noun+Fem+Gen+Pl:céadfadha	#;
+!!!! CC Evaluation céaslaidh 	Nf?-??;	! Headword: céasla (f); Forms: ~idh f, gs. ~dh
+céaslaidh+Noun+Fem+Com+Sg:0	#;
+céaslaidh+Noun+Fem+Com+Sg+DefArt:0	#;
+céaslaidh+Noun+Fem+Gen+Sg:céasladh	#;
+ciarsáil	Nf3-SINGULAR;	! Headword: ciarsán (m) ***
+ciarsánacht	Nf3-SINGULAR;	! Headword: ciarsán (m) ***
+ciotaíl	Nf3-SINGULAR;	! Headword: ciotaí (f) ***
+ciotaíocht	Nf3-SINGULAR;	! Headword: ciotaí (f)
+clipe	Nm4-5;	! Headword: clipe (f); Forms: m, pl. ~acha ***
+!cloth	Nf?-??;	! Headword: cloth (m)
+cloth+Noun+Fem+Com+Sg:0	#;
+cloth+Noun+Fem+Com+Sg+DefArt:0	#;
+clothaí	Nf4-4;	! Headword: cloth (m) *** ???
+coinnealbhádhadh	Nm1-1;	! Headword: coinnealbhá (m) *** ???
+coinnealbháthadh	Nm1-1;	! Headword: coinnealbhá (m) *** ???
+compoird	Nm1-1;	! Headword: compord (m)
+compóirt	Nf2-SINGULAR;	! Headword: compord (m) ***
+compordacht	Nf3-SINGULAR;	! Headword: compord (m) ***
+corraice	Nf4-2;	! Headword: corraic (f) ***
+corraiceog	Nf2-1;	! Headword: corraic (f) ***
+cual	Nf3-6;	! Headword: cual (m); Forms: f, gs. ~a, pl. ~a, ~acha *** (tagged ~a-plural)
+cúngacht	Nf3-SINGULAR;	! Headword: cúngach (m) ***
+cúngaraíocht	Nf3-SINGULAR;	! Headword: cúngach (m) ***
+daoirseacht	Nf3-SINGULAR;	! Headword: daoirse (f) ***
+daoirsine	Nf4-SINGULAR;	! Headword: daoirse (f)
+Déardaoin	Nf2-8;	! Headword: Déardaoin (m); Forms: f, gs. ~e, ~each ***
+déirceánach	Nm1-1;	! Headword: déircín (m) ***
+déircíneach	Nm1-1;	! Headword: déircín (m) ***
+diomaibhseacht	Nf3-SINGULAR;	! Headword: diomaibhse (f) ***
+diomaidhbhse	Nf4-SINGULAR;	! Headword: diomaibhse (f)
+diomaidhbhseacht	Nf3-SINGULAR;	! Headword: diomaibhse (f) ***
+domhaoine	Nf4-SINGULAR;	! Headword: domhaoin (f) ***
+domhaoineas	Nm1-1;	! Headword: domhaoin (f) ***
+!!!! CC Evaluation dream	Nf?-??;	! Headword: dream (m); Forms: f, npl. ~a
+dream+Noun+Fem+Com+Sg:0	#;
+dream+Noun+Fem+Com+Sg+DefArt:0	#;
+dream+Noun+Fem+Gen+Sg:dreama	#;
+dream+Noun+Fem+Com+Pl:dreama	#;
+dream+Noun+Fem+Gen+Pl:dreama	#;	! ???
+dromacán	Nm1-1;	! Headword: dromach (m)
+dromachán	Nm1-1;	! Headword: dromach (m)
+dúisceadh	Nm1-1;	! Headword: dúiseacht (f) ***
+dúiseachtáil	Nf3-SINGULAR;	! Headword: dúiseacht (f)
+!!!! CC Evaluation eadradh 	Nm?-??;	! Headword: eadra (m); Forms: ~dh m, gs. eadartha
+eadradh+Noun+Masc+Com+Sg:0	#;
+eadradh+Noun+Masc+Com+Sg+DefArt:0	#;
+eadradh+Noun+Masc+Gen+Sg:eadartha	#;
+eolchair	Nf2-SINGULAR;	! Headword: eolchaire (f) ***
+eolchaireacht	Nf3-SINGULAR;	! Headword: eolchaire (f) ***
+fadaradha	Nf4-SINGULAR;	! Headword: fadaraí (f)
+fadaraíonacht	Nf3-SINGULAR;	! Headword: fadaraí (f) ***
+fanntaise	Nf4-2;	! Headword: fanntais (f) ***
+fanntaisne	Nf4-2;	! Headword: fanntais (f) ***
+faoisceánach	Nm1-1;	! Headword: faoisceán (m)
+faoiscne	Nm4-2;	! Headword: faoisceán (m) ***
+faoiscneán	Nm1-1;	! Headword: faoisceán (m); Subvariant: (Var: ~ach m, faoiscne(án) m)
+faoiside	Nf4-2;	! Headword: faoistin (f) ***
+faoisidin	Nf2-7;	! Headword: faoistin (f)
+faoiste	Nf4-2;	! Headword: faoistin (f) ***
+faoistean	Nf2-7;	! Headword: faoistin (f)
+faoistine	Nf4-2;	! Headword: faoistin (f) ***
+feist	Nf2-2;	! Headword: feiste (f) ***
+feisteadh	Nm1-1;	! Headword: feiste (f) ***
+féithle	Nf2-SINGULAR;	! Headword: féithleann (m); Forms: féithle f, gs. ~ ***
+fianscaradh	Nm1-1;	! Headword: fianscar (m)
+fianscaraíocht	Nf3-1;	! Headword: fianscar (m) ***
+fleascachán	Nm1-1;	! Headword: fleascach (m)
+fleascánach	Nm1-1;	! Headword: fleascach (m)
+flúirseacht	Nf3-SINGULAR;	! Headword: flúirse (f) ***
+flúirsí	Nf4-SINGULAR;	! Headword: flúirse (f)
+fothramán	Nm1-1;	! Headword: fothram (m)
+fothrann	Nm1-1;	! Headword: fothram (m)
+gaisceadh 	Nm1-SINGULAR;	! Headword: gaisce (m); Forms: ~adh m, gs. gaiscidh ***
+gaithle 	Nf4-SINGULAR;	! Headword: gaithleann (f); Forms: gaithle f, gs. ~ ***
+iarannaí	Nm4-4;	! Headword: iarann (m) ***
+!!!! CC Evaluation iomrádhadh 	Nm?-??;	! Headword: iomrá (m); Forms: ~dhadh m, gs. ~idhte
+iomrádhadh+Noun+Masc+Com+Sg:0	#;
+iomrádhadh+Noun+Masc+Com+Sg+DefArt:0	#;
+iomrádhadh+Noun+Masc+Gen+Sg:iomráidhte	#;
+láthadh	Nm1-1;	! Headword: láth (m)
+láthaíocht	Nf3-SINGULAR;	! Headword: láth (m) ***
+léagáid	Nf2-7;	! Headword: leagáid (m)
+leagáideach	Nf2-1a;	! Headword: leagáid (m) ***
+leatroime	Nf2-SINGULAR;	! Headword: leatrom (m) ***
+leatromacht	Nf3-SINGULAR;	! Headword: leatrom (m) ***
+leatromadh	Nm1-1;	! Headword: leatrom (m)
+leibid	Nf2-7;	! Headword: leibide (f) ***
+leibideog	Nf2-1;	! Headword: leibide (f) ***
+leibiste	Nf4-2;	! Headword: leibide (f)
+leide	Nm4-7;	! Headword: leid (f) ***
+leideadh	Nm1-1;	! Headword: leid (f) *** ???
+!!!! CC Evaluation liodáin 	Nf?-??;	! Headword: liodán (m); Forms: liodáin f, gs. & npl. ~a
+liodáin+Noun+Fem+Com+Sg:0	#;
+liodáin+Noun+Fem+Com+Sg+DefArt:0	#;
+liodáin+Noun+Fem+Gen+Sg:liodána	#;
+liodáin+Noun+Fem+Com+Pl:liodána	#;
+liodáin+Noun+Fem+Gen+Pl:liodán	#;
+lúircíneach	Nm1-1;	! Headword: lúircín (m) ***
+lúiricín	Nm4-1;	! Headword: lúircín (m)
+lúiricíneach	Nm1-1;	! Headword: lúircín (m); Subvariant: (Var: ~each m, lúiricín(each) m, lúiridín m) ***
+lúiridín	Nm4-1;	! Headword: lúircín (m) ***
+lusrach	Nm1-1;	! Headword: lusra (m) ***
+lusrachán	Nm1-1;	! Headword: lusra (m); Subvariant: (Var: ~ch(án) m, lusrán m) ***
+lusrán	Nm4-1;	! Headword: lusra (m)
+machaire	Nf4-5;	! Headword: machaire (m); Forms: f, pl. ~acha ***
+mainneacht	Nf3-SINGULAR;	! Headword: mainneachtain (f)
+mainneachtaint	Nf2-SINGULAR;	! Headword: mainneachtain (f) ***
+mainneachtaí	Nf4-SINGULAR;	! Headword: mainneachtain (f) ***
+mainneachtnaí	Nf4-SINGULAR;	! Headword: mainneachtain (f); Subvariant: (Var: mainneacht f, ~t f, mainneacht(n)aí f) ***
+mathmharcach	Nm1-1;	! Headword: mathmharc (m)
+mathmharcóir	Nm3-1;	! Headword: mathmharc (m) ***
+meiliteach	Nm1-1;	! Headword: meilit (f) ***
+meilitín	Nm4-1;	! Headword: meilit (f) ***
+meilitíneach	Nm1-1;	! Headword: meilit (f) ***
+mochóir	Nm3-1;	! Headword: mochóirí (m) ***
+mochóireach	Nm1-1;	! Headword: mochóirí (m) ***
+mochóiríoch	Nm1-1;	! Headword: mochóirí (m) ***
+molltracha	Nm1-3;	! Headword: moll (m)
+nádúir 	Nf3-SINGULAR;	! Headword: nádúr (m); Forms: nádúir f, gs. ~a ***
+nasc	Nf3-SINGULAR;	! Headword: nasc (m); Forms: f, npl. ~a ***
+nathaíodóir	Nm3-1;	! Headword: nathaí (m) ***
+nathaire	Nm4-2;	! Headword: nathaí (m) ***
+neamhthairbheacht	Nf3-SINGULAR;	! Headword: neamhthairbhe (f) ***
+neamhthairbhí	Nf4-SINGULAR;	! Headword: neamhthairbhe (f)
+oidheadh	Nm1-1;	! Headword: oidhe (f) ***
+oidheadh+Noun+Fem+Com+Sg:0	#;	! This variant can either be masculine or feminine.
+oidhidh	Nf2-6;	! Headword: oidhe (f)
+páile 	Nf4-1;	! Headword: páil (f); Forms: ~e f, pl. ~í ***
+pleoitire	Nm4-2;	! Headword: pleota (m) ***
+pleotaí	Nm4-4;	! Headword: pleota (m) ***
+pleotramán	Nm1-1;	! Headword: pleota (m) ***
+pliospa	Nm4-1;	! Headword: plispín (m)
+plispíneach	Nm1-1;	! Headword: plispín (m) ***
+plispire	Nm3-1;	! Headword: plispín (m) ***
+puth	Nm3-SINGULAR;	! Headword: puth (f); Forms: m, gs. ~a ***
+ragairneacht	Nf3-SINGULAR;	! Headword: ragairne (m) ***
+ragairneáil	Nf3-SINGULAR;	! Headword: ragairne (m) ***
+ragamáil	Nf3-SINGULAR;	! Headword: ragairne (m) ***
+ragamas	Nm1-1;	! Headword: ragairne (m) ***
+ragarnáil	Nf3-SINGULAR;	! Headword: ragairne (m) ***
+ráibéadach	Nm1-1;	! Headword: ráibéad (m)
+ráibéardaí	Nm4-4;	! Headword: ráibéad (m) ***
+railleachán	Nm1-1;	! Headword: raille (m) ***
+railleamán	Nm1-1;	! Headword: raille (m) ***
+ramaid	Nf2-7;	! Headword: rama (m) ***
+ramaire	Nm4-2;	! Headword: rama (m) ***
+ramaiste	Nm4-1;	! Headword: rama (m)
+rámhaill	Nf2-7;	! Headword: rámhaille (f) ***
+rámhailleach	Nf2-1a;	! Headword: rámhaille (f)
+rámhaillí	Nf4-4;	! Headword: rámhaille (f) ***
+rámhaillíocht	Nf3-1;	! Headword: rámhaille (f); Subvariant: (Var: rámhaill f, ~ach f, rámhaillí(ocht) f, rámhailligh f)
+rámhailligh	Nf2-7;	! Headword: rámhaille (f) *** ???
+réal	Nf5-1;	! Headword: réal (m); Forms: f, gs. ~ach ***
+saothraíoch	Nm1-1;	! Headword: saothraí (m) ***
+saothraitheoir	Nm3-1;	! Headword: saothraí (m) ***
+sceamhaíleach	Nf2a-SINGULAR;	! Headword: sceamhaíl (f) ***
+sceamhlach	Nf2a-SINGULAR;	! Headword: sceamhaíl (f) ***
+scrogóg	Nf2-1;	! Headword: scroig (f) ***
+scroigín	Nm4-1;	! Headword: scroig (f) ***
+scúilleánach	Nm1-1;	! Headword: scúille (m) ***
+scuilliún	Nm1-1;	! Headword: scúille (m) ***
+siolpach	Nf2-1a;	! Headword: siolpach (m) ***
+siolpachán	Nm1-1;	! Headword: siolpach (m)
+sotalacht	Nf3-SINGULAR;	! Headword: sotal (m)
+sotaltas	Nm1-1;	! Headword: sotal (m)
+spúta	Nm4-1;	! Headword: spút (m) ***
+spútar	Nm1-1;	! Headword: spút (m)
+sraimleachán	Nm1-1;	! Headword: sraimle (m) ***
+sraimleálaí	Nm4-4;	! Headword: sraimle (m) ***
+srian	Nf5-1;	! Headword: srian (m); Forms: f, gs. ~ach ***
+stagairle	Nm4-2;	! Headword: staga (m) ***
+stagarlach	Nm1-1;	! Headword: staga (m) ***
+stuacachán	Nm1-1;	! Headword: stuacán (m)
+stuacánaí	Nm4-4;	! Headword: stuacán (m)
+teangaidh 	Nf3-6a;	! Headword: teanga (f); Forms: ~idh f, gs. ~dh ***
+téigle	Nm4-SINGULAR;	! Headword: téigle (f)
+téigil	Nf2-SINGULAR;	! Headword: téigle (f)
+téigleadh	Nm1-1;	! Headword: téigle (f) ***
+tionóntach	Nm1-1;	! Headword: tionónta (m) ***
+tionóntaí	Nm4-4;	! Headword: tionónta (m) ***
+tionúir 	Nf5-1;	! Headword: tionúr (m); Forms: tionúir f, gs. ~ach ***
+tógáilt	Nf2-SINGULAR;	! Headword: tógáil (f)
+tógaint	Nf2-SINGULAR;	! Headword: tógáil (f)
+tréigeant	Nm1-1;	! Headword: tréigean (m)
+tréigbheáil	Nf3-SINGULAR;	! Headword: tréigean (m)
+uanbhach	Nm1-SINGULAR;	! Headword: uanfadh (m)
+uanfadhach	Nf2-1a;	! Headword: uanfadh (m)
+uireasbhaidh	Nf2-SINGULAR;	! Headword: uireasa (f) *** ???
+uireaspa	Nf4-SINGULAR;	! Headword: uireasa (f)
+uireasaíocht	Nf3-SINGULAR;	! Headword: uireasa (f) ***
+úlla 	Nm4-1;	! Headword: úll (m); Forms: ~a m, pl. ~aí
+
+Aifreann+Noun+Masc+Com+Pl:Aifreannacha	#;	! Headword: Aifreann Nm1-1; (Var: pl. ~acha, Aifrinntí)
+Aifreann+Noun+Masc+Gen+Pl:Aifreannacha	#;	! Headword: Aifreann Nm1-1; (Var: pl. ~acha, Aifrinntí)
+Aifreann+Noun+Masc+Com+Pl:Aifrinntí	#;	! Headword: Aifreann Nm1-1; (Var: pl. ~acha, Aifrinntí) ***
+Aifreann+Noun+Masc+Gen+Pl:Aifrinntí	#;	! Headword: Aifreann Nm1-1; (Var: pl. ~acha, Aifrinntí) ***
+aireamh+Noun+Masc+Gen+Sg:aireamhan	#;	! Headword: aireamh Nm1-1; (Var: gs. & gpl. ~an, npl. ~ain)
+aireamh+Noun+Masc+Gen+Pl:aireamhan	#;	! Headword: aireamh Nm1-1; (Var: gs. & gpl. ~an, npl. ~ain)
+aireamh+Noun+Masc+Com+Pl:aireamhain	#;	! Headword: aireamh Nm1-1; (Var: gs. & gpl. ~an, npl. ~ain)
+bolgam+Noun+Masc+Com+Pl:bolgamacha	#;	! Headword: bolgam Nm1-1; (Var: pl. ~acha, ~anna)
+bolgam+Noun+Masc+Gen+Pl:bolgamacha	#;	! Headword: bolgam Nm1-1; (Var: pl. ~acha, ~anna)
+bolgam+Noun+Masc+Com+Pl:bolgamanna	#;	! Headword: bolgam Nm1-1; (Var: pl. ~acha, ~anna) ***
+bolgam+Noun+Masc+Gen+Pl:bolgamanna	#;	! Headword: bolgam Nm1-1; (Var: pl. ~acha, ~anna) ***
+both+Noun+Fem+Com+Pl:botha	#;	! Headword: both Nf3-3; (Var: npl. ~a, gpl. ~)
+both+Noun+Fem+Gen+Pl:both	#;	! Headword: both Nf3-3; (Var: npl. ~a, gpl. ~)
+cath+Noun+Masc+Com+Pl:catha	#;	! Headword: cath Nm3-2; (Var: npl. ~a, gpl. ~)
+cath+Noun+Masc+Gen+Pl:cath	#;	! Headword: cath Nm3-2; (Var: npl. ~a, gpl. ~)
+clár+Noun+Masc+Com+Pl:cláracha	#;	! Headword: clár Nm1-11; (Var: pl. ~acha, ~aí)
+clár+Noun+Masc+Gen+Pl:cláracha	#;	! Headword: clár Nm1-11; (Var: pl. ~acha, ~aí)
+clár+Noun+Masc+Com+Pl:cláraí	#;	! Headword: clár Nm1-11; (Var: pl. ~acha, ~aí) ***
+clár+Noun+Masc+Gen+Pl:cláraí	#;	! Headword: clár Nm1-11; (Var: pl. ~acha, ~aí) ***
+cnap+Noun+Masc+Com+Pl:cnaip	#;	! Headword: cnap Nm1-6; (Var: npl. cnaip, gpl. ~)
+cnap+Noun+Masc+Gen+Pl:cnap	#;	! Headword: cnap Nm1-6; (Var: npl. cnaip, gpl. ~)
+comhaois+Noun+Fem+Com+Pl:comhaoiseacha	#;	! Headword: comhaois Nf2-6; (Var: pl. ~eacha, ~tí)
+comhaois+Noun+Fem+Gen+Pl:comhaoiseacha	#;	! Headword: comhaois Nf2-6; (Var: pl. ~eacha, ~tí)
+comhaois+Noun+Fem+Com+Pl:comhaoistí	#;	! Headword: comhaois Nf2-6; (Var: pl. ~eacha, ~tí) ***
+comhaois+Noun+Fem+Gen+Pl:comhaoistí	#;	! Headword: comhaois Nf2-6; (Var: pl. ~eacha, ~tí) ***
+cónra+Noun+Fem+Gen+Sg:cónrach	#;	! Headword: cónra Nf4-1; (Var: gs. ~ch, npl. ~cha)
+cónra+Noun+Fem+Com+Pl:cónracha	#;	! Headword: cónra Nf4-1; (Var: gs. ~ch, npl. ~cha)
+craobh+Noun+Fem+Com+Pl:craobha	#;	! Headword: craobh Nf2-8; (Var: npl. ~a, gpl. ~)
+craobh+Noun+Fem+Gen+Pl:craobh	#;	! Headword: craobh Nf2-8; (Var: npl. ~a, gpl. ~)
+creig+Noun+Fem+Com+Pl:creigeacha	#;	! Headword: creig Nf2-2; (Var: pl. ~eacha, ~eanna)
+creig+Noun+Fem+Gen+Pl:creigeacha	#;	! Headword: creig Nf2-2; (Var: pl. ~eacha, ~eanna)
+creig+Noun+Fem+Com+Pl:creigeanna	#;	! Headword: creig Nf2-2; (Var: pl. ~eacha, ~eanna) ***
+creig+Noun+Fem+Gen+Pl:creigeanna	#;	! Headword: creig Nf2-2; (Var: pl. ~eacha, ~eanna) ***
+cruib+Noun+Fem+Gen+Sg:cruibeach	#;	! Headword: cruib Nf2-6; (Var: gs. ~each, pl. ~eacha)
+cruib+Noun+Fem+Com+Pl:cruibeacha	#;	! Headword: cruib Nf2-6; (Var: gs. ~each, pl. ~eacha)
+cruib+Noun+Fem+Gen+Pl:cruibeacha	#;	! Headword: cruib Nf2-6; (Var: gs. ~each, pl. ~eacha)
+cual+Noun+Fem+Com+Pl:cuala	#;	! ***
+cual+Noun+Fem+Gen+Pl:cuala	#;	! ***
+daol+Noun+Masc+Com+Pl:daola	#;	! Headword: daol Nm1-1; (Var: pl. ~a, ~anna)
+daol+Noun+Masc+Gen+Pl:daola	#;	! Headword: daol Nm1-1; (Var: pl. ~a, ~anna)
+daol+Noun+Masc+Com+Pl:daolanna	#;	! Headword: daol Nm1-1; (Var: pl. ~a, ~anna) ***
+daol+Noun+Masc+Gen+Pl:daolanna	#;	! Headword: daol Nm1-1; (Var: pl. ~a, ~anna) ***
+dath+Noun+Masc+Com+Pl:datha	#;	! Headword: dath Nm3-2; (Var: npl. ~a, gpl. ~)
+dath+Noun+Masc+Gen+Pl:dath	#;	! Headword: dath Nm3-2; (Var: npl. ~a, gpl. ~)
+dearna+Noun+Fem+Gen+Sg:dearnach	#;	! Headword: dearna Nf5-3; (Var: gs. ~ch, pl. ~cha)
+dearna+Noun+Fem+Com+Pl:dearnacha	#;	! Headword: dearna Nf5-3; (Var: gs. ~ch, pl. ~cha)
+dearna+Noun+Fem+Gen+Pl:dearnacha	#;	! Headword: dearna Nf5-3; (Var: gs. ~ch, pl. ~cha)
+deiric+Noun+Fem+Gen+Sg:deiriceach	#;	! Headword: deiric Nf2-7; (Var: gs. ~each, pl. ~eacha)
+deiric+Noun+Fem+Com+Pl:deiriceacha	#;	! Headword: deiric Nf2-7; (Var: gs. ~each, pl. ~eacha)
+deiric+Noun+Fem+Gen+Pl:deiriceacha	#;	! Headword: deiric Nf2-7; (Var: gs. ~each, pl. ~eacha)
+dinnéar+Noun+Masc+Gen+Sg:dinnéara	#;	! Headword: dinnéar Nm1-1; (Var: gs. ~a, pl. ~acha)
+dinnéar+Noun+Masc+Com+Pl:dinnéaracha	#;	! Headword: dinnéar Nm1-1; (Var: gs. ~a, pl. ~acha)
+dinnéar+Noun+Masc+Gen+Pl:dinnéaracha	#;	! Headword: dinnéar Nm1-1; (Var: gs. ~a, pl. ~acha)
+drár+Noun+Masc+Com+Pl:dráranna	#;	! Headword: drár Nm1-1; (Var: pl. ~anna, ~tha)
+drár+Noun+Masc+Gen+Pl:dráranna	#;	! Headword: drár Nm1-1; (Var: pl. ~anna, ~tha)
+drár+Noun+Masc+Com+Pl:drártha	#;	! Headword: drár Nm1-1; (Var: pl. ~anna, ~tha) ***
+drár+Noun+Masc+Gen+Pl:drártha	#;	! Headword: drár Nm1-1; (Var: pl. ~anna, ~tha) ***
+dumha+Noun+Masc+Gen+Sg:dumhadh	#;	! Headword: dumha Nm4-1; (Var: gs. ~dh, pl. ~dha)
+dumha+Noun+Masc+Com+Pl:dumhadha	#;	! Headword: dumha Nm4-1; (Var: gs. ~dh, pl. ~dha)
+dumha+Noun+Masc+Gen+Pl:dumhadha	#;	! Headword: dumha Nm4-1; (Var: gs. ~dh, pl. ~dha)
+eas+Noun+Masc+Com+Pl:easa	#;	! Headword: eas Nm3-2; (Var: npl. ~a, gpl. ~)
+eas+Noun+Masc+Gen+Pl:eas	#;	! Headword: eas Nm3-2; (Var: npl. ~a, gpl. ~)
+faithne+Noun+Masc+Com+Pl:faithneacha	#;	! Headword: faithne Nm4-2; (Var: pl. ~acha, faithníocha)
+faithne+Noun+Masc+Gen+Pl:faithneacha	#;	! Headword: faithne Nm4-2; (Var: pl. ~acha, faithníocha)
+faithne+Noun+Masc+Com+Pl:faithníocha	#;	! Headword: faithne Nm4-2; (Var: pl. ~acha, faithníocha) ***
+faithne+Noun+Masc+Gen+Pl:faithníocha	#;	! Headword: faithne Nm4-2; (Var: pl. ~acha, faithníocha) ***
+foghail+Noun+Fem+Gen+Sg:foghaile	#;	! Headword: foghail Nf5-2a; (Var: gs. ~e, pl. ~eanna)
+foghail+Noun+Fem+Com+Pl:foghaileanna	#;	! Headword: foghail Nf5-2a; (Var: gs. ~e, pl. ~eanna)
+foghail+Noun+Fem+Gen+Pl:foghaileanna	#;	! Headword: foghail Nf5-2a; (Var: gs. ~e, pl. ~eanna)
+fóisc+Noun+Fem+Com+Pl:fóisce	#;	! Headword: fóisc Nf2-8; (Var: pl. ~e, ~eanna)
+fóisc+Noun+Fem+Gen+Pl:fóisce	#;	! Headword: fóisc Nf2-8; (Var: pl. ~e, ~eanna)
+fóisc+Noun+Fem+Com+Pl:fóisceanna	#;	! Headword: fóisc Nf2-8; (Var: pl. ~e, ~eanna) ***
+fóisc+Noun+Fem+Gen+Pl:fóisceanna	#;	! Headword: fóisc Nf2-8; (Var: pl. ~e, ~eanna) ***
+fuath+Noun+Masc+Com+Pl:fuatha	#;	! Headword: fuath Nm3-SINGULAR; (Var: npl. ~a, gpl. ~)
+fuath+Noun+Masc+Gen+Pl:fuath	#;	! Headword: fuath Nm3-SINGULAR; (Var: npl. ~a, gpl. ~)
+gasúr+Noun+Masc+Gen+Sg:gasúra	#;	! Headword: gasúr Nm1-1; (Var: gs. ~a, pl. ~aí)
+gasúr+Noun+Masc+Com+Pl:gasúraí	#;	! Headword: gasúr Nm1-1; (Var: gs. ~a, pl. ~aí)
+gasúr+Noun+Masc+Gen+Pl:gasúraí	#;	! Headword: gasúr Nm1-1; (Var: gs. ~a, pl. ~aí)
+iarann+Noun+Masc+Com+Pl:iarannacha	#;	! Headword: iarann Nm1-1; (Var: pl. ~acha, ~aí)
+iarann+Noun+Masc+Gen+Pl:iarannacha	#;	! Headword: iarann Nm1-1; (Var: pl. ~acha, ~aí)
+iarann+Noun+Masc+Com+Pl:iarannaí	#;	! Headword: iarann Nm1-1; (Var: pl. ~acha, ~aí) ***
+iarann+Noun+Masc+Gen+Pl:iarannaí	#;	! Headword: iarann Nm1-1; (Var: pl. ~acha, ~aí) ***
+iníon+Noun+Fem+Com+Pl:iníona	#;	! Headword: iníon Nf2-8; (Var: npl. ~a, gpl. ~)
+iníon+Noun+Fem+Gen+Pl:iníon	#;	! Headword: iníon Nf2-8; (Var: npl. ~a, gpl. ~)
+ionad+Noun+Masc+Com+Pl:ionada	#;	! Headword: ionad Nm1-1; (Var: pl. ~a, ~acha)
+ionad+Noun+Masc+Gen+Pl:ionada	#;	! Headword: ionad Nm1-1; (Var: pl. ~a, ~acha)
+ionad+Noun+Masc+Com+Pl:ionadacha	#;	! Headword: ionad Nm1-1; (Var: pl. ~a, ~acha) ***
+ionad+Noun+Masc+Gen+Pl:ionadacha	#;	! Headword: ionad Nm1-1; (Var: pl. ~a, ~acha) ***
+leanbh+Noun+Masc+Com+Pl:leanbhaí	#;	! Headword: leanbh Nm1-5; (Var: npl. ~aí, gpl. ~)
+leanbh+Noun+Masc+Gen+Pl:leanbh	#;	! Headword: leanbh Nm1-5; (Var: npl. ~aí, gpl. ~)
+malairt+Noun+Fem+Gen+Sg:malarta	#;	! Headword: malairt Nf2-7; (Var: gs. malarta, pl. ~eacha, malarta(cha))
+malairt+Noun+Fem+Com+Pl:malairteacha	#;	! Headword: malairt Nf2-7; (Var: gs. malarta, pl. ~eacha, malarta(cha))
+malairt+Noun+Fem+Gen+Pl:malairteacha	#;	! Headword: malairt Nf2-7; (Var: gs. malarta, pl. ~eacha, malarta(cha))
+malairt+Noun+Fem+Com+Pl:malarta	#;	! Headword: malairt Nf2-7; (Var: gs. malarta, pl. ~eacha, malarta(cha)) ***
+malairt+Noun+Fem+Gen+Pl:malarta	#;	! Headword: malairt Nf2-7; (Var: gs. malarta, pl. ~eacha, malarta(cha)) ***
+malairt+Noun+Fem+Com+Pl:malartacha	#;	! Headword: malairt Nf2-7; (Var: gs. malarta, pl. ~eacha, malarta(cha)) ***
+malairt+Noun+Fem+Gen+Pl:malartacha	#;	! Headword: malairt Nf2-7; (Var: gs. malarta, pl. ~eacha, malarta(cha)) ***
+míle+Noun+Masc+Gen+Sg:míleadh	#;	! Headword: míle Nm4-3; (Var: gs. & gpl. ~adh, npl. ~adha)
+míle+Noun+Masc+Gen+Pl:míleadh	#;	! Headword: míle Nm4-3; (Var: gs. & gpl. ~adh, npl. ~adha)
+míle+Noun+Masc+Com+Pl:míleadha	#;	! Headword: míle Nm4-3; (Var: gs. & gpl. ~adh, npl. ~adha)
+moll+Noun+Masc+Com+Pl:molltra	#;	! Headword: moll Nm1-3; (Var: pl. ~tra, ~tracha)
+moll+Noun+Masc+Gen+Pl:molltra	#;	! Headword: moll Nm1-3; (Var: pl. ~tra, ~tracha)
+moll+Noun+Masc+Com+Pl:molltracha	#;	! Headword: moll Nm1-3; (Var: pl. ~tra, ~tracha) ***
+moll+Noun+Masc+Gen+Pl:molltracha	#;	! Headword: moll Nm1-3; (Var: pl. ~tra, ~tracha) ***
+oidhe+Noun+Fem+Gen+Sg:oidheadha	#;	! Headword: oidhe Nf4-6; (Var: ~adh m & f, oidhidh f, gs. & npl. ~adha)
+oidhe+Noun+Fem+Com+Pl:oidheadha	#;	! Headword: oidhe Nf4-6; (Var: ~adh m & f, oidhidh f, gs. & npl. ~adha)
+saoiste+Noun+Masc+Com+Pl:saoisteacha	#;	! Headword: saoiste Nm4-2; (Var: pl. ~acha, saoistíocha)
+saoiste+Noun+Masc+Gen+Pl:saoisteacha	#;	! Headword: saoiste Nm4-2; (Var: pl. ~acha, saoistíocha)
+saoiste+Noun+Masc+Com+Pl:saoistíocha	#;	! Headword: saoiste Nm4-2; (Var: pl. ~acha, saoistíocha) ***
+saoiste+Noun+Masc+Gen+Pl:saoistíocha	#;	! Headword: saoiste Nm4-2; (Var: pl. ~acha, saoistíocha) ***
+slaod+Noun+Masc+Com+Pl:slaoda	#;	! Headword: slaod Nm3-2; (Var: npl. ~a, gpl. ~)
+slaod+Noun+Masc+Gen+Pl:slaod	#;	! Headword: slaod Nm3-2; (Var: npl. ~a, gpl. ~)
+sleán+Noun+Masc+Com+Pl:sleáin	#;	! Headword: sleán Nm1-3; (Var: npl. sleáin, gpl. ~)
+sleán+Noun+Masc+Gen+Pl:sleán	#;	! Headword: sleán Nm1-3; (Var: npl. sleáin, gpl. ~)
+spuaic+Noun+Fem+Com+Pl:spuaiceacha	#;	! Headword: spuaic Nf2-6; (Var: pl. ~eacha, spuacacha)
+spuaic+Noun+Fem+Gen+Pl:spuaiceacha	#;	! Headword: spuaic Nf2-6; (Var: pl. ~eacha, spuacacha)
+spuaic+Noun+Fem+Com+Pl:spuacacha	#;	! Headword: spuaic Nf2-6; (Var: pl. ~eacha, spuacacha) ***
+spuaic+Noun+Fem+Gen+Pl:spuacacha	#;	! Headword: spuaic Nf2-6; (Var: pl. ~eacha, spuacacha) ***
+sraoth+Noun+Masc+Com+Pl:sraotha	#;	! Headword: sraoth Nm3-2; (Var: npl. ~a, gpl. ~)
+sraoth+Noun+Masc+Gen+Pl:sraoth	#;	! Headword: sraoth Nm3-2; (Var: npl. ~a, gpl. ~)
+staic+Noun+Fem+Com+Pl:staiceacha	#;	! Headword: staic Nf2-6; (Var: pl. ~eacha, ~í)
+staic+Noun+Fem+Gen+Pl:staiceacha	#;	! Headword: staic Nf2-6; (Var: pl. ~eacha, ~í)
+staic+Noun+Fem+Com+Pl:staicí	#;	! Headword: staic Nf2-6; (Var: pl. ~eacha, ~í) ***
+staic+Noun+Fem+Gen+Pl:staicí	#;	! Headword: staic Nf2-6; (Var: pl. ~eacha, ~í) ***
+stiall+Noun+Fem+Com+Pl:stialla	#;	! Headword: stiall Nf2-8; (Var: npl. ~a, gpl. ~)
+stiall+Noun+Fem+Gen+Pl:stiall	#;	! Headword: stiall Nf2-8; (Var: npl. ~a, gpl. ~)
+tinneas+Noun+Masc+Com+Pl:tinneasacha	#;	! Headword: tinneas Nm1-1; (Var: pl. ~acha, ~aí)
+tinneas+Noun+Masc+Gen+Pl:tinneasacha	#;	! Headword: tinneas Nm1-1; (Var: pl. ~acha, ~aí)
+tinneas+Noun+Masc+Com+Pl:tinneasaí	#;	! Headword: tinneas Nm1-1; (Var: pl. ~acha, ~aí) ***
+tinneas+Noun+Masc+Gen+Pl:tinneasaí	#;	! Headword: tinneas Nm1-1; (Var: pl. ~acha, ~aí) ***
+turas+Noun+Masc+Com+Pl:turaistí	#;	! Headword: turas Nm1-1; (Var: pl. turaistí, ~anna)
+turas+Noun+Masc+Gen+Pl:turaistí	#;	! Headword: turas Nm1-1; (Var: pl. turaistí, ~anna)
+turas+Noun+Masc+Com+Pl:turasanna	#;	! Headword: turas Nm1-1; (Var: pl. turaistí, ~anna)
+turas+Noun+Masc+Gen+Pl:turasanna	#;	! Headword: turas Nm1-1; (Var: pl. turaistí, ~anna)
+ulcha+Noun+Fem+Gen+Sg:ulchadh	#;	! Headword: ulcha Nf4-1; (Var: gs. ~dh, ~n)
+ulcha+Noun+Fem+Gen+Sg:ulchan	#;	! Headword: ulcha Nf4-1; (Var: gs. ~dh, ~n)
+
+! *** Assigned by hand.
+! CW 02/09/08
+anam	Nf3-6;	! Headword: anam (m) Forms: (Var: pl. ~anna; f) ***
+banbhán	Nm1-1;	! Headword: banbh (m) Forms: (Var: pl. ~aí; ~án m)
+banrín	Nf2-6;	! Headword: banríon (f) Forms: (Var: gs. ~ach gpl. ~; banrín, gs. banríne) ***
+baodhg	Nf2-8;	! Headword: baog (f) Forms: (Var: pl. ~racha; baodhg)
+bearn	Nf4-1;	! Headword: bearna (f) Forms: (Var: gs. ~dh, pl. ~cha; bearn f)
+blodh	Nf3-3;	! Headword: blogh (f) Forms: (Var: gs. bloighe, pl. ~a, ~t(r)acha; blodh f, ~ta m)
+bloghta	Nm4-6;	! Headword: blogh (f) Forms: (Var: gs. bloighe, pl. ~a, ~t(r)acha; blodh f, ~ta m) ***
+breall	Nm1-2;	! Headword: breall (f); Forms: pl. ~acha; m, gs. breill ***
+!!!! CC Evaluation buailidh 	Nf?-??	! Headword: buaile (f); Forms: m; buailidh f, gs. ~adh
+buailidh+Noun+Fem+Com+Sg:0	#;
+buailidh+Noun+Fem+Com+Sg+DefArt:0	#;
+buailidh+Noun+Fem+Gen+Sg:buaileadh	#;
+buailidh+Noun+Fem+Gen+Sg+DefArt:buaileadh	#;
+buaile	Nm4-3;	! Headword: buaile (f) Forms: (Var: m; buailidh f, gs. ~adh) ***
+camhaoire	Nf4-SINGULAR;	! Headword: camhaoir (f) Forms: (Var: gs. ~each; ~e f) ***
+canáile	Nf4-SINGULAR;	! Headword: canáil (f) Forms: (Var: gs. canálach; ~e f) ***
+!caslaigh+CU:caslaigh	Nf5-1;	! Headword: casla (f) Forms: (Var: gs. ~ch, pl. ~cha; ~igh f)
+! # Use the syntax below, if the above does not work.
+caslaigh+CU+Noun+Fem+Com+Sg:0	#;
+caslaigh+CU+Noun+Fem+Com+Sg+DefArt:0	#;
+caslaigh+CU+Noun+Fem+Gen+Sg:caslach	#;
+caslaigh+CU+Noun+Fem+Gen+Sg+DefArt:caslach	#;
+caslaigh+CU+Noun+Fem+Com+Pl:caslacha	#;
+caslaigh+CU+Noun+Fem+Gen+Pl:caslacha	#;
+ceirtlín	Nf2-8;	! Headword: ceirtlín (m); Forms: f, pl. ~eacha; ceirtle f, ceirtleog f ***
+ceirtle	Nf4-5;	! Headword: ceirtlín (m) Forms: (Var: f, pl. ~eacha; ceirtle f, ceirtleog f) ***
+ceirtleog	Nf2-1;	! Headword: ceirtlín (m) Forms: (Var: f, pl. ~eacha; ceirtle f, ceirtleog f) ***
+cleithín	Nm4-1;	! Headword: cléithín (m) Forms: (Var: cleithín; of 3, ~each m)
+!of	Nm4-1;	! Headword: cléithín (m) Forms: (Var: cleithín; of 3, ~each m)
+cléithíneach	Nm1-1;	! Headword: cléithín (m) Forms: (Var: cleithín; of 3, ~each m) ***
+cliabh	Nf2-1;	! Headword: cliabh (m); Forms: pl. ~acha; f, gs. cléibhe ***
+coibhne	Nf4-2;	! Headword: coibhneas (m) Forms: (Var: gs. ~a; coibhne f) ***
+coimhthíocht	Nf3-SINGULAR;	! Headword: coimhthíos (m) Forms: (Var: gs. ~a; coimhthíocht f) ***
+coinicéar	Nf5-1;	! Headword: coinicéar (m); Forms: f, gs. ~ach; coinigéar ***
+coinigéar	Nm1-1;	! Headword: coinicéar (m) Forms: (Var: f, gs. ~ach; coinigéar)
+coinsiasa	Nm4-1;	! Headword: coinsias (m) Forms: (Var: gs. coinsiais; ~a m) ***
+!coiscéim	Nm?-??;	! Headword: coiscéim (f) Forms: (Var: pl. ~í, ~neacha; m)
+! The masculine form might belong to Nm4-1, yet no proof of this could be found
+! in the corpus. So the forms are listed explicitly below.
+coiscéim+Noun+Masc+Com+Sg:0	#;
+coiscéim+Noun+Masc+Com+Sg+DefArt:0	#;
+coiscéim+Noun+Masc+Gen+Sg:coiscéime	#;
+coiscéim+Noun+Masc+Com+Pl:coiscéimí	#;
+coiscéim+Noun+Masc+Com+Pl+DefArt:coiscéimí	#;
+coiscéim+Noun+Masc+Gen+Pl:coiscéimí	#;
+cóisire	Nf2-7;	! Headword: cóisir (f) Forms: (Var: gs. ~each, pl. ~eacha; ~e f) ???
+Comaoine	Nf4-5;	! Headword: Comaoin (f) Forms: (Var: gs. ~each; ~e f) ***
+cráifis	Nf2-6;	! Headword: cráifisc (f) Forms: (Var: pl. ~eacha; cráifis f)
+creachnaois	Nf2-7;	! Headword: creachlaois (f) Forms: (Var: pl. ~eacha; creachnaois)
+creat	Nf2-3;	! Headword: creat (m); Forms: pl. ~acha; f, gs. creite; ~a m ***
+creata	Nm4-1;	! Headword: creat (m) Forms: (Var: pl. ~acha; f, gs. creite; ~a m)
+crith	Nf2-6;	! Headword: crith (m) Forms: (Var: pl. ~eacha; f; ~eadh m) *** ???
+critheadh	Nm1-1;	! Headword: crith (m) Forms: (Var: pl. ~eacha; f; ~eadh m) *** ???
+cruithneachta	Nf4-SINGULAR;	! Headword: cruithneacht (f) Forms: (Var: gs. ~an; ~a f) ***
+cuibhdheas	Nm1-1;	! Headword: cuibheas (m) Forms: (Var: gs. ~a; cuibhdheas, cuibheacht f)
+cuibheacht	Nf3-1;	! Headword: cuibheas (m) Forms: (Var: gs. ~a; cuibhdheas, cuibheacht f) ***
+cuideachtanas	Nm1-1;	! Headword: cuideachta (f) Forms: (Var: gs. ~n; ~nas m) ***
+cumhachta	Nf4-1;	! Headword: cumhacht (f) Forms: (Var: ~a f; gpl. ~) ***
+dabhad 	Nf2-2;	! Headword: dabhaid (f); Forms: pl. ~(r)eacha; dabhad f, pl. dabhada ***
+dlagh 	Nf4-SINGULAR;	! Headword: dlaoi (f); Forms: pl. ~theacha, ~theanna; dlagh f, pl. dlaghthacha
+dlagh+Noun+Fem+Com+Pl:dlaghthacha	#;
+dlagh+Noun+Fem+Gen+Pl:dlaghthacha	#;
+doirbheadas	Nm1-SINGULAR;	! Headword: doirbheas (m) Forms: (Var: gs. ~a; doirbheadas)
+dorna	Nf4-1;	! Headword: dorn (m) Forms: (Var: pl. ~a, ~aí; ~a f) ***
+dug	Nm3-1;	! Headword: duga (m) Forms: (Var: dug m; pl. ~nna) ***
+!ealaí	Nf2-2;	! Headword: ealaín (f) Forms: (Var: pl. ~eacha; ealaí f)
+ealaín+Noun+Fem+Com+Sg:ealaí	#;
+ealt	Nf3-1;	! Headword: ealta (f) Forms: (Var: npl. ~in, gs. & gpl. ~n; ealt f) ***
+fliodh	Nm3-SINGULAR;	! Headword: fliodh (f); Forms: m, gs. ~a; flidh f, flig f, flíoch f ***
+flidh	Nf2-SINGULAR;	! Headword: fliodh (f) Forms: (Var: m, gs. ~a; flidh f, flig f, flíoch f)
+flig	Nf2-SINGULAR;	! Headword: fliodh (f) Forms: (Var: m, gs. ~a; flidh f, flig f, flíoch f)
+flíoch	Nf2-SINGULAR;	! Headword: fliodh (f) Forms: (Var: m, gs. ~a; flidh f, flig f, flíoch f)
+glaochan 	Nf3-SINGULAR;	! Headword: glaoch (m); Forms: ~an f, gs. ~ana; glaodhach ***
+glaodhach	Nm1-6;	! Headword: glaoch (m) Forms: (Var: ~an f, gs. ~ana; glaodhach)
+gríos	Nf2-SINGULAR;	! Headword: gríos (m); Forms: gs. ~a; f, gs. gríse ***
+iarsma	Nf4-1;	! Headword: iarsma (m) Forms: (Var: f; ~ir f, ~ire f, ~r m) ***
+iarsmair	Nf2-7;	! Headword: iarsma (m) Forms: (Var: f; ~ir f, ~ire f, ~r m) ***
+iarsmaire	Nf4-2;	! Headword: iarsma (m) Forms: (Var: f; ~ir f, ~ire f, ~r m) ***
+iarsmar	Nm1-1;	! Headword: iarsma (m) Forms: (Var: f; ~ir f, ~ire f, ~r m) *** ???
+!of	Nm1-1;	! Headword: imreasc (m) Forms: (Var: gs. & npl. ~a; of 2: mac imreasa(i)n, mac imris)
+!mac	Nm1-1;	! Headword: imreasc (m) Forms: (Var: gs. & npl. ~a; of 2: mac imreasa(i)n, mac imris)
+!of	Nf2-7;	! Headword: inchinn (f) Forms: (Var: gs. incheann; of 2: ~each f)
+iomaire	Nf4-1;	! Headword: iomaire (m) Forms: (Var: pl. ~acha; f) ***
+íomhá	Nm4-6;	! Headword: íomhá (f) Forms: (Var: m; ~ighean m, ~ighin f) ***
+íomháighean	Nm1-2;	! Headword: íomhá (f) Forms: (Var: m; ~ighean m, ~ighin f) *** ???
+íomháighin	Nf2-6;	! Headword: íomhá (f) Forms: (Var: m; ~ighean m, ~ighin f) ***
+!!!! CC Evaluation iothla 	Nf?-??	! Headword: iothlainn (f); Forms: pl. ~tí; iothla f, gs. iothlann
+iothla+Noun+Fem+Com+Sg:0	#;
+iothla+Noun+Fem+Com+Sg+DefArt:0	#;
+iothla+Noun+Fem+Gen+Sg:iothlann	#;
+iothla+Noun+Fem+Gen+Sg+DefArt:iothlann	#;
+!!!! CC Evaluation leargain 	Nf?-??	! Headword: learg (f); Forms: pl. ~acha; ~a f, ~aidh f, gs. ~adh; ~ain f, gs. ~an; ~án m
+! ~aidh f, gs. ~adh
+leargaidh+Noun+Fem+Com+Sg:0	#;
+leargaidh+Noun+Fem+Com+Sg+DefArt:0	#;
+leargaidh+Noun+Fem+Gen+Sg:leargadh	#;
+leargaidh+Noun+Fem+Gen+Sg+DefArt:leargadh	#;
+! ~a f[, ~aidh f], gs. ~adh
+learga+Noun+Fem+Com+Sg:0	#;
+learga+Noun+Fem+Com+Sg+DefArt:0	#;
+learga+Noun+Fem+Gen+Sg:leargadh	#;
+learga+Noun+Fem+Gen+Sg+DefArt:leargadh	#;
+!  ~ain f, gs. ~an
+leargain+Noun+Fem+Com+Sg:0	#;
+leargain+Noun+Fem+Com+Sg+DefArt:0	#;
+leargain+Noun+Fem+Gen+Sg:leargan	#;
+leargain+Noun+Fem+Gen+Sg+DefArt:leargan	#;
+!learga	Nf2-1;	! Headword: learg (f) Forms: (Var: pl. ~acha; ~a f, ~aidh f, gs. ~adh; ~ain f, gs. ~an; ~án m)
+leargán	Nm1-1;	! Headword: learg (f) Forms: (Var: pl. ~acha; ~a f, ~aidh f, gs. ~adh; ~ain f, gs. ~an; ~án m) ***
+!!!! CC Evaluation léinidh 	Nf?-??	! Headword: léine (f); Forms: pl. léinteacha; léinidh f, gs. ~adh
+léinidh+Noun+Fem+Com+Sg:0	#;
+léinidh+Noun+Fem+Com+Sg+DefArt:0	#;
+léinidh+Noun+Fem+Gen+Sg:léineadh	#;
+léinidh+Noun+Fem+Gen+Sg+DefArt:léineadh	#;
+leisc	Nf2-SINGULAR;	! Headword: leisce (f) Forms: (Var: leisc f; of 1,2: ~acht f) ***
+!of	Nf4-SINGULAR;	! Headword: leisce (f) Forms: (Var: leisc f; of 1,2: ~acht f)
+loch	Nf2-1;	! Headword: loch (m) Forms: (Var: npl. ~a, gpl. ~; f) ***
+!!!! CC Evaluation loingeas	Nf?-??	! Headword: loingeas (m); Forms: gs. & npl. ~a; f, gs. loingse
+loingeas+Noun+Fem+Com+Sg:0	#;
+loingeas+Noun+Fem+Com+Sg+DefArt:0	#;
+loingeas+Noun+Fem+Gen+Sg:loingse	#;
+loingeas+Noun+Fem+Gen+Sg+DefArt:loingse	#;
+lútháil	Nf3-SINGULAR;	! Headword: lúth (m) Forms: (Var: gs. ~a; ~áil f) ***
+mám	Nm3-2;	! Headword: mám (f) Forms: (Var: npl. ~a, gpl. ~; m) ***
+meanmanra	Nf4-SINGULAR;	! Headword: meanmanra (m) Forms: (Var: f; ~idh f)
+meanmanraidh	Nf4-SINGULAR;	! Headword: meanmanra (m) Forms: (Var: f; ~idh f)
+ócáide	Nf4-2;	! Headword: ócáid (f) Forms: (Var: pl. ~eacha; ~e f) ***
+punainn	Nf2-8;	! Headword: punann (f) Forms: (Var: pl. ~acha, punainneacha; punainn f) ??? (not changed)
+rásúir 	Nf5-1;	! Headword: rásúr (m); Forms: f; rásúir f, gs. ~ach, pl. ~acha ***
+!rásúr	Nf?-??;	! Headword: rásúr (m) Forms: (Var: f; rásúir f, gs. ~ach, pl. ~acha)
+rasúr+Noun+Fem+Com+Sg:0	#;
+rasúr+Noun+Fem+Com+Sg+DefArt:0	#;
+ráth	Nf2-1;	! Headword: ráth (m) Forms: (Var: npl. ~a, gpl. ~; f) ***
+riasta	Nm4-1;	! Headword: riast (m) Forms: (Var: pl. ~acha; ~a m) ***
+roth	Nf3-1;	! Headword: roth (m) Forms: (Var: f; ~a m) ***
+rotha	Nm3-1;	! Headword: roth (m) Forms: (Var: f; ~a m)
+sanas	Nf2-SINGULAR;	! Headword: sanas (m); Forms: gs. & npl. ~a; f, gs. sanaise; sanais f *** ???
+sanais	Nf2-3;	! Headword: sanas (m) Forms: (Var: gs. & npl. ~a; f, gs. sanaise; sanais f) *** ???
+seanchasc	Nm1-1;	! Headword: seanchas (m) Forms: (Var: gs. ~a; ~c m)
+séap	Nm4-7;	! Headword: seáp (m) Forms: (Var: séap; pl. ~aí)
+síon	Nm1-3;	! Headword: síon (f) Forms: (Var: pl. ~a; m) ***
+smeach	Nf2-3;	! Headword: smeach (m); Forms: f, gs. smeiche, npl. ~a; gpl. ~ ***
+soilse	Nm4-2;	! Headword: soilse (f) Forms: (Var: m; pl. ~acha) ***
+soirbhe	Nf4-SINGULAR;	! Headword: soirbheas (m) Forms: (Var: gs. ~a; soirbhe f)
+stéic	Nf2-8;	! Headword: stéig (f) Forms: (Var: pl. ~eanna; stéic f)
+stríoca	Nm4-1;	! Headword: stríoc (f) Forms: (Var: pl. ~acha; ~a m) ***
+tallann	Nm1-1;	! Headword: tallann (f) Forms: (Var: m; pl. ~acha) ***
+tamalt	Nm1-1;	! Headword: tamall (m) Forms: (Var: pl. ~acha; tamalt m)
+téacsa	Nm4-6;	! Headword: téacs (m) Forms: (Var: pl. ~a; ~a m) ***
+tórramha	Nm4-1;	! Headword: tórramh (m) Forms: (Var: ~a m; pl. tórraimheacha)
+treabhair 	Nf5-1;	! Headword: treabhaire (f); Forms: ~acht f; treabhair f, gs. treabhrach *** (has no plural, Nf5-SINGULAR should be introduced as there are some other cases like this one)
+treabhaireacht	Nf3-SINGULAR;	! Headword: treabhaire (f) Forms: (Var: ~acht f; treabhair f, gs. treabhrach) ***
+
+anam+Noun+Masc+Com+Pl:anamanna	#;	! Headword: anam (m; CC: Nm3-5;) Forms: (Var: pl. ~anna; f)
+anam+Noun+Masc+Gen+Pl:anamanna	#;	! Headword: anam (m; CC: Nm3-5;) Forms: (Var: pl. ~anna; f)
+banbh+Noun+Masc+Com+Pl:banbhaí	#;	! Headword: banbh (m; CC: Nm1-1;) Forms: (Var: pl. ~aí; ~án m)
+banbh+Noun+Masc+Gen+Pl:banbhaí	#;	! Headword: banbh (m; CC: Nm1-1;) Forms: (Var: pl. ~aí; ~án m)
+banríon+Noun+Fem+Gen+Sg:banríonach	#;	! Headword: banríon (f; CC: Nf3-6;) Forms: (Var: gs. ~ach gpl. ~; banrín, gs. banríne)
+banríon+Noun+Fem+Gen+Pl:banríon	#;	! Headword: banríon (f; CC: Nf3-6;) Forms: (Var: gs. ~ach gpl. ~; banrín, gs. banríne) ***
+baog+Noun+Fem+Com+Pl:baogracha	#;	! Headword: baog (f; CC: Nf2-8;) Forms: (Var: pl. ~racha; baodhg)
+baog+Noun+Fem+Gen+Pl:baogracha	#;	! Headword: baog (f; CC: Nf2-8;) Forms: (Var: pl. ~racha; baodhg)
+bearna+Noun+Fem+Gen+Sg:bearnadh	#;	! Headword: bearna (f; CC: Nf4-1;) Forms: (Var: gs. ~dh, pl. ~cha; bearn f)
+bearna+Noun+Fem+Com+Pl:bearnacha	#;	! Headword: bearna (f; CC: Nf4-1;) Forms: (Var: gs. ~dh, pl. ~cha; bearn f) ***
+bearna+Noun+Fem+Gen+Pl:bearnacha	#;	! Headword: bearna (f; CC: Nf4-1;) Forms: (Var: gs. ~dh, pl. ~cha; bearn f) ***
+blogh+Noun+Fem+Gen+Sg:bloighe	#;	! Headword: blogh (f; CC: Nf3-3;) Forms: (Var: gs. bloighe, pl. ~a, ~t(r)acha; blodh f, ~ta m)
+blogh+Noun+Fem+Com+Pl:blogha	#;	! Headword: blogh (f; CC: Nf3-3;) Forms: (Var: gs. bloighe, pl. ~a, ~t(r)acha; blodh f, ~ta m) ***
+blogh+Noun+Fem+Gen+Pl:blogha	#;	! Headword: blogh (f; CC: Nf3-3;) Forms: (Var: gs. bloighe, pl. ~a, ~t(r)acha; blodh f, ~ta m) ***
+blogh+Noun+Fem+Com+Pl:bloghtacha	#;	! Headword: blogh (f; CC: Nf3-3;) Forms: (Var: gs. bloighe, pl. ~a, ~t(r)acha; blodh f, ~ta m) ***
+blogh+Noun+Fem+Gen+Pl:bloghtacha	#;	! Headword: blogh (f; CC: Nf3-3;) Forms: (Var: gs. bloighe, pl. ~a, ~t(r)acha; blodh f, ~ta m) ***
+blogh+Noun+Fem+Com+Pl:bloghtracha	#;	! Headword: blogh (f; CC: Nf3-3;) Forms: (Var: gs. bloighe, pl. ~a, ~t(r)acha; blodh f, ~ta m) ***
+blogh+Noun+Fem+Gen+Pl:bloghtracha	#;	! Headword: blogh (f; CC: Nf3-3;) Forms: (Var: gs. bloighe, pl. ~a, ~t(r)acha; blodh f, ~ta m) ***
+breall+Noun+Fem+Com+Pl:breallacha	#;	! Headword: breall (f; CC: Nf2-1;) Forms: (Var: pl. ~acha; m, gs. breill)
+breall+Noun+Fem+Gen+Pl:breallacha	#;	! Headword: breall (f; CC: Nf2-1;) Forms: (Var: pl. ~acha; m, gs. breill)
+camhaoir+Noun+Fem+Gen+Sg:camhaoireach	#;	! Headword: camhaoir (f; CC: Nf2-SINGULAR;) Forms: (Var: gs. ~each; ~e f)
+canáil+Noun+Fem+Gen+Sg:canálach	#;	! Headword: canáil (f; CC: Nf3-SINGULAR;) Forms: (Var: gs. canálach; ~e f)
+casla+Noun+Fem+Gen+Sg:caslach	#;	! Headword: casla (f; CC: Nf4-1;) Forms: (Var: gs. ~ch, pl. ~cha; ~igh f)
+casla+Noun+Fem+Com+Pl:caslacha	#;	! Headword: casla (f; CC: Nf4-1;) Forms: (Var: gs. ~ch, pl. ~cha; ~igh f) ***
+casla+Noun+Fem+Gen+Pl:caslacha	#;	! Headword: casla (f; CC: Nf4-1;) Forms: (Var: gs. ~ch, pl. ~cha; ~igh f) ***
+cliabh+Noun+Masc+Com+Pl:cliabhacha	#;	! Headword: cliabh (m; CC: Nm1-1;) Forms: (Var: pl. ~acha; f, gs. cléibhe)
+cliabh+Noun+Masc+Gen+Pl:cliabhacha	#;	! Headword: cliabh (m; CC: Nm1-1;) Forms: (Var: pl. ~acha; f, gs. cléibhe)
+cnámh+Noun+Fem+Gen+Sg:cnámha	#;	! Headword: cnámh (f; CC: Nf2-2;) Forms: (Var: m; gs. & pl. ~a)
+cnámh+Noun+Fem+Com+Pl:cnámha	#;	! Headword: cnámh (f; CC: Nf2-2;) Forms: (Var: m; gs. & pl. ~a)
+cnámh+Noun+Fem+Gen+Pl:cnámha	#;	! Headword: cnámh (f; CC: Nf2-2;) Forms: (Var: m; gs. & pl. ~a)
+coibhneas+Noun+Masc+Gen+Sg:coibhneasa	#;	! Headword: coibhneas (m; CC: Nm1-2;) Forms: (Var: gs. ~a; coibhne f)
+coimhthíos+Noun+Masc+Gen+Sg:coimhthíosa	#;	! Headword: coimhthíos (m; CC: Nm1-1;) Forms: (Var: gs. ~a; coimhthíocht f)
+coinsias+Noun+Masc+Gen+Sg:coinsiais	#;	! Headword: coinsias (m; CC: Nm3-3;) Forms: (Var: gs. coinsiais; ~a m)
+coiscéim+Noun+Fem+Com+Pl:coiscéimí	#;	! Headword: coiscéim (f; CC: Nf2-6;) Forms: (Var: pl. ~í, ~neacha; m)
+coiscéim+Noun+Fem+Gen+Pl:coiscéimí	#;	! Headword: coiscéim (f; CC: Nf2-6;) Forms: (Var: pl. ~í, ~neacha; m)
+coiscéim+Noun+Fem+Com+Pl:coiscéimneacha	#;	! Headword: coiscéim (f; CC: Nf2-6;) Forms: (Var: pl. ~í, ~neacha; m) ***
+coiscéim+Noun+Fem+Gen+Pl:coiscéimneacha	#;	! Headword: coiscéim (f; CC: Nf2-6;) Forms: (Var: pl. ~í, ~neacha; m) ***
+cóisir+Noun+Fem+Gen+Sg:cóisireach	#;	! Headword: cóisir (f; CC: Nf2-7;) Forms: (Var: gs. ~each, pl. ~eacha; ~e f)
+cóisir+Noun+Fem+Com+Pl:cóisireacha	#;	! Headword: cóisir (f; CC: Nf2-7;) Forms: (Var: gs. ~each, pl. ~eacha; ~e f) ***
+cóisir+Noun+Fem+Gen+Pl:cóisireacha	#;	! Headword: cóisir (f; CC: Nf2-7;) Forms: (Var: gs. ~each, pl. ~eacha; ~e f) ***
+Comaoin+Noun+Fem+Gen+Sg:Comaoineach	#;	! Headword: Comaoin (f; CC: Nf2-8;) Forms: (Var: gs. ~each; ~e f)
+comhla+Noun+Fem+Gen+Sg:comhlach	#;	! Headword: comhla (f; CC: Nf4-1;) Forms: (Var: gs. ~ch, ~dh; pl. ~cha, ~in)
+comhla+Noun+Fem+Gen+Sg:comhladh	#;	! Headword: comhla (f; CC: Nf4-1;) Forms: (Var: gs. ~ch, ~dh; pl. ~cha, ~in) ***
+comhla+Noun+Fem+Com+Pl:comhlacha	#;	! Headword: comhla (f; CC: Nf4-1;) Forms: (Var: gs. ~ch, ~dh; pl. ~cha, ~in)
+comhla+Noun+Fem+Gen+Pl:comhlacha	#;	! Headword: comhla (f; CC: Nf4-1;) Forms: (Var: gs. ~ch, ~dh; pl. ~cha, ~in)
+comhla+Noun+Fem+Com+Pl:comhlain	#;	! Headword: comhla (f; CC: Nf4-1;) Forms: (Var: gs. ~ch, ~dh; pl. ~cha, ~in) ***
+comhla+Noun+Fem+Gen+Pl:comhlain	#;	! Headword: comhla (f; CC: Nf4-1;) Forms: (Var: gs. ~ch, ~dh; pl. ~cha, ~in) ***
+coróin+Noun+Fem+Gen+Sg:coróine	#;	! Headword: coróin (f; CC: Nf5-1;) Forms: (Var: gs. ~e, ~each; npl. ~eacha)
+coróin+Noun+Fem+Gen+Sg:coróineach	#;	! Headword: coróin (f; CC: Nf5-1;) Forms: (Var: gs. ~e, ~each; npl. ~eacha) ***
+coróin+Noun+Fem+Com+Pl:coróineacha	#;	! Headword: coróin (f; CC: Nf5-1;) Forms: (Var: gs. ~e, ~each; npl. ~eacha)
+cráifisc+Noun+Fem+Com+Pl:cráifisceacha	#;	! Headword: cráifisc (f; CC: Nf2-6;) Forms: (Var: pl. ~eacha; cráifis f)
+cráifisc+Noun+Fem+Gen+Pl:cráifisceacha	#;	! Headword: cráifisc (f; CC: Nf2-6;) Forms: (Var: pl. ~eacha; cráifis f)
+creachlaois+Noun+Fem+Com+Pl:creachlaoiseacha	#;	! Headword: creachlaois (f; CC: Nf2-7;) Forms: (Var: pl. ~eacha; creachnaois)
+creachlaois+Noun+Fem+Gen+Pl:creachlaoiseacha	#;	! Headword: creachlaois (f; CC: Nf2-7;) Forms: (Var: pl. ~eacha; creachnaois)
+creachnaois+Noun+Fem+Com+Pl:creachnaoiseacha	#;	! Headword: creachlaois (f; CC: Nf2-7;) Forms: (Var: pl. ~eacha; creachnaois) ***
+creachnaois+Noun+Fem+Gen+Pl:creachnaoiseacha	#;	! Headword: creachlaois (f; CC: Nf2-7;) Forms: (Var: pl. ~eacha; creachnaois) ***
+creat+Noun+Masc+Com+Pl:creatacha	#;	! Headword: creat (m; CC: Nm3-3;) Forms: (Var: pl. ~acha; f, gs. creite; ~a m)
+creat+Noun+Masc+Gen+Pl:creatacha	#;	! Headword: creat (m; CC: Nm3-3;) Forms: (Var: pl. ~acha; f, gs. creite; ~a m)
+crith+Noun+Masc+Com+Pl:critheacha	#;	! Headword: crith (m; CC: Nm3-4;) Forms: (Var: pl. ~eacha; f; ~eadh m)
+crith+Noun+Masc+Gen+Pl:critheacha	#;	! Headword: crith (m; CC: Nm3-4;) Forms: (Var: pl. ~eacha; f; ~eadh m)
+cruithneacht+Noun+Fem+Gen+Sg:cruithneachtan	#;	! Headword: cruithneacht (f; CC: Nf3-SINGULAR;) Forms: (Var: gs. ~an; ~a f)
+cuibheas+Noun+Masc+Gen+Sg:cuibheasa	#;	! Headword: cuibheas (m; CC: Nm1-1;) Forms: (Var: gs. ~a; cuibhdheas, cuibheacht f)
+cuideachta+Noun+Fem+Gen+Sg:cuideachtan	#;	! Headword: cuideachta (f; CC: Nf4-SINGULAR;) Forms: (Var: gs. ~n; ~nas m)
+cuisle+Noun+Fem+Gen+Sg:cuisleann	#;	! Headword: cuisle (f; CC: Nf4-2;) Forms: (Var: gs. & gpl. ~ann; npl. ~acha, ~anna)
+cuisle+Noun+Fem+Gen+Pl:cuisleann	#;	! Headword: cuisle (f; CC: Nf4-2;) Forms: (Var: gs. & gpl. ~ann; npl. ~acha, ~anna)
+cuisle+Noun+Fem+Com+Pl:cuisleacha	#;	! Headword: cuisle (f; CC: Nf4-2;) Forms: (Var: gs. & gpl. ~ann; npl. ~acha, ~anna)
+cuisle+Noun+Fem+Com+Pl:cuisleanna	#;	! Headword: cuisle (f; CC: Nf4-2;) Forms: (Var: gs. & gpl. ~ann; npl. ~acha, ~anna) ***
+cumhacht+Noun+Fem+Gen+Pl:cumhacht	#;	! Headword: cumhacht (f; CC: Nf3-1;) Forms: (Var: ~a f; gpl. ~)
+dabhaid+Noun+Fem+Com+Pl:dabhaideacha	#;	! Headword: dabhaid (f; CC: Nf2-6;)
+dabhaid+Noun+Fem+Com+Pl:dabhaidreacha	#;	! Headword: dabhaid (f; CC: Nf2-6;); Subvariant: (Var: pl. ~(r)eacha; dabhad f, pl. dabhada)
+dabhaid+Noun+Fem+Gen+Pl:dabhaideacha	#;	! Headword: dabhaid (f; CC: Nf2-6;)
+dabhaid+Noun+Fem+Gen+Pl:dabhaidreacha	#;	! Headword: dabhaid (f; CC: Nf2-6;); Subvariant: (Var: pl. ~(r)eacha; dabhad f, pl. dabhada)
+dlaoi+Noun+Fem+Com+Pl:dlaoitheacha	#;	! Headword: dlaoi (f; CC: Nf4-4;) Forms: (Var: pl. ~theacha, ~theanna; dlagh f, pl. dlaghthacha)
+dlaoi+Noun+Fem+Gen+Pl:dlaoitheacha	#;	! Headword: dlaoi (f; CC: Nf4-4;) Forms: (Var: pl. ~theacha, ~theanna; dlagh f, pl. dlaghthacha)
+dlaoi+Noun+Fem+Com+Pl:dlaoitheanna	#;	! Headword: dlaoi (f; CC: Nf4-4;) Forms: (Var: pl. ~theacha, ~theanna; dlagh f, pl. dlaghthacha) ***
+dlaoi+Noun+Fem+Gen+Pl:dlaoitheanna	#;	! Headword: dlaoi (f; CC: Nf4-4;) Forms: (Var: pl. ~theacha, ~theanna; dlagh f, pl. dlaghthacha) ***
+doirbheas+Noun+Masc+Gen+Sg:doirbheasa	#;	! Headword: doirbheas (m; CC: Nm1-SINGULAR;) Forms: (Var: gs. ~a; doirbheadas)
+dorn+Noun+Masc+Com+Pl:dorna	#;	! Headword: dorn (m; CC: Nm1-1;) Forms: (Var: pl. ~a, ~aí; ~a f)
+dorn+Noun+Masc+Gen+Pl:dorna	#;	! Headword: dorn (m; CC: Nm1-1;) Forms: (Var: pl. ~a, ~aí; ~a f)
+dorn+Noun+Masc+Com+Pl:dornaí	#;	! Headword: dorn (m; CC: Nm1-1;) Forms: (Var: pl. ~a, ~aí; ~a f) ***
+dorn+Noun+Masc+Gen+Pl:dornaí	#;	! Headword: dorn (m; CC: Nm1-1;) Forms: (Var: pl. ~a, ~aí; ~a f) ***
+duga+Noun+Masc+Com+Pl:duganna	#;	! Headword: duga (m; CC: Nm4-1;) Forms: (Var: dug m; pl. ~nna)
+duga+Noun+Masc+Gen+Pl:duganna	#;	! Headword: duga (m; CC: Nm4-1;) Forms: (Var: dug m; pl. ~nna)
+ealaín+Noun+Fem+Com+Pl:ealaíneacha	#;	! Headword: ealaín (f; CC: Nf2-2;) Forms: (Var: pl. ~eacha; ealaí f)
+ealaín+Noun+Fem+Gen+Pl:ealaíneacha	#;	! Headword: ealaín (f; CC: Nf2-2;) Forms: (Var: pl. ~eacha; ealaí f)
+ealta+Noun+Fem+Gen+Sg:ealtan	#;	! Headword: ealta (f; CC: Nf4-1;) Forms: (Var: npl. ~in, gs. & gpl. ~n; ealt f)
+ealta+Noun+Fem+Gen+Pl:ealtan	#;	! Headword: ealta (f; CC: Nf4-1;) Forms: (Var: npl. ~in, gs. & gpl. ~n; ealt f)
+ealta+Noun+Fem+Com+Pl:ealtain	#;	! Headword: ealta (f; CC: Nf4-1;) Forms: (Var: npl. ~in, gs. & gpl. ~n; ealt f)
+gríos+Noun+Masc+Gen+Sg:gríosa	#;	! Headword: gríos (m; CC: Nm1-1;) Forms: (Var: gs. ~a; f, gs. gríse)
+imreasc+Noun+Masc+Gen+Sg:imreasca	#;	! Headword: imreasc (m; CC: Nm1-1;) Forms: (Var: gs. & npl. ~a; of 2: mac imreasa(i)n, mac imris)
+imreasc+Noun+Masc+Com+Pl:imreasca	#;	! Headword: imreasc (m; CC: Nm1-1;) Forms: (Var: gs. & npl. ~a; of 2: mac imreasa(i)n, mac imris)
+inchinn+Noun+Fem+Gen+Sg:incheann	#;	! Headword: inchinn (f; CC: Nf2-7;) Forms: (Var: gs. incheann; of 2: ~each f)
+iomaire+Noun+Masc+Com+Pl:iomaireacha	#;	! Headword: iomaire (m; CC: Nm4-2;) Forms: (Var: pl. ~acha; f)
+iomaire+Noun+Masc+Gen+Pl:iomaireacha	#;	! Headword: iomaire (m; CC: Nm4-2;) Forms: (Var: pl. ~acha; f)
+iothlainn+Noun+Fem+Com+Pl:iothlainntí	#;	! Headword: iothlainn (f; CC: Nf2-8;) Forms: (Var: pl. ~tí; iothla f, gs. iothlann)
+iothlainn+Noun+Fem+Gen+Pl:iothlainntí	#;	! Headword: iothlainn (f; CC: Nf2-8;) Forms: (Var: pl. ~tí; iothla f, gs. iothlann)
+learg+Noun+Fem+Com+Pl:leargacha	#;	! Headword: learg (f; CC: Nf2-1;) Forms: (Var: pl. ~acha; ~a f, ~aidh f, gs. ~adh; ~ain f, gs. ~an; ~án m)
+learg+Noun+Fem+Gen+Pl:leargacha	#;	! Headword: learg (f; CC: Nf2-1;) Forms: (Var: pl. ~acha; ~a f, ~aidh f, gs. ~adh; ~ain f, gs. ~an; ~án m)
+léine+Noun+Fem+Com+Pl:léinteacha	#;	! Headword: léine (f; CC: Nf4-3;) Forms: (Var: pl. léinteacha; léinidh f, gs. ~adh)
+léine+Noun+Fem+Gen+Pl:léinteacha	#;	! Headword: léine (f; CC: Nf4-3;) Forms: (Var: pl. léinteacha; léinidh f, gs. ~adh)
+loch+Noun+Masc+Com+Pl:locha	#;	! Headword: loch (m; CC: Nm3-2;) Forms: (Var: npl. ~a, gpl. ~; f)
+loch+Noun+Masc+Gen+Pl:loch	#;	! Headword: loch (m; CC: Nm3-2;) Forms: (Var: npl. ~a, gpl. ~; f) ***
+loingeas+Noun+Masc+Gen+Sg:loingeasa	#;	! Headword: loingeas (m; CC: Nm1-1;) Forms: (Var: gs. & npl. ~a; f, gs. loingse)
+loingeas+Noun+Masc+Com+Pl:loingeasa	#;	! Headword: loingeas (m; CC: Nm1-1;) Forms: (Var: gs. & npl. ~a; f, gs. loingse)
+lúth+Noun+Masc+Gen+Sg:lútha	#;	! Headword: lúth (m; CC: Nm1-1;) Forms: (Var: gs. ~a; ~áil f)
+mám+Noun+Fem+Com+Pl:máma	#;	! Headword: mám (f; CC: Nm3-2;) Forms: (Var: npl. ~a, gpl. ~; m)
+mám+Noun+Fem+Gen+Pl:mám	#;	! Headword: mám (f; CC: Nm3-2;) Forms: (Var: npl. ~a, gpl. ~; m) ***
+ócáid+Noun+Fem+Com+Pl:ócáideacha	#;	! Headword: ócáid (f; CC: Nf2-7;) Forms: (Var: pl. ~eacha; ~e f)
+ócáid+Noun+Fem+Gen+Pl:ócáideacha	#;	! Headword: ócáid (f; CC: Nf2-7;) Forms: (Var: pl. ~eacha; ~e f)
+pian+Noun+Fem+Com+Pl:pianacha	#;	! Headword: pian (f; CC: Nf2-10;) Forms: (Var: pl. ~acha; npl. ~a, gpl. ~)
+pian+Noun+Fem+Gen+Pl:pianacha	#;	! Headword: pian (f; CC: Nf2-10;) Forms: (Var: pl. ~acha; npl. ~a, gpl. ~)
+pian+Noun+Fem+Com+Pl:piana	#;	! Headword: pian (f; CC: Nf2-10;) Forms: (Var: pl. ~acha; npl. ~a, gpl. ~)
+pian+Noun+Fem+Gen+Pl:pian	#;	! Headword: pian (f; CC: Nf2-10;) Forms: (Var: pl. ~acha; npl. ~a, gpl. ~) ***
+punann+Noun+Fem+Com+Pl:punannacha	#;	! Headword: punann (f; CC: Nf2-1;) Forms: (Var: pl. ~acha, punainneacha; punainn f)
+punann+Noun+Fem+Gen+Pl:punannacha	#;	! Headword: punann (f; CC: Nf2-1;) Forms: (Var: pl. ~acha, punainneacha; punainn f)
+punann+Noun+Fem+Com+Pl:punainneacha	#;	! Headword: punann (f; CC: Nf2-1;) Forms: (Var: pl. ~acha, punainneacha; punainn f) ***
+punann+Noun+Fem+Gen+Pl:punainneacha	#;	! Headword: punann (f; CC: Nf2-1;) Forms: (Var: pl. ~acha, punainneacha; punainn f) ***
+ráth+Noun+Masc+Com+Pl:rátha	#;	! Headword: ráth (m; CC: Nm3-2;) Forms: (Var: npl. ~a, gpl. ~; f)
+ráth+Noun+Masc+Gen+Pl:ráth	#;	! Headword: ráth (m; CC: Nm3-2;) Forms: (Var: npl. ~a, gpl. ~; f) ***
+riast+Noun+Masc+Com+Pl:riastacha	#;	! Headword: riast (m; CC: Nm3-3;) Forms: (Var: pl. ~acha; ~a m)
+riast+Noun+Masc+Gen+Pl:riastacha	#;	! Headword: riast (m; CC: Nm3-3;) Forms: (Var: pl. ~acha; ~a m)
+sanas+Noun+Masc+Gen+Sg:sanasa	#;	! Headword: sanas (m; CC: Nm1-1;) Forms: (Var: gs. & npl. ~a; f, gs. sanaise; sanais f)
+sanas+Noun+Masc+Com+Pl:sanasa	#;	! Headword: sanas (m; CC: Nm1-1;) Forms: (Var: gs. & npl. ~a; f, gs. sanaise; sanais f)
+seanchas+Noun+Masc+Gen+Sg:seanchasa	#;	! Headword: seanchas (m; CC: Nm1-1;) Forms: (Var: gs. ~a; ~c m)
+seáp+Noun+Masc+Com+Pl:seápaí	#;	! Headword: seáp (m; CC: Nm4-7;) Forms: (Var: séap; pl. ~aí)
+seáp+Noun+Masc+Gen+Pl:seápaí	#;	! Headword: seáp (m; CC: Nm4-7;) Forms: (Var: séap; pl. ~aí)
+síon+Noun+Fem+Com+Pl:síona	#;	! Headword: síon (f; CC: Nf2-10;) Forms: (Var: pl. ~a; m)
+síon+Noun+Fem+Gen+Pl:síona	#;	! Headword: síon (f; CC: Nf2-10;) Forms: (Var: pl. ~a; m)
+slua+Noun+Masc+Gen+Sg:sluaigh	#;	! Headword: slua (m; CC: Nm4-8;) Forms: (Var: ~gh m; gs. & npl. ~igh, gpl. ~gh)
+slua+Noun+Masc+Com+Pl:sluaigh	#;	! Headword: slua (m; CC: Nm4-8;) Forms: (Var: ~gh m; gs. & npl. ~igh, gpl. ~gh)
+slua+Noun+Masc+Gen+Pl:sluagh	#;	! Headword: slua (m; CC: Nm4-8;) Forms: (Var: ~gh m; gs. & npl. ~igh, gpl. ~gh)
+smeach+Noun+Masc+Gen+Pl:smeach	#;	! Headword: smeach (m; CC: Nm3-2;) Forms: (Var: f, gs. smeiche, npl. ~a; gpl. ~)
+soilse+Noun+Fem+Com+Pl:soilseacha	#;	! Headword: soilse (f; CC: Nf4-SINGULAR;) Forms: (Var: m; pl. ~acha)
+soilse+Noun+Fem+Gen+Pl:soilseacha	#;	! Headword: soilse (f; CC: Nf4-SINGULAR;) Forms: (Var: m; pl. ~acha)
+soirbheas+Noun+Masc+Gen+Sg:soirbheasa	#;	! Headword: soirbheas (m; CC: Nm1-SINGULAR;) Forms: (Var: gs. ~a; soirbhe f)
+splanc+Noun+Fem+Com+Pl:splancracha	#;	! Headword: splanc (f; CC: Nf2-8;) Forms: (Var: pl. ~racha; npl. ~a, gpl. ~)
+splanc+Noun+Fem+Gen+Pl:splancracha	#;	! Headword: splanc (f; CC: Nf2-8;) Forms: (Var: pl. ~racha; npl. ~a, gpl. ~)
+splanc+Noun+Fem+Com+Pl:splanca	#;	! Headword: splanc (f; CC: Nf2-8;) Forms: (Var: pl. ~racha; npl. ~a, gpl. ~)
+splanc+Noun+Fem+Gen+Pl:splanc	#;	! Headword: splanc (f; CC: Nf2-8;) Forms: (Var: pl. ~racha; npl. ~a, gpl. ~) ***
+stéig+Noun+Fem+Com+Pl:stéigeanna	#;	! Headword: stéig (f; CC: Nf2-8;) Forms: (Var: pl. ~eanna; stéic f)
+stéig+Noun+Fem+Gen+Pl:stéigeanna	#;	! Headword: stéig (f; CC: Nf2-8;) Forms: (Var: pl. ~eanna; stéic f)
+stríoc+Noun+Fem+Com+Pl:stríocacha	#;	! Headword: stríoc (f; CC: Nf2-1;) Forms: (Var: pl. ~acha; ~a m)
+stríoc+Noun+Fem+Gen+Pl:stríocacha	#;	! Headword: stríoc (f; CC: Nf2-1;) Forms: (Var: pl. ~acha; ~a m)
+tallann+Noun+Fem+Com+Pl:tallannacha	#;	! Headword: tallann (f; CC: Nf2-1;) Forms: (Var: m; pl. ~acha)
+tallann+Noun+Fem+Gen+Pl:tallannacha	#;	! Headword: tallann (f; CC: Nf2-1;) Forms: (Var: m; pl. ~acha)
+tamall+Noun+Masc+Com+Pl:tamallacha	#;	! Headword: tamall (m; CC: Nm1-1;) Forms: (Var: pl. ~acha; tamalt m)
+tamall+Noun+Masc+Gen+Pl:tamallacha	#;	! Headword: tamall (m; CC: Nm1-1;) Forms: (Var: pl. ~acha; tamalt m)
+téacs+Noun+Masc+Com+Pl:téacsa	#;	! Headword: téacs (m; CC: Nm4-7;) Forms: (Var: pl. ~a; ~a m)
+téacs+Noun+Masc+Gen+Pl:téacsa	#;	! Headword: téacs (m; CC: Nm4-7;) Forms: (Var: pl. ~a; ~a m)
+tórramh+Noun+Masc+Com+Pl:tórraimheacha	#;	! Headword: tórramh (m; CC: Nm1-1;) Forms: (Var: ~a m; pl. tórraimheacha)
+tórramh+Noun+Masc+Gen+Pl:tórraimheacha	#;	! Headword: tórramh (m; CC: Nm1-1;) Forms: (Var: ~a m; pl. tórraimheacha)

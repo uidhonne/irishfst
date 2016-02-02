@@ -1,0 +1,178 @@
+!**************************************************************************
+! Moirfeolaíocht na nAinmfhocail Gaeilge (Morphology of Irish Nouns)
+!**************************************************************************
+!		PROPER NOUNS
+!**************************************************************************
+! E. Uí Dhonnchadha 
+!  
+! April 2003: ^IM general initial mutation flag
+!
+!!! ADDED THE +SG TAG 20/2/2004
+!!! ADDED NP-Fam Aug 2004
+!**************************************************************************  
+!**************************************************************************  
+!				CONTINUATION CLASSES
+!**************************************************************************  
+
+
+LEXICON NP-PLACE
++Prop+Noun+Masc:	SéUrú;
+
+LEXICON NP-PLACE-EN-fem
++Prop+Noun+Fem:		SéUrú-EN;
+
+LEXICON NP-PLACE-EN
++Prop+Noun+Masc:	SéUrú-EN;
+
+LEXICON NP-PLACE-sg
++Prop+Noun+Masc:	SéUrú;
++Adj+Base+DeNom:^VHach	SéUrú;
+
+LEXICON NP-PLACE-fem
++Prop+Noun+Fem:		SéUrú-fem;
++Adj+Base+DeNom:^VHach	SéUrú;
+
+LEXICON NP-PLACE-pl
++Prop+Noun+Masc:	SéUrú-PL;
+
+LEXICON NP-FAM-EN
++Prop+Noun+Masc:	SéUrú;
+
+LEXICON NP-PERS-EN-fem
++Prop+Noun+Fem:	SéUrú;
+
+LEXICON NP-PERS-EN
++Prop+Noun+Masc:	SéUrú;
+
+
+LEXICON NP-Fam
++Prop+Noun+Masc+Com+Sg:^IM^hv		#;
++Prop+Noun+Masc+Gen+Sg:^M^G^Caol^hv^ts		#; ! ^Caol not yet tested
++Prop+Noun+Fem+Gen+Sg:^IM^Sé		#;
+!!!+Prop+Noun+Masc+Gen+Sg:^M^G^Sé		#;
++Prop+Noun+Masc+Com+Sg+DefArt:^M^C^Lea^tv^VHach		#;
+
+LEXICON NP-Fam-0
++Prop+Noun+Masc+Com+Sg:^IM^hv		#;
++Prop+Noun+Masc+Gen+Sg:^M^G^hv^ts		#;
++Prop+Noun+Fem+Gen+Sg:^IM^Sé		#;
++Prop+Noun+Masc+Com+Sg+DefArt:^IM^tv		#;
+
+LEXICON NP-Fam-V
++Prop+Noun+Masc+Com+Sg:^IM^hv		#;
++Prop+Noun+Masc+Gen+Sg:^M^G^hv^ts		#;
++Prop+Noun+Fem+Gen+Sg:^IM^Sé		#;
++Prop+Noun+Masc+Com+Sg+DefArt:^IM^tvch	#;
+
+LEXICON NP-Fam-chg
++Prop+Noun+Masc+Com+Sg:^IM^hv		#;
++Prop+Noun+Masc+Gen+Sg:^M^G^hv^ts		#;
++Prop+Noun+Fem+Gen+Sg:^IM^Sé		#;
++Prop+Noun+Masc+Com+Sg+DefArt:^Ath^IM^tv	#;
+
+! when it is a place name
+! as well as the usual inflections for propernouns  (4 classes)
+! we want to generate an adjectival form e.g. Beilg - Beilgeach
+
+! masc nouns - slenderise
+LEXICON Nm1-Prop
++Prop+Noun+Masc+Com:^M^C			Sing;
++Prop+Noun+Masc+Gen:^M^G^Caol	IMGen;
++Prop+Noun+Masc+Voc:^M^V^Caol	Seimh;
++Adj+Base+DeNom:^VHach	SéUrú-TIR;
+
+! fem nouns - slenderise and add e
+LEXICON Nf2-Prop
++Prop+Noun+Fem+Com:^F^C			Sing;
++Prop+Noun+Fem+Gen:^F^G^Caole	IMGen;
++Prop+Noun+Fem+Voc:^F^V			Seimhiu;
++Adj+Base+DeNom:^VHach	SéUrú-TIR;
+
+
+! fem nouns - broaden and add a
+LEXICON Nf3-Prop
++Prop+Noun+Fem+Com:^F^C			Sing;
++Prop+Noun+Fem+Gen:^F^G^Leaa	IMGen;
++Prop+Noun+Fem+Voc:^F^V		Seimhiu;
++Adj+Base+DeNom:^VHach	SéUrú-TIR;
+
+LEXICON Nm3-Prop
++Prop+Noun+Masc+Com:^M^C			Sing;
++Prop+Noun+Masc+Gen:^M^G^Leaa	IMGen;
++Prop+Noun+Masc+Voc:^M^V		Seimhiu;
+
+ 
+! fem nouns - no change
+LEXICON Nf4-Prop
++Prop+Noun+Fem+Com:^F^C			Sing;
++Prop+Noun+Fem+Gen:^F^G			IMGen;
++Prop+Noun+Fem+Voc:^F^V			Seimhiu;
++Adj+Base+DeNom:^VHach	SéUrú-TIR;
+
+
+! masc nouns - no change
+LEXICON Nm4-Prop
++Prop+Noun+Masc+Com:^M^C			Sing;
++Prop+Noun+Masc+Gen:^M^G		IMGen;
++Prop+Noun+Masc+Voc:^M^V		Seimhiu;
++Adj+Base+DeNom:^VHach	SéUrú-TIR;
+
+
+LEXICON IMGen
+#;
+0:^hv^ts			Seimhiu;
+
+LEXICON Seimh
++Len:^Sé		#;
+
+LEXICON Seimhiu
++Len:^IM^Sé		#;
+
+LEXICON Sing
++Sg:0				#;
++Sg+Len:^IM^Sé			#;
++Sg+Ecl:^IM^Urú			#;
++Sg+DefArt:^Sé^tv^ts		#;
+
+LEXICON SéUrú-fem
++Com+Sg:			#; 
++Com+Sg+Len:^IM^Sé		#; 
++Gen+Sg+hPref:^IM^hve		#;  ! muintir na háite
++Gen+Pl+Ecl:^IM^Urú		#;
+
+LEXICON SéUrú
++Com+Sg:	#; 
++Gen+Sg+Len:^IM^Sé		#; 
++Gen+Pl+Ecl:^IM^Urú		#;
+
+LEXICON SéUrú-EN
++Com+Sg:	#; 
++Com+Sg+Len:^IM^Sé		#; 
++Com+Sg+Ecl:^IM^Urú		#;
+
+LEXICON SéUrú-PL
++Com+Pl:	#; 
++Com+Pl+Len:^IM^Sé		#; 
++Com+Pl+Ecl:^IM^Urú		#;
+
+LEXICON NP-X
++Prop+Noun:	#;
+
+LEXICON SéUrú-TIR
+#;
++Len:^IM^Sé		#;
++Ecl:^IM^Urú		#;
++DefArt:^Sé^tv^ts	#;
+
+LEXICON AdjF-Prop
++Adj+Fem+Com+Sg+Len:	#;
+
+LEXICON AdjF-Prop-pl
++Adj+Fem+Com+Pl:	#;
+
+LEXICON AdjM-Prop
++Adj+Masc+Com+Sg:	#;
+
+LEXICON AdjM-Prop-pl
++Adj+Masc+Com+Pl:	#;
+

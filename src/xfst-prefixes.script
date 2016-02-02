@@ -1,0 +1,203 @@
+# Irish Guesser - Standard Prefixes: Applied to Nouns, Adjectives & Verbs
+clear stack
+
+define V [ a | o | u | á | ó | ú| e | i | é | í]; # all vowels
+define C [b|c|d|f|g|h|l|m|n|p|r|s|t|%-|%_];	# traditional cons
+define I [j|k|q|v|w|x|y|z];			# other cons in loanwords
+
+# Root includes all strings
+# that look like valid Irish roots.
+# up to 4 consequtive consonants e.g. ullmhaigh
+# even 5 e.g. tonnchrith
+
+define Syl1 [ (C|I) (%-) (C) (C) V (V) (V) (C) (C) (C) ];
+define Syl2 [ (C) V (V) (V) (C) (C) (C) ];
+
+# up to 3 syllables e.g. easportáil, liteagraf
+
+define Prefix	[[a d h]
+		|[a m h]
+		|[a i m h]
+		|[a i s]
+		|[a n]
+		|[a n a]
+		|[a i n]
+		|[a o n]
+		|[a r d]
+		|[a s]
+		|[a t h]
+		|[b a n]
+		|[b i t h]
+		|[b e a g]		# FP
+		|[b o g]
+		|[b r e a c]
+		|[b u n]
+		|[b u a n]		# 28/11/05
+		|[c a o l]
+		|[c e a r d]
+		|[c l á r]
+		|[c o m h]
+		|[c o r r]
+		|[c r o s] 		# from kevin /FP
+		|[d é]
+		|[d e a]
+		|[d e á]		# variant/typo?
+		|[d e a r g]
+		|[d e a s]
+		|[d í]
+		|[d i a n]
+		|[d l ú t h] 		# elaine
+		|[d o]
+		|[d o m h a i n] 	# elaine
+		|[d r o c h]
+		|[d ú]			# FP
+		|[d u b h]
+		|[e a s]
+		|[e i s]
+		|[f é i n]		# FP
+		|[f e a r]		# FP
+		|[f e i l l]		# FP foul, nasty
+		|[f í o r]
+		|[f o]
+		|[f ó]			# common mispelling
+		|[f o r]
+		|[f a r]
+		|[f á t h]		# FP mystical
+		|[f o i r]
+		|[f r e a s]
+		|[f r i t h]
+		|[g a r]
+		|[g e a r r]
+		|[g n á t h]	# elaine
+		|[i a r]
+		|[i l]
+		|[i m]
+		|[i d i r]
+		|[i o m]
+		|[i n]
+		|[i o n]
+		|[í o s]
+		|[l á n]	# elaine
+		|[l e a t h]
+		|[l e i t h]
+		|[m í]
+		|[n e a m h]
+		|[n e a s]
+		|[o i l]
+		|[o l l]
+		|[o s]
+		|[p r í o m h]
+		|[r é]
+		|[r é a m h]
+		|[r é i]
+		|[r í]
+		|[r ó]
+		|[s a i n]
+		|[s á r]
+		|[s e a c h]
+		|[s e a n]
+		|[s e a n a]
+		|[s í o r]
+		|[s o]
+		|[s r a c]
+		|[t i m]
+		|[t i ú]
+		|[t o b]
+		|[t o g h]
+		|[t r a s]
+		|[u a s]
+		|[u r]
+		|[u i r]
+		];
+
+define PrefNew	[[a e r (a) (i)]
+		|[n é a r (a)]
+		|[n í t r e a]
+                |[d e a c a (i)]
+                |[m i c r e a]
+                |[l e i c t r e a]
+                |[p a i l é (a)]
+                |[l e i c t r i]
+		|[i n f r a]
+		|[u l t r a]
+		|[g i n e a]
+		|[a n t a (i)]
+		|[g e o (i)]
+		|[p a r a (i)]
+		|[p o l a (i)]
+		|[p i r e a]
+		|[z ó (i)]
+		|[t e i l e]
+		|[r a i d]
+		|[m i o n]
+		|[f ó t a]
+		|[t a r]
+		|[t e o]
+		|[s t a r r]
+		|[t r a s]
+		|[t r é]
+		];
+#define PrefAll [Prefix | PrefNew];
+define PrefAll [ Prefix ];
+#define PrefAll [Prefix O:"^CB"];
+
+# FIXED AUG 2011
+#           ;
+define Pref [[[].x. PrefAll ] 0:"^CB" ]    # no hyphen
+	   |[[[].x.[PrefAll %-]] 0:"^CB" ]	# with hyphen
+	   |[ [] .x. [t %- ] ]	# t- mistakenly prefixed to fem noun e.g. t-easpa 
+           ;
+#
+##END FIX
+#
+define PrefTag [[%+GuessPref] .x. 0];
+define NonBase [%+Gen | %+Voc | %+Dat | %+Len | %+Ecl | %+Emph| %+Pl | %+DefArt | %+hPref ];
+##
+read regex ~$[NonBase] .o. @"int/ncomm.fst";
+read regex ~$[NonBase] .o. @"int/vnvalex.fst"; 	# INCLUDES Verbal Adjectives
+union net
+read regex Pref;
+concatenate net
+##=>
+## comment out next three lines 
+read regex PrefTag;
+rotate stack
+concatenate net
+##=>
+save stack int/ncommpref.fst
+echo << prefixes + nouns saved as int/ncommpref.fst...>>>
+
+clear stack
+define NonAdjBase [%+Masc | %+Fem | %+Len | %+Sg | %+Pl | %+Ecl | %+Pl | %+Comp ];
+read regex  ~$[NonAdjBase] .o. @"int/adjlex.fst";
+read regex Pref;
+concatenate net
+##=>
+## comment out next three lines 
+read regex PrefTag;
+rotate stack
+concatenate net
+##=>
+save stack int/adjpref.fst
+echo << prefixes + adjs saved as int/adjpref.fst...>>>
+
+clear stack
+#read regex  @"int/v12.fst";
+read regex  @"int/v12lex.fst";
+read regex Pref;
+concatenate net
+##=>
+## comment out next three lines 
+read regex PrefTag;
+rotate stack
+concatenate net
+##=>
+save stack int/verbpref.fst
+echo << prefixes + verbs 1&2 saved as int/verbpref.fst...>>>
+# just checking for adj first to see how that works out ...
+# to accomodate an-mhór as noun or adj ... Make would also have to be changed
+#read regex  @"int/ncommpref.fst";
+#read regex  @"int/adjpref.fst";
+#union net
+#save stack int/nadjpref.fst
+#echo << combined noun & adj prefix fsts saved as int/nadjpref.fst...>>>

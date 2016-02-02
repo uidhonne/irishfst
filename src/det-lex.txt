@@ -1,0 +1,100 @@
+!*************************************************
+!
+! DETERMINERS
+!
+!*************************************************
+
+Multichar_Symbols
+
++Det		! Determiner
+
++Dem		! Demonstrative
++Poss		! Possessive
++Q			! Interrogative
++Idf		! Indefinite
++Def		! Definite
++Qty		! Quantifier
++Art		! with article
++1P +2P +3P	! first, sceond or third person
+
++Fem		!  feminine gender
++Masc		!  masculine gender
+
++Sg +Pl		! singular or plural in number
+
++CM +CC +CU	! dialects
+
+LEXICON Root
+	Determiners;
+
+LEXICON Determiners
+
+!!!!POSSESSIVE !!!!!
+
+mo+Det+Poss+1P+Sg:mo		#;	! my
+mo+Det+Poss+1P+Sg:m'		#;	! my
+do+Det+Poss+2P+Sg:do		#;	! your
+do+Det+Poss+2P+Sg:d'		#;	! your
+ár+Det+Poss+1P+Pl:ár			#;	! our
+bhur+Det+Poss+2P+Pl:bhur	#;	! your 
+
+!! this information is on the noun as initial mutation
+!! use corresponding +Len / +Ecl to deternine whether sing/pl, masc/fem
+!!a+Det+Poss:a			#;	! her/his/their
+a+Det+Poss+3P+Pl:a		#;	! their
+a+Det+Poss+3P+Sg+Fem:a		#;	! her
+a+Det+Poss+3P+Sg+Masc:a		#;	! his
+
+!!! SEE PRON-LEX á+Det+Poss+3P:á		#;	! it: bhí sé á dhíol (he was selling it)
+!!á+Det+Poss+3P+Sg+Fem:á		#;	! it: bhí sé á dhíol (he was selling it)
+!!á+Det+Poss+3P+Sg+Masc:á		#;	! it
+!!á+Det+Poss+3P+Pl:á			#;	! it
+
+
+!!!! INTERROGATIVE !!!!
+
+!! SEE PRON-LEX cad_chuige+Det+Q:tuige				#;	! what
+!! SEE PRON-LEX cad+Det+Q:cad				#;	! what
+!! SEE PRON-LEX céard+Det+Q:céard			#;	! what
+!! SEE PRON-LEX cé+Det+Q:cé				#;	! who
+cé+Det+Q+Art+Sg:cén	#;	! which: Det not Pron as requires a noun comp.
+!! SEE ADV cá+Det+Q:cá					#;	! where
+!!cathain+Det+Q:cathain		#;	! when
+
+!!!! QUANTIFIER !!!! (definite & indefinite amounts)
+
+aon+Det+Qty+Idf:aon		#;	! any
+aon+Det+Qty+Idf+hPref:haon	#;	! any
+aon+Det+Qty:t-aon		#;	! (the) only
+cibé+Det+Qty+Idf:cibé		#;	! whatever
+leath+Det+Qty:leath		#;	! half
+cupla+Det+Qty:cupla		#;	! few/pair
+cúpla+Det+Qty:cúpla		#;	! few/pair
+!!! shouldnt mod pron. It intensifies amháin perhaps
+!!!ach+Det+Qty:ach			#;	! only "ach sinne amháin"
+
+gach+Det+Qty+Def:gach		#;	! every
+gach+Det+Qty+Def+Ecl:ngach	#;	! every
+!gach_uile+Det+Qty+Def:chuile	#;	! every & all (=gach uile)
+gach+Det+Qty+Def:chuile	#;	! every & all (=gach uile)
+!gach_aon+Det+Qty+Def:chaon	#;	! every one   (=gach aon)
+gach+Det+Qty+Def:chaon	#;	! every one   (=gach aon)
+!gach_aon+CU+Det+Qty+Def:achan	#;	! every one   (=gach aon)
+gach+CU+Det+Qty+Def:achan	#;	! every one   (=gach aon)
+uile+Det+Qty+Idf:uile		#;	! all
+uile+Det+Qty:uilig		#;	! all together (=uile go léir)
+iomaí+Det+Qty+Def:iomaí		#;	! many
+
+!!!! DEMONSTRATIVE !!!!
+
+!! the following always come at the end of the noun/pron/adj and cannot 
+!! be intermingled with other adjectives 
+seo+Det+Dem:seo			#;	! this
+seo+CM+Det+Dem:so		#;	! this
+sin+Det+Dem:sin			#;	! that
+sin+CM+Det+Dem:san		#;	! that
+s+Det+Dem:s'			#;	! seo or sin e.g. teach s'againne
+siúd+Det+Dem:siúd		#;	! those
+úd+Det+Dem:úd			#;	! (those?) yonder
+!! contextual tagged as demonstrative for now at least ...
+eile+Det+Dem:eile		#;	! other

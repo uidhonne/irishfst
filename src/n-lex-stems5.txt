@@ -1,0 +1,199 @@
+LEXICON NounsE
+acaoineadh	Nm5-5-SINGULAR;	! gs -nte plaintive crying
+adhlacadh	Nm5-6;	! gs -ctha pl -cthaí
+adhmholadh	Nm5-7;	! gs -lta eulogy, panegyric
+athlasadh	Nm5-7;	! gs -sta inflammation
+beoghearradh	Nm5-6;	! gs -rrtha vivisection
+bogadh	Nm5-6;	! gs -gtha softening, easement;
+borradh	Nm5-6;	! gs -rrtha swelling, growth;
+briseadh	Nm5-5-SINGULAR;	! gs -ste pl -steacha
+broideadh	Nm5-5-SINGULAR;	! gs -idte prod, nudge;
+bronnadh	Nm5-7a;	! gs -nnta pl -nntaí
+brúchtadh	Nm5-7a;	! gs -chta pl -aí
+bíogadh	Nm5-6;	! gs -gtha start, jump
+caochadh	Nm5-7;	! gs -chta winking, closing,
+caoineadh	Nm5-5-SINGULAR;	! gs & pl -nte
+caoinfhulaingt	Nf5-7;	! gs -gthe tolerance	***
+carnadh	Nm5-6;	! gs -ntha accumulation, ~
+cealgadh	Nm5-6;	! gs -gtha beguilement, deception
+ceiliúradh	Nm5-6;	! gs -rtha celebration, leave-taking
+ciapadh	Nm5-6;	! gs -ptha annoyance, torment
+cithfholcadh	Nm5-6;	! gs -ctha pl -cthaí
+claonadh	Nm5-7;	! gs -nta inclination; tendency;
+cliseadh	Nm5-5-SINGULAR;	! gs -ste jump, start;
+cluicheadh	Nm5-5-SINGULAR;	! gs -chte harrying, chase;
+clúmhilleadh	Nm5-5-SINGULAR;	! gs -llte defamation of
+cnagadh	Nm5-6;	! gs -gtha knocking, striking;
+coilleadh	Nm5-5-SINGULAR;	! gs -llte castration; violation,
+coimeád	Nm5-7;	! gs ~ta keeping; observance;
+coimhéad	Nm5-7;	! gs ~ta watch, guard;
+coipeadh	Nm5-4;	! gs -pthe fermentation; foam,
+coirloscadh	Nm5-4;	! gs -oiscthe arson CHECK SLEN
+colscaradh	Nm5-6;	! gs -rtha pl -rthaí
+comhfháscadh	Nm5-4;	! gs -áiscthe compression CHECK SLEN
+comhghéilleadh	Nm5-5-SINGULAR;	! gs -llte compromise
+comhlíonadh	Nm5-7;	! gs -nta fulfilment; per
+coradh	Nm5-6;	! gs -rtha pl -rthaí
+craobhscaoileadh	Nm5-5-SINGULAR;	! gs -lte propagation, dissemination;
+craoladh	Nm5-7a;	! gs -lta pl -ltaí
+craosfholcadh	Nm5-6;	! gs -ctha gargle
+crapadh	Nm5-6;	! gs -ptha pl -pthaí
+creachadh	Nm5-7a;	! gs -chta pl -chtaí
+creimeadh	Nm5-4;	! gs -mthe corrosion, erosion
+crochadh	Nm5-7;	! gs -chta hanging; erection;
+crosadh	Nm5-7;	! gs -sta prohibition
+créamadh	Nm5-6;	! gs -mtha cremation
+cumadh	Nm5-6;	! gs -mtha formation; composition;
+cáineadh	Nm5-5-SINGULAR;	! gs -nte condemnation, censure
+céasadh	Nm5-7;	! gs & pl -sta
+cíoradh	Nm5-6;	! gs -rtha combing; discussion,
+cónascadh	Nm5-6;	! gs -ctha pl -cthaí
+dalladh	Nm5-7;	! gs -llta blinding; dazzlement,
+daoradh	Nm5-6;	! gs -rtha enslavement; conviction,
+dearlacadh	Nm5-4;	! gs & pl -laicthe   CHECK SLEN
+dioscadh	Nm5-6;	! gs -ctha dissection
+diúité	Nm4-4;	! pl ~ithe duty
+domhantarraingt	Nf5-7;	! gs -gthe gravita tion	***
+drochiarraidh	Nf3-2;	! gs -ata pl -ataí
+drochmhúineadh	Nm5-5-SINGULAR;	! gs -nte bad manners,
+dáileadh	Nm5-5;	! gs -lte pl -ltí
+díochlaonadh	Nm5-7a;	! gs -nta pl -ntaí
+díspeagadh	Nm5-6;	! gs -gtha belittlement; (grammar)
+eiseachadadh	Nm5-7;	! gs -chadta extradition
+fadfhulaingt	Nf5-7;	! gs -gthe long-suffering, endurance,	***
+faradh	Nm5-6;	! gs -rtha ferrying; ferry,
+feacadh	Nm5-6;	! gs -ctha pl -cthaí
+fiuchadh	Nm5-7;	! gs -chta boil(ing), ar
+folcadh	Nm5-6;	! gs -ctha pl -cthaí
+foltfholcadh	Nm5-6;	! gs -ctha pl -cthaí
+fothragadh	Nm5-6;	! gs -gtha bath; drenching;
+frithbhualadh	Nm5-5-SINGULAR;	! gs -uailte recoil, reper
+frithdhúnadh	Nm5-7;	! gs -nta lock-out
+fuirseadh	Nm5-5-SINGULAR;	! gs -ste harrowing; fuss,
+fulaingt	Nf5-7;	! gs -gthe (capacity for)	***
+garathair	Nm5-2;	! gs -ar pl -aithreacha
+gearradh	Nm5-6;	! gs -rrtha pl -rrthacha
+ginmhilleadh	Nm5-5-SINGULAR;	! gs -llte (procured) abortion
+giolcadh	Nm5-6;	! gs -ctha chirping; chirp,
+giúiré	Nm4-4;	! pl ~ithe jury
+glacadh	Nm5-6;	! gs -ctha acceptance, reception;
+gléasadh	Nm5-7;	! gs -sta equipment; preparation;
+goradh	Nm5-6;	! gs -rtha heat; incubation,
+gortghlanadh	Nm5-7;	! gs -nta clearance (of
+greadadh	Nm5-7;	! gs -eadta beating, trouncing,
+greanadh	Nm5-7;	! gs -nta engraving; shapeliness,
+grianadh	Nm5-7;	! gs -nta sunning, basking
+grianghoradh	Nm5-6;	! gs -rtha sunning, basking
+géilleadh	Nm5-5-SINGULAR;	! gs -llte submission; compliance;
+idirscaradh	Nm5-6;	! gs -cartha pl -carthaí
+ilphósadh	Nm5-7;	! gs -sta polygamy
+imbhualadh	Nm5-5;	! gs -uailte pl -uailtí
+imdhíonadh	Nm5-7;	! gs -nta immunization
+imghearradh	Nm5-6;	! gs -rrtha circumcision
+imtharraingt	Nf5-7;	! gs -gthe attraction; gravity,	***
+iniúchadh	Nm5-7a;	! gs -chta pl -chtaí
+instealladh	Nm5-7a;	! gs -llta pl -lltaí
+ionnarbadh	Nm5-6;	! gs -btha expulsion, banish
+lasadh	Nm5-7;	! gs -sta lighting, flaming;
+lascadh	Nm5-6;	! gs -ctha lashing, whipping;
+leonadh	Nm5-7a;	! gs -nta pl -ntaí
+libhré	Nm4-4;	! pl ~ithe livery
+liuchadh	Nm5-7;	! gs -chta wetting, ~
+liúradh	Nm5-6;	! gs -rtha beating, trouncing
+loiceadh	Nm5-4;	! gs -cthe failure, refusal;
+lomadh	Nm5-6;	! gs -mtha baring, shearing,
+longbhriseadh	Nm5-5;	! gs -ste pl -steacha
+loscadh	Nm5-4;	! gs loiscthe burning, scorching, CHECK SLEN
+luascadh	Nm5-6;	! gs -ctha pl -cthaí
+lámhscaoileadh	Nm5-5-SINGULAR;	! gs -lte manumission
+lánmhúchadh	Nm5-7;	! gs -chta (of lights)
+lánstaonadh	Nm5-7;	! gs -nta total abstinence;
+léasadh	Nm5-7a;	! gs -sta pl -staí
+léirscrios	Nm5-7;	! gs ~ta total destruction,
+madhmadh	Nm5-6;	! gs -mtha pl -mthaí
+mealladh	Nm5-7a;	! gs -llta pl -lltaí
+meangadh	Nm5-6;	! gs -gtha ~ (gáire)
+milleadh	Nm5-5-SINGULAR;	! gs -llte ruination, destruction,
+moladh	Nm5-7a;	! gs -lta pl -ltaí
+morgadh	Nm5-6;	! gs -gtha corruption, putrefaction;
+móradh	Nm5-6;	! gs -rtha magnification, extolment
+múchadh	Nm5-7;	! gs -chta smothering, suffocation;
+múineadh	Nm5-5-SINGULAR;	! gs -nte teaching, instruction;
+obadh	Nm5-6;	! gs obtha pl obthaí
+olltáirgeadh	Nm5-4;	! gs -gthe mass production
+pianadh	Nm5-7;	! gs -nta torture; punishment
+piocadh	Nm5-6;	! gs -ctha pick(ing), ~
+plancadh	Nm5-6;	! gs -ctha beating, trouncing
+plúchadh	Nm5-7;	! gs -chta suffocation; heavy
+polladh	Nm5-7;	! gs -llta boring, perforation,
+preabadh	Nm5-6;	! gs -btha jump, start;
+priocadh	Nm5-6;	! gs -ctha prick, prod,
+pulcadh	Nm5-6;	! gs -ctha crush, throng;
+péacadh	Nm5-6;	! gs -ctha germination
+pósadh	Nm5-7a;	! gs -sta pl -staí
+radadh	Nm5-7;	! gs radta pelting; (of
+rilleadh	Nm5-5-SINGULAR;	! gs -llte flood, torrent,
+roiseadh	Nm5-5;	! gs -ste pl -stí
+roithleagadh	Nm5-6;	! gs -gtha rolling, revolving,
+ropadh	Nm5-6;	! gs -ptha thrust, stab;
+réamhchlaonadh	Nm5-7;	! gs -nta prejudice
+ródadh	Nm5-7;	! gs ródta leeway
+rótharraingt	Nf5-7;	! gs -gthe overdraft	***
+rúscadh	Nm5-4;	! gs rúiscthe decortication; stirring, CHECK SLEN
+saighdeadh	Nm5-5-SINGULAR;	! gs -ghdte incitement
+sailleadh	Nm5-5-SINGULAR;	! gs -llte salting, curing,
+scagadh	Nm5-6;	! gs -gtha filtration; refinement;
+scaipeadh	Nm5-4;	! gs -pthe dissemination, dissipation,
+scalladh	Nm5-7;	! gs -llta scald; scolding,
+scanadh	Nm5-7;	! gs -nta scansion
+scaoileadh	Nm5-5-SINGULAR;	! gs -lte loosening; release;
+scaradh	Nm5-6;	! gs -rtha separation; spreading,
+sciolladh	Nm5-7;	! gs -llta, ~ (teanga)
+sciorradh	Nm5-6;	! gs -rrtha pl -rrthaí
+sciúradh	Nm5-6;	! gs -rtha scour, scrub;
+scláradh	Nm5-6;	! gs -rtha laceration
+scrios	Nm5-7;	! gs ~ta destruction, ruin;
+scríobadh	Nm5-6;	! gs -btha scrape; scrapings
+scóladh	Nm5-7;	! gs -lta scalding; torment;
+seachadadh	Nm5-7a;	! gs -chadta, pl -chadtaí
+seanathair	Nm5-2;	! gs -ar pl -naithreacha
+searradh	Nm5-6;	! gs -rrtha stretching of
+seoladh	Nm5-7a;	! gs -lta pl -ltaí
+silleadh	Nm5-5-SINGULAR;	! gs -llte look, glance
+sin-seanathair	Nm5-2;	! gs -ar pl -naithreacha
+sioscadh	Nm5-6;	! gs -ctha fizz, sizzle;
+sméideadh	Nm5-5-SINGULAR;	! gs & pl -dte
+spalladh	Nm5-7;	! gs -llta scorching, parching;
+spalpadh	Nm5-6;	! gs -ptha burst, eruption,
+spreacadh	Nm5-6;	! gs -ctha vigour, forcefulness
+spreagadh	Nm5-6;	! gs -gtha pl -gthaí
+sreangadh	Nm5-6;	! gs -gtha pull, wrench
+stangadh	Nm5-6;	! gs -gtha sag; warp;
+staonadh	Nm5-7;	! gs -nta abstention; cessation;
+stialladh	Nm5-7;	! gs -llta laceration
+stiúradh	Nm5-6;	! gs -rtha steering; guidance,
+stolladh	Nm5-7;	! gs -llta tear, laceration,
+stopadh	Nm5-6;	! gs -ptha stop, stoppage,
+stríocadh	Nm5-6;	! gs -ctha submission
+séideadh	Nm5-5-SINGULAR;	! gs -idte blowing, draught;
+síobadh	Nm5-6;	! gs -btha blow, drift,
+taifeadadh	Nm5-7a;	! gs -eadta pl -eadtaí
+taispeánadh	Nm5-7a;	! gs -nta pl -ntaí
+taoscadh	Nm5-6;	! gs -ctha bailing, pumping;
+tarraingt	Nf5-7;	! gs -gthe pl ~í  *** 11/4/08
+toilleadh	Nm5-5-SINGULAR;	! gs -llte capacity
+tolgadh	Nm5-6;	! gs -gtha gathering (of
+tolladh	Nm5-7;	! gs -llta boring, perforation
+tonnadh	Nm5-7a;	! gs -nnta pl -nntaí
+tonntaoscadh	Nm5-6;	! gs -ctha sudden vomiting
+traochadh	Nm5-7;	! gs -chta exhaustion
+tuaslagadh	Nm5-6;	! gs -gtha solution, resolution
+tumadh	Nm5-6;	! gs -mtha pl -mthaí
+táirgeadh	Nm5-4;	! gs -gthe production, output
+tíolacadh	Nm5-6;	! gs -ctha pl -cthaí
+uileloscadh	Nm5-4;	! gs -oiscthe pl -oiscthí CHECK SLEN
+ungadh	Nm5-6;	! gs -gtha pl -gthaí
+éaradh	Nm5-6;	! gs -rtha pl -rthaí
+íolbhriseadh	Nm5-5-SINGULAR;	! gs -ste iconoclasm
+íonghlanadh	Nm5-7;	! gs -nta purification
+úscadh	Nm5-6;	! gs -ctha pl -cthaí

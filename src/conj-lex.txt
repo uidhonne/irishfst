@@ -1,0 +1,105 @@
+!! CONJUNCTIONS
+!! removed items (subbord conjs) which are pre-verbal (which often have past tense inflection)
+!! e.g. go/gur a/ar nach/nár 
+!! and which often follow (or attach to) a conjunction
+!! e.g. cé go, nuair nach, 
+!! remaining subordinating conjunctions can be followed by verb or copula 
+!! go mb'fhusa an obair ..., go dtógfadh sé
+!! e.g. má bhíonn, más
+!! some still have tense marking as they are combined forms
+!! e.g. sula, sular, murar etc.
+
+Multichar_Symbols
+
++Conj		! conjunction
++Coord		! co-ordinate
++Subord		! subordinate
+
++Past
++Cop
++Len
+
+LEXICON Root
+	Conjunctions;
+
+LEXICON Conjunctions
+
+agus+Conj+Coord:is		#;
+agus+Conj+Coord:'s		#;
+agus+Conj+Coord:a's		#;
+agus+Conj+Coord:agus		#;
+ná+Conj+Coord:ná			#; !!! ní ... ná
+ná+Conj+Subord:ná			#;
+nó+Conj+Coord:nó			#;
+nó+Conj+Coord:no			#;
+!!!cé+Conj+Coord:cé			#;  ! also with copula see NIG p113
+!!!ach+Conj+Coord:ach			#;  ! NOT USUALLY CO-ORD?????
+
+!!nár+Conj+Subord:nár			#;
+má+Conj+Subord:má			#;
+mura+Conj+Subord:mura		#;
+muna+Conj+Subord:muna		#;
+mara+Conj+Subord:mara		#;
+murach+Conj+Subord:murach	#;
+sula+Conj+Subord:sula		#;
+sula+Conj+Subord:sul		#;
+sula+Conj+Subord+Len:shul	#; 	! Hartmann
+sara+Conj+Subord:sara		#; ! sara tháinig sé ...
+
+arae+Conj+Subord:arae		#;
+chomh_fada_agus+Conj+Subord:chúns	#;
+chomh_fada_is+Conj+Subord:chúns	#; ! (Added CW 09/08)
+mar+Conj+Subord:mar			#;
+mar_aon+Conj+Subord:maraon		#;
+ach+Conj+Subord:ach			#;
+dá+Conj+Subord:dá			#;
+go+Conj+Subord:go			#;	! SEE ALSO PART-LEX.TXT
+nach+Conj+Subord:nach			#;	! SEE ALSO PART-LEX.TXT
+!! gur NOT moved to Verb Part as a)always precede a verb b) have tense c) preceded by conjs like nuair, cé
+gur+Conj+Subord:gur		#;  ! COPULA FORM SEE V3-LEX.TXT & PART-LEX.TXT
+nuair+Conj+Subord:nuair		#;
+fad+Conj+Subord:fad		#;
+toisc+Conj+Subord:toisc		#;
+!!ráite+Conj+Subord:ráite		#;
+óir+Conj+Subord:óir			#;
+cé+Conj+Subord:cé			#;
+ó+Conj+Subord:ó				#;
+ó+Conj+Subord:Ó				#;
+ainneoin+Conj+Subord:ainneoin		#;
+aindeoin+Conj+Subord:aindeoin		#;
+
+mura+Conj+Subord+Past:murar		#;
+muna+Conj+Subord+Past:munar		#;
+sula+Conj+Subord+Past:sular		#; ! sular tháinig sé ...
+
+má+Conj+Subord+Cop:más			#;
+ó+Conj+Subord+Cop:ós			#;
+mura+Conj+Subord+Cop+Past:murar		#;
+mura+Conj+Subord+Cop+Past:murarbh	#; ! before vowel
+mura+Conj+Subord+Cop+Past:murab		#; ! before vowel
+sula+Conj+Subord+Cop+Past:sular		#;
+sula+Conj+Subord+Cop+Past:sularbh	#; ! before vowel
+dar+Conj+Subord+Cop:dar			#;
+dar+Conj+Subord+Cop:darb		#; ! before vowel
+dar+Conj+Subord+Cop+Past:darbh		#; ! before vowel
+
+<c é %_:%  i s %_:%  m o i t e %+Conj:0 %+Subord:0>	#;
+<c é %_:%  i s %_:%  m ó i t e %+Conj:0 %+Subord:0>	#;
+<c é s %_:%  m ó i t e %+Conj:0 %+Subord:0>		#;
+<c é s %_:%  m o i t e %+Conj:0 %+Subord:0>		#;
+<d e %_:%  r é i r %+Conj:0 %+Subord:0>		#;
+
+!!!<s e a c h a s %_:%  g o  %+Conj:0 %+Subord:0>	#; ! NOT seachas go poiblí
+<c h u n %_:%  g o  %+Conj:0 %+Subord:0>		#;
+<l e %_:%  g o  %+Conj:0 %+Subord:0>			#;
+
+!cér	#;
+!cérbh	#;
+
+trá+Conj:trá	#; ! (Added CW 09/08) Lit: Then, indeed
+trá+Conj:tra	#; ! (Added CW 09/08) Lit: Then, indeed
+
+
+
+
+

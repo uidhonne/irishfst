@@ -1,0 +1,53 @@
+!****************************************************************************
+! Common Functional Words
+!
+!  E. Uí Dhonnchadha
+! (c)2001
+! (1) New Irish Grammar by The Christian Brothers  
+! (2) Réchúrsa Gramadaí, Brian Mac Giolla Phádraig
+! (3) Graméir Gaeilge na mBráithre Críostaí
+! (4) Nuachúrsa Gaeilge na mBráithre Críostaí
+! (5) A Handbook of Irish Vol 2.An Outline of Modern Irish Grammar,
+!     Alfred Bammesberger
+! (6) Ó Dónaill Irish-English Dictionary
+! (7) Gléacht - Ó Dónaill Online Dictionary 
+!
+! 
+!****************************************************************************
+
+Multichar_Symbols
+
+
++Art	! article
++Def	! definite 
+	! There is no explicit indefinite article in Irish -
+	! a noun without an article is indefinite.
++Masc	! masculine gender
++Fem	! feminine gender
+
++Com	! nominative, accusative,dative case
++Gen	! genitive case 
+
++Sg	! singular
++Pl	! plural
+
+
+LEXICON Root
+        Articles;
+
+LEXICON Articles
+
+an+Art+Sg+Def:an		#;
+an+Art+Sg+Def:a'		#;
+an+Art+Sg+Def:'n		#;
+an+Art+Sg+Def:a			#;
+
+na+Art+Pl+Def:na		#;
+na+Art+Gen+Sg+Def+Fem:na	#;
+
+!an+Art+Com+Sg+Def:an		#;
+!an+Art+Gen+Sg+Def+Masc:an	#;
+!na+Art+Com+Pl+Def:na		#;
+!na+Art+Gen+Pl+Def:na		#;
+
+!***************************************************************************

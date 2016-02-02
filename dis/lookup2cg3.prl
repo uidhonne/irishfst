@@ -1,0 +1,45 @@
+# lookup2cg
+
+$oldword = "";
+while( <> ) {
+
+    if (/^\n$/) {
+	$oldword = "";
+	next;
+    }
+
+    s/^/"</;           # insert "< for first instance of wordform
+    s/\t/>"\t"/;       # insert >" and tab after wforms
+
+    #print "1$_";
+    s/\+\?$/\?\+\?/;	# convert +? to ?+?
+    # distinguish between "+" in the text and "+" between tags
+    # if ++ keep the first + by converting to a seq. of charachters
+    # unlikely to occur naturally in the text
+    s/"\<\+\>/"\<YXXXXZZO\>/;    
+    s/"\+\+/"YXXXXZZO+/;    # if ++ keep the first + and insert " after it
+     
+    #print "2$_";
+    s/\+/" /;   	 # remove the first + and insert " after the lexeme
+    s/\+/ /g;    	# replace + with space
+    s/YXXXXZZO/\+/g;    # convert temp. seq. back to plus
+ 
+
+    #print "3$_";
+    #/^(\S+)\s+([^+]+)\+(.*)$/;
+    /^(\".*.\")\s+(\".*.\")\s(.*)$/;	# uses quotes not + 
+ 
+    $word = $1;
+    $lemma = $2;
+    $tags = $3;
+    #print "word=$word lemma=$lemma tags=$tags\n";
+		
+    if ($word ne $oldword) {
+	print "$word\n";
+	$oldword = $word;
+    }
+    print "\t$lemma ";
+    $tags =~ s/\+/ /g;
+    print "$tags\n";
+}
+

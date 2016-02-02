@@ -1,0 +1,347 @@
+!!a= Prep+Inf remove - remains as a Simp prep ony Aug 04
+!! and Part Inf Jun 08
+!****************************************************************************
+! Prepositions: 
+! 
+! Simple: le, ag, ar, etc.
+!
+! Compound (Na Forainmneacha Réamhfhoclacha) Prepositional Pronouns (agam, agat...)
+!
+! Emphatic Compound eg agamsa, uaimse, ...
+!
+!  E. Uí Dhonnchadha
+! 
+! (1) New Irish Grammar by The Christian Brothers  
+! (2) Gramadach na Gaeilge agus Litríocht na Gaeilge - An Caighdeán Oifigiúil
+! (3) Foclóir Póca - An Gúm
+! (4) Nuachúrsa Gaeilge na mBráithre Críostaí
+! (5) Ó Dónaill Irish-English Dictionary
+!****************************************************************************
+
+Multichar_Symbols
+
++Prep		! Preposition
+
++Simp		! Simple
++Cmpd		! Compound
+!!+Inf		! Infinitive
+
++Rel		! with Relative particle
++Poss		! with Possessive 
++Art		! with Article
++Deg		! with Degree Particle
++Obj		! á = "do a" when obj of VN
+
++1P
++3P
++Sg
++Pl		! plural
++Masc
++Fem
++CU		! Canuint Uladh
++CM
++CC
+!---------------------------------------------------------------------------
+
+LEXICON Root
+		Prepositions;
+
+LEXICON Prepositions
+
+! PREP USED WITH VERBAL NOUN (LIKE INFINITIVE)
+!!! SEE PART-LEX.TXT for Part Inf
+!!!a+Prep+Inf:a					#; 	! (síol) a chur, to sow (a seed)
+
+! SIMPLE PREPOSITIONS
+!
+!!!a+Prep+Simp:a					#; 	! 
+a+Prep+Simp:dh'					#; 	! 
+<a 0:%  0:d 0:h 0:' %+Prep:0 %+Simp:0>		#; 	! a dh' = a
+ag+Prep+Simp:ag					#;	! at
+ag+Prep+Simp:a'					#;	! at
+ag+CM+Prep+Simp:age				#;	! at (Munster)
+amhail+Prep+Simp:amhail					#;  ! like, as
+ar+Prep+Simp:ar					#;  ! on
+as+Prep+Simp:as					#;  ! out
+chuig+Prep+Simp:chuig			#;  ! to
+chun+Prep+Simp:chun				#;
+cois+Prep+Simp:cois				#;  ! 
+dála+Prep+Simp:dára				#;  !
+dar+Prep+Simp:dar				#;  ! by, dar fia, dar m'focal
+de+Prep+Simp:de					#;  ! from/of`
+de+CM+Prep+Simp:des					#;  ! from/of
+de+Prep+Simp+Len:dhe					#;  ! from/of
+de+Prep+Simp:d'					#;  ! from (before vowel)
+do+Prep+Simp:do					#;  ! to
+do+Prep+Simp+Len:dho				#;  ! to
+do+Prep+Simp:d'					#;  ! to (before vowel)
+do+Prep+Simp:dos				#;  ! to (before na )
+faoi+Prep+Simp:faoi				#;  !
+faoi+Prep+Simp:fé				#;  ! CANÚINT/VARIANT
+fara+Prep+Simp:fara				#;  ! as well as 
+fearacht+Prep+Simp:fearacht		#;  !
+gan+Prep+Simp:gan				#;
+ach+Prep+Simp:ach				#;  ! Níl ann ach(@PP_NEG) spórt
+go+Prep+Simp:go					#;
+!! theses are not preps only copula or conj
+!!gur+Prep+Simp:gur				#;
+!!gurb+Prep+Simp:gurb				#;
+!!gurbh+Prep+Simp:gurbh			#;
+i+Prep+Simp:i					#;  ! in
+i+Prep+Simp:I					#;  ! in
+i+Prep+Simp:in					#;  ! in (before a vowel)
+trí+Prep+Simp:trín				#;  ! trí (before a vowel)
+i+Prep+Det+Poss+1P+Sg:im			#;  ! i mo
+idir+Prep+Simp:idir				#;  ! between
+idir+Prep+Simp:eadar				#;  ! between
+ionsar+Prep+Simp:ionsar			#;  ! towards
+!! this "is" looks like "agus" to me ... removing the prep reading ...
+!!is+Prep+Simp:is				#;! bliain is an t-am seo
+le+Prep+Simp:le					#;  ! with
+le+Prep+Simp:len				#;	! with (before vowel)
+le+Prep+Simp:leis				#;	! with (before article)
+mar+Prep+Simp:mar				#;	! like, as
+ó+Prep+Simp:ó					#;  ! from
+ó+Prep+Simp:Ó					#;  ! from
+ó+Prep+Simp:o					#;  ! from (mispelling)
+os+Prep+Simp:os					#;  ! 
+roimh+Prep+Simp:roimh			#;  ! from
+seachas+Prep+Simp:seachas		#;  ! 
+seach+Prep+Simp:seach			#;  ! other than
+thar+Prep+Simp:tar				#;  ! tar (éis)
+thar+Prep+Simp:thar				#;  ! over
+timpeall+Prep+Simp:timpeall		#;  !
+trasna+Prep+Simp:trasna			#;  !
+trí+Prep+Simp:trí				#;  ! through
+trí+Prep+Simp:tré				#;  ! through
+trí+Prep+Simp:tríd				#;  ! through
+trí+Prep+Simp:fríd				#;  ! through
+um+Prep+Simp:um					#;
+um+Prep+Simp:uim					#;
+!! should be subst except in Prep Cmpd - see below : maidir+Prep+Simp:maidir			#;
+!! should be subst:  maille+Prep+Simp:maille			#; ! maille le = along with
+
+
+!
+! The 7 simple prepositions ending in a vowel (de, do, faoi, i, le, ó, trí)
+! participate in compounds 
+! ALSO GO ???
+
+! COMPOUNDS: PREP + ARTICLE (an/na)
+! 
+
+de+Prep+Art+Sg:den				#;  ! from the
+de+Prep+Art+Pl:dena				#;  ! from the(pl)
+
+do+Prep+Art+Sg:don				#;  ! to the (sg)
+do+Prep+Art+Sg:Don				#;  ! to the (sg)
+
+faoi+Prep+Art+Sg:faoin			#;	! under the
+faoi+Prep+Art+Sg:fén			#;	! under the: CANÚINT/VARIANT
+faoi+CU+Prep+Art+Sg:fán			#;	! under the: CANÚINT/VARIANT
+
+i+Prep+Art+Sg:ins				#;	! in
+i+Prep+Art+Sg:insa				#;	! in (Added CW 04/09/08)
+i+Prep+Art+Sg:insan				#;	! in (Added CW 04/09/08)
+i+Prep+Art+Sg:sa				#;	! in
+i+Prep+Art+Sg:san				#;	! in the (sg)
+i+Prep+Art+Sg:San				#;	! in the (sg)
+i+Prep+Art+Pl:sna			#;	! in the (pl)
+
+!! le does not combine with art: but becomes leis before "an"
+
+ó+Prep+Art+Sg:ón				#;	! from the
+
+!! trí does not combine with art: but becomes tríd before "an"
+
+! COMPOUNDS: PREP + POSS PRON (a/ár)
+!
+de+Prep+Deg:dá			#; ! de + a (degree) "dá airde an sliabh..."
+de+Prep+Rel:dá			#; ! de + a (rel) "dá dtagraíter..." to which
+
+de+Prep+Poss+3P+Pl:dá			#; ! de + a "dá chairde"
+de+Prep+Poss+3P+Sg+Fem:dá		#; ! de + a "dá cairde"
+de+Prep+Poss+3P+Sg+Masc:dá		#; ! de + a "dá gcairde"
+de+Prep+Poss+1P+Pl:dár			#;
+
+do+Prep+Poss+2P+Sg:dod			#; ! do do chairde
+do+Prep+Poss+2P+Sg:dod'			#; ! do do chairde
+do+Prep+Poss+3P+Sg+Fem:dá			#;
+do+Prep+Poss+3P+Sg+Masc:dá			#;
+do+Prep+Poss+3P+Pl:dá			#;
+do+Prep+Poss+3P:dhá			#;
+do+Prep+Poss+1P+Pl:dár			#;
+
+!!! SEE PRON-LEX
+do+Prep+Poss+3P+Sg+Fem+Obj:á			#; ! bhí siad á mbualadh 
+do+Prep+Poss+3P+Sg+Masc+Obj:á		#;
+do+Prep+Poss+3P+Pl+Obj:á			#;
+
+faoi+Prep+Poss+3P+Sg+Fem:faoina		#;  ! under his/her/their
+faoi+Prep+Poss+3P+Sg+Fem:féna		#;  ! under his/her/their
+faoi+Prep+Poss+3P+Sg+Fem:fána		#;  ! under his/her/their
+faoi+Prep+Poss+3P+Sg+Masc:faoina		#;  ! under his/her/their
+faoi+Prep+Poss+3P+Sg+Masc:féna		#;  ! under his/her/their
+faoi+Prep+Poss+3P+Sg+Masc:fána		#;  ! under his/her/their
+faoi+Prep+Poss+3P+Pl:faoina		#;  ! under his/her/their
+faoi+Prep+Poss+3P+Pl:féna		#;  ! under his/her/their
+faoi+Prep+Poss+3P+Pl:fána		#;  ! under his/her/their
+faoi+Prep+Poss+1P+Pl:faoinár	#;  ! under ours
+faoi+Prep+Poss+1P+Pl:fénár		#;  ! under ours
+
+i+Prep+Poss+3P+Sg+Fem:ina		#;  ! e.g. ina láimh
+i+Prep+Poss+3P+Sg+Fem:'na		#;  ! e.g. 'na láimh
+i+Prep+Poss+3P+Sg+Masc:ina		#;  ! e.g. ina láimh
+i+Prep+Poss+3P+Sg+Masc:'na		#;  ! 
+i+Prep+Poss+3P+Pl:ina		#;  ! e.g. ina láimh
+i+Prep+Poss+3P+Pl:'na		#;  ! e.g. 
+i+Prep+Poss+1P+Pl:inár			#;  !
+
+le+Prep+Poss+1P+Sg:lem			#;  ! with my
+le+Prep+Poss+1P+Sg:lem'			#;  ! with my
+le+Prep+Poss+3P+Sg+Fem:lena			#;  ! with her/his/their
+le+Prep+Poss+3P+Sg+Masc:lena			#;  ! with her/his/their
+le+Prep+Poss+3P+Pl:lena			#;  ! with her/his/their
+le+Prep+Poss+1P+Pl:lenár			#;  ! with our
+	
+ó+Prep+Poss+3P+Pl:óna			#;  !
+ó+Prep+Poss+3P+Pl:'na			#;  !
+ó+Prep+Poss+3P+Sg+Fem:óna		#;  !
+ó+Prep+Poss+3P+Sg+Fem:'na		#;  !
+ó+Prep+Poss+3P+Sg+Masc:óna		#;  !
+ó+Prep+Poss+3P+Sg+Masc:'na		#;  !
+ó+Prep+Poss+1P+Pl:ónár			#;  !
+
+trí+Prep+Poss+3P+Sg+Fem:trína			#;  !
+trí+Prep+Poss+3P+Sg+Masc:trína			#;  !
+trí+Prep+Poss+3P+Pl:trína			#;  !
+trí+Prep+Poss+1P+Pl:trínár			#;  !
+
+! ALSO
+! is used aspectually like tar éis 
+arna+Prep+Cmpd:arna				#;  ! arna = iar n-a
+!iar+Prep+Poss+3P+Sg+Fem:arna			#;  ! after his/her/their
+!iar+Prep+Poss+3P+Sg+Masc:arna			#;  ! after his/her/their
+!iar+Prep+Poss+3P+Pl:arna			#;  ! after his/her/their
+
+go+Prep+Poss+3P+Sg+Fem:gona				#;
+go+Prep+Poss+3P+Sg+Masc:gona				#;
+go+Prep+Poss+3P+Pl:gona				#;
+go+Prep+Poss+1P+Pl:gonár			#;
+
+! COMPOUNDS: PREP + REL. PART. (a/ar)
+
+i+Prep+Rel:ina				#;  !
+i+Prep+Rel:inar				#;  !
+
+faoi+Prep+Rel:faoina		#;  !
+faoi+Prep+Rel:faoinar		#;  !
+
+le+Prep+Rel:le				#;  ! le n-a
+le+Prep+Rel:lena			#;  ! 
+le+Prep+Rel:lenar			#;  ! 
+
+ó+Prep+Rel:o				#;  ! o n-a
+ó+Prep+Rel:óna				#;  ! 
+ó+Prep+Rel:ónar				#;  ! 
+
+trí+Prep+Rel:trína			#;  ! 
+trí+Prep+Rel:trínar			#;  ! 
+
+
+!
+! COMPOUND PREPOSITIONS
+!
+!!<a r %  a g h a i d h %+Prep:0 %+Cmpd:0>  #; !! could be simp prep + noun
+!!<a r %  c h ú l %+Prep:0 %+Cmpd:0>	#; !! could be simp prep + noun
+!! Adverb <a r %_:%  a i s %+Prep:0 %+Cmpd:0>	#; !! 
+<a r %_:%  f e a d h %+Prep:0 %+Cmpd:0>			#;
+<a r %_:%  f u d %+Prep:0 %+Cmpd:0>				#;
+<a r %_:%  l o r g %+Prep:0 %+Cmpd:0>				#;
+<a r %_:%  n ó s %+Prep:0 %+Cmpd:0>				#;
+<a r %_:%  s o n %+Prep:0 %+Cmpd:0>				#;
+
+<d ' a i n n e o i n %+Prep:0 %+Cmpd:0>			#;
+<d e %_:%  b h a r r %+Prep:0 %+Cmpd:0>			#;
+<d e %_:%  c h o i s %+Prep:0 %+Cmpd:0>			#;
+<d e %_:%  c h ó i r %+Prep:0 %+Cmpd:0>			#;
+<d e %_:%  d h e a s c a %+Prep:0 %+Cmpd:0>		#;
+<d e %_:%  d h e a s c a i b h %+Prep:0 %+Cmpd:0>		#;
+<d e %_:%  d h í o b h á i l %+Prep:0 %+Cmpd:0>	#;
+<d e %_:%  r é i r %+Prep:0 %+Cmpd:0>				#;
+<d e %_:%  t h a i r b h e %+Prep:0 %+Cmpd:0>		#;
+
+<f a o i %_:%  b h r á i d %+Prep:0 %+Cmpd:0>		#;
+<f a o i %_:%  b h u n %+Prep:0 %+Cmpd:0>			#;
+!!!<f a o i %_:%  c h e a n n %+Prep:0 %+Cmpd:0>		#;
+<f a o i %_:%  c h o i n n e %+Prep:0 %+Cmpd:0>	#;
+<f á %_:%  c h o i n n e %+CU:0 %+Prep:0 %+Cmpd:0>	#;  ! CU canúint Uladh
+<f a o i %_:%  d h é i n %+Prep:0 %+Cmpd:0>		#;
+
+<g o %_:%  c e a n n %+Prep:0 %+Cmpd:0>			#;
+<g o %_:%  d t í %+Prep:0 %+Cmpd:0>				#;
+<i %_:%  b h f e i g h i l %+Prep:0 %+Cmpd:0>		#;
+!!<i %_:%  b h f i a n a i s e %+Prep:0 %+Cmpd:0>	#; ! doesn not need to govern an NP (e.g. like tar éis) therefore leave seperate 
+<i %_:%  b h f o c h a i r %+Prep:0 %+Cmpd:0>		#;
+
+<i %_:%  d t e a n n t a %+Prep:0 %+Cmpd:0>		#;
+<i %_:%  g c i o n n %+Prep:0 %+Cmpd:0>		#;
+<i %_:%  d t r á t h a %+Prep:0 %+Cmpd:0>			#;
+<i %_:%  d t u i l l e a m a í %+Prep:0 %+Cmpd:0>	#;
+<i %_:%  g c a i t h e a m h %+Prep:0 %+Cmpd:0>	#;
+<i %_:%  g c e a n n %+Prep:0 %+Cmpd:0>			#;
+<i %_:%  g c o i n n e %+Prep:0 %+Cmpd:0>			#;
+<i %_:%  g c ó i r %+Prep:0 %+Cmpd:0> 				#;
+<i %_:%  g c o s a m a r %+Prep:0 %+Cmpd:0> 		#;
+<i %_:%  g c u i d e a c h t a %+Prep:0 %+Cmpd:0> 	#;
+
+<i %_:%  l á r %+Prep:0 %+Cmpd:0>					#;
+<i %_:%  l á t h a i r %+Prep:0 %+Cmpd:0>			#;
+
+<i %_:%  m b u n %+Prep:0 %+Cmpd:0>				#;
+<i %_:%  m e a s c %+Prep:0 %+Cmpd:0>				#;
+
+<i %_:%  n d i a i d h %+Prep:0 %+Cmpd:0>			#;
+<i %_:%  r i t h %+Prep:0 %+Cmpd:0>				#;
+
+<i n %_:%  a n n %+Prep:0 %+Cmpd:0>		#;
+<i n %_:%  a g h a i d h %+Prep:0 %+Cmpd:0>		#;
+<i n %_:%  a i c e %+Prep:0 %+Cmpd:0>				#;
+<i n %_:%  a i r i c i s %+Prep:0 %+Cmpd:0>		#;
+!!<i n %  á i t %+Prep:0 %+Cmpd:0>				#;
+<i n %_:%  é a d a n %+Prep:0 %+Cmpd:0>			#;
+!!<i n %  i o n a d %+Prep:0 %+Cmpd:0>			#;
+
+<l e %_:%  c o i s %+Prep:0 %+Cmpd:0>				#;
+!!!<l e %  h a g h a i d h %+Prep:0 %+Cmpd:0>		#;	
+<l e %_:%  g a i r i d %+Prep:0 %+Cmpd:0>				#;	
+<l:L e %_:%  g a i r i d %+Prep:0 %+Cmpd:0>				#;	
+<l e %_:%  h a i s %+Prep:0 %+Cmpd:0>				#;	
+<l e %_:%  l i n n %+Prep:0 %+Cmpd:0>				#;	
+
+<o s %_:%  c i o n n %+Prep:0 %+Cmpd:0>			#;
+<o s %_:%  c o i n n e %+Prep:0 %+Cmpd:0>			#;
+<o s %_:%  c o m h a i r %+Prep:0 %+Cmpd:0>		#;
+<t a r %_:%  é i s %+Prep:0 %+Cmpd:0>				#;
+<t h a r %_:%  c e a n n %+Prep:0 %+Cmpd:0>		#;	
+
+<m a i d i r %_:%  l e %+Prep:0 %+CmpdNoGen:0>				#;
+<m a i d i r %_:%  l e 0:i 0:s %+Prep:0 %+CmpdNoGen:0>			#;
+<m a i d i r %_:%  l e 0:n 0:a %+Prep:0 %+CmpdNoGen:0 %+Rel:0> #;
+<m a i d i r %_:%  l e 0:n 0:a %+Prep:0 %+CmpdNoGen:0 %+Poss:0 %+3P:0 %+Pl:0> #;
+<m a i d i r %_:%  l e 0:n 0:a %+Prep:0 %+CmpdNoGen:0 %+Poss:0 %+3P:0 %+Sg:0 %+Masc:0> #;
+<m a i d i r %_:%  l e 0:n 0:a %+Prep:0 %+CmpdNoGen:0 %+Poss:0 %+3P:0 %+Sg:0 %+Fem:0> #;
+<m a i d i r %_:%  l e:i 0:o 0:m %+Prep:0 %+CmpdNoGen:0>		#;
+<m a i d i r %_:%  l e:i 0:o 0:m 0:s 0:a %+Prep:0 %+CmpdNoGen:0>	#;
+<m a i d i r %_:%  l e 0:a 0:t %+Prep:0 %+CmpdNoGen:0>			#;
+<m a i d i r %_:%  l e 0:a 0:t 0:s 0:a %+Prep:0 %+CmpdNoGen:0>		#;
+<m a i d i r %_:%  l e:é 0:i %+Prep:0 %+CmpdNoGen:0>			#;
+<m a i d i r %_:%  l e:i 0:n 0:n %+Prep:0 %+CmpdNoGen:0>		#;
+<m a i d i r %_:%  l e:i 0:n 0:n 0:e %+Prep:0 %+CmpdNoGen:0>		#;
+<m a i d i r %_:%  l e:i 0:b 0:h %+Prep:0 %+CmpdNoGen:0>		#;
+<m a i d i r %_:%  l e:i 0:b 0:h 0:s 0:e %+Prep:0 %+CmpdNoGen:0>	#;
+<m a i d i r %_:%  l e 0:o %+Prep:0 %+CmpdNoGen:0>			#;
+<m a i d i r %_:%  l e 0:o 0:s 0:a 0:n %+Prep:0 %+CmpdNoGen:0>		#;
+<m a i d i r %_:%  l e 0:n 0:á 0:r %+Prep:0 %+CmpdNoGen:0>		#;
+<m a i d i r %_:%  l e 0:n 0:a 0:r %+Prep:0 %+CmpdNoGen:0>		#;
+

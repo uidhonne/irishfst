@@ -1,0 +1,138 @@
+############################################################################
+# Irish Guesser - General Compounds: Applied to Nouns, Adjectives & Verbs
+############################################################################
+clear stack
+define Guesstag [%+GuessCmpd .x. 0];
+define GuesstagLen [%+Len %+GuessCmpd .x. 0];
+define GuesstagEcl [%+Ecl %+GuessCmpd .x. 0];
+
+# ^CB = compound boundary
+#################################################
+# NOUN-HEAD COMPOUNDS with NOUN/ADJ prefix
+#################################################
+#read regex  @"bin/all.fst";
+# 28 AUG USE ONLY UN-MUTATED FORMS
+read regex  @"int/nouns.fst";
+read regex  @"int/adj.fst";
+union net
+save stack int/nouns_adj.fst
+# use only non-mutated forms
+define NonBase [%+Gen | %+Voc | %+Dat | %+Len | %+Ecl | %+Emph| %+Pl | %+DefArt | %+hPref | [%+Adj %+Masc] | [%+Adj %+Fem] | [%+Adj %+Comp]];
+# select all which are not (~$) NonBase ... 
+read regex ~$[NonBase] .o. @"int/nouns_adj.fst";
+# use only the lower (surface) forms
+lower-side
+define compStartLr
+# add compound boundary trigger and optional hyphen
+define compStart [ [] .x. compStartLr (%-) %^CB];
+
+clear stack
+read regex  @"int/ncomm.fst";
+read regex  @"int/vnvalex.fst";
+union net
+#read regex Compound;
+push compStart
+concatenate net
+read regex Guesstag;
+rotate stack
+concatenate net
+save stack int/ncommcmpd.fst
+#remove all (spurious due to different between form and lemma) hPrefs
+#i.e hPref is relating to the head of compound when it should be 
+#relating to the start of compound (need a surface tag to constrain this 
+echo << compound nouns saved as int/ncommcmpd.fst...>>>
+#################################################
+# ADJ-HEAD COMPOUNDS with NOUN/ADJ prefix
+#################################################
+clear stack
+read regex  @"int/adjlex.fst";
+#read regex Pref;
+#read regex Compound;
+push compStart
+concatenate net
+read regex Guesstag;
+rotate stack
+concatenate net
+save stack int/adjcmpd.fst
+clear stack
+# TEMPORARY MEASURE remove all hPrefs
+read regex [ [] <- %+hPref] .o. @"int/adjcmpd.fst";
+save stack int/adjcmpd.fst
+echo << prefixes + adjs saved as int/adjcmpd.fst...>>>
+
+#################################################
+# VERB-HEAD COMPOUNDS with NOUN/ADJ prefix
+#################################################
+clear stack
+#read regex  @"int/v12.fst";
+read regex  @"int/v12lex.fst";
+#read regex Pref;
+#read regex Compound;
+push compStart
+concatenate net
+read regex Guesstag;
+rotate stack
+concatenate net
+save stack int/verbcmpd.fst
+clear stack
+# TEMPORARY MEASURE remove all hPrefs
+read regex [ [] <- %+hPref] .o. @"int/verbcmpd.fst";
+save stack int/verbcmpd.fst
+echo << prefixes + verbs 1&2 saved as int/verbcmpd.fst...>>>
+
+#################################################
+# INIT-CAP NOUN-HEAD COMPOUNDS with NOUN/ADJ prefix
+#################################################
+# compose nouns with init caps ...
+clear stack
+read regex  [@"int/ncomm.fst" .o. @"bin/initcaps.fst"] ;
+#read regex Compound;
+push compStart
+concatenate net
+read regex Guesstag;
+rotate stack
+concatenate net
+save stack int/pncommcmpd.fst
+clear stack
+# TEMPORARY MEASURE remove all hPrefs
+read regex [ [] <- %+hPref] .o. @"int/pncommcmpd.fst";
+save stack int/pncommcmpd.fst
+echo << compound uppercase nouns saved as int/pncommcmpd.fst...>>>
+#################################################
+# INIT-CAP ADJ-HEAD COMPOUNDS with NOUN/ADJ prefix
+#################################################
+# compose with init caps ...
+clear stack
+read regex  [@"int/adjlex.fst" .o. @"bin/initcaps.fst"] ;
+#read regex Compound;
+push compStart
+concatenate net
+read regex Guesstag;
+rotate stack
+concatenate net
+save stack int/padjcmpd.fst
+clear stack
+# TEMPORARY MEASURE remove all hPrefs
+read regex [ [] <- %+hPref] .o. @"int/padjcmpd.fst";
+save stack int/padjcmpd.fst
+echo << compound uppercase adjs saved as int/padjmpd.fst...>>>
+#################################################
+# INIT-CAP VERB-HEAD COMPOUNDS with NOUN/ADJ prefix
+#################################################
+# compose with init caps ...
+clear stack
+#read regex  [@"int/v12.fst" .o. @"bin/initcaps.fst"] ;
+read regex  [@"int/v12lex.fst" .o. @"bin/initcaps.fst"] ;
+#read regex Compound;
+push compStart
+concatenate net
+read regex Guesstag;
+rotate stack
+concatenate net
+save stack int/pverbcmpd.fst
+clear stack
+# TEMPORARY MEASURE remove all hPrefs
+read regex [ [] <- %+hPref] .o. @"int/pverbcmpd.fst";
+save stack int/pverbcmpd.fst
+echo << compound uppercase verbs saved as int/pverbcmpd.fst...>>>
+#####

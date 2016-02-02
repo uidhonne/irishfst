@@ -1,0 +1,25 @@
+! Noun (Gaeilge) Replace Rules - Part C0
+! Elaine Uí Dhonnchadha
+!
+! 2001
+!
+! (1) Remove the ^Caol (slenderise) tag if the word is already slender
+!     i.e. if the last vowel is "i" or "í"
+! (2) Remove the ^Lea (broaden) tag if the word is already broad
+!     i.e. if the last vowel is NOT "i" or "í"
+! (3) NB this must happen after Syncopation has taken place
+!
+! 2004 included %^FC and %^FY in Cons 
+!***************************************************************************!
+
+define Cons  b|c|d|f|g|h|j|k|l|m|n|p|q|r|s|t|v|w|x|y|z|%^FC|%FY;
+read regex [ %^Caol -> [] || [i|í] Cons* _ 	! search to check if 
+				! the last vowel is an "i" or "í" 
+]
+.o.
+[									
+ %^Lea -> [] || [a|o|u|á|ó|ú|%^UA|%^AO|%^AE|%^IA] Cons* _ 	
+				! check that the last vowel is NOT an "i" or "í" 
+				! U=ua O=ao E=ae (I=ia included though not in use)
+]
+;

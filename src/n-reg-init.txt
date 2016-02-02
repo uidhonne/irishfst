@@ -1,0 +1,154 @@
+! Noun (Gaeilge) Replace Rules
+! Elaine Uí Dhonnchadha
+! 12/12/96 - continued March 1998
+! January 2001
+! INITIAL MUTATIONS
+! ^Sé : (Séimhiú) Lenition : insert "h" after certain initial consonants
+! ^Urú : Eclipsis
+! ^tv & ^hv : Prefix "t-" or "h" to words with an initial vowel
+! ^ts : prefix "t" to words starting with "s" followed by "l", "n", "r" or a vowel
+! ^Poss : possessive m', d' etc on nouns
+!
+!xxxx
+!***************************************************************************
+!DEFINITIONS
+!***************************************************************************
+define VowelAll a|e|i|o|u|á|é|í|ó|ú|%^AO|%^IA|%^AE|%^UA|A|E|I|O|U|Á|É|Í|Ó|Ú;
+define VowelLC a|e|i|o|u|á|é|í|ó|ú|%^AO|%^IA|%^AE|%^UA;
+define VowelUC A|E|I|O|U|Á|É|Í|Ó|Ú;
+define Len b|c|d|f|g|m|p|t|B|C|D|F|G|M|P|T;
+define SLen S|s;
+define SWord l|n|r;
+!***************************************************************************
+!SÉIMHIÚ (LENITION)
+!Noun Fem Com Sg / Noun Masc Gen Sg / Noun Voc /Noun IM / Adj / Verb
+!***************************************************************************
+! Séimhiú (Lenite) the following consonants: b,c,d,f,g,m,p,t
+regex [..] -> %^FH h || .#. Len _  ?+ [[%^F %^C]|[%^M %^G]|[%^M %^V]|[%^F %^V]|[%^IM]|[%^Adj]|[%^Verb]|[%^VN]] ?* %^Sé
+,,
+[..] -> %^FH h || .#. [S|s] _  [l|n|r] VowelLC ?+ 
+[[%^F %^C]
+|[%^M %^G]
+|[%^F %^V]
+|[%^M %^V]
+|[%^IM]
+|[%^Adj]
+|[%^Verb]
+|[%^VN]] 
+?* %^Sé
+,,
+[..] -> %^FH h || .#. [S|s] _  VowelLC ?* [[%^F %^C]|[%^M %^G]|[%^F %^V]|[%^M %^V]|[%^IM]|[%^Adj]|[%^Verb]|[%^VN]] ?* %^Sé
+!!.o.
+! Séimhiú (Lenite) "s" when followed by Vowel or l|n|r
+!!![..] -> %^FH h || .#. [s|S] _ (%^X) [VowelLC|SWord] ?* [[%^F %^C]|[%^M %^G]|[%^F %^V]|[%^M %^V]|[%^IM]|[%^Adj]|[%^Verb]|[%^VN]] ?* %^Sé
+!!![..] -> %^FH h || .#. SLen _  VowelLC ?* [[%^F %^C]|[%^M %^G]|[%^F %^V]|[%^M %^V]|[%^IM]|[%^Adj]|[%^Verb]|[%^VN]] ?* %^Sé
+!!![..] -> %^FH h || .#. S _ VowelLC ?* [[%^F %^C]|[%^M %^G]|[%^M %^V]|[%^F %^V]|[%^IM]|[%^Adj]|[%^Verb]|[%^VN]] ?* %^Sé
+!!!,,
+!!![..] -> %^FH h || .#. S _ VowelLC ?* [[%^F %^C]|[%^M %^G]|[%^F %^V]|[%^M %^V]|[%^IM]|[%^Adj]|[%^Verb]|[%^VN]] ?* %^Sé
+!!.o.
+!![..] -> %^FH h || .#. s _ VowelLC ?* [[%^F %^C]|[%^M %^G]|[%^F %^V]|[%^M %^V]|[%^IM]|[%^Adj]|[%^Verb]|[%^VN]] ?* %^Sé
+!!.o.
+!!,,
+
+!!.o.
+! VERBS ONLY: d' before vowels & f in Past , Imperfect and Conditional of Verbs p97 no.3
+! d'fhéach is split into 2 tokens: d' and fhéach EUD 2004
+!![..] -> d ' || .#. _  [VowelAll|f h] ?+ %^Verb ?* %^Sé
+
+.o.
+%^Sé -> []
+.o.
+%^Do -> []
+.o.
+%^VN -> [] 	! used for séimhiú on f without d' e.g. a fheiceáil not a d'fheiceáil
+
+!***************************************************************************
+!URÚ - ECLIPSIS
+!***************************************************************************
+.o.
+[
+ b -> %^FU m b ,	! consonants
+ B -> %^FU m B ,	! consonants
+ c -> %^FU g c ,
+ C -> %^FU g C ,
+ d -> %^FU n d ,
+ D -> %^FU n D ,
+ f -> %^FU b h f ,
+ F -> %^FU b h F ,
+ g -> %^FU n g ,
+ G -> %^FU n G ,
+ p -> %^FU b p ,
+ P -> %^FU b P ,
+ T -> %^FU d T ,
+ t -> %^FU d t || .#. _ ?+ [[%^G]| [[%^M | %^F] %^C]|[%^Verb]|[%^Adj]|[%^IM]] ?* %^Urú		! Gen Pl & comp prep.
+]
+.o. 
+[..] -> %^FU n %-  || .#. (%^X) _  VowelAll ?* [[%^G]| [[%^M | %^F] %^C]|[%^Verb]|[%^IM]] ?* %^Urú		! Gen Pl only
+
+.o.
+[%^Urú -> []]
+
+
+!***************************************************************************
+! VOWEL PREFIXING t-, h, ts
+!***************************************************************************
+.o.
+! t- before Vowel (lowercase) : Masc Com Sg
+[..] -> %^FV t %- || .#. (%^X) _ VowelLC ?* %^M %^C ?* %^tv			
+.o.
+! t before Vowel (uppercase) : Masc Com Sg
+[..] -> %^FV t || .#. (%^X) _ VowelUC ?* %^M %^C ?* %^tv			
+.o.
+[%^tv -> []]
+
+.o.
+
+! h before Vowel [ Fem Gen Sg | Com Pl]
+! ALSO le hÁine, go hiontach
+[..] -> %^FV h   || .#. (%^X) _ VowelAll ?* [[%^F %^G] | [%^C]|[%^Verb]|%^IM] ?* %^hv		
+!.o.
+! this inserts hPref on lower not upper side
+![0 <- %+hPref || .#. %^FV _ ]
+.o.
+[%^hv -> []]
+
+.o.
+! t before s [ Fem Com Sg | Masc Gen]
+ s -> %^FU t s || .#. _  (%^FH) [VowelAll|l|n|r|h] ?* [[%^F %^C]|[%^M %^G]] ?* %^ts
+
+.o.
+ S -> %^FU t S || .#. _  (%^FH) [VowelAll|l|n|r|h] ?* [[%^F %^C]|[%^M %^G]] ?* %^ts
+.o.
+ 
+%^FH h -> [] || .#. %^FU t [s|S] _ 
+!!!h -> [] || .#. %^FU t [s|S] %^FH  _ 
+
+.o. 
+
+%^ts -> []
+
+
+!***************************************************************************
+! POSSESSIVE PREFIX 
+!***************************************************************************
+.o.
+
+! the following two are now included in determiners with mo and do
+
+![..] -> m '  || .#. _ VowelAll ?+ %^Poss 		! m'athair - my father; m'aithreacha
+!,,
+![..] -> d '  || .#. _ VowelAll ?+ %^Poss		! d'athair - your father
+!,,
+
+! the following are performed in parallel as we want all forms
+
+[..] -> %^FV h  || .#. _ VowelAll ?+ %^Poss			! a hathair - her father
+,,
+[..] -> %^FV n %-  || .#. _ VowelAll ?+ %^Poss 		! n-athair - our/your/their
+.o.
+%^Poss -> []
+
+.o.
+%^IM -> []	! initial mutations caused by compound prepp, possessives etc.
+
+;

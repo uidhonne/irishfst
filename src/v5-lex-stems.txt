@@ -1,0 +1,1462 @@
+LEXICON VerbsC
+saobh+Verb+VT:saobh	V1-BR;	! slanted, twisted; askew; capricious;
+táir+Verb+VT:táir	V1-SL;	! mean, vile, wretched vt
+docht+Verb+VT:docht	V1-BR;	! gsm ~ tight; rigid;
+breac+Verb+VTI:breac	V1-BR;	! speckled, dappled, cuilt bhreac
+bréan+Verb+VTI:bréan	V1-BR;	! foul, rancid, putrid, bheith
+crom+Verb+VTI:crom	V1-BR;	! bent, stooped vt &
+geal+Verb+VTI:geal	V1-BR;	! white, bright; pure, is
+gearr+Verb+VTI:gearr	V1-BR;	! gsm ~ gsf &
+toll+Verb+VTI:toll	V1-BR;	! perforated; hollow, empty, (of
+cáin+Verb+VTI:cáin	V1-SL;	! gs cánach pl cánacha
+triail+Verb+VTI:triail	V1-SL;	! gs -alach pl -alacha
+stiúir+Verb+VTI:stiúir	V1-SL;	! gs -úrach pl -úracha
+glam+Verb+VI:glam	V1-BR;	! pl ~anna bay, howl
+fáir+Verb+VI:fáir	V1-SL;	! pl ~eacha (hen's) nest;
+teip+Verb+VI:teip	V1-SL;	! failure vi fail
+sreabh+Verb+VI:sreabh	V1-BR;	! stream; flow; trickle, ~
+srann+Verb+VI:srann	V1-BR;	! snore; snort; humming sound
+splanc+Verb+VI:splanc	V1-BR;	! pl ~acha flash, spark,
+speach+Verb+VI:speach	V1-BR;	! (of animal) kick; (of
+sceamh+Verb+VI:sceamh	V1-BR;	! & vi yelp, squeal
+scal+Verb+VI:scal	V1-BR;	! burst, flash, blast vi
+preab+Verb+VI:preab	V1-BR;	! start; bounce; throb; liveliness;
+míog+Verb+VI:míog	V1-BR;	! & vi cheep
+géim+Verb+VI:géim	V1-SL;	! pl ~eanna low, bellow;
+dréim+Verb+VI:dréim	V1-SL;	! aspiration; contention; expecta tion,
+búir+Verb+VI:búir	V1-SL;	! pl ~eanna bellow, roar;
+bruíon+Verb+VI:bruíon	V1-BR;	! pl ~ta strife, quarrel
+béic+Verb+VI:béic	V1-SL;	! pl ~eacha yell, shout
+aisléim+Verb+VI+Vow:aisléim	V1-SL;	! pl ~eanna (of spring)
+agóid+Verb+VI+Vow:agóid	V1-SL;	! objection, protest, lucht ~e
+gíog+Verb+VI:gíog	V1-BR;	! & vi cheep, chirp
+geit+Verb+VI:geit	V1-SL;	! pl ~eanna start; fright,
+pian+Verb+VT:pian	V1-BR;	! gs péine pl ~ta
+poit+Verb+VT:poit	V1-SL;	! pl ~eanna poke, nudge
+ruaig+Verb+VT:ruaig	V1-SL;	! pl ~eanna chase, rout;
+scaob+Verb+VT:scaob	V1-BR;	! scoop; shovelful vt scoop
+sciúch+Verb+VT:sciúch	V1-BR;	! windpipe, throat; voice vt
+síog+Verb+VT:síog	V1-BR;	! streak; seam, lode vt
+sniog+Verb+VT:sniog	V1-BR;	! drop vt milk dry,
+stiall+Verb+VT:stiall	V1-BR;	! gs stéille pl ~acha
+ding+Verb+VT:ding	V1-SL;	! pl ~eacha & vt
+leadhb+Verb+VT:leadhb	V1-BR;	! pl ~anna strip; pelt;
+stang+Verb+VTI:stang	V1-BR;	! pin, peg; dowel; rood
+breab+Verb+VT:breab	V1-BR;	! pl ~anna bribe vt
+diúg+Verb+VT:diúg	V1-BR;	! drop vt drain, drink
+láib+Verb+VT:láib	V1-SL;	! mud, mire, ~ abhann
+cealg+Verb+VT:cealg	V1-BR;	! deceit; treachery; sting (of
+cailg+Verb+VT:cailg	V1-SL;	! pl ~eanna sting vt
+cros+Verb+VT:cros	V1-BR;	! cross; cross-piece; affliction; prohibition
+cruach+Verb+VT:cruach	V1-BR;	! stack, rick; pile vt
+ding+Verb+VT:ding	V1-SL;	! pl ~eacha wedge vt
+grian+Verb+VT:grian	V1-BR;	! gs gréine pl ~ta
+cuach+Verb+VT:cuach	V1-BR;	! bundle; tress, curl; bow;
+gréisc+Verb+VT:gréisc	V1-SL;	! grease
+scaird+Verb+VTI:scaird	V1-SL;	! pl ~eanna squirt, jet,
+seilg+Verb+VTI:seilg	V1-SL;	! hunt, chase; game, quarry;
+scríob+Verb+VTI:scríob	V1-BR;	! scrape, scratch, score; effort,
+sclamh+Verb+VTI:sclamh	V1-BR;	! pl ~anna bite, nip,
+sceith+Verb+VTI:sceith	V1-SL;	! vomit; spawn(ing); overflow; discharge,
+rúisc+Verb+VTI:rúisc	V1-SL;	! pl ~eanna discharge, volley;
+scairt+Verb+VTI:scairt	V1-SL;	! pl ~eanna shout; call,
+saill+Verb+VTI:saill	V1-SL;	! salted meat; fat (meat)
+síob+Verb+VTI:síob	V1-BR;	! drift; gust; ride, lift
+spréach+Verb+VTI:spréach	V1-BR;	! spark; fire, spirit vt
+póg+Verb+VTI:póg	V1-BR;	! kiss
+scealp+Verb+VTI:scealp	V1-BR;	! splinter vt & i
+slis+Verb+VTI:slis	V1-SL;	! pl ~eanna chip, shaving;
+smailc+Verb+VTI:smailc	V1-SL;	! pl ~eacha mouthful; puff
+snaidhm+Verb+VTI:snaidhm	V1-SL;	! pl ~eanna knot; bond;
+spairn+Verb+VTI:spairn	V1-SL;	! fight, struggle, contention vt
+speir+Verb+VTI:speir	V1-SL;	! pl ~eacha hough; shank,
+sprioc+Verb+VTI:sprioc	V1-BR;	! pl ~anna mark, target;
+steall+Verb+VTI:steall	V1-BR;	! pl ~ta splash; dash;
+stríoc+Verb+VTI:stríoc	V1-BR;	! streak, stripe; stroke; parting
+stróic+Verb+VTI:stróic	V1-SL;	! pl ~eacha stroke; tear,
+tiúin+Verb+VTI:tiúin	V1-SL;	! pl ~eanna tune; mood
+scoilt+Verb+VTI:scoilt	V1-SL;	! pl ~eanna split, crack,
+pluc+Verb+VTI:pluc	V1-BR;	! (round) cheek; mouthful; bulge;
+speal+Verb+VTI:speal	V1-BR;	! scythe vt & i
+bruith+Verb+VTI:bruith	V1-SL;	! boiling, cooking; baking; grilling,
+pléasc+Verb+VTI:pléasc	V1-BR;	! pl ~anna explosion; bang,
+scuab+Verb+VTI:scuab	V1-BR;	! broom, brush; sheaf; bundle
+braich+Verb+VTI:braich	V1-SL;	! pres -achann malt
+caill+Verb+VTI:caill	V1-SL;	! pl ~eanna loss, níl
+casaoid+Verb+VTI:casaoid	V1-SL;	! complaint vt & i
+cíor+Verb+VTI:cíor	V1-BR;	! comb; crest, ~ fiacla
+cis+Verb+VTI:cis	V1-SL;	! restraint, handicap vt &
+cling+Verb+VTI:cling	V1-SL;	! pl ~eacha & vt
+conspóid+Verb+VTI:conspóid	V1-SL;	! argument; controversy vt &
+creach+Verb+VT:creach	V1-BR;	! foray, (cattle-)raid; booty; prey;
+croch+Verb+VTI:croch	V1-BR;	! cross; gallows; hook, hanger;
+cúb+Verb+VTI:cúb	V1-BR;	! coop; bend, fold vt
+driog+Verb+VTI:driog	V1-BR;	! pl ~anna droplet vt
+lasc+Verb+VTI:lasc	V1-BR;	! lash, whip; switch vt
+mím+Verb+VTI:mím	V1-SL;	! pl ~eanna mime vt
+múch+Verb+VTI:múch	V1-BR;	! fumes; suffocating vapour vt
+maidhm+Verb+VTI:maidhm	V1-SL;	! pl ~eanna burst, eruption;
+faichill+Verb+VTI:faichill	V2-SL-sync;	! care, caution; wariness, duine
+léim+Verb+VTI:léim	V1-SL;	! pl ~eanna jump, leap;
+gin+Verb+VTI:gin	V1-SL;	! pl ~te begetting; birth;
+gáir+Verb+VTI:gáir	V1-SL;	! pl gártha cry, shout,
+péac+Verb+VTI:péac	V1-BR;	! peak, point; sprout; thrust,
+ainic+Verb+VTI+Vow:ainic	V1-SL;	! protect
+lútáil+Verb+VI:lútáil	V1-SL-LC;	! obsequiousness, toadyism vi fawn
+scread+Verb+VI:scread	V1-BR;	! pl ~anna scream vi
+bladhm+Verb+VI:bladhm	V1-BR;	! pl ~anna flame; flare-up
+nuáil+Verb+VI:nuáil	V1-SL-LC;	! innovation vi innovate
+griotháil+Verb+VI:griotháil	V1-SL-LC;	! & vi grunt
+déileáil+Verb+VI:déileáil	V1-SL-LC;	! dealing vi deal
+cnead+Verb+VI:cnead	V1-BR;	! pl ~anna pant; gasp,
+iomáin+Verb+VI+Vow:iomáin	V1-SL;	! (game of) hurling vi
+scarbháil+Verb+VI:scarbháil	V1-SL-LC;	! hardening, drying, crustation vi
+sciúrsáil+Verb+VT:sciúrsáil	V1-SL-LC;	! scourging; affliction vt scourge,
+tástáil+Verb+VT:tástáil	V1-SL-LC;	! taste, sample; test, trial
+luacháil+Verb+VT:luacháil	V1-SL-LC;	! valuation; evaluation vt value;
+líneáil+Verb+VT:líneáil	V1-SL-LC;	! lining vt line
+ofráil+Verb+VT+Vow:ofráil	V1-SL-LC;	! offering; offertory; charity vt
+pábháil+Verb+VT:pábháil	V1-SL-LC;	! paving, pavement vt pave
+plandáil+Verb+VT:plandáil	V1-SL-LC;	! plantation, P~ Uladh the
+plátáil+Verb+VT:plátáil	V1-SL-LC;	! plating, sheeting, armour vt
+preasáil+Verb+VT:preasáil	V1-SL-LC;	! press, buíon phreasála press
+rinseáil+Verb+VT:rinseáil	V1-SL-LC;	! rinse
+seirbheáil+Verb+VT:seirbheáil	V1-SL-LC;	! service; provision vt serve
+spásáil+Verb+VT:spásáil	V1-SL-LC;	! spacing vt space
+stóráil+Verb+VT:stóráil	V1-SL-LC;	! storage vt store
+tarrtháil+Verb+VT:tarrtháil	V1-SL-LC;	! rescue; help; deliverance; salvage
+lamháil+Verb+VT:lamháil	V1-SL-LC;	! allowance; discount; margin vt
+raiceáil+Verb+VT:raiceáil	V1-SL-LC;	! wreck
+ciondáil+Verb+VT:ciondáil	V1-SL-LC;	! ration
+láimhseáil+Verb+VT:láimhseáil	V1-SL-LC;	! management, handling vt manage,
+múráil+Verb+VT:múráil	V1-SL-LC;	! mooring vt moor
+aeráil+Verb+VT+Vow:aeráil	V1-SL-LC;	! ventilation vt ventilate, air
+armáil+Verb+VT+Vow:armáil	V1-SL-LC;	! armament vt arm
+cásáil+Verb+VT:cásáil	V1-SL-LC;	! casing vt encase, case
+cóimeáil+Verb+VT:cóimeáil	V1-SL-LC;	! assembly; assemblage, líne chóimeála
+cóipeáil+Verb+VTI:cóipeáil	V1-SL-LC;	! coping vt cope
+díluacháil+Verb+VT:díluacháil	V1-SL-LC;	! devaluation vt devalue
+iompórtáil+Verb+VT+Vow:iompórtáil	V1-SL-LC;	! importation, import vt import
+fíneáil+Verb+VT:fíneáil	V1-SL-LC;	! fine
+goin+Verb+VT:goin	V1-SL;	! pl gonta wound; sting,
+ládáil+Verb+VT:ládáil	V1-SL-LC;	! lading; cargo vt lade
+grábháil+Verb+VT:grábháil	V1-SL-LC;	! engraving; (of ship) graving
+greasáil+Verb+VT:greasáil	V1-SL-LC;	! beating, trouncing vt beat,
+díotáil+Verb+VT:díotáil	V1-SL-LC;	! indictment vt indict
+ionramháil+Verb+VT:ionramháil	V1-SL-LC;	! handling, management; humouring, ~
+babhtáil+Verb+VT:babhtáil	V1-SL-LC;	! exchange, swop, barter
+pléadáil+Verb+VTI:pléadáil	V1-SL-LC;	! plea; disputation vt &
+péinteáil+Verb+VTI:péinteáil	V1-SL-LC;	! painting, paint-work vt &
+paisteáil+Verb+VTI:paisteáil	V1-SL-LC;	! patching vt & i
+pacáil+Verb+VTI:pacáil	V1-SL-LC;	! packing vt & i
+lóisteáil+Verb+VTI:lóisteáil	V1-SL-LC;	! lodgement vt & i
+póitseáil+Verb+VTI:póitseáil	V1-SL-LC;	! poaching vt & i
+vótáil+Verb+VTI:vótáil	V1-SL-LC;	! voting, poll vt &
+máirseáil+Verb+VTI:máirseáil	V1-SL-LC;	! & vt & i
+robáil+Verb+VTI:robáil	V1-SL-LC;	! robbery vt & i
+sóinseáil+Verb+VTI:sóinseáil	V1-SL-LC;	! & vt & i
+spáráil+Verb+VTI:spáráil	V1-SL-LC;	! sparing, economy vt &
+stócáil+Verb+VTI:stócáil	V1-SL-LC;	! preparation(s) vt & i
+stuáil+Verb+VTI:stuáil	V1-SL-LV;	! stowage; stuffing, padding; stor
+súisteáil+Verb+VTI:súisteáil	V1-SL-LC;	! flailing, threshing; beating vt
+liostáil+Verb+VTI:liostáil	V1-SL-LC;	! enlistment vt & i
+troid+Verb+VTI:troid	V1-SL;	! & vt & i
+dearnáil+Verb+VTI:dearnáil	V1-SL-LC;	! darning vt & i
+traenáil+Verb+VTI:traenáil	V1-SL-LC;	! training vt & i
+cúigleáil+Verb+VTI:cúigleáil	V1-SL-LC;	! embezzlement vt & i
+blogh+Verb+VTI:blogh	V1-BR;	! pl ~anna fragment vt
+cardáil+Verb+VTI:cardáil	V1-SL-LC;	! carding (of wool); discussion,
+ceantáil+Verb+VTI:ceantáil	V1-SL-LC;	! auctioning; sale, clearance vt
+cíorláil+Verb+VTI:cíorláil	V1-SL-LC;	! combing; searching; rough handling
+cniotáil+Verb+VTI:cniotáil	V1-SL-LC;	! knitting; knitted material vt
+dornáil+Verb+VTI:dornáil	V1-SL-LC;	! fistfighting, boxing vt &
+cúbláil+Verb+VTI:cúbláil	V1-SL-LC;	! manipulation; defalcation vt &
+goid+Verb+VTI:goid	V1-SL;	! gs gada theft, larceny
+cúpláil+Verb+VTI:cúpláil	V1-SL-LC;	! copulation, mating; coupling vt
+cúrsáil+Verb+VTI:cúrsáil	V1-SL-LC;	! & vt & i
+dí-armáil+Verb+VTI:dí-armáil	V1-SL-LC;	! disarmament vt & i
+draenáil+Verb+VTI:draenáil	V1-SL-LC;	! drainage vt & i
+druileáil+Verb+VTI:druileáil	V1-SL-LC;	! drill(ing) vt & i
+eitseáil+Verb+VTI+Vow:eitseáil	V1-SL-LC;	! etching vt & i
+friotháil+Verb+VTI:friotháil	V1-SL-LC;	! attention, ministry, service vt
+cóipeáil+Verb+VTI:cóipeáil	V1-SL-LC;	! copying, duplication vt &
+pramsáil+Verb+VI:pramsáil	V1-SL-LC;	! prance, caper, frolic
+coinscríobh+Verb+VT:coinscríobh	V1-BR;	! gs -ofa conscription vt
+léirscrios+Verb+VT:léirscrios	V1-BR;	! gs ~ta total destruction,
+coimeád+Verb+VTI:coimeád	V1-BR;	! gs ~ta keeping; observance;
+coimhéad+Verb+VTI:coimhéad	V1-BR;	! gs ~ta watch, guard;
+scrios+Verb+VTI:scrios	V1-BR;	! gs ~ta destruction, ruin;
+fiar+Verb+VTI:fiar	V1-BR;	! npl ~a slant, bias;
+críon+Verb+VTI:críon	V1-BR;	! pl ~ta anything old
+nocht+Verb+VTI:nocht	V1-BR;	! naked person a1, gsm
+mór+Verb+VTI:mór	V1-BR;	! great lot; much, many;
+lom+Verb+VTI:lom	V1-BR;	! bareness; openness; nakedness,poverty, ~
+liath+Verb+VTI:liath	V1-BR;	! gs léith npl ~a
+cuar+Verb+VTI:cuar	V1-BR;	! curve; hoop, a1 curved;
+bog+Verb+VTI:bog	V1-BR;	! soft part, etc, ~
+claon+Verb+VTI:claon	V1-BR;	! pl ~ta incline; slope;
+caoch+Verb+VTI:caoch	V1-BR;	! npl ~a blind, purblind,
+cam+Verb+VTI:cam	V1-BR;	! npl ~a bend; crooked
+dearg+Verb+VTI:dearg	V1-BR;	! npl ~a red; rouge,
+dord+Verb+VI:dord	V1-BR;	! buzz, drone; (of voice)
+feall+Verb+VI:feall	V1-BR;	! deceit, treachery; let-down vi
+stolp+Verb+VI:stolp	V1-BR;	! stodge; caked substance vi
+at+Verb+VI+Vow:at	V1-BR;	! pl atanna swelling vi
+sleabhac+Verb+VI:sleabhc	V1-BR;	! droop, slouch; slant vi
+liteagraf+Verb+VT:liteagraf	V1-BR;	! & vt lithograph
+liúr+Verb+VT:liúr	V1-BR;	! pl ~acha pole; blow
+masc+Verb+VT:masc	V1-BR;	! pl ~anna mask vt
+múr+Verb+VT:múr	V1-BR;	! pl ~tha wall, rampart;
+sac+Verb+VT:sac	V1-BR;	! sack vt put in
+smut+Verb+VT:smut	V1-BR;	! stump, stub; snout; sulky
+srian+Verb+VT:srian	V1-BR;	! pl ~ta bridle; restraint;
+tuar+Verb+VTI:tuar	V1-BR;	! pl ~tha sign, omen,
+gléas+Verb+VT:gléas	V1-BR;	! pl ~anna arrangement; facilities;
+fiach+Verb+VT:fiach	V1-BR;	! hunt, chase
+taifead+Verb+VT:taifead	V1-BR;	! record
+aol+Verb+VT+Vow:aol	V1-BR;	! pl ~ta lime, ~beo
+lámhach+Verb+VT:lámhach	V1-BR;	! shooting; fire vt shoot
+alt+Verb+VT+Vow:alt	V1-BR;	! joint; knuckle; knot (in
+beibheal+Verb+VT:beibheal	V1-BR;	! bevel
+cnap+Verb+VT:cnap	V1-BR;	! pl ~anna lump; heap;
+coirbéal+Verb+VT:coirbéal	V1-BR;	! corbel
+cruan+Verb+VT:cruan	V1-BR;	! enamel
+dearmad+Verb+VT:dearmad	V1-BR;	! forgetfulness, negligence; omission; mistake,
+díon+Verb+VT:díon	V1-BR;	! pl ~ta protection, shelter;
+dual+Verb+VT:dual	V1-BR;	! braid, tress; wisp, tuft,
+dúmhál+Verb+VT:dúmhál	V1-BR;	! blackmail
+aitheasc+Verb+VT+Vow:aitheasc	V1-BR;	! address; exhortation, vt exhort
+tál+Verb+VTI:tál	V1-BR;	! lactation, yield (of milk);
+mún+Verb+VTI:mún	V1-BR;	! urine vt & i
+ól+Verb+VTI+Vow:ól	V1-BR;	! drink, bheith ar an
+poll+Verb+VTI:poll	V1-BR;	! hole; pit; burrow; shaft;
+roc+Verb+VTI:roc	V1-BR;	! wrinkle, crease, pucker vt
+sábh+Verb+VTI:sábh	V1-BR;	! npl ~a (of tool)
+siofón+Verb+VTI:siofón	V1-BR;	! siphon
+slog+Verb+VTI:slog	V1-BR;	! pl ~anna gulp, swallow;
+snamh+Verb+VTI:snamh	V1-BR;	! bark; skin, complexion vt
+líon+Verb+VTI:líon	V1-BR;	! pl ~ta full number,
+stoll+Verb+VTI:stoll	V1-BR;	! pl ~ta stool stoll
+gearán+Verb+VTI:gearán	V1-BR;	! complaint, grievance; ailment vt
+teagasc+Verb+VTI:teagasc	V1-BR;	! npl ~a teaching, instruction;
+tolg+Verb+VTI:tolg	V1-BR;	! attack; force; gap, rent
+spor+Verb+VTI:spor	V1-BR;	! spur
+diúl+Verb+VTI:diúl	V1-BR;	! suck(ing), leanbh (an) diúil
+amharc+Verb+VTI+Vow:amharc	V1-BR;	! sight; look; view, ar
+bac+Verb+VTI:bac	V1-BR;	! balk, hindrance; barrier, ~
+blosc+Verb+VTI:blosc	V1-BR;	! explosive sound, blast vt
+buiséad+Verb+VTI:buiséad	V1-BR;	! budget
+carn+Verb+VTI:carn	V1-BR;	! cairn; heap, pile; great
+clog+Verb+VTI:clog	V1-BR;	! blister
+gob+Verb+VTI:gob	V1-BR;	! npl ~a beak, bill;
+cor+Verb+VTI:cor	V1-BR;	! npl ~a turn, twist;
+leigheas+Verb+VTI:leigheas	V1-BR;	! pl ~anna healing, medicine;
+fás+Verb+VTI:fás	V1-BR;	! growth, development; sapling, rod,
+geall+Verb+VTI:geall	V1-BR;	! pl ~ta pledge; wager;
+úsc+Verb+VTI+Vow:úsc	V1-BR;	! oily, greasy, substance; fat;
+glám+Verb+VTI:glám	V1-BR;	! pl ~anna grab, clutch
+gor+Verb+VTI:gor	V1-BR;	! heat (of incubation), cearc
+graf+Verb+VTI:graf	V1-BR;	! graph, chart
+iasc+Verb+VTI+Vow:iasc	V1-BR;	! gs & npl éisc
+cnag+Verb+VTI:cnag	V1-BR;	! npl ~a knock, crack,
+teann+Verb+VTI:teann	V1-BR;	! gs & npl ~a
+broim+Verb+VI:broim	V1-SL;	! pl -omanna & vi,
+brúcht+Verb+VI:brúcht	V1-BR;	! pl ~anna belch; burst,
+éag+Verb+VI+Vow:éag	V1-BR;	! death; numbness, dul in
+tonnchrith+Verb+VI:tonnchrith	V1-SL;	! gs -reatha pl -reathanna
+tost+Verb+VI:tost	V1-BR;	! silence, bí i do
+griog+Verb+VT:griog	V1-BR;	! pl ~anna slight, irritating,
+sciot+Verb+VT:sciot	V1-BR;	! pl ~anna scut, snippet
+miondíol+Verb+VT:miondíol	V1-BR;	! retail
+dreach+Verb+VT:dreach	V1-BR;	! gs & npl ~a
+crith+Verb+VT:crith	V1-SL;	! gs creatha pl creathanna
+coincheap+Verb+VT:coincheap	V1-BR;	! gs & npl ~a
+cóimheas+Verb+VT:cóimheas	V1-BR;	! gs & npl ~a
+aisíoc+Verb+VT+Vow:aisíoc	V1-BR;	! repayment, restitution vt repay,
+dol+Verb+VT:dol	V1-BR;	! gs & npl ~a
+ríomh+Verb+VT:ríomh	V1-BR;	! enumeration; calculation; narration vt
+trácht+Verb+VTI:trácht	V1-BR;	! discourse, comment, ~ ar
+slócht+Verb+VTI:slócht	V1-BR;	! hoarseness vt & i
+smeach+Verb+VTI:smeach	V1-BR;	! pl ~anna flick; snap
+smol+Verb+VTI:smol	V1-BR;	! blight, decay vt &
+snámh+Verb+VTI:snámh	V1-BR;	! swim(ming); swimming-stroke; (of ship)
+sníomh+Verb+VTI:sníomh	V1-BR;	! spinning; twisting, twining; strain;
+tnúth+Verb+VTI:tnúth	V1-BR;	! envy; expectation, longing vt
+slaod+Verb+VTI:slaod	V1-BR;	! pl ~anna swath, layer;
+trácht+Verb+VTI:trácht	V1-BR;	! travelling; journey; traffic vt
+sram+Verb+VTI:sram	V1-BR;	! pl ~aí (of eyes)
+triall+Verb+VTI:triall	V1-BR;	! pl ~ta journey, expedition,
+cac+Verb+VTI:cac	V1-BR;	! pl ~anna excrement, ordure
+díol+Verb+VTI:díol	V1-BR;	! sale; payment; recompense, i
+meas+Verb+VTI:meas	V1-BR;	! estimation, judgment; estimate, opinion;
+meath+Verb+VTI:meath	V1-BR;	! decline, decay, decadence; failure
+reic+Verb+VTI:reic	V1-SL;	! pl ~eanna sale; public
+rop+Verb+VTI:rop	V1-BR;	! thrust, stab; dart, dash
+sioc+Verb+VTI:sioc	V1-BR;	! gs seaca frost vt
+slad+Verb+VTI:slad	V1-BR;	! plunder, loot; devastation vt
+cniog+Verb+VT:cniog	V1-BR;	! rap, tap; blow, ná
+giob+Verb+VT:giob	V1-BR;	! pl ~anna morsel; scrap,
+riar+Verb+VT:riar	V1-BR;	! administration, management; provision; distribution;
+plab+Verb+VTI:plab	V1-BR;	! plop, splash; slam
+steanc+Verb+VTI:steanc	V1-BR;	! squirt; splash
+stop+Verb+VTI:stop	V1-BR;	! stop vt & i
+stad+Verb+VTI:stad	V1-BR;	! pl ~anna stop, halt;
+roll+Verb+VTI:roll	V1-BR;	! roll
+snap+Verb+VTI:snap	V1-BR;	! pl ~anna snap; catch;
+luisnigh+Verb+VI:luisnigh	V2-SL;	! blush, glow
+scinn+Verb+VI:scinn	V1-SL;	! start, spring; dart; gush
+sciáil+Verb+VI:sciáil	V1-SL-LV;	! ski;
+sciorr+Verb+VI:sciorr	V1-BR;	! slip, slide, skid
+scátáil+Verb+VI:scátáil	V1-SL-LC;	! skate;
+liúigh+Verb+VI:liúigh	V1-BR-LV;	! yell, shout
+láigh+Verb+VI:láigh	V1-BR-LV;	! vn láchan dawn
+scipeáil+Verb+VI:scipeáil	V1-SL-LC;	! skip;
+oir+Verb+VI+Vow:oir	V1-SL;	! vn ~iúint suit, fit,
+grúntáil+Verb+VI:grúntáil	V1-SL-LC;	! sound;
+válsáil+Verb+VI:válsáil	V1-SL-LC;	! waltz;
+troisc+Verb+VI:troisc	V1-SL;	! vn -oscadh fast
+toill+Verb+VI:toill	V1-SL;	! fit, find room (i,
+teith+Verb+VI:teith	V1-SL;	! run away, flee, ag
+stiúg+Verb+VI:stiúg	V1-BR;	! expire, perish
+sciurd+Verb+VI:sciurd	V1-BR;	! rush, dash, hurry
+staon+Verb+VI:staon	V1-BR;	! stop, desist; abstain; flinch
+stán+Verb+VI:stán	V1-BR;	! stare;
+spriúch+Verb+VI:spriúch	V1-BR;	! (of animal) lash out,
+snigh+Verb+VI:snigh	V1-SL;	! pour (down), flow; filter
+sléacht+Verb+VI:sléacht	V1-BR;	! kneel, genuflect; bow down
+cloígh+Verb+VT:cloígh	V1-SL;	! cleave, adhere (le to)
+clis+Verb+VI:clis	V1-SL;	! jump, start; flinch, fail
+cúléist+Verb+VI:cúléist	V1-SL;	! vn ~eacht eavesdrop
+campáil+Verb+VI:campáil	V1-SL-LC;	! camp;
+píceáil+Verb+VTI:píceáil	V1-SL-LC;	! peek
+goill+Verb+VI:goill	V1-SL;	! grieve; vex, ghoill an
+ciúáil+Verb+VI:ciúáil	V1-SL;	! queue;
+siséal+Verb+VTI:siséal	V1-BR;	! chisel
+painéal+Verb+VT:painéal	V1-BR;	! panel
+feighil+Verb+VT:feighil	V2-SL-sync;	! gs -ghle vigilance; care,
+réamhaithris+Verb+VTI:réamhaithris	V2-SL;	! prediction vt & i
+rothaigh+Verb+VI:rothaigh	V2-BR;	! cycle;
+ráthaigh+Verb+VT:ráthaigh	V2-BR;	! vn -aíocht (of fish)
+peacaigh+Verb+VI:peacaigh	V2-BR;	! sin;
+míostraigh+Verb+VI:míostraigh	V2-BR;	! menstruate;
+meathlaigh+Verb+VI:meathlaigh	V2-BR;	! decline, decay, fail; sicken
+luainigh+Verb+VI:luainigh	V2-SL;	! move nimbly; move unsteadily;
+leitheadaigh+Verb+VI:leitheadaigh	V2-BR;	! spread;
+láithrigh+Verb+VI:láithrigh	V2-SL;	! present oneself, appear
+insíothlaigh+Verb+VI:insíothlaigh	V2-BR;	! infiltrate;
+imrothlaigh+Verb+VI:imrothlaigh	V2-BR;	! revolve;
+imoibrigh+Verb+VI:imoibrigh	V2-SL;	! react;
+teagmhaigh+Verb+VI:teagmhaigh	V2-BR;	! chance, happen; (with ar,
+gruamaigh+Verb+VI:gruamaigh	V2-BR;	! become gloomy, darken
+torthaigh+Verb+VI:torthaigh	V2-BR;	! fruit, fructify
+toimhdigh+Verb+VI:toimhdigh	V2-SL;	! think, presume
+tuisligh+Verb+VI:tuisligh	V2-SL;	! stumble; falter, stagger
+téaltaigh+Verb+VI:téaltaigh	V2-BR;	! go furtively, slink
+taibhsigh+Verb+VI:taibhsigh	V2-SL;	! loom; seem, taibhsítear dom
+sruthaigh+Verb+VI:sruthaigh	V2-BR;	! stream, flow
+seiligh+Verb+VI:seiligh	V2-SL;	! spit;
+téarnaigh+Verb+VI:téarnaigh	V2-BR;	! escape; recover; return; come
+camhraigh+Verb+VI:camhraigh	V2-BR;	! (of fish, meat, etc)
+cuidigh+Verb+VI:cuidigh	V2-SL;	! help; requite, cuidiú le
+creathnaigh+Verb+VI:creathnaigh	V2-BR;	! tremble, quake; flinch
+comhtharlaigh+Verb+VI:comhtharlaigh	V2-BR;	! coincide;
+comhthacaigh+Verb+VI:comhthacaigh	V2-BR;	! ~ le corroborate
+comhoibrigh+Verb+VI:comhoibrigh	V2-SL;	! co-operate, collaborate
+comhghreamaigh+Verb+VI:comhghreamaigh	V2-BR;	! cohere;
+comhfhreagair+Verb+VI:comhfhreagair	V2-BR-sync;	! pres -graíonn correspond
+bachlaigh+Verb+VI:bachlaigh	V2-BR;	! bud;
+caithrigh+Verb+VI:caithrigh	V2-SL;	! reach puberty; develop;
+cabhraigh+Verb+VI:cabhraigh	V2-BR;	! help, ~liom help me
+broic+Verb+VI:broic	V1-SL;	! vn ~ (with le),
+bláthaigh+Verb+VI:bláthaigh	V2-BR;	! blossom, bloom
+bíog+Verb+VI:bíog	V1-BR;	! start, jump; twitch
+báistigh+Verb+VI:báistigh	V2-SL;	! rain;
+atit+Verb+VI+Vow:atit	V1-SL;	! vn ~im relapse
+aiséirigh+Verb+VI+Vow:aiséirigh	V2-SL;	! rise again;
+geimhrigh+Verb+VI:geimhrigh	V2-SL;	! winter; hibernate;
+gogail+Verb+VI:gogail	V2-BR-sync;	! pres -alaíonn vn gogal
+aosaigh+Verb+VI:aosaigh	V2-BR;	! age; come of age;
+cúltort+Verb+VI:cúltort	V1-BR;	! back-fire;
+glóthaigh+Verb+VI:glóthaigh	V2-BR;	! gel;
+fuirigh+Verb+VI:fuirigh	V2-SL;	! wait, remain
+fuaidrigh+Verb+VI:fuaidrigh	V2-SL;	! wander, stray; fuss
+fóin+Verb+VI:fóin	V1-SL;	! pres fónann vn fónamh
+feoigh+Verb+VI:feoigh	V1-SV;	! wither, decay
+feil+Verb+VI:feil	V1-SL;	! vn ~iúint (with do)
+fáiltigh+Verb+VI:fáiltigh	V2-SL;	! welcome;
+fabhraigh+Verb+VI:fabhraigh	V2-BR;	! develop, evolve
+drithligh+Verb+VI:drithligh	V2-SL;	! spark; sparkle, twinkle, scintillate
+éigh+Verb+VI+Vow:éigh	V1-SL-LV;	! vn éamh cry out,
+ábhraigh+Verb+VI+Vow:ábhraigh	V2-BR;	! fester;
+eascair+Verb+VI+Vow:eascair	V2-BR-sync;	! pres -craíonn spring, sprout;
+diall+Verb+VI:diall	V1-BR;	! ~ le, ar incline
+éalaigh+Verb+VI+Vow:éalaigh	V2-BR;	! escape; elope; slip away,
+durdáil+Verb+VI:durdáil	V1-SL-LC;	! coo;
+diosc+Verb+VI:diosc	V1-BR;	! dissect;
+díosc+Verb+VI:díosc	V1-BR;	! creak, grate
+dréachtaigh+Verb+VT:dréachtaigh	V2-BR;	! draft;
+dreasaigh+Verb+VT:dreasaigh	V2-BR;	! incite, urge on, drive
+droimscríobh+Verb+VT:droimscríobh	V1-BR;	! vn ~ endorse
+drugáil+Verb+VT:drugáil	V1-SL-LC;	! drug;
+dúbail+Verb+VT:dúbail	V2-BR-sync;	! pres -blaíonn double; fold
+dumpáil+Verb+VT:dumpáil	V1-SL-LC;	! dump;
+eadóirsigh+Verb+VT+Vow:eadóirsigh	V2-SL;	! naturalize;
+díspeag+Verb+VT:díspeag	V1-BR;	! despise, belittle
+eagraigh+Verb+VT+Vow:eagraigh	V2-BR;	! arrange, organize
+dúnmharaigh+Verb+VT:dúnmharaigh	V2-BR;	! murder;
+draoibeáil+Verb+VT:draoibeáil	V1-SL-LC;	! bespatter;
+dóibeáil+Verb+VT:dóibeáil	V1-SL-LC;	! daub, plaster (with mud)
+diomail+Verb+VT:diomail	V2-BR-sync;	! pres -mlaíonn waste, squander
+diurnaigh+Verb+VT:diurnaigh	V2-BR;	! drain, swallow; embrace
+díshealbhaigh+Verb+VT:díshealbhaigh	V2-BR;	! dispossess, evict
+díothaigh+Verb+VT:díothaigh	V2-BR;	! destroy, eliminate; exterminate
+díotchúisigh+Verb+VT:díotchúisigh	V2-SL;	! arraign;
+díorthaigh+Verb+VT:díorthaigh	V2-BR;	! derive;
+eangaigh+Verb+VT+Vow:eangaigh	V2-BR;	! notch, groove, indent
+díochlaon+Verb+VT:díochlaon	V1-BR;	! (grammar) decline
+dligh+Verb+VT:dligh	V1-SL;	! be entitled to, merit;
+fíoraigh+Verb+VT:fíoraigh	V2-BR;	! verify; fulfil;
+dílsigh+Verb+VT:dílsigh	V2-SL;	! vest; pledge; cede; appropriate;
+fionn+Verb+VT:fionn	V1-BR;	! ascertain, discover, find; invent
+feistigh+Verb+VT:feistigh	V2-SL;	! arrange, adjust; dress, equip;
+féichiúnaigh+Verb+VT:féichiúnaigh	V2-BR;	! debit;
+feann+Verb+VT:feann	V1-BR;	! flay, skin, tá siad
+faomh+Verb+VT:faomh	V1-BR;	! pp faofa accept; approve
+faoisc+Verb+VT:faoisc	V1-SL;	! shell; parboil (shellfish);
+faobhraigh+Verb+VT:faobhraigh	V2-BR;	! sharpen, whet
+eisreachtaigh+Verb+VT+Vow:eisreachtaigh	V2-BR;	! proscribe, outlaw
+fálaigh+Verb+VT:fálaigh	V2-BR;	! fence, enclose; lag
+éar+Verb+VT+Vow:éar	V1-BR;	! refuse, deny
+eisigh+Verb+VT+Vow:eisigh	V2-SL;	! issue;
+éimigh+Verb+VT+Vow:éimigh	V2-SL;	! refuse; deny, reject
+éilligh+Verb+VT+Vow:éilligh	V2-SL;	! corrupt, pollute, defile
+éignigh+Verb+VT+Vow:éignigh	V2-SL;	! force; violate;
+éigiontaigh+Verb+VT+Vow:éigiontaigh	V2-BR;	! acquit;
+éidigh+Verb+VT+Vow:éidigh	V2-SL;	! dress, clothe; accoutre
+easraigh+Verb+VT+Vow:easraigh	V2-BR;	! litter, strew
+easpórtáil+Verb+VT+Vow:easpórtáil	V1-SL-LC;	! export;
+falsaigh+Verb+VT:falsaigh	V2-BR;	! falsify, uacht fhalsaithe forged
+cuibhrigh+Verb+VT:cuibhrigh	V2-SL;	! bind, fetter
+dambáil+Verb+VT:dambáil	V1-SL-LC;	! dam;
+dáil+Verb+VT:dáil	V1-SL;	! allocate, distribute, allot; pour
+cúr+Verb+VT:cúr	V1-BR;	! chastise, scourge
+cumhraigh+Verb+VT:cumhraigh	V2-BR;	! perfume; embalm; purify, freshen
+cumhachtaigh+Verb+VT:cumhachtaigh	V2-BR;	! empower;
+cumasaigh+Verb+VT:cumasaigh	V2-BR;	! enable, empower
+cúisigh+Verb+VT:cúisigh	V2-SL;	! accuse; charge, prosecute
+dallraigh+Verb+VT:dallraigh	V2-BR;	! blind, dazzle, benumb (with
+cuimsigh+Verb+VT:cuimsigh	V2-SL;	! comprehend; include, comprise; control
+fíoraigh+Verb+VT:fíoraigh	V2-BR;	! figure, outline; symbolize; portend
+crústáil+Verb+VT:crústáil	V1-SL-LC;	! drub, belabour
+crústaigh+Verb+VT:crústaigh	V2-BR;	! pelt;
+crúigh+Verb+VT:crúigh	V1-BR-LV;	! milk;
+crúigh+Verb+VT:crúigh	V1-BR-LV;	! capall a chrú to
+cronaigh+Verb+VT:cronaigh	V2-BR;	! miss, note absence of
+crioslaigh+Verb+VT:crioslaigh	V2-BR;	! girdle, enclose
+críochaigh+Verb+VT:críochaigh	V2-BR;	! demarcate;
+criathraigh+Verb+VT:criathraigh	V2-BR;	! sieve; riddle, sift; honeycomb
+creidiúnaigh+Verb+VT:creidiúnaigh	V2-BR;	! accredit;
+cuingrigh+Verb+VT:cuingrigh	V2-SL;	! yoke, couple
+deilbhigh+Verb+VT:deilbhigh	V2-SL;	! frame; shape, fashion, snáth
+díláithrigh+Verb+VT:díláithrigh	V2-SL;	! displace; clear out; demolish;
+díhiodráitigh+Verb+VT:díhiodráitigh	V2-SL;	! dehydrate;
+díghalraigh+Verb+VT:díghalraigh	V2-BR;	! disinfect;
+dídhaoinigh+Verb+VT:dídhaoinigh	V2-SL;	! depopulate;
+díchuir+Verb+VT:díchuir	V1-SL;	! vn -ur expel; disperse,
+díchnámhaigh+Verb+VT:díchnámhaigh	V2-BR;	! bone, fillet
+dícheann+Verb+VT:dícheann	V1-BR;	! behead; cut off, destroy
+dícháiligh+Verb+VT:dícháiligh	V2-SL;	! disqualify;
+gleadhair+Verb+VT:gleadhair	V2-BR-sync;	! pres -dhrann beat noisily,
+deisigh+Verb+VT:deisigh	V2-SL;	! mend, repair
+díláraigh+Verb+VT:díláraigh	V2-BR;	! decentralize;
+deighil+Verb+VT:deighil	V2-SL-sync;	! pres -ghleann part, separate,
+deataigh+Verb+VT:deataigh	V2-BR;	! smoke;
+dear+Verb+VT:dear	V1-BR;	! draw, design
+dealbhaigh+Verb+VT:dealbhaigh	V2-BR;	! sculpture;
+deachúlaigh+Verb+VT:deachúlaigh	V2-BR;	! decimalize;
+deachtaigh+Verb+VT:deachtaigh	V2-BR;	! instruct; dictate;
+deachaigh+Verb+VT:deachaigh	V2-BR;	! decimate;
+dátaigh+Verb+VT:dátaigh	V2-BR;	! date;
+damnaigh+Verb+VT:damnaigh	V2-BR;	! damn, condemn
+déroinn+Verb+VT:déroinn	V1-SL;	! bisect;
+infhill+Verb+VT+Vow:infhill	V1-SL;	! fold inwards; enfold; inflect;
+ionchoirigh+Verb+VT+Vow:ionchoirigh	V2-SL;	! incriminate;
+íonaigh+Verb+VT+Vow:íonaigh	V2-BR;	! purify;
+ionadaigh+Verb+VT+Vow:ionadaigh	V2-BR;	! position; appoint; represent; substitute
+iomardaigh+Verb+VT+Vow:iomardaigh	V2-BR;	! reproach; challenge; reprimand;
+iolraigh+Verb+VT+Vow:iolraigh	V2-BR;	! multiply, ús iolraithe compound
+insteall+Verb+VT+Vow:insteall	V1-BR;	! inject;
+insligh+Verb+VT+Vow:insligh	V2-SL;	! insulate;
+inseamhnaigh+Verb+VT+Vow:inseamhnaigh	V2-BR;	! inseminate;
+insealbhaigh+Verb+VT+Vow:insealbhaigh	V2-BR;	! invest, install
+idirdhealaigh+Verb+VT+Vow:idirdhealaigh	V2-BR;	! differentiate, distinguish
+iniúch+Verb+VT+Vow:iniúch	V1-BR;	! scrutinize; audit;
+ionstraimigh+Verb+VT+Vow:ionstraimigh	V2-SL;	! instrument; orchestrate;
+infheistigh+Verb+VT+Vow:infheistigh	V2-SL;	! invest;
+imtheorannaigh+Verb+VT+Vow:imtheorannaigh	V2-BR;	! intern;
+imshuigh+Verb+VT+Vow:imshuigh	V1-SL;	! beleaguer, besiege
+imscríobh+Verb+VT+Vow:imscríobh	V1-BR;	! circumscribe;
+imlínigh+Verb+VT+Vow:imlínigh	V2-SL;	! outline;
+imdhruid+Verb+VT+Vow:imdhruid	V1-SL;	! vn ~im encompass; besiege
+imdhíon+Verb+VT+Vow:imdhíon	V1-BR;	! immunize;
+imdhearg+Verb+VT+Vow:imdhearg	V1-BR;	! cause to blush, shame;
+innill+Verb+VT+Vow:innill	V2-SL-sync;	! pres inlíonn arrange, set;
+léarscáiligh+Verb+VT:léarscáiligh	V2-SL;	! map;
+litrigh+Verb+VT:litrigh	V2-SL;	! spell;
+liostaigh+Verb+VT:liostaigh	V2-BR;	! list, enumerate
+líomh+Verb+VT:líomh	V1-BR;	! grind, sharpen; file, polish;
+liobair+Verb+VT:liobair	V2-BR-sync;	! pres -braíonn tear, tatter;
+leon+Verb+VT:leon	V1-BR;	! sprain; wound;
+leithreasaigh+Verb+VT:leithreasaigh	V2-BR;	! appropriate;
+leithlisigh+Verb+VT:leithlisigh	V2-SL;	! isolate;
+leictrigh+Verb+VT:leictrigh	V2-SL;	! electrify;
+ionchorpraigh+Verb+VT:ionchorpraigh	V2-BR;	! incorporate;
+léas+Verb+VT:léas	V1-BR;	! thrash, flog
+ionnail+Verb+VT:ionnail	V2-BR-sync;	! pres ionlann wash, bathe
+leadair+Verb+VT:leadair	V2-BR-sync;	! pres -draíonn beat; hack;
+leabhlaigh+Verb+VT:leabhlaigh	V2-BR;	! libel;
+leabaigh+Verb+VT:leabaigh	V2-BR;	! bed, embed, set
+láraigh+Verb+VT:láraigh	V2-BR;	! centralize;
+lánscoir+Verb+VT:lánscoir	V1-SL;	! (of parliament) dissolve
+lansaigh+Verb+VT:lansaigh	V2-BR;	! lance;
+lainseáil+Verb+VT:lainseáil	V1-SL-LC;	! launch;
+láimhsigh+Verb+VT:láimhsigh	V2-SL;	! handle, manipulate; grapple with
+ionsuigh+Verb+VT+Vow:ionsuigh	V1-SL;	! plug in;
+ídigh+Verb+VT+Vow:ídigh	V2-SL;	! use up, consume; expend;
+léasaigh+Verb+VT:léasaigh	V2-BR;	! lease, farm (out)
+frithbheartaigh+Verb+VT:frithbheartaigh	V2-BR;	! counteract;
+giollaigh+Verb+VT:giollaigh	V2-BR;	! lead; attend to, tend,
+geallearb+Verb+VT:geallearb	V1-BR;	! pawn;
+geafáil+Verb+VT:geafáil	V1-SL-LC;	! gaff;
+gathaigh+Verb+VTI:gathaigh	V2-BR;	! gaff;
+galstobh+Verb+VT:galstobh	V1-BR;	! braise
+galbhánaigh+Verb+VT:galbhánaigh	V2-BR;	! galvanize;
+fuipeáil+Verb+VT:fuipeáil	V1-SL-LC;	! whip;
+fuathaigh+Verb+VT:fuathaigh	V2-BR;	! hate; turn against;
+fuascail+Verb+VT:fuascail	V2-BR-sync;	! pres -claíonn release, deliver;
+íligh+Verb+VT+Vow:íligh	V2-SL;	! oil;
+frithchaith+Verb+VT:frithchaith	V1-SL;	! vn ~eamh reflect
+glasáil+Verb+VT:glasáil	V1-SL-LC;	! lock;
+fothraig+Verb+VT:fothraig	V1-SL-BR;	! was V1-SL-X;	! pres -ragann bathe, wash;
+formhuinigh+Verb+VT:formhuinigh	V2-SL;	! endorse;
+formheas+Verb+VT:formheas	V1-BR;	! approve;
+formhéadaigh+Verb+VT:formhéadaigh	V2-BR;	! magnify;
+forghabh+Verb+VT:forghabh	V1-BR;	! grasp; secure; usurp;
+foréiligh+Verb+VT:foréiligh	V2-SL;	! vn -leamh requisition
+folmhaigh+Verb+VT:folmhaigh	V2-BR;	! empty, discharge, exhaust
+folc+Verb+VT:folc	V1-BR;	! bathe; wash; immerse, submerge,
+foirmigh+Verb+VT:foirmigh	V2-SL;	! form; formulate;
+frithshuigh+Verb+VT:frithshuigh	V1-SL;	! set against, contrast (le
+gráinnigh+Verb+VT:gráinnigh	V2-SL;	! grain, granulate
+iarnáil+Verb+VT+Vow:iarnáil	V1-SL-LC;	! iron, smooth with flat-iron
+iarnaigh+Verb+VT+Vow:iarnaigh	V2-BR;	! put in irons; fit,
+hiopnóisigh+Verb+VT:hiopnóisigh	V2-SL;	! hypnotize;
+gríosaigh+Verb+VT:gríosaigh	V2-BR;	! inflame; incite, an croí
+grinnigh+Verb+VT:grinnigh	V2-SL;	! scrutinize;
+gréasaigh+Verb+VT:gréasaigh	V2-BR;	! ornament, embroider
+greannaigh+Verb+VT:greannaigh	V2-BR;	! irritate; beard, challenge; taunt
+grean+Verb+VT:grean	V1-BR;	! engrave, adhmad a ghreanadh
+giúmaráil+Verb+VT:giúmaráil	V1-SL-LC;	! humour;
+grátáil+Verb+VT:grátáil	V1-SL-LC;	! grate (potatoes, etc)
+créam+Verb+VT:créam	V1-BR;	! cremate;
+gráinigh+Verb+VT:gráinigh	V2-SL;	! hate, detest
+grádaigh+Verb+VT:grádaigh	V2-BR;	! grade; graduate, scale
+góchum+Verb+VT:góchum	V1-BR;	! counterfeit;
+gníomhachtaigh+Verb+VT:gníomhachtaigh	V2-BR;	! activate;
+glónraigh+Verb+VT:glónraigh	V2-BR;	! glaze;
+glóirigh+Verb+VT:glóirigh	V2-SL;	! glorify;
+gliúáil+Verb+VT:gliúáil	V1-SL-LC;	! glue;
+comharthaigh+Verb+VT:comharthaigh	V2-BR;	! mark; indicate; signal;
+greagnaigh+Verb+VT:greagnaigh	V2-BR;	! pave, strew, tá an
+athphlandaigh+Verb+VT:athphlandaigh	V2-BR;	! replant; transplant;
+bréagnaigh+Verb+VT:bréagnaigh	V2-BR;	! contradict, refute
+ballbhrúigh+Verb+VT:ballbhrúigh	V1-SL;	! bruise;
+baist+Verb+VT:baist	V1-SL;	! baptize, christen; name
+báigh+Verb+VT:báigh	V1-BR-LV;	! drown; submerge; sink; immerse;
+baig+Verb+VT:baig	V1-SL;	! bag;
+baghcatáil+Verb+VT:baghcatáil	V1-SL-LC;	! boycott;
+bácáil+Verb+VT:bácáil	V1-SL-LC;	! bake; fire (pottery);
+atóg+Verb+VT+Vow:atóg	V1-BR;	! vn ~áil rebuild; retake
+athscríobh+Verb+VT+Vow:athscríobh	V1-BR;	! rewrite, copy, transcribe
+bancáil+Verb+VT:bancáil	V1-SL-LC;	! bank;
+athraon+Verb+VT+Vow:athraon	V1-BR;	! refract;
+baoiteáil+Verb+VT:baoiteáil	V1-SL-LC;	! bait;
+athnuaigh+Verb+VT+Vow:athnuaigh	V2-BR;	! vn -uachan renew, renovate;
+athluaigh+Verb+VT+Vow:athluaigh	V2-BR;	! reiterate;
+athleáigh+Verb+VT+Vow:athleáigh	V1-BR-LV;	! remelt; (of metal) refine;
+athghlaoigh+Verb+VT+Vow:athghlaoigh	V1-SL;	! vn -aoch recall
+athghabh+Verb+VT+Vow:athghabh	V1-BR;	! vn ~áil recapture; recover
+athchum+Verb+VT+Vow:athchum	V1-BR;	! reconstruct; distort;
+athchuir+Verb+VT+Vow:athchuir	V1-SL;	! vn -chur replant; remand;
+athchomhair+Verb+VT+Vow:athchomhair	V2-BR-sync;	! vn ~eamh re-count, recalculate
+athchóirigh+Verb+VT+Vow:athchóirigh	V2-SL;	! rearrange; restore, renovate
+athscinn+Verb+VT+Vow:athscinn	V1-SL;	! spring back; recoil;
+comhdaigh+Verb+VT:comhdaigh	V2-BR;	! file (document, etc.)
+brandáil+Verb+VT:brandáil	V1-SL-LC;	! brand;
+boltáil+Verb+VT:boltáil	V1-SL-LC;	! bolt;
+bolcáinigh+Verb+VT:bolcáinigh	V2-SL;	! vulcanize;
+bolaigh+Verb+VT:bolaigh	V2-BR;	! smell, scent
+bodhraigh+Verb+VT:bodhraigh	V2-BR;	! deafen, ná ~ mé
+bochtaigh+Verb+VT:bochtaigh	V2-BR;	! impoverish;
+bocáil+Verb+VT:bocáil	V1-SL-LC;	! toss, liathróid a bhocáil
+balsamaigh+Verb+VT:balsamaigh	V2-BR;	! embalm;
+biathaigh+Verb+VT:biathaigh	V2-BR;	! feed, tá sé ag
+athaontaigh+Verb+VT+Vow:athaontaigh	V2-BR;	! reunite;
+beathaigh+Verb+VT:beathaigh	V2-BR;	! feed, nourish; rear
+bearr+Verb+VT:bearr	V1-BR;	! clip; cut; shave; skim
+bearnaigh+Verb+VT:bearnaigh	V2-BR;	! breach; broach; tap;
+bealaigh+Verb+VT:bealaigh	V2-BR;	! grease, lubricate, caint bhealaithe
+beachtaigh+Verb+VT:beachtaigh	V2-BR;	! correct, ag beachtú orm
+batráil+Verb+VT:batráil	V1-SL-LC;	! batter;
+basc+Verb+VT:basc	V1-BR;	! bash; crush;
+barrloisc+Verb+VT:barrloisc	V1-SL;	! vn -oscadh singe
+barrchaolaigh+Verb+VT:barrchaolaigh	V2-BR;	! taper;
+blaistigh+Verb+VT:blaistigh	V2-SL;	! season (food);
+aeraigh+Verb+VT+Vow:aeraigh	V2-BR;	! aerate;
+ainmnigh+Verb+VT+Vow:ainmnigh	V2-SL;	! name; nominate; specify;
+ainligh+Verb+VT+Vow:ainligh	V2-SL;	! guide, steady boat against
+aimsigh+Verb+VT+Vow:aimsigh	V2-SL;	! aim; find; make attempt
+aimridigh+Verb+VT+Vow:aimridigh	V2-SL;	! make barren, sterilize
+aimpligh+Verb+VT+Vow:aimpligh	V2-SL;	! amplify;
+ailínigh+Verb+VT+Vow:ailínigh	V2-SL;	! align;
+aifir+Verb+VT+Vow:aifir	V2-SL-sync;	! pres aifríonn rebuke
+aicmigh+Verb+VT+Vow:aicmigh	V2-SL;	! classify;
+athbhreithnigh+Verb+VT+Vow:athbhreithnigh	V2-SL;	! review, revise
+aeroiriúnaigh+Verb+VT+Vow:aeroiriúnaigh	V2-BR;	! air-condition;
+aisghair+Verb+VT+Vow:aisghair	V1-SL;	! abrogate; repeal;
+adhmhol+Verb+VT+Vow:adhmhol	V1-BR;	! extol, eulogize
+adhlaic+Verb+VT+Vow:adhlaic	V1-SL-BR;	! was V1-SL-X;	! pres -acann bury
+adharcáil+Verb+VT+Vow:adharcáil	V1-SL-LC;	! horn, gore
+adhair+Verb+VT+Vow:adhair	V2-BR-sync;	! pres adhrann vn adhradh
+adamhaigh+Verb+VT+Vow:adamhaigh	V2-BR;	! atomize;
+achtaigh+Verb+VT+Vow:achtaigh	V2-BR;	! enact;
+achoimrigh+Verb+VT+Vow:achoimrigh	V2-SL;	! summarize, recapitulate
+locair+Verb+VT:locair	V2-BR-sync;	! pres -craíonn plane; smooth,
+lochtaigh+Verb+VT:lochtaigh	V2-BR;	! fault, blame
+anluchtaigh+Verb+VT+Vow:anluchtaigh	V2-BR;	! overload; glut;
+breithnigh+Verb+VT:breithnigh	V2-SL;	! adjudge;
+atáirg+Verb+VT+Vow:atáirg	V1-SL;	! reproduce;
+aslonnaigh+Verb+VT+Vow:aslonnaigh	V2-BR;	! evacuate;
+asbheir+Verb+VT+Vow:asbheir	V1-SL;	! vn -bhreith deduce
+asáitigh+Verb+VT+Vow:asáitigh	V2-SL;	! dislodge
+armónaigh+Verb+VT+Vow:armónaigh	V2-BR;	! harmonize;
+árachaigh+Verb+VT+Vow:árachaigh	V2-BR;	! insure;
+aor+Verb+VT+Vow:aor	V1-BR;	! satirize, lampoon
+aonraigh+Verb+VT+Vow:aonraigh	V2-BR;	! isolate;
+ansmachtaigh+Verb+VT+Vow:ansmachtaigh	V2-BR;	! bully;
+áirithigh+Verb+VT+Vow:áirithigh	V2-SL;	! ensure;
+anailísigh+Verb+VT+Vow:anailísigh	V2-SL;	! analyse;
+altramaigh+Verb+VT+Vow:altramaigh	V2-BR;	! foster;
+allmhairigh+Verb+VT+Vow:allmhairigh	V2-SL;	! import;
+áitrigh+Verb+VT+Vow:áitrigh	V2-SL;	! inhabit;
+aithisigh+Verb+VT+Vow:aithisigh	V2-SL;	! slur, defame
+aistarraing+Verb+VT+Vow:aistarraing	V2-SL;	! pres ~íonn (of money)
+aisig+Verb+VT+Vow:aisig	V1-SL-BR;	! was V1-SL-X;	! pres -seagann vn -seag
+athbheoigh+Verb+VT+Vow:athbheoigh	V1-SL;	! revive, reanimate
+aoirigh+Verb+VT+Vow:aoirigh	V2-SL;	! vn -reacht shepherd, herd
+coill+Verb+VT:coill	V1-SL;	! geld, castrate; violate, despoil;
+bréag+Verb+VT:bréag	V1-BR;	! cajole, coax; soothe
+cómhalartaigh+Verb+VT:cómhalartaigh	V2-BR;	! reciprocate;
+comhaill+Verb+VT:comhaill	V2-BR-sync;	! vn -all fulfil, perform,
+comardaigh+Verb+VT:comardaigh	V2-BR;	! equate;
+comáil+Verb+VT:comáil	V1-SL-LC;	! tie together, interlace
+coisric+Verb+VT:coisric	V1-SL;	! consecrate; church, bless
+coirtigh+Verb+VT:coirtigh	V2-SL;	! decorticate; tan; coat, encrust
+coinsínigh+Verb+VT:coinsínigh	V2-SL;	! consign;
+coinnigh+Verb+VT:coinnigh	V2-SL;	! keep; maintain; retain, hold;
+comhchoirigh+Verb+VT:comhchoirigh	V2-SL;	! recriminate;
+coimrigh+Verb+VT:coimrigh	V2-SL;	! sum up, summarize
+comhdhéan+Verb+VT:comhdhéan	V1-BR;	! make up, constitute
+coilínigh+Verb+VT:coilínigh	V2-SL;	! colonize;
+coigistigh+Verb+VT:coigistigh	V2-SL;	! confiscate;
+coigeartaigh+Verb+VT:coigeartaigh	V2-BR;	! rectify, adjust
+códaigh+Verb+VT:códaigh	V2-BR;	! codify;
+coc+Verb+VT:coc	V1-BR;	! ag ~adh féir cocking
+cobhsaigh+Verb+VT:cobhsaigh	V2-BR;	! stabilize;
+cnuchair+Verb+VT:cnuchair	V2-BR-sync;	! pres -chraíonn foot (turf)
+cneáigh+Verb+VT:cneáigh	V1-BR-LV;	! wound;
+coinnealbháigh+Verb+VT:coinnealbháigh	V1-BR-LV;	! excommunicate;
+comhthogh+Verb+VT:comhthogh	V1-BR;	! co-opt;
+creach+Verb+VT:creach	V1-BR;	! brand, cauterize
+craplaigh+Verb+VT:craplaigh	V2-BR;	! fetter; cripple;
+craosfholc+Verb+VT:craosfholc	V1-BR;	! gargle;
+craobhscaoil+Verb+VT:craobhscaoil	V1-SL;	! propagate, disseminate; broadcast
+cothromaigh+Verb+VT:cothromaigh	V2-BR;	! even, level; balance, equalize
+corpraigh+Verb+VT:corpraigh	V2-BR;	! incorporate;
+corónaigh+Verb+VT:corónaigh	V2-BR;	! crown;
+corn+Verb+VT:corn	V1-BR;	! roll, coil
+comhardaigh+Verb+VT:comhardaigh	V2-BR;	! equalize; adjust, balance
+comóir+Verb+VT:comóir	V1-SL;	! convene; celebrate; escort;
+cluimhrigh+Verb+VT:cluimhrigh	V2-SL;	! pluck (feathers); preen;
+comhshuigh+Verb+VT:comhshuigh	V1-SL;	! arrange in position, compose
+comhshínigh+Verb+VT:comhshínigh	V2-SL;	! countersign;
+comhordaigh+Verb+VT:comhordaigh	V2-BR;	! co-ordinate;
+comhoiriúnaigh+Verb+VT:comhoiriúnaigh	V2-BR;	! match, harmonize
+comhlíon+Verb+VT:comhlíon	V1-BR;	! fulfil; perform, observe; complete,
+comhleáigh+Verb+VT:comhleáigh	V1-BR-LV;	! (of metals) fuse;
+comhlánaigh+Verb+VT:comhlánaigh	V2-BR;	! complete, complement
+comhfháisc+Verb+VT:comhfháisc	V1-SL;	! squeeze together, compress
+comhéignigh+Verb+VT:comhéignigh	V2-SL;	! coerce;
+corcáil+Verb+VT:corcáil	V1-SL-LC;	! cork;
+búcláil+Verb+VT:búcláil	V1-SL-LC;	! buckle;
+canónaigh+Verb+VT:canónaigh	V2-BR;	! canonize;
+cannaigh+Verb+VT:cannaigh	V2-BR;	! can;
+calaigh+Verb+VT:calaigh	V2-BR;	! (of ship) berth;
+cairtfhostaigh+Verb+VT:cairtfhostaigh	V2-BR;	! charter;
+caighdeánaigh+Verb+VT:caighdeánaigh	V2-BR;	! standardize;
+caidéalaigh+Verb+VT:caidéalaigh	V2-BR;	! pump out;
+cadhail+Verb+VT:cadhail	V2-BR-sync;	! pres caidhleann vn caidhleadh
+cabhair+Verb+VT:cabhair	V2-BR-sync;	! pres -bhraíonn vn -bhradh
+burláil+Verb+VT:burláil	V1-SL-LC;	! bundle, roll together, bale
+cnagbheirigh+Verb+VT:cnagbheirigh	V2-SL;	! parboil;
+buidéalaigh+Verb+VT:buidéalaigh	V2-BR;	! bottle;
+ceadúnaigh+Verb+VT:ceadúnaigh	V2-BR;	! license;
+buanaigh+Verb+VT:buanaigh	V2-BR;	! perpetuate, go mbuanaí Dia
+buain+Verb+VT:buain	V1-SL;	! vn ~ reap
+bruithnigh+Verb+VT:bruithnigh	V2-SL;	! smelt;
+bronn+Verb+VT:bronn	V1-BR;	! grant, bestow
+bróitseáil+Verb+VT:bróitseáil	V1-SL-LC;	! broach;
+bróidnigh+Verb+VT:bróidnigh	V2-SL;	! embroider;
+broid+Verb+VT:broid	V1-SL;	! goad, prod; nudge
+brionnaigh+Verb+VT:brionnaigh	V2-BR;	! forge (money, a document)
+breoslaigh+Verb+VT:breoslaigh	V2-BR;	! fuel;
+cíosaigh+Verb+VT:cíosaigh	V2-BR;	! rent, pay rent for;
+créachtaigh+Verb+VT:créachtaigh	V2-BR;	! gash, wound
+cloígh+Verb+VT:cloígh	V1-SL;	! wear down, subdue, enervate
+clóbhuail+Verb+VT:clóbhuail	V1-SL;	! print;
+clip+Verb+VT:clip	V1-SL;	! prick; tease; tire, wear
+clíomaigh+Verb+VT:clíomaigh	V2-BR;	! acclimatize;
+claonmharaigh+Verb+VT:claonmharaigh	V2-BR;	! mortify (passions);
+caomhnaigh+Verb+VT:caomhnaigh	V2-BR;	! cherish; preserve; conserve;
+ciúbaigh+Verb+VT:ciúbaigh	V2-BR;	! cube;
+cásaigh+Verb+VT:cásaigh	V2-BR;	! lament, deplore; inquire for,
+ciorclaigh+Verb+VT:ciorclaigh	V2-BR;	! encircle, circle
+cionroinn+Verb+VT:cionroinn	V1-SL;	! apportion;
+ciar+Verb+VT:ciar	V1-BR;	! wax;
+ciap+Verb+VT:ciap	V1-BR;	! harass, annoy; torment
+ceil+Verb+VT:ceil	V1-SL;	! conceal; suppress, withhold, a
+cearnaigh+Verb+VT:cearnaigh	V2-BR;	! square;
+ceansaigh+Verb+VT:ceansaigh	V2-BR;	! appease; tame, control
+cealaigh+Verb+VT:cealaigh	V2-BR;	! do away with; hide;
+clutharaigh+Verb+VT:clutharaigh	V2-BR;	! shelter; make warm, comfortable;
+clabhtáil+Verb+VT:clabhtáil	V1-SL-LC;	! clout;
+sreangaigh+Verb+VT:sreangaigh	V2-BR;	! wire;
+smiot+Verb+VT:smiot	V1-BR;	! hit, strike; chop; whittle
+smíst+Verb+VT:smíst	V1-SL;	! pound, trounce
+snáith+Verb+VT:snáith	V1-SL;	! vn -áthadh sip, take
+snasaigh+Verb+VT:snasaigh	V2-BR;	! polish;
+soiléirigh+Verb+VT:soiléirigh	V2-SL;	! clarify, manifest
+soiprigh+Verb+VT:soiprigh	V2-SL;	! nestle, snuggle, down
+sollúnaigh+Verb+VT:sollúnaigh	V2-BR;	! solemnize, celebrate
+sorchaigh+Verb+VT:sorchaigh	V2-BR;	! enlighten, illuminate
+spágáil+Verb+VT:spágáil	V1-SL-LC;	! shamble, trudge
+spídigh+Verb+VT:spídigh	V2-SL;	! revile, slander
+spladhsáil+Verb+VT:spladhsáil	V1-SL-LC;	! splice;
+tabhaigh+Verb+VT:tabhaigh	V2-BR;	! earn, deserve
+spúinseáil+Verb+VT:spúinseáil	V1-SL-LC;	! sponge;
+sloinn+Verb+VT:sloinn	V1-SL;	! tell, express; state name;
+sruthlaigh+Verb+VT:sruthlaigh	V2-BR;	! rinse; wash out, flush
+stáirseáil+Verb+VT:stáirseáil	V1-SL-LC;	! starch;
+stáitsigh+Verb+VT:stáitsigh	V2-SL;	! stage;
+stánaigh+Verb+VT:stánaigh	V2-BR;	! coat with tin; pack
+stápláil+Verb+VT:stápláil	V1-SL-LC;	! staple;
+steiriligh+Verb+VT:steiriligh	V2-SL;	! sterilize;
+stobh+Verb+VT:stobh	V1-BR;	! stew;
+stoith+Verb+VT:stoith	V1-SL;	! pull, pluck, uproot
+stroighnigh+Verb+VT:stroighnigh	V2-SL;	! cement;
+stromp+Verb+VT:stromp	V1-BR;	! stiffen, harden, ~tha le
+stuamaigh+Verb+VT:stuamaigh	V2-BR;	! calm down, steady
+sainigh+Verb+VT:sainigh	V2-SL;	! state expressly; define;
+spreag+Verb+VT:spreag	V1-BR;	! incite; arouse, inspire, ag
+seachaid+Verb+VT:seachaid	V1-SL-BR;	! was V1-SL-X;	! pres -adann deliver; hand
+sáinnigh+Verb+VT:sáinnigh	V2-SL;	! corner, put in a
+sáithigh+Verb+VT:sáithigh	V2-SL;	! sate, satiate
+sann+Verb+VT:sann	V1-BR;	! assign;
+santaigh+Verb+VT:santaigh	V2-BR;	! covet, desire
+saolaigh+Verb+VT:saolaigh	V2-BR;	! be born; deliver, go
+scall+Verb+VT:scall	V1-BR;	! scald; scold, ubh a
+scan+Verb+VT:scan	V1-BR;	! scan;
+scannalaigh+Verb+VT:scannalaigh	V2-BR;	! scandalize;
+scean+Verb+VT:scean	V1-BR;	! knife, stab; cut up
+sclár+Verb+VT:sclár	V1-BR;	! cut up, tear, lacerate
+scrobh+Verb+VT:scrobh	V1-BR;	! scramble (eggs);
+smear+Verb+VT:smear	V1-BR;	! smear; smudge; grease; thrash;
+smachtaigh+Verb+VT:smachtaigh	V2-BR;	! control, discipline; subdue
+séalaigh+Verb+VT:séalaigh	V2-BR;	! seal;
+seamaigh+Verb+VT:seamaigh	V2-BR;	! rivet;
+seansáil+Verb+VT:seansáil	V1-SL-LC;	! chance, risk
+searr+Verb+VT:searr	V1-BR;	! stretch, extend
+simpligh+Verb+VT:simpligh	V2-SL;	! simplify;
+sincigh+Verb+VT:sincigh	V2-SL;	! galvanize;
+sindeacáitigh+Verb+VT:sindeacáitigh	V2-SL;	! syndicate;
+sioncrónaigh+Verb+VT:sioncrónaigh	V2-BR;	! synchronize;
+síothaigh+Verb+VT:síothaigh	V2-BR;	! pacify;
+siúcraigh+Verb+VT:siúcraigh	V2-BR;	! sugar;
+siúntaigh+Verb+VT:siúntaigh	V2-BR;	! joint;
+táblaigh+Verb+VT:táblaigh	V2-BR;	! tabulate;
+scrúd+Verb+VT:scrúd	V1-BR;	! try severely, test, ~ta
+uchtaigh+Verb+VT+Vow:uchtaigh	V2-BR;	! adopt;
+truailligh+Verb+VT:truailligh	V2-SL;	! corrupt, contaminate; desecrate
+truaillmheasc+Verb+VT:truaillmheasc	V1-BR;	! adulterate;
+tuairiscigh+Verb+VT:tuairiscigh	V2-SL;	! report;
+tuairteáil+Verb+VT:tuairteáil	V1-SL-LC;	! pound, thump, buffet
+tuargain+Verb+VT:tuargain	V2-BR-sync;	! pres tuairgníonn pound; batter;
+tuaslaig+Verb+VT:tuaslaig	V1-SL-BR;	! was V1-SL-X;	! pres -agann solve, dissolve
+tuathaigh+Verb+VT:tuathaigh	V2-BR;	! laicize;
+tuill+Verb+VT:tuill	V1-SL;	! earn, deserve
+tuilsoilsigh+Verb+VT:tuilsoilsigh	V2-SL;	! flood-light;
+uachtaigh+Verb+VT+Vow:uachtaigh	V2-BR;	! will, bequeath; declare
+uaisligh+Verb+VT+Vow:uaisligh	V2-SL;	! ennoble; elevate, exalt
+súigh+Verb+VT:súigh	V1-BR-LV;	! absorb, suck
+úc+Verb+VT+Vow:úc	V1-BR;	! full, tuck
+trealmhaigh+Verb+VT:trealmhaigh	V2-BR;	! fit out, equip
+údaraigh+Verb+VT+Vow:údaraigh	V2-BR;	! authorize; originate, cause
+uirísligh+Verb+VT+Vow:uirísligh	V2-SL;	! humble; abase, humiliate
+uiscigh+Verb+VT+Vow:uiscigh	V2-SL;	! water, irrigate
+ung+Verb+VT+Vow:ung	V1-BR;	! anoint;
+uraigh+Verb+VT+Vow:uraigh	V2-BR;	! eclipse
+urraigh+Verb+VT+Vow:urraigh	V2-BR;	! go surety for, secure
+urramaigh+Verb+VT+Vow:urramaigh	V2-BR;	! respect, revere, cúnant a
+urscaoil+Verb+VT+Vow:urscaoil	V1-SL;	! discharge;
+vacsaínigh+Verb+VT:vacsaínigh	V2-SL;	! vaccinate;
+vástáil+Verb+VT:vástáil	V1-SL-LC;	! waste;
+x-ghathaigh+Verb+VT:x-ghathaigh	V2-BR;	! x-ray;
+loc+Verb+VT:loc	V1-BR;	! pen, enclose; park
+ualaigh+Verb+VT:ualaigh	V2-BR;	! load; burden;
+tionsclaigh+Verb+VT:tionsclaigh	V2-BR;	! industrialize;
+tacaigh+Verb+VT:tacaigh	V2-BR;	! support, back
+táirg+Verb+VT:táirg	V1-SL;	! produce, manufacture
+taobhaigh+Verb+VT:taobhaigh	V2-BR;	! draw near, approach; side
+tapaigh+Verb+VT:tapaigh	V2-BR;	! quicken; grasp, ~ do
+tarcaisnigh+Verb+VT:tarcaisnigh	V2-SL;	! scorn; insult;
+tarchuir+Verb+VT:tarchuir	V1-SL;	! remit, refer, transmit
+tarráil+Verb+VT:tarráil	V1-SL-LC;	! tar;
+teasairg+Verb+VT:teasairg	V1-SL-BR;	! was V1-SL-X;	! pres -argann save, rescue
+teasc+Verb+VT:teasc	V1-BR;	! cut off; lop; amputate,
+teasdíon+Verb+VT:teasdíon	V1-BR;	! insulate (against heat);
+teilifísigh+Verb+VT:teilifísigh	V2-SL;	! televise;
+tréithrigh+Verb+VT:tréithrigh	V2-SL;	! characterize;
+timpeallghearr+Verb+VT:timpeallghearr	V1-BR;	! circumcise;
+tréaslaigh+Verb+VT:tréaslaigh	V2-BR;	! rud a thréaslú do
+tíor+Verb+VT:tíor	V1-BR;	! dry up, parch; scorch,
+tnáith+Verb+VT:tnáith	V1-SL;	! wear down, exhaust
+toghair+Verb+VT:toghair	V2-BR-sync;	! summon; invoke;
+toibhigh+Verb+VT:toibhigh	V2-SL;	! vn tobhach levy, exact
+toirchigh+Verb+VT:toirchigh	V2-SL;	! fertilize, impregnate
+toitrigh+Verb+VT:toitrigh	V2-SL;	! smoke, fumigate
+tóstáil+Verb+VT:tóstáil	V1-SL-LC;	! toast;
+tothlaigh+Verb+VT:tothlaigh	V2-BR;	! desire, crave
+traoch+Verb+VT:traoch	V1-BR;	! overcome; wear out, exhaust
+trasuigh+Verb+VT:trasuigh	V1-SL;	! transpose;
+treáigh+Verb+VT:treáigh	V1-BR-LV;	! pierce, penetrate
+timpeallaigh+Verb+VT:timpeallaigh	V2-BR;	! go round; encircle; circumvent;
+teorannaigh+Verb+VT:teorannaigh	V2-BR;	! limit, restrict
+nimhigh+Verb+VT:nimhigh	V2-SL;	! poison, envenom
+monaplaigh+Verb+VT:monaplaigh	V2-BR;	! monopolize;
+monaraigh+Verb+VT:monaraigh	V2-BR;	! manufacture;
+morgáistigh+Verb+VT:morgáistigh	V2-SL;	! mortgage;
+mótaraigh+Verb+VT:mótaraigh	V2-BR;	! motorize;
+muirnigh+Verb+VT:muirnigh	V2-SL;	! fondle, cherish
+múnlaigh+Verb+VT:múnlaigh	V2-BR;	! mould; mint; form, model
+náirigh+Verb+VT:náirigh	V2-SL;	! shame, disgrace
+naomhaigh+Verb+VT:naomhaigh	V2-BR;	! hallow, sanctify
+naomhainmnigh+Verb+VT:naomhainmnigh	V2-SL;	! canonize;
+neamhbhailigh+Verb+VT:neamhbhailigh	V2-SL;	! invalidate;
+neamhnigh+Verb+VT:neamhnigh	V2-SL;	! nullify, annul, annihilate
+ordaigh+Verb+VT+Vow:ordaigh	V2-BR;	! order; command, prescribe, mar
+niamhghlan+Verb+VT:niamhghlan	V1-BR;	! burnish;
+miotaigh+Verb+VT:miotaigh	V2-BR;	! bite, nibble; whittle away
+nódaigh+Verb+VT:nódaigh	V2-BR;	! graft, transplant
+nótáil+Verb+VT:nótáil	V1-SL-LC;	! note;
+oidhrigh+Verb+VT+Vow:oidhrigh	V2-SL;	! bequeath (ar to);
+oil+Verb+VT+Vow:oil	V1-SL;	! nurture, rear; educate, bheith
+oiriúnaigh+Verb+VT+Vow:oiriúnaigh	V2-BR;	! fit, adapt; suit
+oirmhinnigh+Verb+VT+Vow:oirmhinnigh	V2-SL;	! revere, reverence, honour
+oirnigh+Verb+VT+Vow:oirnigh	V2-SL;	! ordain; inaugurate; arrange; adorn,
+olaigh+Verb+VT+Vow:olaigh	V2-BR;	! oil; anoint;
+olltáirg+Verb+VT+Vow:olltáirg	V1-SL;	! mass-produce;
+onnmhairigh+Verb+VT+Vow:onnmhairigh	V2-SL;	! export;
+onóraigh+Verb+VT+Vow:onóraigh	V2-BR;	! honour;
+óraigh+Verb+VT+Vow:óraigh	V2-BR;	! gild;
+neodraigh+Verb+VT:neodraigh	V2-BR;	! neutralize; neuter;
+martraigh+Verb+VT:martraigh	V2-BR;	! martyr; cripple, disable
+logh+Verb+VT:logh	V1-BR;	! remit, forgive
+tionlaic+Verb+VT:tionlaic	V1-SL-BR;	! was V1-SL-X;	! pres -acann vn -acan
+sáimhrigh+Verb+VT:sáimhrigh	V2-SL;	! quieten, soothe; make drowsy
+lomair+Verb+VT:lomair	V2-BR-sync;	! pres -mraíonn shear; denude,
+luchtaigh+Verb+VT:luchtaigh	V2-BR;	! charge, fill; load
+maighnéadaigh+Verb+VT:maighnéadaigh	V2-BR;	! magnetize;
+maisigh+Verb+VT:maisigh	V2-SL;	! adorn, beautify, bia a
+maith+Verb+VT:maith	V1-SL;	! vn ~eamh forgive, pardon
+malartaigh+Verb+VT:malartaigh	V2-BR;	! change; exchange, barter
+maoinigh+Verb+VT:maoinigh	V2-SL;	! finance, endow
+modhnaigh+Verb+VT:modhnaigh	V2-BR;	! modulate, modify
+margaigh+Verb+VT:margaigh	V2-BR;	! market;
+misnigh+Verb+VT:misnigh	V2-SL;	! encourage; cheer up;
+maslaigh+Verb+VT:maslaigh	V2-BR;	! insult, abuse; strain
+meabhlaigh+Verb+VT:meabhlaigh	V2-BR;	! deceive; seduce;
+méalaigh+Verb+VT:méalaigh	V2-BR;	! humiliate, bring to grief
+meall+Verb+VT:meall	V1-BR;	! charm; entice; deceive; disappoint;
+méaraigh+Verb+VT:méaraigh	V2-BR;	! finger;
+measúnaigh+Verb+VT:measúnaigh	V2-BR;	! assess, assay
+meicnigh+Verb+VT:meicnigh	V2-SL;	! mechanize
+meirbhligh+Verb+VT:meirbhligh	V2-SL;	! enervate, weaken
+mídhílsigh+Verb+VT:mídhílsigh	V2-SL;	! misappropriate;
+miondealaigh+Verb+VT:miondealaigh	V2-BR;	! parse, analyse
+mionghearr+Verb+VT:mionghearr	V1-BR;	! shred, mince
+mínigh+Verb+VT:mínigh	V2-SL;	! smooth; level; explain, interpret,
+marcáil+Verb+VT:marcáil	V1-SL-LC;	! mark; mark out, plot
+postáil+Verb+VT:postáil	V1-SL-LC;	! post, mail
+préach+Verb+VT:préach	V1-BR;	! perish (with cold), bhíomar
+preasáil+Verb+VT:preasáil	V1-SL-LC;	! press, iron
+prímeáil+Verb+VT:prímeáil	V1-SL-LC;	! prime;
+próiseáil+Verb+VT:próiseáil	V1-SL-LC;	! process;
+promh+Verb+VT:promh	V1-BR;	! prove, test
+púdraigh+Verb+VT:púdraigh	V2-BR;	! pulverize;
+púdráil+Verb+VT:púdráil	V1-SL-LC;	! powder;
+puinseáil+Verb+VT:puinseáil	V1-SL-LC;	! punch (with tool);
+purgaigh+Verb+VT:purgaigh	V2-BR;	! purge;
+raifleáil+Verb+VT:raifleáil	V1-SL-LC;	! raffle;
+rangaigh+Verb+VT:rangaigh	V2-BR;	! classify; grade;
+postaigh+Verb+VT:postaigh	V2-BR;	! post, appoint
+réal+Verb+VT:réal	V1-BR;	! make clear, manifest; (of
+rátáil+Verb+VT:rátáil	V1-SL-LC;	! rate;
+rianaigh+Verb+VT:rianaigh	V2-BR;	! mark out, trace; gauge
+rib+Verb+VT:rib	V1-SL;	! snare, iasc a ~eadh
+rigeáil+Verb+VT:rigeáil	V1-SL-LC;	! rig (ship);
+righ+Verb+VT:righ	V1-SL;	! vn ríochan stretch, tauten
+rill+Verb+VT:rill	V1-SL;	! riddle, sieve, ag ~eadh
+roghnaigh+Verb+VT:roghnaigh	V2-BR;	! choose, select
+rollaigh+Verb+VT:rollaigh	V2-BR;	! enrol;
+ornáidigh+Verb+VT+Vow:ornáidigh	V2-SL;	! ornament;
+meirdrigh+Verb+VT:meirdrigh	V2-SL;	! prostitute;
+rualoisc+Verb+VT:rualoisc	V1-SL;	! vn -oscadh scorch
+sacáil+Verb+VT:sacáil	V1-SL-LC;	! sack (from job);
+saibhrigh+Verb+VT:saibhrigh	V2-SL;	! enrich;
+ráthaigh+Verb+VT:ráthaigh	V2-BR;	! guarantee;
+píob+Verb+VT:píob	V1-BR;	! hoarsen, tá mé ~tha
+paistéar+Verb+VT:paistéar	V1-BR;	! pasteurize;
+paitinnigh+Verb+VT:paitinnigh	V2-SL;	! patent;
+pánáil+Verb+VT:pánáil	V1-SL-LC;	! pawn;
+réadaigh+Verb+VT:réadaigh	V2-BR;	! make real, realize, sócmhainní
+portaigh+Verb+VT:portaigh	V2-BR;	! steep;
+páráil+Verb+VT:páráil	V1-SL-LC;	! pare;
+parsáil+Verb+VT:parsáil	V1-SL-LC;	! parse;
+pasáil+Verb+VTI:pasáil	V1-SL-LC;	! press down, trample
+pearsantaigh+Verb+VT:pearsantaigh	V2-BR;	! personify;
+páirceáil+Verb+VT:páirceáil	V1-SL-LC;	! park;
+picéadaigh+Verb+VT:picéadaigh	V2-BR;	! picket;
+píolótaigh+Verb+VT:píolótaigh	V2-BR;	! pilot;
+píosáil+Verb+VT:píosáil	V1-SL-LC;	! piece together, patch
+pailnigh+Verb+VT:pailnigh	V2-SL;	! pollinate;
+pléatáil+Verb+VT:pléatáil	V1-SL-LC;	! pleat;
+poncaigh+Verb+VT:poncaigh	V2-BR;	! point, punctuate; dot
+póilínigh+Verb+VT:póilínigh	V2-SL;	! police;
+péireáil+Verb+VT:péireáil	V1-SL-LC;	! pair;
+pitseáil+Verb+VT:pitseáil	V1-SL-LC;	! pitch;
+poibligh+Verb+VT:poibligh	V2-SL;	! make public, publish
+pointeáil+Verb+VT:pointeáil	V1-SL-LC;	! point; aim; appoint; clean,
+plucáil+Verb+VT:plucáil	V1-SL-LC;	! pluck; swindle, despoil
+plandaigh+Verb+VT:plandaigh	V2-BR;	! plant;
+planc+Verb+VT:planc	V1-BR;	! beat , pommel, rud
+plánáil+Verb+VT:plánáil	V1-SL-LC;	! plane;
+poncloisc+Verb+VT:poncloisc	V1-SL;	! vn -oscadh cauterize
+pláigh+Verb+VT:pláigh	V1-BR-LV;	! plague; pester;
+róst+Verb+VTI:róst	V1-BR;	! roast;
+réscaip+Verb+VTI:réscaip	V1-SL;	! (of light) diffuse
+riastáil+Verb+VTI:riastáil	V1-SL-LC;	! welt; score, furrow
+reoigh+Verb+VTI:reoigh	V1-SV;	! freeze; congeal, solidify
+righnigh+Verb+VTI:righnigh	V2-SL;	! toughen; persevere; delay, linger;
+réimnigh+Verb+VTI:réimnigh	V2-SL;	! advance; range; grade; conjugate;
+rialaigh+Verb+VTI:rialaigh	V2-BR;	! rule; control; regulate; line
+rinc+Verb+VTI:rinc	V1-SL;	! dance;
+rois+Verb+VTI:rois	V1-SL;	! unravel; rip, tear, ag
+sáigh+Verb+VTI:sáigh	V1-BR-LV;	! thrust; stab; push; lunge,
+rothlaigh+Verb+VTI:rothlaigh	V2-BR;	! rotate, gyrate; whirl, spin
+sádráil+Verb+VTI:sádráil	V1-SL-LC;	! solder;
+rad+Verb+VTI:rad	V1-BR;	! throw; (of horse, etc)
+ruadhóigh+Verb+VTI:ruadhóigh	V1-BR-LV;	! scorch;
+ruaigh+Verb+VTI:ruaigh	V1-SV;	! redden;
+ruaimnigh+Verb+VTI:ruaimnigh	V2-SL;	! dye red; flush; discolour;
+rómhair+Verb+VTI:rómhair	V2-BR-sync;	! pres -mhraíonn dig
+rámhaigh+Verb+VTI:rámhaigh	V2-BR;	! row;
+priontáil+Verb+VTI:priontáil	V1-SL-LC;	! print
+pulc+Verb+VTI:pulc	V1-BR;	! stuff, gorge; crowd
+prioc+Verb+VTI:prioc	V1-BR;	! prick, prod, goad
+scoith+Verb+VTI:scoith	V1-SL;	! cut off, lop; break
+saighid+Verb+VT:saighd	V1-SL;	! pres -ghdeann incite, provoke; CHECK PAST & IMPER
+prásáil+Verb+VTI:prásáil	V1-SL-LC;	! braze;
+ramhraigh+Verb+VTI:ramhraigh	V2-BR;	! fatten; thicken, éadach a
+rácáil+Verb+VTI:rácáil	V1-SL-LC;	! rake;
+réchas+Verb+VTI:réchas	V1-BR;	! twist, turn, slowly; (of
+ransaigh+Verb+VTI:ransaigh	V2-BR;	! ransack, rummage, search
+rapáil+Verb+VTI:rapáil	V1-SL-LC;	! rap;
+raspáil+Verb+VTI:raspáil	V1-SL-LC;	! rasp;
+rathaigh+Verb+VTI:rathaigh	V2-BR;	! prosper, succeed; make successful
+réab+Verb+VTI:réab	V1-BR;	! tear, rip up; shatter;
+reachtaigh+Verb+VTI:reachtaigh	V2-BR;	! legislate; enact, decree
+réasúnaigh+Verb+VTI:réasúnaigh	V2-BR;	! reason, rationalize
+pumpáil+Verb+VTI:pumpáil	V1-SL-LC;	! pump;
+scóráil+Verb+VTI:scóráil	V1-SL-LC;	! score (a goal, etc)
+sclog+Verb+VTI:sclog	V1-BR;	! gulp, gasp, choke, ag
+sciob+Verb+VTI:sciob	V1-BR;	! snatch;
+scioll+Verb+VTI:scioll	V1-BR;	! scold, rate
+sciomair+Verb+VTI:sciomair	V2-BR-sync;	! pres -mraíonn scour, scrub;
+sciúr+Verb+VTI:sciúr	V1-BR;	! scour, scrub; polish; trounce
+scoir+Verb+VTI:scoir	V1-SL;	! vn -or unyoke; disconnect;
+scillig+Verb+VTI:scillig	V1-SL;	! shell, husk; slice, shred;
+scor+Verb+VTI:scor	V1-BR;	! cut, slash; score, notch
+scil+Verb+VTI:scil	V1-SL;	! shell, hull; flake; prate,
+scrabh+Verb+VTI:scrabh	V1-BR;	! scratch, scrape, score
+scriúáil+Verb+VTI:scriúáil	V1-SL-LV;	! screw;
+seachain+Verb+VTI:seachain	V2-BR-sync;	! pres -chnaíonn avoid; shun;
+pós+Verb+VTI:pós	V1-BR;	! marry;
+lobh+Verb+VTI:lobh	V1-BR;	! rot, decay
+sead+Verb+VTI:sead	V1-BR;	! blow; eject;
+seadaigh+Verb+VTI:seadaigh	V2-BR;	! settle; remain, linger
+scól+Verb+VTI:scól	V1-BR;	! scald; torment; warp;
+salaigh+Verb+VTI:salaigh	V2-BR;	! dirty, defile, shalaigh an
+samhlaigh+Verb+VTI:samhlaigh	V2-BR;	! imagine, samhlaítear dom (go)
+saoirsigh+Verb+VTI:saoirsigh	V2-SL;	! cheapen; become cheaper;
+saothraigh+Verb+VTI:saothraigh	V2-BR;	! labour, toil; cultivate; earn,
+sáraigh+Verb+VTI:sáraigh	V2-BR;	! violate; infringe; frustrate; harass;
+satail+Verb+VTI:satail	V2-BR-sync;	! pres -tlaíonn tread, tramp
+scimeáil+Verb+VTI:scimeáil	V1-SL-LC;	! skim;
+scáin+Verb+VTI:scáin	V1-SL;	! split; thin out; scatter;
+saighneáil+Verb+VTI:saighneáil	V1-SL-LC;	! sign;
+scamh+Verb+VTI:scamh	V1-BR;	! peel, scale, lay bare;
+scanraigh+Verb+VTI:scanraigh	V2-BR;	! frighten; take fright;
+scar+Verb+VTI:scar	V1-BR;	! part, separate; spread
+scáthaigh+Verb+VTI:scáthaigh	V2-BR;	! shade, obscure; screen, protect
+sceimhligh+Verb+VTI:sceimhligh	V2-SL;	! terrify; terrorize; take fright;
+sceitseáil+Verb+VTI:sceitseáil	V1-SL-LC;	! sketch
+scag+Verb+VTI:scag	V1-BR;	! strain, filter; refine; sift,
+maistrigh+Verb+VTI:maistrigh	V2-SL;	! churn;
+loic+Verb+VTI:loic	V1-SL;	! flinch, fail; shirk
+luasc+Verb+VTI:luasc	V1-BR;	! swing, sway, oscillate
+luasghéaraigh+Verb+VTI:luasghéaraigh	V2-BR;	! accelerate;
+luathaigh+Verb+VTI:luathaigh	V2-BR;	! quicken, hasten, accelerate
+machnaigh+Verb+VTI:machnaigh	V2-BR;	! think, reflect, contemplate
+lonnaigh+Verb+VTI:lonnaigh	V2-BR;	! stop, stay; settle; frequent
+lódáil+Verb+VTI:lódáil	V1-SL-LC;	! load;
+mallaigh+Verb+VTI:mallaigh	V2-BR;	! curse;
+maolaigh+Verb+VTI:maolaigh	V2-BR;	! make, become, bare or
+maothaigh+Verb+VTI:maothaigh	V2-BR;	! soften; moisten; steep, saturate
+maraigh+Verb+VTI:maraigh	V2-BR;	! kill;
+marcaigh+Verb+VTI:marcaigh	V2-BR;	! ride;
+meabhraigh+Verb+VTI:meabhraigh	V2-BR;	! memorize, remember; remind; meditate;
+maígh+Verb+VTI:maígh	V1-SL;	! vn -íomh state, claim;
+leathnaigh+Verb+VTI:leathnaigh	V2-BR;	! widen, extend
+togh+Verb+VTI:togh	V1-BR;	! choose, select; elect
+sealbhaigh+Verb+VTI:sealbhaigh	V2-BR;	! possess; gain (possession of);
+leachtaigh+Verb+VTI:leachtaigh	V2-BR;	! liquefy; liquidate, liquidize
+leáigh+Verb+VTI:leáigh	V1-BR-LV;	! melt, ag leá den
+lonraigh+Verb+VTI:lonraigh	V2-BR;	! shine; illumine;
+leath+Verb+VTI:leath	V1-BR;	! spread; open wide; perish,
+measc+Verb+VTI:measc	V1-BR;	! mix (up); stir;
+leomh+Verb+VTI:leomh	V1-BR;	! dare, presume; allow
+ligh+Verb+VTI:ligh	V1-SL;	! lick; fawn on;
+ling+Verb+VTI:ling	V1-SL;	! leap; jump at, attack
+línigh+Verb+VTI:línigh	V2-SL;	! line, rule; draw
+leasaigh+Verb+VTI:leasaigh	V2-BR;	! amend, reform; cure, preserve;
+plac+Verb+VTI:plac	V1-BR;	! eat greedily, gobble
+oibrigh+Verb+VTI+Vow:oibrigh	V2-SL;	! work, stir up, agitate;
+oighrigh+Verb+VTI+Vow:oighrigh	V2-SL;	! ice, freeze, congeal
+pasáil+Verb+VTI:pasáil	V1-SL-LC;	! (of examination, etc) pass
+pearsanaigh+Verb+VTI:pearsanaigh	V2-BR;	! personate, impersonate
+piardáil+Verb+VTI:piardáil	V1-SL-LC;	! ransack, rummage
+meáigh+Verb+VTI:meáigh	V1-BR-LV;	! balance, weigh; estimate, measure;
+pioc+Verb+VTI:pioc	V1-BR;	! pick; select, ag ~adh
+neartaigh+Verb+VTI:neartaigh	V2-BR;	! strengthen; (with le) rein
+plástráil+Verb+VTI:plástráil	V1-SL-LC;	! plaster;
+pleanáil+Verb+VTI:pleanáil	V1-SL-LC;	! plan, scheme
+plódaigh+Verb+VTI:plódaigh	V2-BR;	! crowd, throng
+plúch+Verb+VTI:plúch	V1-BR;	! smother, stifle; throng, ag
+pocáil+Verb+VTI:pocáil	V1-SL-LC;	! butt; `puck', strike (with
+polaraigh+Verb+VTI:polaraigh	V2-BR;	! polarize;
+píceáil+Verb+VTI:píceáil	V1-SL-LC;	! pike; fork, seol a
+morg+Verb+VTI:morg	V1-BR;	! corrupt, decompose, putrefy; mortify
+póraigh+Verb+VTI:póraigh	V2-BR;	! propagate, breed
+meil+Verb+VTI:meil	V1-SL;	! grind, crush; waste, squander
+mill+Verb+VTI:mill	V1-SL;	! spoil; mar, ruin
+milsigh+Verb+VTI:milsigh	V2-SL;	! sweeten;
+mionaigh+Verb+VTI:mionaigh	V2-BR;	! pulverize; mince, powder; diminish;
+mionnaigh+Verb+VTI:mionnaigh	V2-BR;	! swear;
+móidigh+Verb+VTI:móidigh	V2-SL;	! vow;
+ob+Verb+VTI:ob	V1-BR;	! refuse; shirk; fail, seic
+mothaigh+Verb+VTI:mothaigh	V2-BR;	! feel; sense, perceive; hear;
+múin+Verb+VTI:múin	V1-SL;	! teach, instruct
+mungail+Verb+VTI:mungail	V2-BR-sync;	! pres -glaíonn munch; slur,
+naisc+Verb+VTI:naisc	V1-SL;	! vn nascadh tie, bind;
+nasc+Verb+VTI:nasc	V1-BR;	! vn nascadh tie, bind;
+neadaigh+Verb+VTI:neadaigh	V2-BR;	! nest; nestle; set; lodge;
+mearaigh+Verb+VTI:mearaigh	V2-BR;	! derange, distract; bewilder; excite,
+moilligh+Verb+VTI:moilligh	V2-SL;	! delay;
+tiomáin+Verb+VTI:tiomáin	V1-SL;	! drive, urge along, ~
+tairbhigh+Verb+VTI:tairbhigh	V2-SL;	! benefit, profit
+teanntaigh+Verb+VTI:teanntaigh	V2-BR;	! hem in, corner; put
+teilg+Verb+VTI:teilg	V1-SL;	! cast, throw, éadach ag
+teimhligh+Verb+VTI:teimhligh	V2-SL;	! darken; tarnish, stain
+tathantaigh+Verb+VTI:tathantaigh	V2-BR;	! urge, incite
+táthaigh+Verb+VTI:táthaigh	V2-BR;	! weld, solder, bind, tá
+tiomairg+Verb+VTI:tiomairg	V1-SL-BR;	! was V1-SL-X;	! pres -argann gather, collect
+tiomnaigh+Verb+VTI:tiomnaigh	V2-BR;	! bequeath; enjoin; commend; dedicate;
+tiomsaigh+Verb+VTI:tiomsaigh	V2-BR;	! collect; compile; assemble; ransack;
+tionscain+Verb+VTI:tionscain	V2-BR-sync;	! pres -cnaíonn begin; initiate;
+tiontaigh+Verb+VTI:tiontaigh	V2-BR;	! turn, return; revolve; translate
+tiubhaigh+Verb+VTI:tiubhaigh	V2-BR;	! vn tiúchan thicken
+ticeáil+Verb+VTI:ticeáil	V1-SL-LC;	! tick; tick off;
+tairneáil+Verb+VTI:tairneáil	V1-SL-LC;	! nail;
+tairngir+Verb+VTI:tairngir	V2-SL-sync;	! pres -gríonn foretell, prophesy
+taisc+Verb+VTI:taisc	V1-SL;	! store; hoard, airgead a
+taiscéal+Verb+VTI:taiscéal	V2-BR;	! explore, examine; reconnoitre, ag
+taisrigh+Verb+VTI:taisrigh	V2-SL;	! damp, moisten; (of walls)
+téacht+Verb+VTI:téacht	V1-BR;	! freeze; congeal; set, solidify
+taithigh+Verb+VTI:taithigh	V2-SL;	! frequent, resort to; experience,
+tochais+Verb+VTI:tochais	V1-SL-BR;	! was V1-SL-X;	! pres -asann scratch
+talmhaigh+Verb+VTI:talmhaigh	V2-BR;	! dig (oneself) in; earth
+tanaigh+Verb+VTI:tanaigh	V2-BR;	! thin, slim; dilute, tá
+taom+Verb+VTI:taom	V1-BR;	! empty of water, bail
+taosc+Verb+VTI:taosc	V1-BR;	! bail; drain, ag ~adh
+taistil+Verb+VTI:taistil	V2-SL-sync;	! pres -tealaíonn travel
+tuil+Verb+VTI:tuil	V1-SL;	! flood, flow; fill to
+treisigh+Verb+VTI:treisigh	V2-SL;	! strengthen, reinforce; gather strength
+treoraigh+Verb+VTI:treoraigh	V2-BR;	! guide, lead, direct
+trilsigh+Verb+VTI:trilsigh	V2-SL;	! braid, plait; sparkle
+triomaigh+Verb+VTI:triomaigh	V2-BR;	! dry;
+tromaigh+Verb+VTI:tromaigh	V2-BR;	! become heavier; add weight
+tuairimigh+Verb+VTI:tuairimigh	V2-SL;	! opine, conjecture
+tóch+Verb+VTI:tóch	V1-BR;	! vn ~ dig, root
+treabh+Verb+VTI:treabh	V1-BR;	! plough, níl siad ag
+tuirsigh+Verb+VTI:tuirsigh	V2-SL;	! tire, weary
+tuismigh+Verb+VTI:tuismigh	V2-SL;	! beget, procreate; produce; bring
+tum+Verb+VTI:tum	V1-BR;	! dip, immerse; plunge, dive
+uimhrigh+Verb+VTI+Vow:uimhrigh	V2-SL;	! number;
+ullmhaigh+Verb+VTI+Vow:ullmhaigh	V2-BR;	! make ready, prepare
+umhlaigh+Verb+VTI+Vow:umhlaigh	V2-BR;	! humble; bow, genuflect, umhlú
+úraigh+Verb+VTI+Vow:úraigh	V2-BR;	! freshen; scour, tá an
+tuar+Verb+VTI:tuar	V1-BR;	! bleach; whiten; season; inure,
+tomhais+Verb+VTI:tomhais	V1-SL;	! was V1-SL-X	! measure; weigh, gauge, estimate;
+taighid+Verb+VTI:taighd	V1-SL;	! poke, probe; research CHECK PAST & IMPER
+tochrais+Verb+VTI:tochrais	V1-SL;	! was V1-SL-X	! wind;
+leacaigh+Verb+VTI:leacaigh	V2-BR;	! flatten; crush; buckle, crumple
+togair+Verb+VTI:togair	V2-BR-sync;	! pres -graíonn vn -gradh
+doimhnigh+Verb+VTI:doimhnigh	V2-SL;	! deepen;
+toiligh+Verb+VTI:toiligh	V2-SL;	! will, consent, agree
+toirbhir+Verb+VTI:toirbhir	V2-SL-sync;	! pres -bhríonn deliver; give,
+tréig+Verb+VTI:tréig	V1-SL;	! abandon, desert, forsake; fade;
+tomhail+Verb+VTI:tomhail	V2-BR-sync;	! eat, consume
+treascair+Verb+VTI:treascair	V2-BR-sync;	! pres -craíonn knock down,
+tonn+Verb+VTI:tonn	V1-BR;	! surge; pour; undulate;
+tóraigh+Verb+VTI:tóraigh	V2-BR;	! pursue; seek, search for
+tráigh+Verb+VTI:tráigh	V1-BR-LV;	! ebb; abate, recede, decline
+traoith+Verb+VTI:traoith	V1-SL;	! abate, subside; reduce; waste,
+trasnaigh+Verb+VTI:trasnaigh	V2-BR;	! cross; traverse, intersect; contradict;
+tochail+Verb+VTI:tochail	V2-BR-sync;	! pres -chlaíonn dig, excavate;
+toirmisc+Verb+VTI:toirmisc	V1-SL;	! prohibit; prevent, hinder
+sluaistrigh+Verb+VTI:sluaistrigh	V2-SL;	! earth, mould
+tairg+Verb+VTI:tairg	V1-SL;	! offer; attempt;
+slánaigh+Verb+VTI:slánaigh	V2-BR;	! make whole, save; heal,
+sleamhnaigh+Verb+VTI:sleamhnaigh	V2-BR;	! slide, slip; smooth
+slíob+Verb+VTI:slíob	V1-BR;	! rub, smooth, polish
+slíoc+Verb+VTI:slíoc	V1-BR;	! sleek, stroke; blandish, shlíoc
+slíom+Verb+VTI:slíom	V1-BR;	! smooth, polish
+slac+Verb+VTI:slac	V1-BR;	! bat;
+sluaisteáil+Verb+VTI:sluaisteáil	V1-SL-LC;	! shovel; scoop;
+siúnt+Verb+VTI:siúnt	V1-BR;	! shunt;
+sméid+Verb+VTI:sméid	V1-SL;	! wink, nod; signal, ~
+smocáil+Verb+VTI:smocáil	V1-SL-LC;	! smock;
+smúdáil+Verb+VTI:smúdáil	V1-SL-LC;	! iron (clothes);
+smuigleáil+Verb+VTI:smuigleáil	V1-SL-LC;	! smuggle;
+smúr+Verb+VTI:smúr	V1-BR;	! sniff;
+snoigh+Verb+VTI:snoigh	V1-SV;	! cut, carve; shape; refine;
+slóg+Verb+VTI:slóg	V1-BR;	! mobilize;
+searg+Verb+VTI:searg	V1-BR;	! waste, wither; shrivel; decline
+seiceáil+Verb+VTI:seiceáil	V1-SL-LC;	! check, test
+séid+Verb+VTI:séid	V1-SL;	! blow; inflate; puff, pant;
+seiftigh+Verb+VTI:seiftigh	V2-SL;	! devise; procure, provide
+séimhigh+Verb+VTI:séimhigh	V2-SL;	! make, become, mild; mel
+slám+Verb+VTI:slám	V1-BR;	! tease (wool);
+sil+Verb+VTI:sil	V1-SL;	! drip, trickle; shed; drain;
+soirbhigh+Verb+VTI:soirbhigh	V2-SL;	! make easy, pleasant (do
+sín+Verb+VTI:sín	V1-SL;	! stretch; hold out; lengthen;
+sínigh+Verb+VTI:sínigh	V2-SL;	! sign;
+siolp+Verb+VTI:siolp	V1-BR;	! suck; milk dry; drain;
+síolraigh+Verb+VTI:síolraigh	V2-BR;	! breed, propagate, síolrú ó
+siortaigh+Verb+VTI:siortaigh	V2-BR;	! rummage; search, forage (for)
+síothlaigh+Verb+VTI:síothlaigh	V2-BR;	! filter; drain away; subside;
+seinn+Verb+VTI:seinn	V1-SL;	! play (music, musical instrument);
+suimigh+Verb+VTI:suimigh	V2-SL;	! add;
+stampáil+Verb+VTI:stampáil	V1-SL-LC;	! stamp;
+stang+Verb+VTI:stang	V1-BR;	! sag; warp; lag;
+streachail+Verb+VTI:streachail	V2-BR-sync;	! pres -chlaíonn pull, drag;
+struipeáil+Verb+VTI:struipeáil	V1-SL-LC;	! strip;
+suaimhnigh+Verb+VTI:suaimhnigh	V2-SL;	! quiet, pacify; calm
+suaith+Verb+VTI:suaith	V1-SL;	! mix, knead; exercise; tire;
+sroich+Verb+VTI:sroich	V1-SL;	! reach, attain, achieve
+suncáil+Verb+VTI:suncáil	V1-SL-LC;	! sink; invest (money);
+súraic+Verb+VTI:súraic	V1-SL;	! was V1-SL-X	! suck;
+tacht+Verb+VTI:tacht	V1-BR;	! choke; suffocate, strangle
+tadhaill+Verb+VTI:tadhaill	V2-BR-sync;	! pres -dhlaíonn touch, contact
+tagair+Verb+VTI:tagair	V2-BR-sync;	! pres -graíonn refer, allude
+taibhrigh+Verb+VTI:taibhrigh	V2-SL;	! dream; manifest;
+suanbhruith+Verb+VTI:suanbhruith	V1-SL;	! vn ~ simmer
+spraeáil+Verb+VTI:spraeáil	V1-SL-LV;	! spray;
+séan+Verb+VTI:séan	V1-BR;	! deny, repudiate; (with ar)
+soláthair+Verb+VTI:soláthair	V2-BR-sync;	! pres -thraíonn gather, procure;
+sonraigh+Verb+VTI:sonraigh	V2-BR;	! particularize; specify, define; perceive,
+sórtáil+Verb+VTI:sórtáil	V1-SL-LC;	! sort (letters, etc)
+spall+Verb+VTI:spall	V1-BR;	! scorch, parch, shrivel
+spalp+Verb+VTI:spalp	V1-BR;	! burst forth; pour out,
+speisialaigh+Verb+VTI:speisialaigh	V2-BR;	! specialize;
+stalc+Verb+VTI:stalc	V1-BR;	! set, harden, stiffen; stuff
+spoch+Verb+VTI:spoch	V1-BR;	! castrate; expurgate, ag ~adh
+stálaigh+Verb+VTI:stálaigh	V2-BR;	! stale; season, toughen
+srac+Verb+VTI:srac	V1-BR;	! pull, tear; drag; struggle
+sraoill+Verb+VTI:sraoill	V1-SL;	! tear apart; drag, trail;
+sraon+Verb+VTI:sraon	V1-BR;	! pull, drag; struggle along;
+srathaigh+Verb+VTI:srathaigh	V2-BR;	! stratify; serialize; levy;
+srathnaigh+Verb+VTI:srathnaigh	V2-BR;	! spread, stretch out
+soilsigh+Verb+VTI:soilsigh	V2-SL;	! shine; illuminate; enlighten; reveal;
+spíon+Verb+VTI:spíon	V1-BR;	! tease, comb; search; exhaust
+cnuasaigh+Verb+VTI:cnuasaigh	V2-BR;	! gather food (from woodland,
+comhairligh+Verb+VTI:comhairligh	V2-SL;	! advise, counsel; decide, resolve
+clóscríobh+Verb+VTI:clóscríobh	V1-BR;	! vn ~, type(write)
+cluich+Verb+VTI:cluich	V1-SL;	! chase; turn, round up;
+cluin+Verb+VTI:cluin	V1-SL;	! vn ~stin hear
+cnaígh+Verb+VTI:cnaígh	V1-SL;	! gnaw, corrode; waste, wear
+clochraigh+Verb+VTI:clochraigh	V2-BR;	! petrify;
+cneasaigh+Verb+VTI:cneasaigh	V2-BR;	! cicatrize, heal
+cleacht+Verb+VTI:cleacht	V1-BR;	! perform habitually; be, be
+cócaráil+Verb+VTI:cócaráil	V1-SL-LC;	! cook;
+cogain+Verb+VTI:cogain	V2-BR-sync;	! pres -gnaíonn chew, masti
+coip+Verb+VTI:coip	V1-SL;	! ferment; froth, foam, uachtar
+cóirigh+Verb+VTI:cóirigh	V2-SL;	! arrange, dress; fix, mend,
+coisc+Verb+VTI:coisc	V1-SL;	! vn cosc check, stop;
+dorchaigh+Verb+VTI:dorchaigh	V2-BR;	! darken; become secretive, reserved,
+cnámhaigh+Verb+VTI:cnámhaigh	V2-BR;	! ossify;
+cinntigh+Verb+VTI:cinntigh	V2-SL;	! make certain; confirm, assure
+ceiliúir+Verb+VTI:ceiliúir	V1-SL;	! pres -úrann warble, sing;
+céimnigh+Verb+VTI:céimnigh	V2-SL;	! step; grade, graduation; structure
+ceistigh+Verb+VTI:ceistigh	V2-SL;	! question, interrogate
+ciceáil+Verb+VTI:ciceáil	V1-SL-LC;	! kick
+clóirínigh+Verb+VTI:clóirínigh	V2-SL;	! vt chlorinate
+cinn+Verb+VTI:cinn	V1-SL;	! fix, determine, decree
+comhcheangail+Verb+VTI:comhcheangail	V2-BR-sync;	! pres -glaíonn bind, join
+ciontaigh+Verb+VTI:ciontaigh	V2-BR;	! blame, accuse; convict; transgress
+ciorraigh+Verb+VTI:ciorraigh	V2-BR;	! cut; hack, maim; curtail;
+ciúnaigh+Verb+VTI:ciúnaigh	V2-BR;	! calm; pacify;
+clampaigh+Verb+VTI:clampaigh	V2-BR;	! clamp;
+claochlaigh+Verb+VTI:claochlaigh	V2-BR;	! deteriorate; change character of,
+cláraigh+Verb+VTI:cláraigh	V2-BR;	! tabulate; register, flatten; lay
+clasaigh+Verb+VTI:clasaigh	V2-BR;	! channel; trench; gash, groove;
+cinn+Verb+VTI:cinn	V1-SL;	! (with ar) surpass, overcome;
+crúbáil+Verb+VTI:crúbáil	V1-SL-LC;	! claw, paw
+comhair+Verb+VTI:comhair	V2-BR-sync;	! count, calculate
+creim+Verb+VTI:creim	V1-SL;	! gnaw; corrode, erode
+críochnaigh+Verb+VTI:críochnaigh	V2-BR;	! finish; complete, accomplish
+criostalaigh+Verb+VTI:criostalaigh	V2-BR;	! crystallize;
+cróiseáil+Verb+VTI:cróiseáil	V1-SL-LC;	! crochet;
+croith+Verb+VTI:croith	V1-SL;	! shake; scatter, sprinkle; wave
+craith+Verb+VTI:craith	V1-SL;	! shake; scatter, sprinkle; wave
+crap+Verb+VTI:crap	V1-BR;	! contract, shrink; draw in
+cruaigh+Verb+VTI:cruaigh	V1-SV;	! harden;
+craol+Verb+VTI:craol	V1-BR;	! announce, proclaim; broadcast
+crúcáil+Verb+VTI:crúcáil	V1-SL-LC;	! hook; claw, clutch
+cruthaigh+Verb+VTI:cruthaigh	V2-BR;	! create; form; prove, cruthú
+cuimil+Verb+VTI:cuimil	V2-SL-sync;	! pres -mlíonn rub; stroke;
+crosáil+Verb+VTI:crosáil	V1-SL-LC;	! cross;
+comhchruinnigh+Verb+VTI:comhchruinnigh	V2-SL;	! gather, congregate, concentrate
+comhdhlúthaigh+Verb+VTI:comhdhlúthaigh	V2-BR;	! condense;
+comhraic+Verb+VTI:comhraic	V1-SL;	! was V1-SL-X	! encounter; fight, an áit
+comhréitigh+Verb+VTI:comhréitigh	V2-SL;	! compromise, agree
+comhshamhlaigh+Verb+VTI:comhshamhlaigh	V2-BR;	! assimilate;
+cónaisc+Verb+VTI:cónaisc	V1-SL;	! was V1-SL-X	! connect; amalgamate, federate
+creid+Verb+VTI:creid	V1-SL;	! believe; suppose;
+céas+Verb+VTI:céas	V1-BR;	! crucify; torment; suffer agony;
+coscair+Verb+VTI:coscair	V2-BR-sync;	! pres -craíonn mangle; rend;
+costáil+Verb+VTI:costáil	V1-SL-LC;	! cost;
+cothaigh+Verb+VTI:cothaigh	V2-BR;	! feed; nourish; stir up,
+crágáil+Verb+VTI:crágáil	V1-SL-LC;	! claw, paw; handle roughly
+crandaigh+Verb+VTI:crandaigh	V2-BR;	! stunt; become stunted
+cranraigh+Verb+VTI:cranraigh	V2-BR;	! become knotty; harden, make
+craobhaigh+Verb+VTI:craobhaigh	V2-BR;	! branch; spread;
+conlaigh+Verb+VTI:conlaigh	V2-BR;	! glean, gather
+básaigh+Verb+VTI:básaigh	V2-BR;	! put to death, execute;
+ceasnaigh+Verb+VTI:ceasnaigh	V2-BR;	! complain, grumble
+athraigh+Verb+VTI+Vow:athraigh	V2-BR;	! change, alter; move
+babhláil+Verb+VTI:babhláil	V1-SL-LC;	! bowl;
+baiceáil+Verb+VTI:baiceáil	V1-SL-LC;	! back;
+athfhill+Verb+VTI+Vow:athfhill	V1-SL;	! recur; refold;
+bánaigh+Verb+VTI:bánaigh	V2-BR;	! whiten; clear out, bhánaigh
+athchogain+Verb+VTI+Vow:athchogain	V2-BR-sync;	! pres -gnaíonn ruminate, chew
+beartaigh+Verb+VTI:beartaigh	V2-BR;	! brandish; plan; consider;
+beirigh+Verb+VTI:beirigh	V2-SL;	! boil; cook; bake;
+beoigh+Verb+VTI:beoigh	V1-SV;	! animate, enliven; (of wind)
+bioraigh+Verb+VTI:bioraigh	V2-BR;	! point, sharpen, bhioraigh sé
+bisigh+Verb+VTI:bisigh	V2-SL;	! improve, recover; increase, prosper
+aistrigh+Verb+VTI+Vow:aistrigh	V2-SL;	! move, transfer; translate
+achair+Verb+VTI+Vow:achair	V2-BR-sync;	! pres achrann vn ~t
+aclaigh+Verb+VTI+Vow:aclaigh	V2-BR;	! limber; exercise; flex;
+adhain+Verb+VTI+Vow:adhain	V2-BR-sync;	! pres adhnann kindle; inflame;
+admhaigh+Verb+VTI+Vow:admhaigh	V2-BR;	! acknowledge, admit, confess
+athlíon+Verb+VTI+Vow:athlíon	V1-BR;	! refill, replenish
+aibigh+Verb+VTI+Vow:aibigh	V2-SL;	! ripen, mature
+bleaisteáil+Verb+VTI:bleaisteáil	V1-SL-LC;	! blast;
+alp+Verb+VTI+Vow:alp	V1-BR;	! bolt, devour
+altaigh+Verb+VTI+Vow:altaigh	V2-BR;	! bia a altú, altú
+análaigh+Verb+VTI+Vow:análaigh	V2-BR;	! breathe; aspirate;
+ardaigh+Verb+VTI+Vow:ardaigh	V2-BR;	! raise; increase, cnoc a
+asanálaigh+Verb+VTI+Vow:asanálaigh	V2-BR;	! exhale;
+aibhsigh+Verb+VTI+Vow:aibhsigh	V2-SL;	! enlarge (ar, on); emphasize;
+caoin+Verb+VTI:caoin	V1-SL;	! keen, lament; cry, weep
+caígh+Verb+VTI:caígh	V1-SL;	! weep, lament, bewail
+cailcigh+Verb+VTI:cailcigh	V2-SL;	! calcify;
+cáiligh+Verb+VTI:cáiligh	V2-SL;	! qualify;
+caintigh+Verb+VTI:caintigh	V2-SL;	! speak (le to); address,
+cáith+Verb+VTI:cáith	V1-SL;	! winnow; spray; beat, ag
+bladair+Verb+VTI:bladair	V2-BR-sync;	! pres -draíonn vn -dar
+buair+Verb+VTI:buair	V1-SL;	! vn ~eamh grieve, vex,
+caolaigh+Verb+VTI:caolaigh	V2-BR;	! become thin; narrow; reduce;;
+cart+Verb+VTI:cart	V1-BR;	! tan (leather); scrape clean;
+ceadaigh+Verb+VTI:ceadaigh	V2-BR;	! permit, allow; ask permission,
+ceartaigh+Verb+VTI:ceartaigh	V2-BR;	! correct; rectify, amend; chastise;
+cum+Verb+VTI:cum	V1-BR;	! form, shape; compose; devise,
+calc+Verb+VTI:calc	V1-BR;	! caulk, cake, ~tha leis
+céaslaigh+Verb+VTI:céaslaigh	V2-BR;	! paddle;
+bobáil+Verb+VTI:bobáil	V1-SL-LC;	! (of hair) bob; (of
+boilscigh+Verb+VTI:boilscigh	V2-SL;	! bulge; (of currency) inflate;
+bolg+Verb+VTI:bolg	V1-BR;	! bulge; blister, seolta a
+bordáil+Verb+VTI:bordáil	V1-SL-LC;	! board, go aboard; take
+borr+Verb+VTI:borr	V1-BR;	! swell, grow, ag ~adh
+bradaigh+Verb+VTI:bradaigh	V2-BR;	! pilfer, steal; steal away
+buígh+Verb+VTI:buígh	V1-SL;	! vn -íochan yellow, tan,
+breáthaigh+Verb+VTI:breáthaigh	V2-BR;	! beautify; become beautiful;
+buamáil+Verb+VTI:buamáil	V1-SL-LC;	! bomb;
+breoigh+Verb+VTI:breoigh	V1-SV;	! glow; heat; sear; sicken;
+brostaigh+Verb+VTI:brostaigh	V2-BR;	! hasten, urge; hurry
+blais+Verb+VTI:blais	V1-SL;	! taste; partake of;
+braith+Verb+VTI:braith	V1-SL;	! vn -ath perceive, feel;
+géill+Verb+VTI:géill	V1-SL;	! yield, surrender, ~eadh do
+gair+Verb+VTI:gair	V1-SL;	! vn ~m call, an
+galaigh+Verb+VTI:galaigh	V2-BR;	! vaporize; evaporate; steam;
+galraigh+Verb+VTI:galraigh	V2-BR;	! infect with disease; inoculate;
+garbhaigh+Verb+VTI:garbhaigh	V2-BR;	! roughen; become rough;
+gardáil+Verb+VTI:gardáil	V1-SL-LC;	! guard;
+géaraigh+Verb+VTI:géaraigh	V2-BR;	! sharpen, tá an ghaoth
+giorraigh+Verb+VTI:giorraigh	V2-BR;	! shorten;
+glaoigh+Verb+VTI:glaoigh	V1-SV;	! cry out, shout; call
+glinneáil+Verb+VTI:glinneáil	V1-SL-LC;	! wind (on reel, frame),
+glinnigh+Verb+VTI:glinnigh	V2-SL;	! vn -iúint scrutinize; peer
+gloinigh+Verb+VTI:gloinigh	V2-SL;	! vitrify; glaze;
+gluais+Verb+VTI:gluais	V1-SL;	! move, set in motion;
+gnáthaigh+Verb+VTI:gnáthaigh	V2-BR;	! make a habit of,
+gathaigh+Verb+VTI:gathaigh	V2-BR;	! sting; radiate;
+freastail+Verb+VTI:freastail	V2-BR-sync;	! pres -alaíonn attend
+cuisnigh+Verb+VTI:cuisnigh	V2-SL;	! freeze; refrigerate;
+fóir+Verb+VTI:fóir	V1-SL;	! vn ~ithint help, relieve,
+foirfigh+Verb+VTI:foirfigh	V2-SL;	! perfect; mature;
+folaigh+Verb+VTI:folaigh	V2-BR;	! hide, cover, conceal; include
+forbair+Verb+VTI:forbair	V2-BR-sync;	! pres -braíonn develop
+fostaigh+Verb+VTI:fostaigh	V2-BR;	! catch, grip; hire, employ
+gabhlaigh+Verb+VTI:gabhlaigh	V2-BR;	! fork, branch
+fréamhaigh+Verb+VTI:fréamhaigh	V2-BR;	! root, take root; spring
+goil+Verb+VTI:goil	V1-SL;	! vn gol weep, cry
+frioch+Verb+VTI:frioch	V1-BR;	! fry;
+fuadaigh+Verb+VTI:fuadaigh	V2-BR;	! take away by force;
+fuaimnigh+Verb+VTI:fuaimnigh	V2-SL;	! sound; pronounce;
+fuaraigh+Verb+VTI:fuaraigh	V2-BR;	! cool; make or become
+fuin+Verb+VTI:fuin	V1-SL;	! knead; knit together, mould,
+fuirsigh+Verb+VTI:fuirsigh	V2-SL;	! pres -seann harrow; fuss;
+ísligh+Verb+VTI+Vow:ísligh	V2-SL;	! lower, depress, ísliú de
+iomlaisc+Verb+VTI+Vow:iomlaisc	V1-SL-BR;	! was V1-SL-X;	! pres -ascann roll about,
+iomluaigh+Verb+VTI+Vow:iomluaigh	V2-BR;	! move, agitate, exercise; mention,
+iompaigh+Verb+VTI+Vow:iompaigh	V2-BR;	! turn; reverse, change over,
+ion-análaigh+Verb+VTI+Vow:ion-análaigh	V2-BR;	! breathe in, inhale
+gníomhaigh+Verb+VTI:gníomhaigh	V2-BR;	! act;
+iontráil+Verb+VTI+Vow:iontráil	V1-SL-LC;	! enter
+íobair+Verb+VTI+Vow:íobair	V2-BR-sync;	! pres- -braíonn sacrifice
+lagaigh+Verb+VTI:lagaigh	V2-BR;	! weaken; slacken, deoch a
+laghdaigh+Verb+VTI:laghdaigh	V2-BR;	! lessen, decrease; reduce
+láidrigh+Verb+VTI:láidrigh	V2-SL;	! strengthen
+lánaigh+Verb+VTI:lánaigh	V2-BR;	! fill out, give volume
+las+Verb+VTI:las	V1-BR;	! light; blush; inflame;
+iontaisigh+Verb+VTI+Vow:iontaisigh	V2-SL;	! fossilize;
+guailleáil+Verb+VTI:guailleáil	V1-SL-LC;	! shoulder; swagger, ag ~
+fiuch+Verb+VTI:fiuch	V1-BR;	! boil;
+gráigh+Verb+VTI:gráigh	V1-BR-LV;	! love
+gránaigh+Verb+VTI:gránaigh	V2-BR;	! granulate; scrape;
+gread+Verb+VTI:gread	V1-BR;	! strike; lash; scorch, an
+greamaigh+Verb+VTI:greamaigh	V2-BR;	! attach, fasten; adhere to;
+gríosc+Verb+VTI:gríosc	V1-BR;	! broil, grill
+gróig+Verb+VTI:gróig	V1-SL;	! (of turf) foot; huddle
+grúpáil+Verb+VTI:grúpáil	V1-SL-LC;	! group;
+iomadaigh+Verb+VTI+Vow:iomadaigh	V2-BR;	! increase; proliferate; make, grow,
+iaigh+Verb+VTI+Vow:iaigh	V1-SV;	! close, shut; dam; enclose,
+impigh+Verb+VTI+Vow:impigh	V2-SL;	! entreat, implore
+innéacsaigh+Verb+VTI+Vow:innéacsaigh	V2-BR;	! index;
+gnóthaigh+Verb+VTI:gnóthaigh	V2-BR;	! work; win, earn, is
+grúdaigh+Verb+VTI:grúdaigh	V2-BR;	! brew;
+diúltaigh+Verb+VTI:diúltaigh	V2-BR;	! deny, refuse, dhiúltaigh sé
+foighnigh+Verb+VTI:foighnigh	V2-SL;	! vn -neamh have patience
+diasraigh+Verb+VTI:diasraigh	V2-BR;	! glean;
+díbligh+Verb+VTI:díbligh	V2-SL;	! wear out, debilitate, dilapidate;
+díleáigh+Verb+VTI:díleáigh	V1-BR-LV;	! dissolve; digest;
+díobh+Verb+VTI:díobh	V1-BR;	! extinguish; eliminate; become extinct;
+dírigh+Verb+VTI:dírigh	V2-SL;	! straighten, aim, direct, gunna
+deonaigh+Verb+VTI:deonaigh	V2-BR;	! grant, consent; condescend
+díscigh+Verb+VTI:díscigh	V2-SL;	! dry up, drain out;
+deimhnigh+Verb+VTI:deimhnigh	V2-SL;	! certify; affirm, confirm, verify,
+diúraic+Verb+VTI:diúraic	V1-SL-BR;	! was V1-SL-X;	! pres -acann vn -acadh
+dlúthaigh+Verb+VTI:dlúthaigh	V2-BR;	! compress, tighten; draw together,
+urlaic+Verb+VTI+Vow:urlaic	V1-SL-BR;	! was V1-SL-X;	! pres -acann vomit
+doirt+Verb+VTI:doirt	V1-SL;	! pour; spill, shed, dhoirt
+drann+Verb+VTI:drann	V1-BR;	! grin, snarl, ~adh le
+drantaigh+Verb+VTI:drantaigh	V2-BR;	! snarl; brandish;
+díscaoil+Verb+VTI:díscaoil	V1-SL;	! unloose, disperse, dissolve, disintegrate
+dealaigh+Verb+VTI:dealaigh	V2-BR;	! part, separate; distinguish, differentiate,
+leabhraigh+Verb+VTI:leabhraigh	V2-BR;	! swear, duine a leabhrú
+cumaisc+Verb+VTI:cumaisc	V1-SL-BR;	! was V1-SL-X;	! pres -ascann vn -asc
+cuntais+Verb+VTI:cuntais	V1-SL;	! was V1-SL-X	! count;
+daingnigh+Verb+VTI:daingnigh	V2-SL;	! fortify; strengthen, secure, conradh
+damhsaigh+Verb+VTI:damhsaigh	V2-BR;	! dance; jump about; gambol;
+diailigh+Verb+VTI:diailigh	V2-SL;	! dial;
+dreoigh+Verb+VTI:dreoigh	V1-SV;	! decompose, decay, rot
+dealraigh+Verb+VTI:dealraigh	V2-BR;	! shine forth; illuminate, ~
+dearbhaigh+Verb+VTI:dearbhaigh	V2-BR;	! declare; confirm; prove, dearbhú
+dearc+Verb+VTI:dearc	V1-BR;	! look, behold; regard, consider
+deasaigh+Verb+VTI:deasaigh	V2-BR;	! dress; prepare; settle in
+deasc+Verb+VTI:deasc	V1-BR;	! (of liquid) settle; glean;
+deifrigh+Verb+VTI:deifrigh	V2-SL;	! hurry, hasten
+daoirsigh+Verb+VTI:daoirsigh	V2-SL;	! raise price of; make,
+fear+Verb+VTI:fear	V1-BR;	! pour out; perform; affect;
+failligh+Verb+VTI:failligh	V2-SL;	! neglect; omit, delay
+fáinnigh+Verb+VTI:fáinnigh	V2-SL;	! ring, encircle, tá an
+fair+Verb+VTI:fair	V1-SL;	! watch; look out for,
+fairsingigh+Verb+VTI:fairsingigh	V2-SL;	! widen, extend; broaden; become
+fáisc+Verb+VTI:fáisc	V1-SL;	! vn fáscadh squeeze; wring,
+feabhsaigh+Verb+VTI:feabhsaigh	V2-BR;	! better, improve; get better
+dreap+Verb+VTI:dreap	V1-BR;	! climb;
+fadaigh+Verb+VTI:fadaigh	V2-BR;	! set, kindle (fire); incite;
+feidhmigh+Verb+VTI:feidhmigh	V2-SL;	! function; act; execute, enforce
+fill+Verb+VTI:fill	V1-SL;	! bend, turn back; fold;
+pill+Verb+VTI:pill	V1-SL;	! bend, turn back; fold;
+fiosraigh+Verb+VTI:fiosraigh	V2-BR;	! inquire;
+fithisigh+Verb+VTI:fithisigh	V2-SL;	! orbit;
+feac+Verb+VTI:feac	V1-BR;	! bend;
+easanálaigh+Verb+VTI:easanálaigh	V2-BR;	! breathe out, exhale
+cúlaigh+Verb+VTI:cúlaigh	V2-BR;	! back, move back; reverse,
+druid+Verb+VTI:druid	V1-SL;	! vn ~im close, shut,
+dubhaigh+Verb+VTI:dubhaigh	V2-BR;	! blacken, darken; blight; sadden,
+dún+Verb+VTI:dún	V1-BR;	! close, shut; secure, fasten,
+eachtraigh+Verb+VTI+Vow:eachtraigh	V2-BR;	! vn -aí relate, narrate,
+éadromaigh+Verb+VTI+Vow:éadromaigh	V2-BR;	! lighten; alleviate, tá mo
+éagnaigh+Verb+VTI+Vow:éagnaigh	V2-BR;	! vn -ach moan; complain;
+fadaigh+Verb+VTI:fadaigh	V2-BR;	! lengthen, fadú le, ar,
+easaontaigh+Verb+VTI+Vow:easaontaigh	V2-BR;	! disagree (le with), dissent
+éascaigh+Verb+VTI+Vow:éascaigh	V2-BR;	! make easy; hurry, expedite
+eascainigh+Verb+VTI+Vow:eascainigh	V2-SL;	! vn -ní curse, swear
+eitrigh+Verb+VTI+Vow:eitrigh	V2-SL;	! furrow, groove
+dreideáil+Verb+VTI:dreideáil	V1-SL-LC;	! dredge;
+éagaoin+Verb+VTI+Vow:éagaoin	V1-SL;	! moan, lament, complain
+picil+Verb+VT:picil	V2-SL-sync;	! pickle

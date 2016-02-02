@@ -1,0 +1,21 @@
+! Noun (Gaeilge) Replace Rules
+! Elaine Uí Dhonnchadha
+! Oct 2003
+! INITIAL MUTATION OF 2nd. PART OF COMPOUND
+! ^Sé : (Séimhiú) Lenition : insert "h" after certain initial consonants
+!***************************************************************************
+
+define Vowel a|e|i|o|u|á|é|í|ó|ú|%^AO|%^IA|%^AE|%^UA;
+
+! Séimhiú (Lenite) the following consonants: b,c,d,f,g,m,p,t
+read regex [..] -> h  || %^CB [m|b|c|d|f|g|p|t] _
+.o.
+! Séimhiú (Lenite) "s" when followed by [a|e|i|o|u|l|n|r|á|é|í|ó|ú]
+[..] -> h || %^CB s _ [Vowel|l|n|r] 
+.o. 
+! remove any h prohibited by dntls rule
+! e.g. an-saibhir seanduine
+h -> [] || [d|n|t|l|s] (%-) %^CB [d|n|t|l|s] _	
+!!.o.	NOW REMOVED IN n-reg-tidy AT THE ENd
+!!%^CB -> []	! initial mutation at compound boundary
+;

@@ -1,0 +1,535 @@
+LEXICON NP-LEX-TIR-EN
+!!!!El Salvador	Nf2-Prop;	! tSalvadóir
+!!!!Hague, the	Nf2-Prop;	! Háig
+!!!!Holy Land	Nf2-Prop;	! !!!!Tír Bheannaithe
+!!!!New Zealand	Nf2-Prop;	! Nua-Shéalainn
+!!!!Saudi Arabia	Nf2-Prop;	! !!!!Araib Shádach
+!!!!South Africa	Nf2-Prop;	! !!!!Afraic Theas
+Afghanistan	Nf2-Prop;	! Afganastáin
+Africa	Nf2-Prop;	! Afraic
+Albania	Nf2-Prop;	! Albáin
+Algeria	Nf2-Prop;	! Ailgéir
+Amazon	Nf2-Prop;	! Amasóin
+Argentina	Nf2-Prop;	! Airgintín
+Australia	Nf2-Prop;	! Astráil
+Austria	Nf2-Prop;	! Ostair
+Bangladesh	Nf2-Prop;	! Bhanglaidéis
+Belgium	Nf2-Prop;	! Bheilg
+Bethlehem	Nf2-Prop;	! Bheithil
+Bolivia	Nf2-Prop;	! Bholaiv
+Brazil	Nf2-Prop;	! Bhrasaíl
+Britain	Nf2-Prop;	! !!!!Bhreatain Mhór
+Brittany	Nf2-Prop;	! Bhriotáin
+Brussels	Nf2-Prop;	! Bhruiséil
+Bulgaria	Nf2-Prop;	! Bhulgáir
+Byzantium	Nf2-Prop;	! Bhiosáint
+Catalonia	Nf2-Prop;	! Chatalóin
+China	Nf2-Prop;	! tSín
+Columbia	Nf2-Prop;	! Cholóim
+Corsica	Nf2-Prop;	! Chorsaic
+Crete	Nf2-Prop;	! Chréit
+Cyprus	Nf2-Prop;	! Chipir
+Czechoslovakia	Nf2-Prop;	! tSeicslóvaic
+Danube	Nf2-Prop;	! Danóib
+Denmark	Nf2-Prop;	! Danmhairg
+Egypt	Nf2-Prop;	! Éigipt
+Ethiopia	Nf2-Prop;	! Aetóip
+Finland	Nf2-Prop;	! Fhionlainn
+France	Nf2-Prop;	! Fhrainc
+Galway	Nf2-Prop;	! Gaillimh
+Ganges	Nf2-Prop;	! Ghainséis
+Gaul	Nf2-Prop;	! Ghaill
+Geneva	Nf2-Prop;	! Ghinéiv
+Germany	Nf2-Prop;	! Ghearmáin
+Greece	Nf2-Prop;	! Ghréig
+Greenland	Nf2-Prop;	! Ghraonlainn
+Guyana	Nf2-Prop;	! Ghuáin
+Hungary	Nf2-Prop;	! Ungáir
+Iceland	Nf2-Prop;	! Íoslann
+Indonesia	Nf2-Prop;	! Indinéis
+Iraq	Nf2-Prop;	! laráic
+Italy	Nf2-Prop;	! Iodáil
+Japan	Nf2-Prop;	! tSeapáin
+Jerusalem	Nf2-Prop;	! Iarúsailéim
+Jordan	Nf2-Prop;	! Iordáin
+Lebanon	Nf2-Prop;	! Liobáin
+Lisbon	Nf2-Prop;	! Liospóin
+Iran	Nf2-Prop;	! Iaráin
+Mongolia	Nf2-Prop;	! Mhongóil
+Mozambique	Nf2-Prop;	! Mósaimbíc
+Netherlands	Nf2-Prop;	! Isiltír
+Niger	Nf2-Prop;	! !!!!Abhainn na Nígire
+Niger	Nf2-Prop;	! Nígir
+Nigeria	Nf2-Prop;	! Nigéir
+Nile	Nf2-Prop;	! Níl
+Pakistan	Nf2-Prop;	! Phacastáín
+Palestine	Nf2-Prop;	! Phalaistín
+Poland	Nf2-Prop;	! Pholainn
+Portugal	Nf2-Prop;	! Phortaingéíl
+Rhine	Nf2-Prop;	! Réin
+Romania	Nf2-Prop;	! Rómáin
+Rome	Nf2-Prop;	! Róimh
+Russia	Nf2-Prop;	! Rúis
+Sardinia	Nf2-Prop;	! tSairdín
+Shannon	Nf2-Prop;	! tSionainn
+Siberia	Nf2-Prop;	! tSibéir
+Spain	Nf2-Prop;	! Spáinn
+Sudan	Nf2-Prop;	! tSúdáin
+Sweden	Nf2-Prop;	! tSualainn
+Switzerland	Nf2-Prop;	! Eilvéis
+Tanzania	Nf2-Prop;	! Tansáin
+Tasmania	Nf2-Prop;	! Tasmáin
+Thailand	Nf2-Prop;	! Téalainn
+Tiber	Nf2-Prop;	! Tibir
+Tibet	Nf2-Prop;	! Tibéid
+Tunisia	Nf2-Prop;	! Túinéis
+Turkey	Nf2-Prop;	! Tuirc
+Venice	Nf2-Prop;	! Veinéis
+Wales	Nf2-Prop;	! !!!!Bhreatain Bheag
+Yugoslavia	Nf2-Prop;	! Iúgslaiv
+Zaire	Nf2-Prop;	! tSáír
+Zimbabwe	Nf2-Prop;	! tSiombáib
+!!!!Black Sea	Nf3-Prop;	! !!!!Mhuir Dhubh
+!!!!Celtic Sea	Nf3-Prop;	! !!!!Mhuir Cheilteach
+!!!!Dead Sea	Nf3-Prop;	! !!!!Mhuir Mharbh
+!!!!Mediterranean Sea	Nf3-Prop;	! Mheánmhuir
+!!!!North Sea	Nf3-Prop;	! !!!!Mhuir Thuaidh
+!!!!Red Sea	Nf3-Prop;	! !!!!Mhuir Rua
+!!!!United Kingdom	Nf3-Prop;	! !!!!Riocht Aontaithe
+!!!!New Guinea	Nf4-Prop;	! Nua-Ghuíne
+Asia	Nf4-Prop;	! Aíse
+Chile	Nf4-Prop;	! tSile
+Guinea	Nf4-Prop;	! Ghuine
+India	Nf4-Prop;	! India
+Kenya	Nf4-Prop;	! Chéinia
+Korea	Nf4-Prop;	! Chóiré
+Lee	Nf4-Prop;	! Laoi
+Libya	Nf4-Prop;	! Libia
+Liffey	Nf4-Prop;	! Life
+Malaysia	Nf4-Prop;	! Mhalaeisia
+Norway	Nf4-Prop;	! Iorua
+Syria	Nf4-Prop;	! tSiria
+Zambia	Nf4-Prop;	! tSaimbia
+!!!!Antarctic Ocean	Nm1-Prop;	! !!!!tAigéan Antartach
+!!!!Arctic Ocean	Nm1-Prop;	! !!!!tAigéan Artach
+!!!!Atlantic Ocean	Nm1-Prop;	! !!!!tAigéan Atlantach
+!!!!Atlantic Ocean	Nm1-Prop;	! tAtlantach
+!!!!Holy Land	Nm1-Prop;	! !!!!Talamh Naofa
+!!!!Indian Ocean	Nm1-Prop;	! !!!!tAigéan Indiach
+!!!!Man, Isle of	Nm1-Prop;	! !!!!Oileán Mhanann
+!!!!Pacific Ocean	Nm1-Prop;	! !!!!tAigéan Ciúin
+Antarctic	Nm1-Prop;	! tAntartach
+Cameroon	Nm1-Prop;	! Camarún
+Limerick	Nm1-Prop;	! Luimneach
+Liverpool	Nm1-Prop;	! Learpholl
+!!!!Latin America	Nm4-Prop;	! !!!!Meiriceá Laidineach
+Congo	Nm4-Prop;	! Congó
+Sahara	Nm4-Prop;	! Sahára
+!!!!Canary Islands	NP-PLACE-pl;	! !!!!hOileáin Chanáracha
+!!!!East Indies	NP-PLACE-pl;	! !!!!hIndiacha Thoir
+!!!!West Indies	NP-PLACE-pl;	! !!!!hlndiacha Thiar
+Alps	NP-PLACE-pl;	! hAlpa
+Andes	NP-PLACE-pl;	! hAindéis
+Appenines	NP-PLACE-pl;	! hAipiníní
+Balkans	NP-PLACE-pl;	! Balcáin
+Philippines	NP-PLACE-pl;	! !!!!hOileáin Fhílipíneacha
+Pyrenees	NP-PLACE-pl;	! Piréiní
+!!!!Admirality Islands	NP-PLACE-sg;	! !!!!Oileáin na hAimiréalachta
+!!!!Adriatic (Sea)	NP-PLACE-sg;	! Aidriad
+!!!!Aegean (Sea)	NP-PLACE-sg;	! Aeigéach
+!!!!Aleutian Islands	NP-PLACE-sg;	! !!!!Oileáin Ailiúit
+!!!!Alps (The )	NP-PLACE-sg;	! hAlpa
+!!!!Andes (The)	NP-PLACE-sg;	! hAindéis
+!!!!Appalachian Mountains	NP-PLACE-sg;	! !!!!Sléibhte Apaláiseacha
+!!!!Aran Islands	NP-PLACE-sg;	! !!!!Oileáin Arann
+!!!!Aritarctic Ocean	NP-PLACE-sg;	! !!!!an tAigéan Antartach
+!!!!Ascension Island	NP-PLACE-sg;	! !!!!Oileán na Deascabhála
+!!!!Asia Minor	NP-PLACE-sg;	! !!!!Aise Bheag
+!!!!Atlas Mountains	NP-PLACE-sg;	! !!!!Sléibhte Atlais
+!!!!Azores (The)	NP-PLACE-sg;	! hAsóir
+!!!!Azov (Sea of)	NP-PLACE-sg;	! !!!!Mhuir Mheoid
+!!!!Bahamas (The )	NP-PLACE-sg;	! Bahámaí
+!!!!Balearic Islands (The )	NP-PLACE-sg;	! !!!!hOileáin Bhailéaracha
+!!!!Balearic Sea	NP-PLACE-sg;	! !!!!Mhuir Bhailéarach
+!!!!Balkan Peninsula	NP-PLACE-sg;	! !!!!Leithinis Bhalcánach
+!!!!Balkan States	NP-PLACE-sg;	! !!!!Stáit Bhalcánacha
+!!!!Baltic Sea	NP-PLACE-sg;	! !!!!Muir Bhailt
+!!!!Baltic Sea (The )	NP-PLACE-sg;	! !!!!Mhuir Bhailt
+!!!!Bangla Desh	NP-PLACE-sg;	! Bhainglaidéis
+!!!!Belfast Lough	NP-PLACE-sg;	! !!!!Loch Lao
+!!!!Bering Straits	NP-PLACE-sg;	! !!!!Caolas Bheiring
+!!!!Bermudas (The)	NP-PLACE-sg;	! Beirmiúdaí
+!!!!Biscay (Bayof )	NP-PLACE-sg;	! !!!!Bá na Bioscáine
+!!!!Biscay, Bay of	NP-PLACE-sg;	! !!!!Bá na Bioscáine
+!!!!British Commonwealth	NP-PLACE-sg;	! !!!!Comhlathas Briotanach
+!!!!Cameroons (The )	NP-PLACE-sg;	! Camarúin
+!!!!Canary Islands (The )	NP-PLACE-sg;	! !!!!hOileáin Chanáracha
+!!!!Cape Colony	NP-PLACE-sg;	! !!!!Coilíneacht na Rinne
+!!!!Cape Horn	NP-PLACE-sg;	! !!!!Rinn an Choirn
+!!!!Cape of Good Hope	NP-PLACE-sg;	! !!!!Rinn an Dóchais
+!!!!Caribbean Sea	NP-PLACE-sg;	! !!!!Mhuir Chairib
+!!!!Carpathian Mountains	NP-PLACE-sg;	! !!!!Sléibhte Cairp
+!!!!Carribean Sea	NP-PLACE-sg;	! !!!!Muir Chairib
+!!!!Caspian Sea	NP-PLACE-sg;	! !!!!Muir Chaisp
+!!!!Caucasus Mountains	NP-PLACE-sg;	! !!!!Sléibhte Cugais
+!!!!Central African Repnblic	NP-PLACE-sg;	! !!!!Poblacht na hAfraice Láir
+!!!!Channel Islands	NP-PLACE-sg;	! !!!!Oileáin Mhuir nIocht
+!!!!Channel lslands	NP-PLACE-sg;	! !!!!Oileáin Mhuir nIocht
+!!!!Comoro Islands	NP-PLACE-sg;	! !!!!Oileáin Chomóra
+!!!!Cork City	NP-PLACE-sg;	! !!!!Cathair Chorcaí
+!!!!Costa Rica	NP-PLACE-sg;	! !!!!Cósta Ríce
+!!!!Czech Republic (The )	NP-PLACE-sg;	! !!!!Poblacht na Seice
+!!!!Democratic Republic of Congo	NP-PLACE-sg;	! !!!!Poblacht Dhaonlathach an Chongó
+!!!!Derry City	NP-PLACE-sg;	! !!!!Cathair Dhoire
+!!!!Dominican Republic	NP-PLACE-sg;	! !!!!Phoblacht Dhoiminiceach
+!!!!East Timor	NP-PLACE-sg;	! !!!!Tíomór Thoir
+!!!!English Channel	NP-PLACE-sg;	! !!!!Muir nIocht
+!!!!Equatorial Guinea	NP-PLACE-sg;	! !!!!Ghuine Mheánchriosach
+!!!!Falkland Islands	NP-PLACE-sg;	! !!!!Oileáin Fháclainne
+!!!!Faroe Islands	NP-PLACE-sg;	! !!!!Oileáin Fharó, Na Scigirí
+!!!!Fiji Islands	NP-PLACE-sg;	! !!!!Oileáin Fhidsí
+!!!!Galillee (Sea of)	NP-PLACE-sg;	! !!!!Muir na Gailíle
+!!!!Galway City	NP-PLACE-sg;	! !!!!Cathair na Gaillimhe
+!!!!Great Britain	NP-PLACE-sg;	! !!!!Bhreatain Mhór
+!!!!Guadeloupe (and Dependencies)	NP-PLACE-sg;	! !!!!Guadalúip (agus a Spleáchríocha)
+!!!!Guinea Bissau	NP-PLACE-sg;	! !!!!Guine Bhissau
+!!!!Gulf of Mexico	NP-PLACE-sg;	! !!!!Murascaill Mheicsiceo
+!!!!Hague (The)	NP-PLACE-sg;	! Háig
+!!!!Himalayas (The)	NP-PLACE-sg;	! Himiléithe
+!!!!Hong Kong	NP-PLACE-sg;	! !!!!Hong Cong
+!!!!Indian Ocean (The )	NP-PLACE-sg;	! !!!!tAigéan Indiach
+!!!!Indies (The East West)	NP-PLACE-sg;	! !!!!hIndiacha Thoir Thiar
+!!!!Irish Sea	NP-PLACE-sg;	! !!!!Muir Éireann
+!!!!Irish Sea	NP-PLACE-sg;	! !!!!Muir Meann
+!!!!Irish Sea (The)	NP-PLACE-sg;	! !!!!Mhuir Mheann, Muir Eireann
+!!!!Isle of Man	NP-PLACE-sg;	! !!!!Oileán Mhanann
+!!!!Isle of Wight	NP-PLACE-sg;	! !!!!Inis Iocht
+!!!!Ivory Coast	NP-PLACE-sg;	! !!!!Cósta Eabhair
+!!!!Leeward Islands (The )	NP-PLACE-sg;	! !!!!Oileáin na Fothana
+!!!!Levant (The )	NP-PLACE-sg;	! Leiveaint
+!!!!Lewis Island	NP-PLACE-sg;	! Leódhas
+!!!!Limerick City	NP-PLACE-sg;	! !!!!Cathair Luimnigh
+!!!!Lough Derg	NP-PLACE-sg;	! !!!!Loch Dearg
+!!!!Lough Derg	NP-PLACE-sg;	! !!!!Loch Deirgeirt
+!!!!Lough Erne	NP-PLACE-sg;	! !!!!Loch Eirne
+!!!!Lough Neagh	NP-PLACE-sg;	! !!!!Loch nEathach
+!!!!Low Countries (The)	NP-PLACE-sg;	! !!!!Tíortha faoi Thoinn
+!!!!Malagasy Republic	NP-PLACE-sg;	! !!!!Phoblacht Mhalagásach
+!!!!Malay Peninsulà	NP-PLACE-sg;	! !!!!Leithinis Mhalae
+!!!!Maldive Islands (The )	NP-PLACE-sg;	! !!!!Na hOileáin Mhaildíve
+!!!!Maldive Islands (The )	NP-PLACE-sg;	! !!!!Oileáin Mhaildíve
+!!!!Mediterranean (Sea)	NP-PLACE-sg;	! Mheánmhuir
+!!!!Molucca Islands (The)	NP-PLACE-sg;	! Molacaí
+!!!!Netherlands ( The)	NP-PLACE-sg;	! Isiltír
+!!!!New Delhi	NP-PLACE-sg;	! !!!!Deilí Nua
+!!!!New York	NP-PLACE-sg;	! Nua-Eabhrac
+!!!!North Channel	NP-PLACE-sg;	! !!!!Sruth na Maoíle
+!!!!North Channel (The)	NP-PLACE-sg;	! !!!!Sruth na Maoile
+!!!!North Ossetia	NP-PLACE-sg;	! !!!!Oiséit Thuaidh
+!!!!North Sea (The )	NP-PLACE-sg;	! !!!!Mhuir Thuaidh
+!!!!Novia Scotia	NP-PLACE-sg;	! !!!!Albain Nua
+!!!!Orkneys (The )	NP-PLACE-sg;	! !!!!Inse Orc
+!!!!Pacific (Ocean)	NP-PLACE-sg;	! !!!!tAigéan Ciúin
+!!!!Persian Gulf	NP-PLACE-sg;	! !!!!Murascaill na Peirse
+!!!!Persian Gulf (The )	NP-PLACE-sg;	! !!!!Murascaill na Peirse
+!!!!Philippines (The )	NP-PLACE-sg;	! Filipíneacha
+!!!!Pontian Sea	NP-PLACE-sg;	! Phontmhuir
+!!!!Principality of Monaco	NP-PLACE-sg;	! !!!!Prionsacht Mhónacó
+!!!!Puerto Rico	NP-PLACE-sg;	! !!!!Portó Ríce
+!!!!Pyrenees (The)	NP-PLACE-sg;	! Piréiní
+!!!!Red Sea (The )	NP-PLACE-sg;	! !!!!Mhuir Rua
+!!!!Repulblic of Ireland	NP-PLACE-sg;	! !!!!Poblacht na hEireann
+!!!!Rhineland (The)	NP-PLACE-sg;	! !!!!Dúiche na Réine
+!!!!Riviera (The )	NP-PLACE-sg;	! Rivéara
+!!!!RockyMountains (The)	NP-PLACE-sg;	! !!!!Sléibhte Creagacha
+!!!!Russian Federation	NP-PLACE-sg;	! !!!!Cónaidhm na Rúise
+!!!!Sahara (The )	NP-PLACE-sg;	! Sahára
+!!!!Saint George's Channel	NP-PLACE-sg;	! !!!!Muir Bhreatan
+!!!!Saint Helena	NP-PLACE-sg;	! !!!!San Héilin
+!!!!San Marino	NP-PLACE-sg;	! !!!!San Mairíne
+!!!!Sargasso Sea (The )	NP-PLACE-sg;	! !!!!Mhuir Shargasach
+!!!!Scilly Islands (The)	NP-PLACE-sg;	! Scillí
+!!!!Scottish Highlands (The )	NP-PLACE-sg;	! !!!!Garbhchríocha na hAlban
+!!!!Shannon (The )	NP-PLACE-sg;	! tSionainn
+!!!!Sierra Leone	NP-PLACE-sg;	! !!!!Siarra Leon
+!!!!Soviet Union	NP-PLACE-sg;	! !!!!Aontas na Sóivéadach
+!!!!Sri Lanka	NP-PLACE-sg;	! !!!!Srí Lanca
+!!!!St George's Channel	NP-PLACE-sg;	! !!!!Muir Bhreatan
+!!!!Strangford Lough	NP-PLACE-sg;	! !!!!Loch Cuan
+!!!!Trinidad and Tobago	NP-PLACE-sg;	! !!!!Oileán na Tríonóide agus Tobága
+!!!!Tyrhhenian Sea	NP-PLACE-sg;	! !!!!Muir Thoirian
+!!!!United Arab Emirates	NP-PLACE-sg;	! !!!!Aontas na nÉimíríochtaí Arabacha
+!!!!United Kinglom	NP-PLACE-sg;	! !!!!Ríocht Aontaithe
+!!!!United States of America	NP-PLACE-sg;	! !!!!Stáit Aontaithe Mheiríceá
+!!!!United States of America (USA)	NP-PLACE-sg;	! !!!!Stáit Aontaithe Mheiriceá (SAM)
+!!!!Ural (The River)	NP-PLACE-sg;	! Úrail
+!!!!Ural Mountains (The)	NP-PLACE-sg;	! !!!!Sléibhte na hÚraile
+!!!!Vatican City	NP-PLACE-sg;	! !!!!Cathair na Vatacáine
+!!!!Vatican City State	NP-PLACE-sg;	! !!!!Stát Chathair na Vatacáine
+!!!!Volta River (The)	NP-PLACE-sg;	! Volta
+!!!!Voltaic Republic	NP-PLACE-sg;	! !!!!Poblacht na Volta
+!!!!Western Samoa	NP-PLACE-sg;	! !!!!Samó Thiar
+!!!!Wight, The Isle of	NP-PLACE-sg;	! !!!!Inis Iocht
+!!!!Windward Islands (The )	NP-PLACE-sg;	! !!!!Oileáin na Gaoithe
+!!!!Yellow Sea (The)	NP-PLACE-sg;	! !!!!Mhuir Bhuí
+Aden	NP-PLACE-sg;	! Áidin
+Alaska	NP-PLACE-sg;	! Alasca
+Alexandria	NP-PLACE-sg;	! !!!!Cathair Alastair
+Algiers	NP-PLACE-sg;	! !!!!Cathair an hAilgéire
+Alsace	NP-PLACE-sg;	! Alsáis
+America	NP-PLACE-sg;	! Meiriceá
+Amsterdam	NP-PLACE-sg;	! Amstardam
+Andorra	NP-PLACE-sg;	! Andóra
+Angola	NP-PLACE-sg;	! Angóla
+Antilles	NP-PLACE-sg;	! !!!!hAintillí, Oileáin Aintillí
+Antwerp	NP-PLACE-sg;	! Antuairp
+Arabia	NP-PLACE-sg;	! Araib
+Arctic	NP-PLACE-sg;	! tArtach
+Armenia	NP-PLACE-sg;	! Airméin
+Astrakan	NP-PLACE-sg;	! Astracáin
+Astrakhan	NP-PLACE-sg;	! Astracáin
+Atlantic	NP-PLACE-sg;	! tAtlantach
+Australasia	NP-PLACE-sg;	! Astraláise
+Babylon	NP-PLACE-sg;	! Bhablóin
+Babylonia	NP-PLACE-sg;	! Bhablóinia
+Bahrein	NP-PLACE-sg;	! Bairéin
+Baluchistan	NP-PLACE-sg;	! Bhalúchastáin
+Barbados	NP-PLACE-sg;	! Barbadós
+Barbary	NP-PLACE-sg;	! Bharbair
+Beijing	NP-PLACE-sg;	! Péicing
+Belarus	NP-PLACE-sg;	! Bhealarúis
+Belfast	NP-PLACE-sg;	! !!!!Béal Feirste
+Belgrade	NP-PLACE-sg;	! Béalgrád
+Bengal	NP-PLACE-sg;	! Beangál
+Benin	NP-PLACE-sg;	! Beinin
+Berlin	NP-PLACE-sg;	! Beirlín
+Bermuda	NP-PLACE-sg;	! Beirmiúda
+Berne	NP-PLACE-sg;	! Beirn
+Bhutan	NP-PLACE-sg;	! Bhútáin
+Biafra	NP-PLACE-sg;	! Biafra
+Borneo	NP-PLACE-sg;	! Boirneo
+Bosnia	NP-PLACE-sg;	! Bhoisnia
+Bosnia-Herzegovina	NP-PLACE-sg;	! Bhoisnia-Heirseagaivéin
+Bosporus	NP-PLACE-sg;	! Bhosparais
+Bosphorus	NP-PLACE-sg;	! Bhosparais
+Boston	NP-PLACE-sg;	! Bostún
+Botswana	NP-PLACE-sg;	! Bhotsuáin
+Bristol	NP-PLACE-sg;	! Briostó
+Bucharest	NP-PLACE-sg;	! Búcairist
+Budapest	NP-PLACE-sg;	! Búdaipeist
+Burgundy	NP-PLACE-sg;	! Bhurgúin
+Burma	NP-PLACE-sg;	! Burma
+Burundi	NP-PLACE-sg;	! Bhurúin
+Byelorussia	NP-PLACE-sg;	! Bhílearúis
+Cairo	NP-PLACE-sg;	! Caireo
+Calcutta	NP-PLACE-sg;	! Calcúta
+Cambodia	NP-PLACE-sg;	! Chambóid
+Canada	NP-PLACE-sg;	! Ceanada
+Cardiff	NP-PLACE-sg;	! Caerdydd
+Carthage	NP-PLACE-sg;	! Chartaig
+Castile	NP-PLACE-sg;	! Chaistíl
+Celebes	NP-PLACE-sg;	! Cheilibéis
+Chad	NP-PLACE-sg;	! Sead
+Chechnia	NP-PLACE-sg;	! tSeisnia
+Congó	NP-PLACE-sg;	! Congó
+Copenhagen	NP-PLACE-sg;	! Cóbanhávan
+Corinth	NP-PLACE-sg;	! Choraint
+Cornwall	NP-PLACE-sg;	! !!!!Corn na Breataine
+Crimea	NP-PLACE-sg;	! Chrimé
+Croatia	NP-PLACE-sg;	! Chróit
+Cuba	NP-PLACE-sg;	! Cúba
+Dagestan	NP-PLACE-sg;	! Dagastáin
+Dalmatia	NP-PLACE-sg;	! Dalmáit
+Damascos	NP-PLACE-sg;	! Damaisc
+Dardanelles	NP-PLACE-sg;	! Dardainéil
+Delhi	NP-PLACE-sg;	! Deilí
+Derry	NP-PLACE-sg;	! Doire
+Dnieper	NP-PLACE-sg;	! !!!!Dnípir Dniester An Drnsir
+Dublin	NP-PLACE-sg;	! !!!!Baile Atha Cliath
+Duez	NP-PLACE-sg;	! Suais
+Ebro	NP-PLACE-sg;	! Eabró
+Ecuador	NP-PLACE-sg;	! Eacuadór
+Edinburgh	NP-PLACE-sg;	! !!!!Dún Éideann
+Elbe	NP-PLACE-sg;	! Eilbe
+England	NP-PLACE-sg;	! Sasana
+Estonia	NP-PLACE-sg;	! Eastóin
+Euphrates	NP-PLACE-sg;	! Eofrait
+Firenze	NP-PLACE-sg;	! Flórans
+Flanders	NP-PLACE-sg;	! Flóndras
+Florence	NP-PLACE-sg;	! Flórans
+Friesland	NP-PLACE-sg;	! Fhreaslainn
+Gabon	NP-PLACE-sg;	! Ghabúin
+Gambia	NP-PLACE-sg;	! Ghaimbia
+Genoa	NP-PLACE-sg;	! Genova
+Georgia	NP-PLACE-sg;	! tSeoirsia
+Ghana	NP-PLACE-sg;	! Gána
+Gibraltar	NP-PLACE-sg;	! Giobráltar
+Glasgow	NP-PLACE-sg;	! Glaschú
+Guam	NP-PLACE-sg;	! Gúam
+Guatemala	NP-PLACE-sg;	! Guatamala
+Guernsey	NP-PLACE-sg;	! Geansaí
+Haiti	NP-PLACE-sg;	! Háití
+Haiti	NP-PLACE-sg;	! Háítí
+Havana	NP-PLACE-sg;	! Havána
+Hawaii	NP-PLACE-sg;	! Haváí
+Hebrides	NP-PLACE-sg;	! !!!!Inse Ghall
+Helsinki	NP-PLACE-sg;	! Heilsincí
+Himalayas	NP-PLACE-sg;	! Himiléithe
+Holland	NP-PLACE-sg;	! Ollainn
+Honduras	NP-PLACE-sg;	! Hondúras
+Iberia	Nf4-Prop;	! Ibéir
+Indo-China	NP-PLACE-sg;	! Ind-Sín
+Indus	NP-PLACE-sg;	! Iondúis
+Iran	NP-PLACE-sg;	! Iaráin
+Israel	NP-PLACE-sg;	! Iosrael
+Istanbul	NP-PLACE-sg;	! Iostanbúl
+Jamaica	NP-PLACE-sg;	! Iamáice
+Jamaicia	NP-PLACE-sg;	! Iamáice
+Java	NP-PLACE-sg;	! Iáva
+Jericho	NP-PLACE-sg;	! Iarachó
+Jersey	NP-PLACE-sg;	! Geirsí
+Johannesburg	NP-PLACE-sg;	! Ióhanasburg
+Jutland	NP-PLACE-sg;	! Iútlainn
+Kampucbea	NP-PLACE-sg;	! Champúis
+Karelia	NP-PLACE-sg;	! Chairéil
+Kasbmir	NP-PLACE-sg;	! Chaismír
+Kosovo	NP-PLACE-sg;	! Chosaiv
+Kurdistan	NP-PLACE-sg;	! Chordastáin
+Kuwait	NP-PLACE-sg;	! Cuáit
+Labrador	NP-PLACE-sg;	! Labradar
+Lagan	NP-PLACE-sg;	! Lagáin
+Laos	NP-PLACE-sg;	! Laos
+Lapland	NP-PLACE-sg;	! Laplainn
+Latvia	NP-PLACE-sg;	! Laitvia
+Lesotho	NP-PLACE-sg;	! Leosóta
+Liberia	NP-PLACE-sg;	! Libéir
+Liechtenstein	NP-PLACE-sg;	! Lichtinstéin
+Lithuania	NP-PLACE-sg;	! Liotuáin
+Lombardy	NP-PLACE-sg;	! Lombaird
+Lorraine	NP-PLACE-sg;	! Lorráin
+Louvain	NP-PLACE-sg;	! Lováin
+Luxembourg	NP-PLACE-sg;	! Lucsamburg
+Macedonia	NP-PLACE-sg;	! Mhacadóin
+Madagascar	NP-PLACE-sg;	! Madagascar
+Madeira	NP-PLACE-sg;	! Maidéara
+Maderia	NP-PLACE-sg;	! Maidéara
+Madrid	NP-PLACE-sg;	! Maidrid
+Majorca	NP-PLACE-sg;	! Mallarca
+Malawi	NP-PLACE-sg;	! Mhaláiv
+Mali	NP-PLACE-sg;	! Mailí
+Malta	NP-PLACE-sg;	! Málta
+Manchester	NP-PLACE-sg;	! Manchain
+Manchuria	NP-PLACE-sg;	! Mhanchúir
+Manila	NP-PLACE-sg;	! Mainile
+Mauritania	NP-PLACE-sg;	! Mháratáin
+Mauritius	NP-PLACE-sg;	! !!!!Oileán Mhuirís
+Mecca	NP-PLACE-sg;	! Meice
+Mesopotamia	NP-PLACE-sg;	! Mheaspatáim
+Mexico	NP-PLACE-sg;	! Meicsiceo
+Minorca	NP-PLACE-sg;	! Mionarca
+Moldova	NP-PLACE-sg;	! Mholdóiv
+Monaco	NP-PLACE-sg;	! Monacó
+Montenegro	NP-PLACE-sg;	! Montainéagró
+Montserrat	NP-PLACE-sg;	! Montsarat
+Morocco	NP-PLACE-sg;	! Maracó
+Moscow	NP-PLACE-sg;	! Moscó
+Muscat	NP-PLACE-sg;	! Muscat
+Namibia	NP-PLACE-sg;	! Namaib
+Natal	NP-PLACE-sg;	! Natal
+Naura	NP-PLACE-sg;	! Nárú
+Nazareth	NP-PLACE-sg;	! Nasaireit
+Nepal	NP-PLACE-sg;	! Neipeál
+Newfoundland	NP-PLACE-sg;	! !!!!Talamh an Éisc
+Nicaragua	NP-PLACE-sg;	! Nicearagua
+Normandy	NP-PLACE-sg;	! Normainn
+Nyasaland	NP-PLACE-sg;	! Niasalainn
+Oceania	NP-PLACE-sg;	! Aigéine
+Oman	NP-PLACE-sg;	! Oman
+Orinoco	NP-PLACE-sg;	! Oranócó
+Orkneys	NP-PLACE-sg;	! !!!!Inse Orc
+Oslo	NP-PLACE-sg;	! Osló
+Ossetia	NP-PLACE-sg;	! Oiséit
+Ostend	NP-PLACE-sg;	! Ostainn
+Panama	NP-PLACE-sg;	! Panama
+Papua	NP-PLACE-sg;	! Papua
+Paraguay	NP-PLACE-sg;	! Paragua
+Paris	NP-PLACE-sg;	! Páras
+Patagonia	NP-PLACE-sg;	! Phatagóin
+Peking	NP-PLACE-sg;	! Péicing
+Peru	NP-PLACE-sg;	! Peiriú
+Phoenicia	NP-PLACE-sg;	! Fhéiníc
+Po	NP-PLACE-sg;	! Phó
+Polynesia	NP-PLACE-sg;	! Pholainéis
+Prague	NP-PLACE-sg;	! Prág
+Prussia	NP-PLACE-sg;	! Phrúis
+Punjab	NP-PLACE-sg;	! Phuinseaib
+Qatar	NP-PLACE-sg;	! Catar
+Rhodes	NP-PLACE-sg;	! Ródas
+Rhodesia	NP-PLACE-sg;	! Róidéis
+Rhone	NP-PLACE-sg;	! Róin
+Rumania	NP-PLACE-sg;	! Rómáin
+Rwanda	NP-PLACE-sg;	! Ruanda
+Samaria	NP-PLACE-sg;	! tSamáir
+Samoa	NP-PLACE-sg;	! Samó
+Scandinavia	NP-PLACE-sg;	! !!!!Críoch Lochlann
+Scheldt	NP-PLACE-sg;	! Sceilt
+Seine	NP-PLACE-sg;	! tSéin
+Senegal	NP-PLACE-sg;	! tSeineagáil
+Serbia	NP-PLACE-sg;	! tSeirbia
+Shetland	NP-PLACE-sg;	! Sealtainn
+Shetlands	NP-PLACE-sg;	! Sealtainn
+Singapore	NP-PLACE-sg;	! Singeapór
+Slovenia	NP-PLACE-sg;	! tSlóivéin
+Somalie	NP-PLACE-sg;	! tSomáil
+Sophia	NP-PLACE-sg;	! Sóifia
+Stockholm	NP-PLACE-sg;	! Stócólm
+Stuttgart	NP-PLACE-sg;	! 
+Swaziland	NP-PLACE-sg;	! tSuasalainn
+Tahiti	NP-PLACE-sg;	! Taihítí
+Taiwan	NP-PLACE-sg;	! Téaváin
+Tajikistan	NP-PLACE-sg;	! Taidsíceastáin
+Tartary	NP-PLACE-sg;	! Tartair
+Thames	NP-PLACE-sg;	! Tamais
+Tigris	NP-PLACE-sg;	! Tígris
+Timor	NP-PLACE-sg;	! Tíomór
+Tobago	NP-PLACE-sg;	! Tobága
+Togo	NP-PLACE-sg;	! Tógo
+Tokyo	NP-PLACE-sg;	! Tóiceo
+Tonga	NP-PLACE-sg;	! Tonga
+Trinidad	NP-PLACE-sg;	! !!!!Oileán na Tríonóide
+Tripoli	NP-PLACE-sg;	! Tripilí
+Troy	NP-PLACE-sg;	! Traí
+Tunis	NP-PLACE-sg;	! Túinis
+Turkenstan	NP-PLACE-sg;	! Turcastáin
+Tuscany	NP-PLACE-sg;	! Tuscáin
+Tyrol	NP-PLACE-sg;	! Tioról
+Udmust	NP-PLACE-sg;	! Udmairt
+Uganda	NP-PLACE-sg;	! Uganda
+Ukraine	NP-PLACE-sg;	! Úcráin
+Uruguay	NP-PLACE-sg;	! Uragua
+Uzbekistan	NP-PLACE-sg;	! Úisbéiceastáin
+Venezuela	NP-PLACE-sg;	! Veiniséala
+Vienna	NP-PLACE-sg;	! Vín
+Vietnam	NP-PLACE-sg;	! Vítneam
+Viet-Nam	NP-PLACE-sg;	! Vítneam
+Vojvodina	NP-PLACE-sg;	! Vóvaidín
+Volga	NP-PLACE-sg;	! Volga
+Wa1es	NP-PLACE-sg;	! !!!!Bhreatain Bheag
+Warsaw	NP-PLACE-sg;	! Vársá
+Waterford	NP-PLACE-sg;	! !!!!Port Láirge
+Yakut	NP-PLACE-sg;	! Iacúit
+Yakutsk	NP-PLACE-sg;	! Iacútsc
+Yemen	NP-PLACE-sg;	! Éimin
+York	NP-PLACE-sg;	! Eabhrac
+Zambesi	NP-PLACE-sg;	! tSaimbéis
+Zanzibar	NP-PLACE-sg;	! Sainsibeár
+Zealand	NP-PLACE-sg;	! tSéalainn
+Zululand	NP-PLACE-sg;	! tSúlúlainn
+!!!!Man, Isle of	NP-X;	! Manainn
+!!!!Nova Scotia	NP-X;	! !!!!Albain Nua
+Athens	NP-PLACE-sg;	! Aithin
+Europe	NP-PLACE-sg;	! Eoraip
+Ireland	NP-PLACE-sg;	! Éire
+London	NP-PLACE-sg;	! Londain
+Scotland	NP-PLACE-sg;	! Albain
+Sicily	NP-PLACE-sg;	! tSicil

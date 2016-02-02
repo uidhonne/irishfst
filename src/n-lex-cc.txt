@@ -1,0 +1,1151 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+! +Idf is no longer used with base form .. just +DefArt after article ...
+!**************************************************************************
+! Moirfeolaíocht na nAinmfhocail Gaeilge (Morphology of Irish Nouns)
+!**************************************************************************
+!**************************************************************************  
+!
+!		C O N T I N U A T I O N     C L A S S E S
+!
+!**************************************************************************  
+!!!LEXICON GuessNoun
+!!!^GUESSNOUN	Nf2-SINGULAR;
+!!!^GUESSNOUN	Nm1-1;
+!!!^GUESSNOUN	Nf3-3;
+
+!--------------------------------------------------------------------------    
+! FEMININE NOUN continuation classes
+!--------------------------------------------------------------------------    
+! Weak Plurals : 
+! Broad singular is made slender; plural already broad
+
+LEXICON Nf2-SINGULAR
+
++Noun+Fem+Com:^F^C	Nom-sg; 
++Noun+Fem+Gen:^F^G	Gen-sg-D2;
++Noun+Fem+Voc:^F^V	Voc-sg-0;
+
+LEXICON Nf2a-SINGULAR
+
++Noun+Fem+Com:^F^C	Nom-sg; 
++Noun+Fem+Gen:^F^G	Gen-sg-D2a;
++Noun+Fem+Voc:^F^V	Voc-sg-0;
+
+! beithir - beithre (gs) Sync + e
+LEXICON Nf2b-SINGULAR
+
++Noun+Fem+Com:^F^C	Nom-sg; 
++Noun+Fem+Gen:^F^G^Coim	Gen-sg-D2;
++Noun+Fem+Voc:^F^V	Voc-sg-0;
+
+LEXICON Nf2-1 
+Nf2-SINGULAR;
++Noun+Fem+Com:^C		PL-(LEA)A;
++Noun+Fem+Gen+Weak:^G	PL-TADA;
++Noun+Fem+Voc:^V		PL-(LEA)A;
+
+!GS tintreach - tintrí
+LEXICON Nf2-1a 
+Nf2a-SINGULAR;
++Noun+Fem+Com:^C		PL-(LEA)A;
++Noun+Fem+Gen+Weak:^G	PL-TADA;
++Noun+Fem+Voc:^V		PL-(LEA)A;
+
+!--------------------------------------------------------------------------
+
+! Weak Plurals : Broaden 
+
+! Singular already slender; plural is made broad
+
+
+
+LEXICON Nf2-2
+Nf2-SINGULAR;
++Noun+Fem+Com:^C		PL-(LEA)A;
++Noun+Fem+Gen+Weak:^G	PL-LEATHNÚ;
++Noun+Fem+Voc:^V		PL-(LEA)A;
+
+! Weak Plurals : 
+
+! 
+
+LEXICON Nf2-3
+
+! Weak Plurals : 
+Nf2-SINGULAR;
+
++Noun+Fem+Com:^C		PL-(CAOL)E;
++Noun+Fem+Gen+Weak:^G	PL-LEATHNÚ;
++Noun+Fem+Voc:^V		PL-(CAOL)E;
+
+! 
+
+LEXICON Nf2-4
+
+Nf2a-SINGULAR;
++Noun+Fem+Com:^C		PL-(LEA)A;
++Noun+Fem+Gen+Weak:^G	PL-TADA;
++Noun+Fem+Voc:^V		PL-(LEA)A;
+
+! STRONG PLURALS
+
+
+LEXICON Nf2-5
+
+Nf2-SINGULAR;
+
++Noun+Fem+Com:^C		PL-TE;
++Noun+Fem+Gen+Strong:^G	PL-TE;
++Noun+Fem+Voc:^V		PL-TE;
+
+
+! STRONG PLURALS
+
+LEXICON Nf2-6
+
+Nf2-SINGULAR;
+
++Noun+Fem+Com:^C		PL-(E)ANNA;
++Noun+Fem+Gen+Strong:^G	PL-(E)ANNA;
++Noun+Fem+Voc:^V		PL-(E)ANNA;
+
+! STRONG PLURALS
+
+LEXICON Nf2-7
+
+Nf2-SINGULAR;
++Noun+Fem+Com:^C		PL-Í;
++Noun+Fem+Gen+Strong:^G	PL-Í;
++Noun+Fem+Voc:^V		PL-Í;
+
+! STRONG PLURALS
+
+LEXICON Nf2-8
+
+Nf2-SINGULAR;
++Noun+Fem+Com:^C		PL-(E)ACHA;
++Noun+Fem+Gen+Strong:^G	PL-(E)ACHA;
++Noun+Fem+Voc:^V		PL-(E)ACHA;
+
+! STRONG PLURALS
+
+LEXICON Nf2a-8
+! Gen Sg = Sync + Slen + e
+Nf2b-SINGULAR;
++Noun+Fem+Com:^C		PL-(E)ACHA;
++Noun+Fem+Gen+Strong:^G		PL-(E)ACHA;
++Noun+Fem+Voc:^V		PL-(E)ACHA;
+! STRONG PLURALS
+
+LEXICON Nf2-9
+
+Nf2-SINGULAR;
++Noun+Fem+Com:^C		PL-(LEA)THA;
++Noun+Fem+Gen+Strong:^G	PL-(LEA)THA;
++Noun+Fem+Voc:^V		PL-(LEA)THA;
+
+
+LEXICON Nf2-10
+
+Nf2-SINGULAR;
++Noun+Fem+Com:^C		PL-TA;
++Noun+Fem+Gen+Strong:^G	PL-TA;
++Noun+Fem+Voc:^V		PL-TA;
+
+LEXICON Nf2-11
+
+Nf2-SINGULAR;
++Noun+Fem+Com:^C		PL-(E)ANTA;
++Noun+Fem+Gen+Strong:^G	PL-(E)ANTA;
++Noun+Fem+Voc:^V		PL-(E)ANTA;
+
+
+LEXICON Nf2-12
+
+Nf2-SINGULAR;
++Noun+Fem+Com:^C		PL-(LEA)A;
++Noun+Fem+Gen+Strong:^G	PL-(LEA)A;
++Noun+Fem+Voc:^V		PL-(LEA)A;
+
+LEXICON Nf2-13
+
+Nf2-SINGULAR;
++Noun+Fem+Com:^C		PL-(CAOL)E;
++Noun+Fem+Gen+Strong:^G		PL-(CAOL)E;
++Noun+Fem+Voc:^V		PL-(CAOL)E;
+
+
+!--------------------------------------------------------------------------
+!--------------------------------------------------------------------------
+! 3rd Declension
+!
+! Strong Plurals : +aí
+
+! an bheannacht -> na beannachtaí
+
+
+LEXICON Nf3-SINGULAR
++Noun+Fem+Com:^F^C	Nom-sg; 
++Noun+Fem+Gen:^F^G	Gen-sg-D3;
++Noun+Fem+Voc:^F^V	Voc-sg-0;
+
+LEXICON Nf3a-SINGULAR
++Noun+Fem+Com:^F^C		Nom-sg; 
++Noun+Fem+Gen:^F^G^Ath	Gen-sg-D3;	! EXCEPTION t-> th,  t->[], dh ->t
++Noun+Fem+Voc:^F^V		Voc-sg-0;
+
+! gamhain - gamhna (gs), midheamhain - midheamhna (gs)
+LEXICON Nf3b-SINGULAR
++Noun+Fem+Com:^F^C		Nom-sg; 
++Noun+Fem+Gen:^F^G^Coim	Gen-sg-D3;	! SYNC + a 
++Noun+Fem+Voc:^F^V		Voc-sg-0;
+
+
+LEXICON 	Nf3-1
+
+Nf3-SINGULAR;
++Noun+Fem+Com:^C		PL-AÍ;
++Noun+Fem+Gen+Strong:^G	PL-AÍ;
++Noun+Fem+Voc:^V		PL-AÍ;
+
+!--------------------------------------------------------------------------
+LEXICON 	Nf3-2
+
+Nf3a-SINGULAR;
++Noun+Fem+Com:^C^Ath^Lea		PL-AÍ;
++Noun+Fem+Gen+Strong:^G^Ath^Lea	PL-AÍ;
++Noun+Fem+Voc:^V^Ath^Lea		PL-AÍ;
+
+!--------------------------------------------------------------------------
+! Strong Plurals :  +(e)anna
+
+! tóin -> tóineanna
+! scoth -> scothanna
+! EXCEPTION: an chuid -> na codanna see FIX file
+! EXCEPTION: an raith -> na rathanna see FIX file
+!
+LEXICON 	Nf3-3
+
+Nf3-SINGULAR;
++Noun+Fem+Com:^C		PL-(E)ANNA;
++Noun+Fem+Gen+Strong:^G		PL-(E)ANNA;
++Noun+Fem+Voc:^V		PL-(E)ANNA;
+!--------------------------------------------------------------------------
+
+LEXICON 	Nf3-4	
+
+Nf3a-SINGULAR;
++Noun+Fem+Com:^C		PL-Í;
++Noun+Fem+Gen+Strong:^G	PL-Í;
++Noun+Fem+Voc:^V		PL-Í;
+
+!--------------------------------------------------------------------------
+
+LEXICON 	Nf3-5
+
+Nf3-SINGULAR;
++Noun+Fem+Com:^C^Lea		PL-TA;
++Noun+Fem+Gen+Strong:^G^Lea	PL-TA;
++Noun+Fem+Voc:^V^Lea		PL-TA;
+
+
+!--------------------------------------------------------------------------
+
+LEXICON 	Nf3-6
+
+Nf3-SINGULAR;
++Noun+Fem+Com:^C		PL-(E)ACHA;
++Noun+Fem+Gen+Strong:^G		PL-(E)ACHA;
++Noun+Fem+Voc:^V		PL-(E)ACHA;
+
+!--------------------------------------------------------------------------
+
+LEXICON 	Nf3-6a
+
+Nf3-SINGULAR;
++Noun+Fem+Com:^C		PL-(LEA)ACHA;
++Noun+Fem+Gen+Strong:^G		PL-(LEA)ACHA;
++Noun+Fem+Voc:^V		PL-(LEA)ACHA;
+
+!--------------------------------------------------------------------------
+LEXICON 	Nf3-7
+
+Nf3-SINGULAR;
++Noun+Fem+Com:^C		PL-TE;
++Noun+Fem+Gen+Strong:^G		PL-TE;
++Noun+Fem+Voc:^V		PL-TE;
+
+!--------------------------------------------------------------------------
+! Strong Plurals :  Broaden +anna
+
+! an chuid -> na codanna see FIX file
+! an raith -> na rathanna
+! an laith -> na lathanna
+! an luaith -> na luathanna
+!
+LEXICON 	Nf3-8
+
+Nf3-SINGULAR;
++Noun+Fem+Com:^C^Lea		PL-(E)ANNA;
++Noun+Fem+Gen+Strong:^G^Lea		PL-(E)ANNA;
++Noun+Fem+Voc:^V^Lea		PL-(E)ANNA;
+!--------------------------------------------------------------------------
+
+
+LEXICON 	Nf4-SINGULAR
++Noun+Fem+Com:^F^C	Nom-sg; 
++Noun+Fem+Gen:^F^G	Gen-sg-D4;
++Noun+Fem+Voc:^F^V	Voc-sg-0;
+
+
+! Strong Plurals : +í
+
+! an bhearna -> na bearnaí
+! an eala -> na healaí
+
+LEXICON 	Nf4-1
+
+Nf4-SINGULAR;
++Noun+Fem+Com:^C		PL-Í;
++Noun+Fem+Gen+Strong:^G	PL-Í;
++Noun+Fem+Voc:^V		PL-Í;
+
+!--------------------------------------------------------------------------
+! Strong Plurals : Athrú e -> í
+
+! an aicme -> na haicmí (classes)
+! an táille -> na táillí (fees)
+
+LEXICON 	Nf4-2
+
+Nf4-SINGULAR;
++Noun+Fem+Com:^C^Ath		PL-Í;
++Noun+Fem+Gen+Strong:^G^Ath	PL-Í;
++Noun+Fem+Voc:^V^Ath		PL-Í;
+
+!--------------------------------------------------------------------------
+! Strong Plurals : 
+
+
+LEXICON 	Nf4-3
+
+Nf4-SINGULAR;
++Noun+Fem+Com:^C^Ath		PL-TE;
++Noun+Fem+Gen+Strong:^G^Ath	PL-TE;
++Noun+Fem+Voc:^V^Ath		PL-TE;
+
+LEXICON 	Nf4-4
+
+Nf4-SINGULAR;
++Noun+Fem+Com:^C^Ath		PL-THE;
++Noun+Fem+Gen+Strong:^G^Ath	PL-THE;
++Noun+Fem+Voc:^V^Ath		PL-THE;
+
+LEXICON 	Nf4-5
+Nf4-SINGULAR;
++Noun+Fem+Com:^C		PL-(E)ACHA;
++Noun+Fem+Gen+Strong:^G	PL-(E)ACHA;
++Noun+Fem+Voc:^V		PL-(E)ACHA;
+
+
+LEXICON 	Nf4-6
+
+Nf4-SINGULAR;
++Noun+Fem+Com:^C		PL-(E)ANNA;
++Noun+Fem+Gen+Strong:^G	PL-(E)ANNA;
++Noun+Fem+Voc:^V		PL-(E)ANNA;
+
+LEXICON 	Nf4-7
+
+Nf4-SINGULAR;
++Noun+Fem+Com:^C		PL-(E)ANTA;
++Noun+Fem+Gen+Strong:^G	PL-(E)ANTA;
++Noun+Fem+Voc:^V		PL-(E)ANTA;
+
+! various ending in vowel	! plurals +nna
+LEXICON 	Nf4-8
+
+Nf4-SINGULAR;
++Noun+Fem+Com:^C		PL-NNA;
++Noun+Fem+Gen+Strong:^G	PL-NNA;
++Noun+Fem+Voc:^V		PL-NNA;
+
+LEXICON 	Nf4-9
+
+Nf4-SINGULAR;
++Noun+Fem+Com:^C		PL-ONNA;
++Noun+Fem+Gen+Strong:^G	PL-ONNA;
++Noun+Fem+Voc:^V		PL-ONNA;
+
+LEXICON 	Nf4-10
+
+Nf4-SINGULAR;
++Noun+Fem+Com:^C		PL-OCHA;
++Noun+Fem+Gen+Strong:^G	PL-OCHA;
++Noun+Fem+Voc:^V		PL-OCHA;
+
+!--------------------------------------------------------------------------
+! Strong Plurals : Leathnú  +acha
+
+! an bheoir -> na beoracha (beers)
+
+LEXICON 	Nf5-1
+
++Noun+Fem+Com:^F^C	Nom-sg; 
++Noun+Fem+Gen:^F^G	Gen-sg-D5-1;
++Noun+Fem+Voc:^F^V	Voc-sg-0;
+
++Noun+Fem+Com:^C^Lea		PL-(E)ACHA;
++Noun+Fem+Gen+Strong:^G^Lea	PL-(E)ACHA;
++Noun+Fem+Voc:^V^Lea		PL-(E)ACHA;
+
+
+!--------------------------------------------------------------------------
+! Gen Sg : Coim + ach
+!Strong Plurals : Coimriú +eacha
+
+! an chathaoir -> na cathaoireacha (chairs) (Note long vowel aoi is not sync.
+! an cathair -> na cathracha
+
+LEXICON 		Nf5-2
+
++Noun+Fem+Com:^F^C	Nom-sg; 
++Noun+Fem+Gen:^F^G	Gen-sg-D5-2;
++Noun+Fem+Voc:^F^V	Voc-sg-0;
+
++Noun+Fem+Com:^C^Coim			PL-(E)ACHA;
++Noun+Fem+Gen+Strong:^G^Coim	PL-(E)ACHA;
++Noun+Fem+Voc:^V^Coim			PL-(E)ACHA;
+
+!--------------------------------------------------------------------------
+! Gen Sg : Coim + a
+!Strong Plurals : Coimriú +(e)acha
+! samhail -> samhla
+! anacair -> anacra
+LEXICON 		Nf5-2a
+
++Noun+Fem+Com:^F^C	Nom-sg; 
++Noun+Fem+Gen:^F^G	Gen-sg-D5-2a;
++Noun+Fem+Voc:^F^V	Voc-sg-0;
+
++Noun+Fem+Com:^C^Coim			PL-(E)ACHA;
++Noun+Fem+Gen+Strong:^G^Coim	PL-(E)ACHA;
++Noun+Fem+Voc:^V^Coim			PL-(E)ACHA;
+!--------------------------------------------------------------------------
+! Gen Sg : Coim + Slen + e
+!Strong Plurals : Coimriú +(e)acha
+! crithir - critre
+! fothair - foithre
+LEXICON 		Nf5-2b
+
++Noun+Fem+Com:^F^C	Nom-sg; 
++Noun+Fem+Gen:^F^G	Gen-sg-D5-2b;
++Noun+Fem+Voc:^F^V	Voc-sg-0;
+
++Noun+Fem+Com:^C^Coim			PL-(E)ACHA;
++Noun+Fem+Gen+Strong:^G^Coim	PL-(E)ACHA;
++Noun+Fem+Voc:^V^Coim			PL-(E)ACHA;
+!--------------------------------------------------------------------------
+
+LEXICON 		Nf5-3
++Noun+Fem+Com:^F^C	Nom-sg; 
++Noun+Fem+Gen:^F^G	Gen-sg-D5-3;
++Noun+Fem+Voc:^F^V	Voc-sg-0;
+
++Noun+Fem+Com:^C		PL-NA;
++Noun+Fem+Gen+Strong:^G	PL-NA;
++Noun+Fem+Voc:^V		PL-NA;
+
+LEXICON 		Nf5-4
+
++Noun+Fem+Com:^F^C	Nom-sg; 
++Noun+Fem+Gen:^F^G	Gen-sg-D5-5;
++Noun+Fem+Voc:^F^V	Voc-sg-0;
+
++Noun+Fem+Com:^C^Coim			PL-(CAOL)EACHA;
++Noun+Fem+Gen+Strong:^G^Coim	PL-(CAOL)EACHA;
++Noun+Fem+Voc:^V^Coim			PL-(CAOL)EACHA;
+
+! tarraingt - tarraingthe - tarraingtí
+LEXICON 		Nf5-7		! 11/04/08
+
++Noun+Fem+Com:^F^C	Nom-sg; 
++Noun+Fem+Gen:^F^G	Gen-sg-D5-7;
++Noun+Fem+Voc:^F^V	Voc-sg-0;
+
++Noun+Fem+Com:^C^Coim		PL-Í;
++Noun+Fem+Gen+Strong:^G^Coim	PL-Í;
++Noun+Fem+Voc:^V^Coim		PL-Í;
+
+
+!************************************************************************** 
+!--------------------------------------------------------------------------    
+! MASCULINE NOUN continuation classes
+!--------------------------------------------------------------------------    
+
+
+
+LEXICON Nm1-SINGULAR
++Noun+Masc+Com:^M^C	Nom-sg; 
++Noun+Masc+Gen:^M^G	Gen-sg-D1;
++Noun+Masc+Voc:^M^V	Voc-sg-1;
+
+
+! WEAK PLURALS (i.e. where the nominative and genitive plurals are different) 
+!
+! TYPE 1 Nom pl. ends in conson. eg cat : cait, fear : fir, marcach: marcaigh 
+
+LEXICON Nm1-1
+
+Nm1-SINGULAR; 
++Noun+Masc+Com:^C		PL-CAOLÚ;
++Noun+Masc+Gen+Weak:^G	PL-TADA;
++Noun+Masc+Voc:^V		PL-(LEA)A;
+
+
+!---------------------------------------------------------------------------
+! TYPE 2 Nom pl. formed by adding -a eg cos : cosa, úll : úlla 
+
+LEXICON Nm1-2 
+
+Nm1-SINGULAR; 
++Noun+Masc+Com:^C		PL-(LEA)A;
++Noun+Masc+Gen+Weak:^G	PL-TADA;
++Noun+Masc+Voc:^V		PL-(LEA)A;
+
+!---------------------------------------------------------------------------
+! (TYPE 3) Nom pl. formed by adding -ta eg 
+
+LEXICON Nm1-3 
+
+Nm1-SINGULAR; 
++Noun+Masc+Com:^C			PL-TA;
++Noun+Masc+Gen+Strong:^G	PL-TA;
++Noun+Masc+Voc:^V			PL-TA;
+
+LEXICON Nm1-4
+
+Nm1-SINGULAR; 
++Noun+Masc+Com:^C			PL-(LEA)THA;
++Noun+Masc+Gen+Strong:^G	PL-(LEA)THA;
++Noun+Masc+Voc:^V			PL-(LEA)THA;
+
+LEXICON Nm1-5
+
+Nm1-SINGULAR; 
++Noun+Masc+Com:^C			PL-ATHRÚ;
++Noun+Masc+Gen+Strong:^G	PL-ATHRÚ;
++Noun+Masc+Voc:^V			PL-ATHRÚ;
+
+LEXICON Nm1-6
+
+Nm1-SINGULAR;
++Noun+Masc+Com:^C			PL-(E)ANNA;
++Noun+Masc+Gen+Strong:^G	PL-(E)ANNA;
++Noun+Masc+Voc:^V			PL-(E)ANNA;
+
+LEXICON Nm1-7
+
+Nm1-SINGULAR; 
++Noun+Masc+Com:^C^Caol			PL-Í;
++Noun+Masc+Gen+Strong:^G^Caol	PL-Í;
++Noun+Masc+Voc:^V^Caol			PL-Í;
+
+
+LEXICON Nm1-8
+
+Nm1-SINGULAR; 
++Noun+Masc+Com:^C^Coim			PL-(E)ANNA;
++Noun+Masc+Gen+Strong:^G^Coim	PL-(E)ANNA;
++Noun+Masc+Voc:^V^Coim			PL-(E)ANNA;
+
+LEXICON Nm1-9
+
+Nm1-SINGULAR; 
++Noun+Masc+Com:^C^Coim			PL-(CAOL)E;
++Noun+Masc+Gen+Strong:^G^Coim	PL-(CAOL)E;
++Noun+Masc+Voc:^V^Coim			PL-(CAOL)E;
+
+LEXICON Nm1-10
+
+Nm1-SINGULAR; 
++Noun+Masc+Com:^C^Coim			PL-(CAOL)EACHA;
++Noun+Masc+Gen+Strong:^G^Coim	PL-(CAOL)EACHA;
++Noun+Masc+Voc:^V^Coim			PL-(CAOL)EACHA;
+
+LEXICON Nm1-11
+Nm1-SINGULAR;
++Noun+Masc+Com:^C			PL-(E)ACHA;
++Noun+Masc+Gen+Strong:^G	PL-(E)ACHA;
++Noun+Masc+Voc:^V			PL-(E)ACHA;
+!---------------------------------------------------------------------------
+! 2nd Declension
+! sliabh -> na sléibhte 
+
+LEXICON Nm2-SINGULAR
++Noun+Masc+Com:^M^C	Nom-sg; 
++Noun+Masc+Gen:^M^G	Gen-sg-D2;
++Noun+Masc+Voc:^M^V	Voc-sg-0;
+
+LEXICON Nm2-1
+
+Nm2-SINGULAR;
++Noun+Masc+Com:^C^Caol			PL-TE;
++Noun+Masc+Gen+Strong:^G^Caol	PL-TE;
++Noun+Masc+Voc:^V^Caol			PL-TE;
+
+!---------------------------------------------------------------------------
+
+LEXICON Nm3-SINGULAR
+
++Noun+Masc+Com:^M^C	Nom-sg; 
++Noun+Masc+Gen:^M^G	Gen-sg-D3;
++Noun+Masc+Voc:^M^V	Voc-sg-0;
+
+LEXICON Nm3a-SINGULAR
++Noun+Masc+Com:^M^C	Nom-sg; 
++Noun+Masc+Gen:^M^G^Ath	Gen-sg-D3;
++Noun+Masc+Voc:^M^V	Voc-sg-0;
+
+! 3rd Declension
+! Strong Plurals : +í 
+!     as in Nm7 but singular are different
+
+! eg. bádóir -> na bádóirí
+
+LEXICON Nm3-1 
+
+Nm3-SINGULAR;
++Noun+Masc+Com:^C			PL-Í;
++Noun+Masc+Gen+Strong:^G	PL-Í;
++Noun+Masc+Voc:^V			PL-Í;
+
+!---------------------------------------------------------------------------
+! Strong Plurals : +anna
+
+! eg. an bláth -> na bláthanna
+
+LEXICON Nm3-2 
+
+Nm3-SINGULAR;
++Noun+Masc+Com:^C			PL-(E)ANNA;
++Noun+Masc+Gen+Strong:^G	PL-(E)ANNA;
++Noun+Masc+Voc:^V			PL-(E)ANNA;
+!---------------------------------------------------------------------------
+! Strong Plurals : +aí
+
+LEXICON Nm3-3
+
+Nm3-SINGULAR;
++Noun+Masc+Com:^C			PL-AÍ;
++Noun+Masc+Gen+Strong:^G		PL-AÍ;
++Noun+Masc+Voc:^V			PL-AÍ;
+
+!---------------------------------------------------------------------------
+! gen briocht -> breachta
+! Strong Plurals : +aí
+! briocht -> briochtaí
+LEXICON Nm3-3a
+
+Nm3a-SINGULAR;
++Noun+Masc+Com:^C			PL-AÍ;
++Noun+Masc+Gen+Strong:^G		PL-AÍ;
++Noun+Masc+Voc:^V			PL-AÍ;
+
+!---------------------------------------------------------------------------
+! Strong Plurals : +anna
+! eg. an bláth -> na bláthanna
+
+LEXICON Nm3-4a
+
+! ^Lea,broadening, is required, in gen sg: io -> ea (bior, crios) 
+! and this is done using ^Ath (change)
+! pl bior -> bioranna
+Nm3a-SINGULAR;
++Noun+Masc+Com:^C			PL-(E)ANNA;
++Noun+Masc+Gen+Strong:^G	PL-(E)ANNA;
++Noun+Masc+Voc:^V			PL-(E)ANNA;
+
+!---------------------------------------------------------------------------
+! Strong Plurals : Athrú +anna (io->ea)
+! eg. an cith -> na ceathanna
+LEXICON Nm3-4
+
+Nm3a-SINGULAR;
+! ^Lea,broadening, is required, in gen sg: cith -> ceatha, greim -> greama
+! and this is done using ^Ath (change)
+! pl also broadened cith -> ceathanna
++Noun+Masc+Com:^C^Ath^Lea		PL-(E)ANNA;
++Noun+Masc+Gen+Strong:^G^Ath^Lea	PL-(E)ANNA;	
++Noun+Masc+Voc:^V^Ath^Lea		PL-(E)ANNA;		
+
+LEXICON Nm3-5
+
+Nm3-SINGULAR;
++Noun+Masc+Com:^C			PL-(E)ACHA;
++Noun+Masc+Gen+Strong:^G	PL-(E)ACHA;
++Noun+Masc+Voc:^V			PL-(E)ACHA;
+
+LEXICON Nm3-6
+
+Nm3-SINGULAR;
++Noun+Masc+Com:^C			PL-(LEA)A;
++Noun+Masc+Gen+Strong:^G	PL-(LEA)A;
++Noun+Masc+Voc:^V			PL-(LEA)A;
+
+LEXICON Nm3-7
+
+Nm3-SINGULAR;
++Noun+Masc+Com:^C			PL-TA;
++Noun+Masc+Gen+Strong:^G	PL-TA;
++Noun+Masc+Voc:^V			PL-TA;
+
+LEXICON Nm3-8
+
+Nm3a-SINGULAR;
++Noun+Masc+Com:^C		PL-(LEA)A;
++Noun+Masc+Gen+Weak:^G	PL-TADA;
++Noun+Masc+Voc:^V		PL-(LEA)A;
+
+LEXICON Nm3-8a
+! sliocht - sleachta gs & pl
+Nm3a-SINGULAR;
++Noun+Masc+Com:^C^Ath		PL-(LEA)A;
++Noun+Masc+Gen+Weak:^G^Ath		PL-(LEA)A;
++Noun+Masc+Voc:^V^Ath		PL-(LEA)A;
+
+
+!---------------------------------------------------------------------------
+!---------------------------------------------------------------------------
+! Strong Plurals : +í
+
+! (A) nouns ending in -ín (a diminutive)
+! smidiríní (smithereens) no singular
+! eg. an cailín -> na cailíní (girls)
+! eg. an báidín -> na báidíní (small boats)
+
+! (B) nouns ending in -a
+! eg. an balla -> na ballaí (walls)
+
+
+LEXICON Nm4-SINGULAR
+
++Noun+Masc+Com:^M^C	Nom-sg; 
++Noun+Masc+Gen:^M^G	Gen-sg-D4;
++Noun+Masc+Voc:^M^V	Voc-sg-0;
+
+LEXICON Nm4-1
+
+Nm4-SINGULAR;
++Noun+Masc+Com:^C			PL-Í;
++Noun+Masc+Gen+Strong:^G	PL-Í;
++Noun+Masc+Voc:^V			PL-Í;
+
+
+LEXICON Nm4-2
+
+Nm4-SINGULAR;
++Noun+Masc+Com:^C^Ath			PL-Í;
++Noun+Masc+Gen+Strong:^G^Ath	PL-Í;
++Noun+Masc+Voc:^V^Ath			PL-Í;
+
+
+LEXICON Nm4-3
+
+Nm4-SINGULAR;
++Noun+Masc+Com:^C^Ath			PL-TE;
++Noun+Masc+Gen+Strong:^G^Ath	PL-TE;
++Noun+Masc+Voc:^V^Ath			PL-TE;
+
+LEXICON Nm4-4
+
+Nm4-SINGULAR;
++Noun+Masc+Com:^C^Ath			PL-THE;
++Noun+Masc+Gen+Strong:^G^Ath	PL-THE;
++Noun+Masc+Voc:^V^Ath			PL-THE;
+
+LEXICON Nm4-5
+
+Nm4-SINGULAR;
++Noun+Masc+Com:^C			PL-(E)ACHA;
++Noun+Masc+Gen+Strong:^G	PL-(E)ACHA;
++Noun+Masc+Voc:^V			PL-(E)ACHA;
+
+LEXICON Nm4-6
+
+Nm4-SINGULAR;
++Noun+Masc+Com:^C			PL-NNA;
++Noun+Masc+Gen+Strong:^G	PL-NNA;
++Noun+Masc+Voc:^V			PL-NNA;
+
+LEXICON Nm4-7
+
+Nm4-SINGULAR;
++Noun+Masc+Com:^C			PL-(E)ANNA;
++Noun+Masc+Gen+Strong:^G	PL-(E)ANNA;
++Noun+Masc+Voc:^V			PL-(E)ANNA;
+
+LEXICON Nm4-8
+
+Nm4-SINGULAR;
++Noun+Masc+Com:^C			PL-ITE;
++Noun+Masc+Gen+Strong:^G	PL-ITE;
++Noun+Masc+Voc:^V			PL-ITE;
+
+LEXICON Nm4-9
+
+Nm4-SINGULAR;
++Noun+Masc+Com:^C			PL-ONNA;
++Noun+Masc+Gen+Strong:^G	PL-ONNA;
++Noun+Masc+Voc:^V			PL-ONNA;
+
+LEXICON Nm4-10
+
+Nm4-SINGULAR;
++Noun+Masc+Com:^C		PL-OCHA;
++Noun+Masc+Gen+Strong:^G	PL-OCHA;
++Noun+Masc+Voc:^V		PL-OCHA;
+
+LEXICON Nm4-11
+
+Nm4-SINGULAR;
++Noun+Masc+Com:^C		PL-(LEA)THA;
++Noun+Masc+Gen+Strong:^G	PL-(LEA)THA;
++Noun+Masc+Voc:^V		PL-(LEA)THA;
+
+!! 01/04/08
+LEXICON Nm4-12
+
+Nm4-SINGULAR;
++Noun+Masc+Com:^C		PL-AÍ;
++Noun+Masc+Gen+Strong:^G	PL-AÍ;
++Noun+Masc+Voc:^V		PL-AÍ;
+
+!---------------------------------------------------------------------------
+!---------------------------------------------------------------------------
+! Strong Plurals : +idí
+!!!!!! SINGULAR  ALSO IN NUM-LEX.TXT
+! an fiche -> na fichidí (the twenties) eidí needs correcting
+! an caoga -> na caogaidí (the fifties)
+LEXICON Nm5-1
++Noun+Masc+Com:^M^C	Nom-sg; 
++Noun+Masc+Gen:^M^G	Gen-sg-D5-4;
+!!!+Noun+Masc+Voc:^M^V	Voc-sg-0;
+
++Noun+Masc+Com:^C			PL-IDÍ;
++Noun+Masc+Gen+Strong:^G	PL-IDÍ;
++Noun+Masc+Voc:^V			PL-IDÍ;
+
+
+LEXICON Nm5-2
++Noun+Masc+Com:^M^C	Nom-sg; 
++Noun+Masc+Gen:^M^G	Gen-sg-D5-5;
++Noun+Masc+Voc:^M^V	Voc-sg-0;
+
++Noun+Masc+Com:^C^Coim			PL-(CAOL)EACHA;
++Noun+Masc+Gen+Strong:^G^Coim	PL-(CAOL)EACHA;
++Noun+Masc+Voc:^V^Coim			PL-(CAOL)EACHA;
+
+LEXICON Nm5-3
++Noun+Masc+Com:^M^C	Nom-sg; 
++Noun+Masc+Gen:^M^G	Gen-sg-D5-6;
++Noun+Masc+Voc:^M^V	Voc-sg-0;
+
++Noun+Masc+Com:^C^Ath			PL-THE;
++Noun+Masc+Gen+Strong:^G^Ath	PL-THE;
++Noun+Masc+Voc:^V^Ath			PL-THE;
+
+! GS +the
+LEXICON Nm5-4
++Noun+Masc+Com:^M^C	Nom-sg; 
++Noun+Masc+Gen:^M^G	Gen-sg-D5-7;
++Noun+Masc+Voc:^M^V	Voc-sg-0;
+
+!!!PL?????????
+
+! GS +te
+LEXICON Nm5-5-SINGULAR
++Noun+Masc+Com:^M^C	Nom-sg; 
++Noun+Masc+Gen:^M^G	Gen-sg-D5-8;
++Noun+Masc+Voc:^M^V	Voc-sg-0;
+
+LEXICON Nm5-5				! PL +TÍ 
+Nm5-5-SINGULAR;
++Noun+Masc+Com:^C^Atht			PL-Í;
++Noun+Masc+Gen+Strong:^G^Atht		PL-Í;
++Noun+Masc+Voc:^V^Atht			PL-Í;
+
+
+! GS +tha
+! PL +thaí
+! bascadh - basctha - bascthaí
+LEXICON Nm5-6
++Noun+Masc+Com:^M^C	Nom-sg; 
++Noun+Masc+Gen:^M^G	Gen-sg-D5-9;
++Noun+Masc+Voc:^M^V	Voc-sg-0;
++Noun+Masc+Com:^C^Aththa		PL-Í;
++Noun+Masc+Gen+Strong:^G^Aththa		PL-Í;
++Noun+Masc+Voc:^V^Aththa		PL-Í;
+
+!!!PL?????????
+
+! GS +ta
+LEXICON Nm5-7-SINGULAR
++Noun+Masc+Com:^M^C	Nom-sg; 
++Noun+Masc+Gen:^M^G	Gen-sg-D5-10;
++Noun+Masc+Voc:^M^V	Voc-sg-0;
+
+LEXICON Nm5-7
+Nm5-7-SINGULAR;
+
+! moladh / gs = molta / pl = moltaí
+LEXICON Nm5-7a
+Nm5-7-SINGULAR;
++Noun+Masc+Com:^C^Atht			PL-AÍ;
++Noun+Masc+Gen+Strong:^G^Atht		PL-AÍ;
++Noun+Masc+Voc:^V^Atht			PL-AÍ;
+
+!----------------------------------------------------------------------------
+LEXICON Ns
++Subst+Noun+Sg:0	SéUrú;
+
+LEXICON Nspl
++Subst+Noun+Pl:0	SéUrú;
+
+!************************************************************************** 
+! INITIAL MUTATIONS
+!************************************************************************** 
+!-------------------
+! NOMINATIVE SINGULAR 
+!-------------------
+LEXICON Nom-sg-initial
+SéUrú;		
++DefArt:^Sé^tv^ts	#; 	! definite article eg. an cat (m) (p38 NIG)
+			! an t-éan(m) - the bird (p39 NIG) 
+			! an bhróg(f) - the shoe
+			! initial mutation for other reasons
+			! e.g. comp. preps. ar an gcnoc, poss. mo chat
+
+! ^IM = initial mutation e.g. with prepositions, and possession
+! Singular:
+! e.g. ar an bhosca, ar an mbosca
+! possessive markers on vowels: ár n-athair, a (f) hathair, 
+! Plural:
+! e.g. ar bhoscaí, i mboscaí
+! possessive e.g. ár n-aithreacha - our fathers (^C)
+
+LEXICON SéUrú
+#;			! indefinite => no initial mutation
+Emphasis;
+!!! appending the +Len & +Ecl rather than creating seperate forms ...
++Ecl:^IM^Urú	Emphasis;		
++Len:^IM^Sé	Emphasis;		
++hPref:^IM^hv	Emphasis;	!! adds ^h to vowel-initial words ...  but adds the +hPref to all words ... see fix file
+!!!!!+Poss:^Poss	Emphasis; !! +Poss tag gets appended to all nouns not
+				  !! just vowel-initial e.g. doras, fiú etc.
+				  !!  although no initial mutation takes place 
+					
+
+LEXICON Emphasis
+#;
++Emph:s^Emph	#;   			!  NEEDS 1PL NE/NA & 3PL SEAN/SAN ALSO
+
+
+
+!-------------------
+! GENITIVE SINGULAR 
+!-------------------
+
+LEXICON Gen-sg-initial
+SéUrú;			! eg. tábhacht a n-oidhreachta
+#; 			! eg. bia cait, bia sagairt, bia stóir, 
+			!     bia rúin, pobail  
+			!     siopa grósaera - a grocer's shop
++DefArt:^Sé^hv^ts	#; 	! eg. bia an chait,an íl, bia an stóir 
+			!     bia an éin (the bird's food)
+			! eg. bia an tsagairt (overgenerates 
+			!     tshagairt, h will be removed,
+			! eg. bia an rúin, an phobail
+			! eg. siopa an ghrósaera - the grocer's shop
+!-------------------
+! VOCATIVE SINGULAR 
+!-------------------
+! Since this is trivial (always ^Sé) it is included with Final Mutations
+! in Voc-sg-0 and Voc-sg-1.
+					
+!------------
+! ALL PLURALS
+!------------
+! Note: Vocative Plural does not require Def & Idf but it is easier to generate 
+! them and remove all Voc Pl Idfs at the end (the Def form is correct 
+! although the Def marker is unnecessary)
+
+LEXICON Pl-initial
++DefArt:^Sé^Urú^hv			#; 	! eg. na cait (m)
+SéUrú;					! optional initial mutations for posession, after prepositions
+
+!************************************************************************** 
+! FINAL MUTATIONS
+!************************************************************************** 
+!-------------------
+! NOMINATIVE SINGULAR
+!-------------------
+LEXICON Nom-sg
++Sg:0	Nom-sg-initial;
+
+!-------------------
+! GENITIVE SINGULAR 
+!-------------------
+
+LEXICON Gen-sg-D1		! 1st. Declension - Caolú (Slenderise)
++Sg:^Caol	Gen-sg-initial;
+
+LEXICON Gen-sg-D2		! 2nd. Declension - Caolú (Slenderise) and
+				! Add "e"
++Sg:^Caole	Gen-sg-initial;
+
+LEXICON Gen-sg-D2a		! 2nd. Declension - each -> í, ach -> aí 
+				! tintreach - tintrí 
++Sg:^Ath	Gen-sg-initial;
+
+LEXICON Gen-sg-D3		! 3rd. Declension -  Broaden (Leathnú) and
+				! Add "a"
++Sg:^Leaa	Gen-sg-initial;
+
+
+LEXICON Gen-sg-D4		! 4th. Declension - No change
++Sg:0	Gen-sg-initial;
+
+LEXICON Gen-sg-D5-1		! 5th. Declension - (Broaden) + ach
++Sg:^Leaach	Gen-sg-initial;
+LEXICON Gen-sg-D5-2		! 5th. Declension - Sync + (e)ach
++Sg:^Coim^VHach	Gen-sg-initial;
+LEXICON Gen-sg-D5-2a		! 5th. Declension - Sync + a
++Sg:^Coim^VHa	Gen-sg-initial;
+LEXICON Gen-sg-D5-2b		! 5th. Declension - Sync + Slen + e
++Sg:^Coim^Caole	Gen-sg-initial;
+LEXICON Gen-sg-D5-3		! 5th. Declension - Add "n"
++Sg:n		Gen-sg-initial;
+LEXICON Gen-sg-D5-4		! 5th. Declension - Add "d"
++Sg:d		Gen-sg-initial;
+LEXICON Gen-sg-D5-5		! 5th. Declension -  Broaden (Leathnú)
++Sg:^Lea	Gen-sg-initial;
+LEXICON Gen-sg-D5-6		! 5th. Declension -  Change + ithe
++Sg:^Athithe	Gen-sg-initial;
+LEXICON Gen-sg-D5-7		! 5th. Declension -  Change + Slen + the
++Sg:^Ath^Caolthe	Gen-sg-initial;
+LEXICON Gen-sg-D5-8		! 5th. Declension -  Change + Slen + te
++Sg:^Ath^Caolte	Gen-sg-initial;
+LEXICON Gen-sg-D5-9		! 5th. Declension -  Change + tha
++Sg:^Aththa	Gen-sg-initial;
+LEXICON Gen-sg-D5-10		! 5th. Declension -  Change + ta
++Sg:^Athta	Gen-sg-initial;
+
+!-------------------
+! VOCATIVE SINGULAR 
+!-------------------
+
+LEXICON Voc-sg-0
++Sg+Len:^Sé		#;	! eg. a rún, a phobal
+
+LEXICON Voc-sg-1
++Sg+Len:^Caol^Sé	#; 	! eg. a éin - O bird!
+				!     a chait, a íl 
+				! eg. a shagairt 
+
+LEXICON Voc-initial
++Len:^IM^Sé		#;	! Jul 2012 added +Len
+
+!-------------------------------------------------------------------------
+!-------------------
+! ALL PLURALS
+!-------------------
+
+
+LEXICON PL-TADA					! NO CHANGE (LIT. NOTHING)
++Pl:0		Pl-initial;
+
+
+LEXICON PL-CAOLÚ				! CAOLÚ (SLENDERISE)
++Pl:^Caol	Pl-initial;
+
+
+LEXICON PL-LEATHNÚ				! LEATHNÚ (BROADEN)
++Pl:^Lea	Pl-initial;
+
+
+LEXICON PL-(LEA)A				! ADD "A" & LEATHNÚ (BROADEN) IF SLENDER
++Pl:^Leaa	Pl-initial;
+
+
+LEXICON PL-TA					! ADD "TA"
++Pl:ta		Pl-initial;
+
+
+LEXICON PL-(LEA)THA				! ADD "THA" & LEATHNÚ IF SLENDER
++Pl:^Leatha	Pl-initial;
+
+
+LEXICON PL-(E)ANNA				! ADD "ANNA" IF BROAD & ADD "EANNA" IF SLENDER
++Pl:^VHanna	Pl-initial;
+
+
+LEXICON PL-Í					! ADD "Í"
++Pl:í		Pl-initial;
+
+
+LEXICON PL-(CAOL)E				! ADD "E" & CAOLÚ IF BROAD
++Pl:^Caole	Pl-initial;
+
+
+LEXICON PL-(CAOL)EACHA			! ADD "EACHA" & CAOLÚ
++Pl:^Caoleacha	Pl-initial;
+
+LEXICON PL-(LEA)ACHA			! ADD "ACHA" & LEATHNÚ
++Pl:^Leaacha	Pl-initial;
+
+
+LEXICON PL-(E)ACHA				! ADD "ACHA" IF BROAD & ADD "EACHA" IF SLENDER
++Pl:^VHacha	Pl-initial;
+
+
+LEXICON PL-TE					! ADD "TE"
++Pl:te		Pl-initial;
+
+
+LEXICON PL-AÍ					! ADD "AÍ"
++Pl:aí		Pl-initial;
+
+
+LEXICON PL-NNA					! ADD "NNA"
++Pl:nna		Pl-initial;
+
+
+LEXICON PL-THE					! ADD "THE"
++Pl:the		Pl-initial;
+
+
+LEXICON PL-NA					! ADD "NA"
++Pl:na		Pl-initial;
+
+
+LEXICON PL-IDÍ					! ADD "IDÍ"
++Pl:idí		Pl-initial;
+
+
+LEXICON PL-ATHRÚ				! ATHRÚ (CHANGE LAST SYLLABLE)
++Pl:^Ath	Pl-initial;
+
+LEXICON PL-(E)ANTA				! ADD "ANTA" IF BROAD & ADD "EANTA" IF SLENDER
++Pl:^VHanta	Pl-initial;
+
+LEXICON PL-ITE					! ADD "ITE"
++Pl:ite		Pl-initial;
+
+LEXICON PL-ONNA					! ADD "ONNA"
++Pl:onna		Pl-initial;
+
+LEXICON PL-OCHA					! ADD "OCHA"
++Pl:ocha		Pl-initial;
+
+!---------------------------------------------------------------------------

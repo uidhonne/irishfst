@@ -1,0 +1,204 @@
+!****************************************************************************
+! Adverbs
+!
+!  E. Uí Dhonnchadha
+!  REMOVED FEB 2004: +Phr
+!  ADDED FEB 2004: +Temp 
+!  CHANGED +Gen to +Gn to avoid confusion with +Gen = genitive
+!****************************************************************************
+
+Multichar_Symbols
+
++Adv		! Adverb
+
++Gn		! General
++Its		! intensifiers e.g. sách, ró- etc.
+!!+Phr		! Phrasal        
++Q		! Interrogative
+!!+Rel		! Relative e.g. mar, nuair
++Dir		! Directional
++Loc		! Locative
++Temp		! Temporal e.g. inniu, amárach etc.
++Past
++Cop
+!---------------------------------------------------------------------------
+
+LEXICON Root
+	Adverb;
+
+LEXICON Adverb
+
+! DIRECTIONAL
+
+thart+Adv+Dir:thart	#;
+suas+Adv+Dir:suas	#;
+síos+Adv+Dir:síos	#;
+anuas+Adv+Dir:anuas	#;
+aníos+Adv+Dir:aníos	#;
+thuas+Adv+Dir:thuas	#;
+thíos+Adv+Dir:thíos	#;
+thall+Adv+Dir:thall	#;
+anall+Adv+Dir:anall	#;
+anonn+Adv+Dir:anonn	#;
+abhus+Adv+Dir:abhus	#;
+
+tuaidh+Adv+Dir:tuaidh	#;
+tuaidh+Adv+Dir+Len:thuaidh	#;
+<ó %_:%  t h u a i d h %+Adv:0 %+Dir:0>	#;
+aduaidh+Adv+Dir:aduaidh	#;
+
+deas+Adv+Dir:deas	#;
+<ó %_:%  d h e a s %+Adv:0 %+Dir:0>	#;
+theas+Adv+Dir:theas	#;
+aneas+Adv+Dir:aneas	#;
+
+soir+Adv+Dir:soir	#;
+thoir+Adv+Dir:thoir	#;
+anoir+Adv+Dir:anoir	#;
+
+siar+Adv+Dir:siar	#;
+thiar+Adv+Dir:thiar	#;
+aniar+Adv+Dir:aniar	#;
+
+ann+Adv+Loc:ann		#;
+anseo+Adv+Loc:anseo	#;
+ansiúd+Adv+Loc:ansiúd	#;
+anseo+Adv+Loc:anso	#;
+ansin+Adv+Loc:ansin	#;
+ansin+Adv+Loc:ansan	#;
+abhaile+Adv+Dir:abhaile	#;
+amach+Adv+Dir:amach	#;
+isteach+Adv+Dir:isteach	#;
+amuigh+Adv+Loc:amuigh	#;
+<t a o b h %_:%  a m u i g h %+Adv:0 %+Loc:0>	#;
+istigh+Adv+Loc:istigh	#;
+<t a o b h %_:%  i s t i g h %+Adv:0 %+Loc:0>	#;
+lastuas+Adv+Loc:lastuas	#;	! above overhead
+lastoir+Adv+Loc:lastoir	#;	! on the east side
+lastuaidh+Adv+Loc:lastuaidh	#; 	! on the north side
+lasmuigh+Adv+Loc:lasmuigh	#;
+laistigh+Adv+Loc:laistigh	#;
+timpeall+Adv+Dir:timpeall	#;
+<a r %_:%  a i s %+Adv:0 %+Dir:0>     #; !!
+!!Tobar
+<a r %_ a i s %+Adv:0 %+Dir:0>     #; !!
+nuige+Adv+Dir:nuige	#; ! (Added CW 09/08)
+nuige+Adv+Dir:nuig	#; ! (Added CW 09/08)
+
+! GENERAL
+araon+Adv+Gn:araon	#;
+amú+Adv+Gn:amú		#;
+amugha+Adv+Gn:amugha		#; ! (Added CW 09/08) variation of amú
+ámh+Adv+Gn:ámh		#;		! truly
+fadó+Adv+Gn:fadó	#;		! long ago
+fiú+Adv+Gn:fiú	#;		! leven
+anois+Adv+Gn:anois	#;
+anois+Adv+Gn:Anois	#;		! included as alternative to Prop Noun
+arís+Adv+Gn:arís	#;
+arís+Adv+Gn:aríst	#;
+!! MOVED TO ADJ annamh+Adv+Gn:annamh	#;
+cheana+Adv+Gn:cheana	#;
+choíche+Adv+Gn:choíche	#;
+choíche+Adv+Gn:choidhche	#; !(Added CW 09/08)
+choíche+Adv+Gn:choidhchin	#; !(Added CW 09/08)
+déanach+Adv+Gn:déanach	#;
+fós+Adv+Gn:fós	#;
+feasta+Adv+Gn:feasta	#;
+minic+Adv+Gn:minic	#;
+riamh+Adv+Gn:ariamh	#;
+riamh+Adv+Gn:riamh	#;
+uaireanta+Adv+Gn:uaireanta	#;
+<d á %_:%  b h a r r %_:%  s i n %+Adv:0 %+Gn:0>   #;	! Manner Adv
+<g o %_:%  l e o r %+Adv:0 %+Gn:0>	#;	! Manner Adv
+<c h e a n a %_:%  f é i n %+Adv:0 %+Gn:0>	#;	! Manner Adv
+<a %_:%  t h u i l l e a d h %+Adv:0 %+Gn:0>	#;	! Manner Adv
+!! what about chomh mór/hálainn etc. etc. 
+!!<c h o m h %_:%  m a i t h %+Adv:0 %+Gn:0>	#;	! Manner Adv
+!!Tobar
+<i %_ m e a s c %+Adv:0 %+Gn:0>	#;	! Manner Adv
+<i n %_ a i r d e %+Adv:0 %+Gn:0>	#;	! Manner Adv
+chuige+Adv+Gn:chuige	#; !(Added CW 09/08)
+chuige+Adv+Gn:chuigint	#; !(Added CW 09/08)
+chuige+Adv+Gn:chuigis	#; !(Added CW 09/08)
+eadhon+Adv+Gn:eadhon	#; !(Added CW 09/08) Lit: Namely
+eadhón+Adv+Gn:eadhón	#; !(Added CW 09/08) Lit: Namely
+trá+Adv+Gn:trá	#; ! (Added CW 09/08) Lit: Then, indeed
+trá+Adv+Gn:tra	#; ! (Added CW 09/08) Lit: Then, indeed
+
+inniu+Adv+Temp:inniu	#;
+inniu+Adv+Temp:inniubh	#; !(Added CW 09/08)
+inniu+Adv+Temp+Gen+Sg:innibh	#; !(Added CW 09/08)
+inné+Adv+Temp:inné	#;
+amárach+Adv+Temp:amárach	#;
+amárach+Adv+Temp:amáireach	#;
+anocht+Adv+Temp:anocht	#;
+aréir+Adv+Temp:aréir	#;
+anuraidh+Adv+Temp:anuraidh	#;
+istoíche+Adv+Temp:istoíche	#;
+<l e %_:%  g a i r i d %+Adv:0 %+Temp:0>	#;	! lately; Temporal Adv
+<t h a r %_:%  a %_:%  b h e i t h %+Adv:0 %+Its:0>	#;	! Its Adv
+túisce+Adv+Temp:túisce	#; ! (Added CW 09/08)
+amainiris+Adv+Temp:amainiris	#; ! The second day after tomorrow (Added CW 09/08)
+amairinis+Adv+Temp:amairinis	#; ! Variation of amainiris
+nuige+Adv+Temp:nuige	#; ! (Added CW 09/08)
+nuige+Adv+Temp:nuig	#; ! (Added CW 09/08)
+
+amhlaidh+Adv+Gn:amhlaidh	#;
+beagnach+Adv+Gn:beagnach	#;
+dáiríre+Adv+Gn:dáiríre	#; ! 
+dáiríre+Adv+Gn:dáirírí	#; ! (Added CW 09/08)
+dáiríre+Adv+Gn:dáiríribh	#; ! (Added CW 09/08)
+fosta+Adv+Gn:fosta	#;
+freisin+Adv+Gn:freisin	#;
+áfach+Adv+Gn:áfach	#;
+arú+Adv+Gn:arú	#;
+
+!! see PART-LEX.TXT (etc.) for following
+!!ní+Adv+Gn:ní	#;
+!!nach+Adv+Gn:nach	#;
+!!ná+Adv+Gn:ná	#;
+!!níor+Adv+Gn:níor	#;
+!!nár+Adv+Gn:nár	#;
+
+
+! INTERROGATIVE
+!!cá+Cop+Adv+Q:cá		#;
+!!cá+Cop+Adv+Q+Past:cár	#;
+!!cá+Cop+Adv+Q:cár	#;
+!!cá+Cop+Adv+Q:cárb	#;
+!!cá+Cop+Adv+Q:cárbh	#;
+
+cá+Adv+Q:cá		#;
+cá+Adv+Q+Past:cár	#;
+cá+Adv+Q:cár	#;
+cá+Adv+Q:cárb	#;
+cá+Adv+Q:cárbh	#;
+cathain+Adv+Q:cathain	#;
+conas+Adv+Q:conas	#;
+
+! DEGREE (INTENSIFIERS OF ADJECTIVES)
+
+ach		Its;   ! as in "ach amháin" and "ach sinne amháin"
+sách		Its;
+iontach		Its;
+measartha	Its;
+réasúnta 	Its;
+cuíosach	Its;
+sonraíoch	Its;
+breá		Its;
+milteannach	Its;
+cineál		Its;
+bunús		Its;
+chóir		Its;
+damanta		Its;
+deas		Its;
+diabhalta	Its;
+fiánta		Its;
+chomh		Its;
+chomh:cho	Its;
+chomh:comh	Its;
+chomh:chó	Its;
+<t h a r %_:%  a %_:%  b h e i t h %+Adv:0 %+Its:0>	#;	! Its Adv
+	
+LEXICON Its
++Adv+Its:	#;

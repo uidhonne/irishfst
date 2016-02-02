@@ -1,0 +1,33 @@
+! Mixed Verb Stems
+ 
+LEXICON VerbsB
+fliuch+Verb+VTI:fliuch	V1-BR;	! gsm ~ wet; rainy
+agóid+Verb+VI+Vow:agóid	V1-SL;	! objection, protest, lucht ~e
+preab+Verb+VI:preab	V1-BR;	! start; bounce; throb; liveliness;
+ruaig+Verb+VT:ruaig	V1-SL;	! pl ~eanna chase, rout;
+conspóid+Verb+VTI:conspóid	V1-SL;	! argument; controversy vt &
+pléasc+Verb+VTI:pléasc	V1-BR;	! pl ~anna explosion; bang,
+scread+Verb+VI:scread	V1-BR;	! pl ~anna scream vi
+stóráil+Verb+VT:stóráil	V1-SL-LC;	! storage vt store
+bog+Verb+VTI:bog	V1-BR;	! soft part, etc, ~
+dearg+Verb+VTI:dearg	V1-BR;	! npl ~a red; rouge,
+tolg+Verb+VTI:tolg	V1-BR;	! attack; force; gap, rent
+scaoil+Verb+VTI:scaoil	V1-SL;	! loose(n), release; unfasten, slacken;
+síl+Verb+VTI:síl	V1-SL;	! think, consider; intend
+cúngaigh+Verb+VTI:cúngaigh	V2-BR;	! narrow, restrict, cúngú ar
+méadaigh+Verb+VTI:méadaigh	V2-BR;	! increase, multiply; enlarge; grow
+
+feith+Verb:feith		V1-SL;
+cúnaigh+Verb:cúnaigh		V2-BR;
+dámh+Verb:dámh		V1-BR;
+díbh+Verb:díbh		V1-BR;
+díolaim+Verb:díolaim		V2-SL;
+díospóid+Verb:díospóid	V1-SL;
+eisiacht+Verb+Vow:eisiacht	V1-BR;
+fionraigh+Verb:fionraigh	V2-BR;
+fortaigh+Verb:fortaigh	V2-BR;
+glan+Verb:glan		V1-BR;
+taifigh+Verb:taifigh		V2-SL;
+táinsigh+Verb:táinsigh	V2-SL;
+tairngrir+Verb:tairngr	V2-SL-sync; 	! NEED TO ADD CC or FIX
+tochsail+Verb:tochsl	V2-BR-sync;	! "

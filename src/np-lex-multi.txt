@@ -1,0 +1,100 @@
+!**************************************************************************
+! Moirfeolaíocht na nAinmfhocail Gaeilge (Morphology of Irish Nouns)
+!**************************************************************************
+! E. Uí Dhonnchadha 
+!************************************************************************* 
+ 
+Multichar_Symbols 
+
+! PART-OF-SPEECH TAGS
++Noun	! noun
++Prop	! proper
++Masc	! masculine gender
++Fem	! feminine gender
++Com	! nominative case 
++Gen	! genitive case 
++Voc	! vocative case 
++Dat
++Sg	! singular
++Pl	! plural
++hPref	! 
++DefArt	! noun preceeded by definite article (an)
++Def	! noun preceeded by definite article (an)
++Idf	! noun without article (there is no indefinite article)
++Strong	! strong plural 
++Weak	! weak plural
++Emph	! emphasised - ár dteachsa, do theachsa, a teachsa
++Len	! lenite after simple prep. eg ar chat
++Prep	! prefix h before vowel
++Ecl	! after compound prep eg ar an gcat
++CM	! canúint na Mumhan, Munster dialect
++CC	! canúint Chonnachta
++CU	! canúint Uladh
+
++Place	! Place name
++Fam	! Family Name
++Pers	! Personal Name
++Adj	! +Adj+Base+DeNom are used for adjectives drived from proper nouns
++Base	! e.g. Spáinneach
++DeNom
+
+
+! TAGS TO SIGNIFY WORD-START MUTATIONS
+^M 	! masculine & feminine : initial mutations of singular nouns depend on 
+^F	! whether the noun is masculine or feminine
+
+^C 	! nominative, genitive & vocative : initial mutations of plural nouns 
+^G 	! depend on the case
+^V	!
+
+^Sé	! Séimhiú (softening) Lenition - h added after certain initial 
+	! consonants (bcdfgmpst)
+	! eg "an cat" in gen. sg. becomes "bia an chait" (the cat's  
+	! food) 
+
+^Urú	! Eclipsis - a letter placed before word initial letter  (bcdfgpt)
+	! eg  "g" before "c" - "an cat" in gen. pl. becomes "bia na gcat" 
+	! (the cats' food) 
+
+^tv	! "t-" before a vowel (eg éan : Nom. Sg. Masc. an t-éan - the bird) 
+
+^hv	! "h" before a vowel (eg éan : Nom. Pl. Masc. na héin - the birds) 
+
+^ts	! "t" before "s" 
+	! eg sagart : Gen Sg.Masc. teach an tsagairt - the priest's house
+^Def	! dntls rule after definite article
+
+! TAGS TO SIGNIFY WORD-END MUTATIONS
+^Caol	! Caolú (slenderise)- Attenuation : ie slenderise the end of word 
+	! Usually by adding an "i" after  the last broad vowel 
+	! aouáóú are broad vowels; ieíé are slender vowels  
+	! eg "an cat" (the cat) in nom. pl. becomes "na cait" (the cats) 
+^Lea	! Leathnú - Broadening eg an "i" is removed 
+	! súil (eye); radharc na súl (eyesight)
+^Coim	! Coimriú - Syncopation - the last unstressed vowel is dropped
+	! eg saghas (type) ->saghs +anna, solas->soils+e (light) - with attenation also
+^Ath	! Athrú (Change) - in certain plurals the ending changes : "e" -> "í",
+	! "each" -> "í" and "ach" changes to "aí" etc.eg gealach -> gealaí (of the moon)
+^VH	! Maintains vowel harmony of broad and slender vowels
+	! Motto : "leathan le leathan agus caol le caol" (slender with slender and 
+	! broad with broad)
+^Emph	! emphatic forms
+^IM	! general initial mutation e.g. mo chat, ar an mballa
+
+!**************************************************************************  
+!
+!					L E X I C O N
+!
+!**************************************************************************  
+LEXICON Root
+	NP-Irregular;		! ORIGINAL TEST LEXICON
+	NP-LEX-FAM;
+	NP-LEX-FAM-EN;
+	NP-LEX-PERS;
+	NP-LEX-PERS-EN;
+	NP-LEX-EIRE;
+	NP-LEX-EIRE-EN;
+	NP-LEX-TIR;
+	NP-LEX-TIR-EN;
+	NP-LEX-ORG;
+	NP-LEX-DCU;

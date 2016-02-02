@@ -1,0 +1,116 @@
+!****************************************************************************
+! change:
+! July 2004: 
+! removed +Len +Ecl from lexical level see  LEXICON SéUrú
+! removed +hPref see LEXICON Base
+! Nov 04
+! relaced +Len +Ecl in lexical level see  LEXICON SéUrú
+! added Its as in go_leor+Adj+Its
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+! Na hAidiactaí Tuairisciúla - Descriptive Adjectives
+!
+!  E. Uí Dhonnchadha
+! (c)2001
+! (1) New Irish Grammar by The Christian Brothers  
+! (2) Réchúrsa Gramadaí, Brian Mac Giolla Phádraig
+! (3) Graméir Gaeilge na mBráithre Críostaí
+! (4) Nuachúrsa Gaeilge na mBráithre Críostaí
+! (5) A Handbook of Irish Vol 2.An Outline of Modern Irish Grammar,
+!     Alfred Bammesberger
+! (6) Ó Dónaill Irish-English Dictionary
+! (7) Gléacht - Ó Dónaill Online Dictionary 
+!
+! Descriptive adjectives can be used in two ways (REF P59 NIG)
+!
+! a) predicatively - quailifies a noun/pronoun *indirectly* as a predicate 
+!    or part of a predicate
+!    E.G. Is BREÁ an lá é (It is a LOVELY day, lit. it is lovely that the day is (approx!)
+!    E.G. Tá mé TUIRSEACH (I am TIRED)
+!    E.G. Tá sé FUAR (It is COLD)
+!    Used in this way the base form IS NOT INFLECTED to agree with case/number/gender
+!    of the noun - except in a few cases ... see p 59 s4 NIG
+!    The base form (positive degree) is used
+!
+! b) attributively - qualifies a noun *directly*
+!    E.G. Tá an páiste ÓG ar scoil (The YOUNG child is a at school
+!    E.G. Tá an fhuinneog GHLAN (The window is CLEAN)
+!    E.G. Níl pingin RUA agam (I haven't a (RED) penny)
+!
+!    Used in this form it IS INFLECTED to agree with case/number/gender of the noun
+!
+!    The adjective usually follows the noun though some forms can be prefixed
+!    to the noun e.g. SEANfhear (old man) LAGmhisneach?? ((in) low spirits),
+!    ARDeagalis (cathedral - lit. high church)
+! 
+!****************************************************************************
+
+Multichar_Symbols
+
++Adj	! adjective
++Base	! positive / base form (changed from +Pos to +Base 10/09/03)
++Comp	! comparative
+! +Sup	! superlative
++Masc	! masculine gender
++Fem	! feminine gender
++Com	! nominative case
++Gen	! genitive case 
++Voc	! vocative case 
++Sg	! singular
++Pl	! plural
+
++Weak	! when an adj is qualifying a strong plural noun(i.e. noun plural is the 
++Strong	! same for all cases) the adj will also have the same form in all cases
+	! BUT when the adj. is qualifying  a weak plural noun,in the gen.case, it  
+	! is not inflected i.e. the base form of the adjective is used. 
+	! Nom and Voc plurals are inflecte as for strong plural nouns
+
++Slender ! qualifies a plural noun ending in a slender consonant
++NotSlen ! qualifies a plural noun ending in a broad consonantor a vowel
++hPref	! prefix e.g. (h)iontach
++Ecl	! eclipsis - urú; e.g. i ngach
++Len	! e.g. ab fhearr, ba mhó
+	! a masc  noun must be either lenitedor eclipsed according to 
+	! preference/dialect. If it is lenited then the adj is likewise lenited.
+	! If it is eclipsed then the adj has no initial mutation.
+
+	! After simple prepositions (e.g. den (from it), don (to it), sa (in it),
+	! san (in it - after vowel initial noun)) both masc and fem
+	! nouns are lenited where possible, an adj following a masc noun which is 
+	! lenited may be *optionally* lenited also. (dialect based ???)
++Cop	! with Copail "is" e.g. b'fhearr
++Its	! Adj+Its
+
+^Adj	! Adjective- used in initial mutations
+^Sé	! Séimhiú (softening) Lenition - h added after certain initial 
+	! consonants (bcdfgmpst)
+^Urú	! eclipsis e.g. i ngach 
+^Ath	! Athrú (change) word ending
+^Caol	! Caolú (slenderise)- Attenuation : ie slenderise the end of word 
+	! (see P9 NIG). 
+	! Usually by adding an "i" after  the last broad vowel 
+	! aouáóú are broad vowels; ieíé are slender vowels  
+	! eg "an cat" (the cat) in nom. pl. becomes "na cait" (the cats) 
+^Lea	! Broaden
+^Coim	! Syncopate
+^IM	! initial mutation
+^hv	! h before vowel
+!**************************************************************************  
+!
+!					L E X I C O N
+!
+!**************************************************************************  
+LEXICON Root
+	AdjA;				! ORIGINAL TEST LEXICON
+	AdjIrregular;			! ORIGINAL TEST LEXICON
+	Adj-BaseOnly;	!AdjBASE;	! ORIGINAL TEST LEXICON
+	Adj-IrregComp;	!AI-COMP;	! ORIGINAL TEST LEXICON
+	AdjB;				! punk adjs
+	AdjC;				! FP adjs - auto
+	AdjDath; 			! colours
+	AdjE;				! FP adjs - manual
+	Adj-FGB1;			! Foclóir Gaeilge Béarla Uí Dhónaill
+	Adj-FGB2;			! Foclóir Gaeilge Béarla Uí Dhónaill
+	AdjVariants;			! Adj Variants in FGB
+	AdjEqualVariants;		! Adj Variants with Equal Sign in FGB
+
+!************************************************************************** 

@@ -1,0 +1,88 @@
+!****************************************************************************
+! Abbreviations
+!
+!  E. Uí Dhonnchadha
+! 
+! May 2004 : +Quo instead of +St & +End for quotation marks
+!****************************************************************************
+
+Multichar_Symbols
+
++Punct		! Abbreviation
++Int		! sentence internal
++Fin		! sentence final
++Brack		! round, square and curly brackets
++St		! start bracket, quote etc
++End		! end bracket, quote etc
++Q		! question mark ?
++Bar		! hyphen, underscore, dash etc.
++Quo		! all quotation marks double, single etc.
++Conj +Coord	! & 
+!---------------------------------------------------------------------------
+
+LEXICON Root
+	Punctuation;
+
+LEXICON Punctuation
+%.	Final;
+<%!>	Final;
+%.%.%.	Final;
+%.%.	Final;
+%?	FinalQ;
+
+%"	Quote;
+%"	Quote;
+%`	Quote;
+%'%'	Quote;
+%'	Quote;
+%'	Quote;
+%'%'	Quote;
+%&quot%; Quote;
+
+%,	Internal;
+%;	Internal;
+%:	Internal;
+
+%-	Bar;
+%-%-	Bar;
+%_	Punct;
+%/	Punct;
+
+%(	Br_Start;
+%)	Br_End;
+%)%.+Punct+Brack+Fin:%)%.	#;	! added 24/07/08
+%[	Br_Start;
+%]	Br_End;
+%{	Br_Start;
+%}	Br_End;
+%&lt%;	Br_Start;
+%&gt%;	Br_End;
+
+agus+Conj+Coord:%&	#;
+agus+Conj+Coord:%&amp%;	#;
+
+LEXICON Punct 
++Punct:		#;
+
+
+LEXICON Final 
++Punct+Fin:		#;
+
+LEXICON FinalQ 
++Punct+Fin+Q:		#;
+
+LEXICON Internal 
++Punct+Int:		#;
+
+LEXICON Br_Start 
++Punct+Brack+St:	#;
+
+LEXICON Br_End 
++Punct+Brack+End:	#;
+
+LEXICON Quote 
++Punct+Quo:		#;
+
+LEXICON Bar 
++Punct+Bar:		#;
+

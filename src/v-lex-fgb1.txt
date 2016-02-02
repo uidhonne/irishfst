@@ -1,0 +1,222 @@
+!! NEEDS FURTHER TESTING OF -X WORDS
+!! FIND ALL !!!!! and TEST
+
+LEXICON Verbs-FGB1
+
+adhaltranaigh+Verb+VT:adhaltranaigh		V2-BR;	! analyzed as compound: adh+altranaigh
+ailtéarnaigh+Verb+VTI:ailtéarnaigh		V2-BR;
+airbheartaigh+Verb+VI:airbheartaigh		V2-BR;
+amhastraigh+Verb+VI:amhastraigh		V2-BR;
+aothaigh+Verb+VI:aothaigh		V2-BR;
+argóin+Verb+VTI:argóin		V1-SL-BR;	! (pres -ónann, vn ~t)
+ársaigh+Verb+VI:ársaigh		V2-BR;
+ársaigh+Verb+VT:ársaigh		V2-BR;
+!!!!!ascain+Verb+VI:ascain		V2-BR-sync;	! (pres -cnaíonn, vn -cnamh)
+aslaigh+Verb+VT:aslaigh		V2-BR;
+astaigh+Verb+VT:astaigh		V2-BR;
+atosaigh+Verb+VTI:atosaigh		V2-BR;
+badráil+Verb+VT:badráil		V1-SL-LC;
+baslaigh+Verb+VT:baslaigh		V2-BR;
+beoghoin+Verb+VT:beoghoin		V1-SL;	! analyzed as compound: beo+ghoin
+beophian+Verb+VT:beophian		V1-BR;	! analyzed as compound: beo+phian
+blocáil+Verb+VT:blocáil		V1-SL-LC;
+bocsáil+Verb+VTI:bocsáil		V1-SL-LC;
+bocsáil+Verb+VT:bocsáil		V1-SL-LC;
+bodhair+Verb+VT:bodhair		V1-SL-BR;	! (pres -dhrann; vn -dhradh m, gs & pp-artha)
+brácáil+Verb+VTI:brácáil		V1-SL-LC;
+brúisc+Verb+VT:brúisc		V1-SL;
+buac+Verb+VT:buac		V1-BR;
+buinnigh+Verb+VI:buinnigh		V2-SL;
+buíochasaigh+Verb+VT:buíochasaigh		V2-BR;
+burdáil+Verb+VT:burdáil		V1-SL-LC;
+cabáil+Verb+VT:cabáil		V1-SL-LC;
+caipitligh+Verb+VT:caipitligh		V2-SL;
+caithreáil+Verb+VTI:caithreáil		V1-SL-LC;
+cánáil+Verb+VT:cánáil		V1-SL-LC;
+cantáil+Verb+VTI:cantáil		V1-SL-LC;
+caochfháithimigh+Verb+VT:caochfháithimigh		V2-SL;
+car+Verb+VT:car		V1-BR;
+céadcheap+Verb+VT:céadcheap		V1-BR;	! analyzed as compound: céad+cheap
+ceis+Verb+VTI:ceis		V1-SL;
+cin+Verb+VI:cin		V1-SL;
+cleitigh+Verb+VT:cleitigh		V2-SL;
+cliceáil+Verb+VTI:cliceáil		V1-SL-LC;
+cluicheáil+Verb+VTI:cluicheáil		V1-SL-LC;
+cocáil+Verb+VT:cocáil		V1-SL-LC;
+codhnaigh+Verb+VT:codhnaigh		V2-BR;
+coimhthigh+Verb+VT:coimhthigh		V2-SL;
+coirb+Verb+VT:coirb		V1-SL;
+cóireáil+Verb+VT:cóireáil		V1-SL-LC;	! analyzed as compound: có+ireáil
+conáil+Verb+VT:conáil		V1-SL-LC;
+corb+Verb+VT:corb		V1-BR;
+cóstáil+Verb+VI:cóstáil		V1-SL-LC;	! analyzed as compound: có+stáil
+craiceáil+Verb+VTI:craiceáil		V1-SL-LC;
+crampáil+Verb+VT:crampáil		V1-SL-LC;
+creath+Verb+VI:creath		V1-BR;
+creimneáil+Verb+VT:creimneáil		V1-SL-LC;
+creimseáil+Verb+VTI:creimseáil		V1-SL-LC;
+cuilteáil+Verb+VTI:cuilteáil		V1-SL-LC;
+cúinneáil+Verb+VT:cúinneáil		V1-SL-LC;
+cúláil+Verb+VT:cúláil		V1-SL-LC;	! analyzed as compound: cúl+áil
+damhain+Verb+VT:damhain		V1-SL-BR;	! (pres -mhnann; vn -mhnadh m, gs ~te)
+!!!!!deachair+Verb+VT:deachair		V2-BR-sync;	! (pres -chraíonn, vn -chrú)
+difreáil+Verb+VTI:difreáil		V1-SL-LC;
+díoghail+Verb+VT:díoghail		V1-SL-BR;	! (pres -ghlann); analyzed as compound: dí+oghail
+díoscarnaigh+Verb+VI:díoscarnaigh		V2-BR;	! analyzed as compound: dí+oscarnaigh
+dipeáil+Verb+VT:dipeáil		V1-SL-LC;
+dísligh+Verb+VT:dísligh		V2-SL;	! analyzed as compound: dí+sligh (*CEARTAITHE DE LÁMH)
+doiléirigh+Verb+VT:doiléirigh		V2-SL;
+donnaigh+Verb+VTI:donnaigh		V2-BR;
+dópáil+Verb+VT:dópáil		V1-SL-LC;
+!!!!!dramhail+Verb+VT:dramhail		V2-BR-sync;	! (pres -mhlaíonn; vn ~t f, gs ~te)
+dúbláil+Verb+VTI:dúbláil		V1-SL-LC;
+dustáil+Verb+VTI:dustáil		V1-SL-LC;
+earb+Verb+VTI:earb		V1-BR;
+eascoiteannaigh+Verb+VT:eascoiteannaigh		V2-BR;
+eis+Verb+VI:eis		V1-SL;
+fadhbh+Verb+VT:fadhbh		V1-BR;
+!!!!!faghair+Verb+VT:faghair		V2-BR-sync;	! (pres -ghraíonn, vn ~t, pp -artha)
+failp+Verb+VT:failp		V1-SL;
+fánaigh+Verb+VI:fánaigh		V2-BR;
+faoileáil+Verb+VTI:faoileáil		V1-SL-LC;
+feamnaigh+Verb+VT:feamnaigh		V2-BR;
+flípeáil+Verb+VT:flípeáil		V1-SL-LC;
+foilseán+Verb+VT:foilseán		V1-SL-LC;
+foirgnigh+Verb+VT:foirgnigh		V2-SL;
+fol+Verb+VI:fol		V1-BR;
+fórsáil+Verb+VT:fórsáil		V1-SL-LC;
+foscain+Verb+VT:foscain		V2-SL;
+foscain+Verb+VT:foscain		V2-SL;
+frapáil+Verb+VT:frapáil		V1-SL-LC;
+freang+Verb+VT:freang		V1-BR;
+Gaelaigh+Verb+VT:Gaelaigh		V2-BR;
+gallúnaigh+Verb+VTI:gallúnaigh		V2-BR;
+giosáil+Verb+VI:giosáil		V1-SL-LC;
+glasaigh+Verb+VTI:glasaigh		V2-BR;
+gléghlan+Verb+VT:gléghlan		V1-BR;
+gligleáil+Verb+VTI:gligleáil		V1-SL-LC;
+gormaigh+Verb+VTI:gormaigh		V2-BR;
+gráinseáil+Verb+VI:gráinseáil		V1-SL-LC;
+grinnscrúdaigh+Verb+VT:grinnscrúdaigh		V2-BR;
+grioll+Verb+VTI:grioll		V1-BR;
+hapáil+Verb+VTI:hapáil		V1-SL-LC;
+Heilléanaigh+Verb+VT:Heilléanaigh		V2-BR;
+ianaigh+Verb+VT:ianaigh		V2-BR;
+ibh+Verb+VTI:ibh		V1-SL;
+imeasc+Verb+VT:imeasc		V1-BR;	! analyzed as compound: im+easc
+indibhidigh+Verb+VT:indibhidigh		V2-SL;
+inneallfhuaigh+Verb+VT:inneallfhuaigh		V1-BR-LV;	! analyzed as compound: inneall+fhuaigh
+iomráidh+Verb+VTI:iomráidh		V1-SL;	! analyzed as compound: iom+ráidh
+ionannaigh+Verb+VT:ionannaigh		V2-BR;	! analyzed as compound: ion+annaigh
+Laidinigh+Verb+VT:Laidinigh		V2-SL;
+laoidh+Verb+VT:laoidh		V1-SL;
+lastáil+Verb+VT:lastáil		V1-SL-LC;
+leictreaphlátáil+Verb+VT:leictreaphlátáil		V1-SL-LC;	! analyzed as compound: leictrea+phlátáil
+léirchruthaigh+Verb+VT:léirchruthaigh		V2-BR;	! analyzed as compound: léir+chruthaigh
+léirghlan+Verb+VT:léirghlan		V1-BR;	! analyzed as compound: léir+ghlan
+léirsigh+Verb+VI:léirsigh		V2-SL;	! analyzed as compound: léir+sigh (*CEARTAITHE DE LÁMH)
+linseáil+Verb+VT:linseáil		V1-SL-LC;
+lóg+Verb+VI:lóg		V1-BR;
+loingsigh+Verb+VTI:loingsigh		V2-SL;
+luaidh+Verb+VTI:luaidh		V1-SL;
+macht+Verb+VT:macht		V1-BR;
+mámáil+Verb+VTI:mámáil		V1-SL-LC;
+mapáil+Verb+VT:mapáil		V1-SL-LC;
+meaitseáil+Verb+VTI:meaitseáil		V1-SL-LC;
+mianraigh+Verb+VT:mianraigh		V2-BR;
+mionathraigh+Verb+VT:mionathraigh		V2-BR;	! analyzed as compound: mion+athraigh
+mionroinn+Verb+VT:mionroinn		V1-SL;	! analyzed as compound: mion+roinn
+nicilphlátáil+Verb+VT:nicilphlátáil		V1-SL-LC;
+pocléim+Verb+VI:pocléim		V2-SL;
+práib+Verb+VT:práib		V1-SL;
+prapáil+Verb+VTI:prapáil		V1-SL-LC;
+púitseáil+Verb+VT:púitseáil		V1-SL-LC;
+racáil+Verb+VT:racáil		V1-SL-LC;
+rásáil+Verb+VTI:rásáil		V1-SL-LC;
+reith+Verb+VTI:reith		V1-SL;
+riall+Verb+VT:riall		V1-BR;
+rígh+Verb+VT:rígh		V1-SL;
+rindreáil+Verb+VT:rindreáil		V1-SL-LC;
+róbáil+Verb+VTI:róbáil		V1-SL-LC;
+rod+Verb+VTI:rod		V1-BR;
+rútáil+Verb+VTI:rútáil		V1-SL-LC;
+saibhseáil+Verb+VTI:saibhseáil		V1-SL-LC;
+sáirsingigh+Verb+VT:sáirsingigh		V2-SL;
+sampláil+Verb+VT:sampláil		V1-SL-LC;
+scáthlínigh+Verb+VT:scáthlínigh		V2-SL;
+scinceáil+Verb+VTI:scinceáil		V1-SL-LC;
+sciortáil+Verb+VT:sciortáil		V1-SL-LC;
+scoráil+Verb+VT:scoráil		V1-SL-LC;
+scuitseáil+Verb+VTI:scuitseáil		V1-SL-LC;
+seachránaigh+Verb+VI:seachránaigh		V2-BR;
+siortáil+Verb+VTI:siortáil		V1-SL-LC;
+sios+Verb+VI:sios		V1-BR;
+siosc+Verb+VT:siosc		V1-BR;
+siosc+Verb+VTI:siosc		V1-BR;
+sir+Verb+VT:sir		V1-SL;
+slámáil+Verb+VTI:slámáil		V1-SL-LC;
+sleacht+Verb+VTI:sleacht		V1-BR;
+sligh+Verb+VTI:sligh		V1-SV;
+smálaigh+Verb+VT:smálaigh		V2-BR;
+smeadráil+Verb+VTI:smeadráil		V1-SL-LC;
+smiog+Verb+VI:smiog		V1-BR;
+soiscéalaigh+Verb+VTI:soiscéalaigh		V2-BR;
+sóisialaigh+Verb+VT:sóisialaigh		V2-BR;
+soncáil+Verb+VTI:soncáil		V1-SL-LC;
+sonn+Verb+VT:sonn		V1-BR;
+spear+Verb+VT:spear		V1-BR;
+spéiceáil+Verb+VTI:spéiceáil		V1-SL-LC;
+spíceáil+Verb+VT:spíceáil		V1-SL-LC;
+spionn+Verb+VT:spionn		V1-BR;
+spléach+Verb+VI:spléach		V1-BR;
+spotáil+Verb+VT:spotáil		V1-SL-LC;
+spreachallaigh+Verb+VT:spreachallaigh		V2-BR;
+spruigeáil+Verb+VTI:spruigeáil		V1-SL-LC;
+sprúill+Verb+VT:sprúill		V1-SL;
+stánáil+Verb+VT:stánáil		V1-SL-LC;
+stánphlátáil+Verb+VT:stánphlátáil		V1-SL-LC;
+!!!!!stoithin+Verb+VT:stoithin		V2-SL-sync;	! (pres -thníonn; vn -thneadh m, gs~te)
+straidhpeáil+Verb+VT:straidhpeáil		V1-SL-LC;
+strapáil+Verb+VT:strapáil		V1-SL-LC;
+subhaigh+Verb+VI:subhaigh		V2-BR;
+suimeáil+Verb+VT:suimeáil		V1-SL-LC;
+suiteáil+Verb+VT:suiteáil		V1-SL-LC;
+tácláil+Verb+VT:tácláil		V1-SL-LC;
+tall+Verb+VT:tall		V1-BR;
+tapáil+Verb+VTI:tapáil		V1-SL-LC;
+tatuáil+Verb+VT:tatuáil		V1-SL-LC;
+teinn+Verb+VT:teinn		V1-SL;
+teisteáil+Verb+VT:teisteáil		V1-SL-LC;
+til+Verb+VTI:til		V1-SL;
+tiomain+Verb+VTI:tiomain		V1-SL-BR;	! (pres -mnann; vn ~t f, gs & pp-anta)
+tirimghlan+Verb+VT:tirimghlan		V1-BR;
+tlúáil+Verb+VT:tlúáil		V1-SL-LC;
+toghail+Verb+VT:toghail		V1-SL-BR;	! (pres -ghlann)
+torchair+Verb+VTI:torchair		V1-SL-BR;	! (pres -chrann; vn -chra m, pp-artha)
+tornáil+Verb+VT:tornáil		V1-SL-LC;
+trampáil+Verb+VTI:trampáil		V1-SL-LC;
+treaghd+Verb+VT:treaghd		V1-BR;
+triosc+Verb+VT:triosc		V1-BR;
+truaigh+Verb+VTI:truaigh		V1-BR-LV;
+truipeáil+Verb+VTI:truipeáil		V1-SL-LC;
+truncáil+Verb+VT:truncáil		V1-SL-LC;
+trusáil+Verb+VT:trusáil		V1-SL-LC;
+trust+Verb+VT:trust		V1-BR;
+tuaigh+Verb+VT:tuaigh		V1-BR-LV;
+!!!!!!!úim+Verb+VT:úim		V1-SL-BRX;	! (pres úmann, vn úmadh, pp úmtha)	CHECK
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!	Entered by hand
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+atriail+Verb+VT:atriail		V1-SL;
+cóimheasc+Verb+VI:cóimheasc	V1-BR;
+dearbhasc+Verb+VTI:dearbhasc	V1-BR; ! (pp ~tha)
+eisc+Verb+VT:eisc		V1-SL; ! (pp ~the)
+íonghlan+Verb+VT:íonghlan	V1-BR;
+!!!!!lochair+Verb+VT:lochair		V2-BR-sync; !	(vn -chradh, pp -artha)	CHECK
+mionteagasc+Verb+VT:mionteagasc		V1-SL-BR; ! (pp ~tha)
+rúnscríobh+Verb+VT:rúnscríobh		V1-BR; ! (vn ~ m, gs & pp -ofa)
+!!!!!saighid+Verb+VT:saighid		V1-SL-sync; ! (pres -ghdeann, vn -ghdeadh)	CHECK		NEW
+saorghlan+Verb+VT:saorghlan		V1-BR;
+tairis+Verb+VI:tairis		V2-SL; ! (vn ~eamh)
+tomhaidhm+Verb+VI:tomhaidhm		V1-SL; ! Lit: (Of water)

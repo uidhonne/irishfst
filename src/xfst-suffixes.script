@@ -1,0 +1,34 @@
+# Irish Guesser - Standard Suffixes: Applied to Nouns
+clear stack
+
+# non-standard plurals like bádaí, leithreasaí
+# a better way to do this is to code the extra plurals in the lexicon
+# alongside the standard plurals 
+# and tag as +CU, +CC etc 
+# otherwise you end up with +Sg +Pl etc. which then has to be fixed..
+#define PlSuff	[[a í]
+#];
+
+# diminutive suffix
+define DimSuff	[[í n]
+];
+
+# ^Caol = make last syllable slender if necessary
+# buachaill + ín;  rud + ín => ruidín; all working OK
+# póg -> póigín; drainc -> draincín; all working OK
+define Suff [[%+Dim].x.[%^Caol DimSuff] ]
+#           |[[%+PlWOW].x.[PlSuff] ]
+;
+# NEW
+# use only +Com form
+define Baseform [%+Com];
+define NonBase [%+Gen | %+Dat | %+Voc | %+Len | %+Ecl | %+hPref | %+Pl | %+DefArt];
+
+read regex Suff;
+###### old read regex  @"int/ncomm.fst";
+read regex ~$[NonBase] .o. @"int/ncomm.fst";
+# end new
+concatenate net
+save stack int/ncommsuff.fst
+echo << nouns + suffixes saved as int/ncommsuff.fst...>>>
+

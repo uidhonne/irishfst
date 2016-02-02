@@ -1,0 +1,73 @@
+! Second Conjugation Verb Stems
+
+LEXICON VerbsC2A
+
+beannaigh+Verb+VTI:beannaigh	V2-BR;	
+ceannaigh+Verb+VTI:ceannaigh	V2-BR;	
+clúdaigh+Verb+VT:clúdaigh	V2-BR;	
+cuardaigh+Verb+VTI:cuardaigh	V2-BR;	
+cumhdaigh+Verb+VT:cumhdaigh	V2-BR;	
+cónaigh+Verb+VI:cónaigh	V2-BR;	
+corraigh+Verb+VTI:corraigh	V2-BR;	
+dathaigh+Verb+VTI:dathaigh	V2-BR;	
+earcaigh+Verb+VTI+Vow:earcaigh	V2-BR;	
+fiafraigh+Verb+VTI:fiafraigh	V2-BR;	
+fosaigh+Verb+VTI:fosaigh	V2-BR;	
+gortaigh+Verb+VT:gortaigh	V2-BR;	
+ionsaigh+Verb+VTI+Vow:ionsaigh	V2-BR;	
+sásaigh+Verb+VT:sásaigh	V2-BR;	
+scrúdaigh+Verb+VT:scrúdaigh	V2-BR;	
+socraigh+Verb+VTI:socraigh	V2-BR;	
+teastaigh+Verb+VI:teastaigh	V2-BR;	
+tosaigh+Verb+VTI:tosaigh	V2-BR;	! start
+tosnaigh+Verb+VTI:tosnaigh	V2-BR;	! start (variant)
+breathnaigh+Verb+VTI:breathnaigh	V2-BR;	! look
+ciallaigh+Verb+VTI:ciallaigh	V2-BR;	! mean, sense
+bunaigh+Verb+VT:bunaigh	V2-BR;	! found
+tarlaigh+Verb+VTI:tarlaigh	V2-BR;	! happen
+aontaigh+Verb+VTI+Vow:aontaigh	V2-BR;	! agree
+freastail+Verb+VTI:freastal	V2-BR;	! exceptions : NOT syncopated
+lorg+Verb+VTI:lorg	V2-BR;	
+achainigh+Verb+VTI+Vow:achainigh	V2-SL;	! request
+airigh+Verb+VT+Vow:airigh	V2-SL;	
+áirigh+Verb+VT+Vow:áirigh	V2-SL;	
+áitigh+Verb+VTI+Vow:áitigh	V2-SL;	
+bailigh+Verb+VTI:bailigh	V2-SL;	
+cruinnigh+Verb+VTI:cruinnigh	V2-SL;	
+cuimhnigh+Verb+VTI:cuimhnigh	V2-SL;	
+cúitigh+Verb+VT:cúitigh	V2-SL;	
+dúisigh+Verb+VTI:dúisigh	V2-SL;	
+éirigh+Verb+VI+Vow:éirigh	V2-SL;	
+éiligh+Verb+VTI+Vow:éiligh	V2-SL;	
+eitigh+Verb+VT+Vow:eitigh	V2-SL;	
+imigh+Verb+VI+Vow:imigh	V2-SL;	
+réitigh+Verb+VT:réitigh	V2-SL;	
+smaoinigh+Verb+VTI:smaoinigh	V2-SL;	
+foilsigh+Verb+VT:foilsigh	V2-SL;	
+léirigh+Verb+VT:léirigh	V2-SL;	
+aithris+Verb+VTI+Vow:aithris	V2-SL;	! exceptions : NOT syncopated
+foghlaim+Verb+VTI:foghlaim	V2-SL;	
+fulaing+Verb+VTI:fulaing	V2-SL;	
+tarraing+Verb+VTI:tarraing	V2-SL;	
+tuirling+Verb+VI:tuirling	V2-SL;	
+agair+Verb+VT+Vow:agair	V2-BR-sync;	
+bagair+Verb+VTI:bagair	V2-BR-sync;	
+ceangail+Verb+VT:ceangail	V2-BR-sync;	! verbs ending in -il,-in,-ir,-is are SYNCOPATED
+codail+Verb+VTI:codail	V2-BR-sync;	
+cogair+Verb+VT:cogair	V2-BR-sync;	
+cosain+Verb+VTI:cosain	V2-BR-sync;	
+fógair+Verb+VTI:fógair	V2-BR-sync;	
+freagair+Verb+VTI:freagair	V2-BR-sync;	
+iompair+Verb+VTI+Vow:iompair	V2-BR-sync;	
+iomair+Verb+VTI+Vow:iomair	V2-BR-sync;	
+labhair+Verb+VTI:labhair	V2-BR-sync;	
+múscail+Verb+VTI:múscail	V2-BR-sync;	
+oscail+Verb+VTI+Vow:oscail	V2-BR-sync;	
+aithin+Verb+VT+Vow:aithin	V2-SL-sync;	
+díbir+Verb+VT:díbir	V2-SL-sync;	
+cigil+Verb+VTI:cigil	V2-SL-sync;	
+coigil+Verb+VT:coigil	V2-SL-sync;	
+eitil+Verb+VI+Vow:eitil	V2-SL-sync;	
+imir+Verb+VTI+Vow:imir	V2-SL-sync;	
+inis+Verb+VTI+Vow:inis	V2-SL-sync;	
+taitin+Verb+VTI:taitin	V2-SL-sync;	

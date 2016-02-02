@@ -1,0 +1,190 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!   I R R E G U L A R   A D J E C T I V E S !!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!***************************************************************************
+!	N O   I N F L E C T I O N  -  B A S E   F O R M   O N L Y 
+!***************************************************************************
+LEXICON Adj-BaseOnly
+
+amháin	AdjBASE;	! one
+dáiríre AdjBASE;	! serious e.g. téama dháiríre
+ionann	AdjBASE;	! same, identical
+mó	AdjBASE;	! many as in "An mó ..?" "How many...?"
+mórmhór	AdjBASE;	! especially as in "go mórmhór
+mórmór	AdjBASE;	! especially as in "go mórmór
+
+píre+Adj+Base:píre			#;	! dáiríre píre
+!uile+Adj+Base:uilig	SEE DET-LEX		#;	! all, entirely
+<g o %_:%  l e o r %+Adj:0 %+Its:0>	#;	! e.g. ceart/minic go_leor
+
+!! the following always come at the end of the noun/pron/adj and cannot 
+!! be intermingled with other adjectives 
+!! Have moved to Demonstrative Determiners 
+!!seo		AdjBASE;	! this
+!!so		AdjBASE;	! this
+!!sin		AdjBASE;	! that
+!!eile	AdjBASE;	! other
+
+
+
+!***************************************************************************
+!	I R R E G U L A R    C O M P A R A T I V E S
+!***************************************************************************
+LEXICON Adj-IrregComp
+álainn:áille		AI-COMP;	! see Cruinnscríobh p97
+beag:lú			AI-COMP;
+beag:lúide		AI-COMP;
+breá:breátha		AI-COMP;
+dócha:dóichí		AI-COMP;
+dearg:deirge		AI-COMP; ! dirge removed in xfst-fix.script
+bándearg:bándeirge	AI-COMP;
+liathdhearg:liathdheirge AI-COMP;
+!!!dian:déine		AI-COMP;
+fada:faide		AI-COMP;
+fliuch:fliche		AI-COMP;
+furasta:fusa		AI-COMP;
+gearr:giorra		AI-COMP;
+imníoch:imníche		AI-COMP;
+láidir:láidre		AI-COMP;
+leathan:leithne		AI-COMP;
+liath:léithe		AI-COMP;
+maith:fearr		AI-COMP;
+minic:minicí		AI-COMP;	! variation on regular minice
+mall:moille		AI-COMP;	! var. on maille
+mór:mó			AI-COMP;
+mór:móide		AI-COMP;
+olc:measa		AI-COMP;
+ramhar:raimhre		AI-COMP;
+saibhir:saibhre		AI-COMP;
+sean:sine		AI-COMP;
+te:teo			AI-COMP;
+tapa:tapúla		AI-COMP;
+
+
+LEXICON AI-COMP
++Adj+Comp:0		#;
++Adj+Comp+Len:^IM^Sé	#;   ! e.g. an rialtas ab fhearr
+!**************************************************************************
+!	I R R E G U L A R    I N F L E C T I O N
+!**************************************************************************
+!
+LEXICON AdjIrregular
+! note comparatives are handled above
+
+céanna+Adj+Base+Ecl:gcéanna	#;	! Eclipsed form, e.g. an am gcéanna
+
+
+AI-álainn;		! lovely
+breá:0		AI-breá;		! fine, grand
+
+dearg:0		AI-dearg;		! red
+bándearg:bán	AI-dearg;		! pink
+liathdhearg:0	AI-liathdhearg;		! pale red, pinkish
+
+liath:0		AI-liath;		! grey
+glasliath:glas	AI-liath;		! grey
+bricliath:bric	AI-liath;		! streaked with grey
+
+sean:0		AI-sean;
+te:0		AI-te; 			! hot
+
+LEXICON AI-álainn
+álainn+Adj+Base:álainn		#;
+!!+Adj+Base+hPref:hálainn		#;
+<0:h á l a i n n %+Adj:0 %+Base:0 %+hPref:0>	#;
+álainn+Adj+Fem+Com+Sg:álainn	#;		!beautiful	
+!!+Adj+Fem+Gen+Sg:áille	#;	
+<á 0:i l 0:l a:e i:0 n:0 n:0 %+Adj:0 %+Fem:0 %+Gen:0 %+Sg:0>	#;
+álainn+Adj+Fem+Voc+Sg:álainn	#;
+
+álainn+Adj+Masc+Com+Sg:álainn		#;
+álainn+Adj+Masc+Gen+Sg:álainn		#;
+álainn+Adj+Masc+Voc+Sg:álainn		#;
+
+<á 0:i l 0:l a:e i:0 n:0 n:0 %+Adj:0 %+Com:0 %+NotSlen:0 %+Pl:0>	#;
+<á 0:i l 0:l a:e i:0 n:0 n:0 %+Adj:0 %+Com:0 %+Slender:0 %+Pl:0>	#;
+álainn+Adj+Gen+Weak+Pl:álainn		#;
+<á 0:i l 0:l a:e i:0 n:0 n:0 %+Adj:0 %+Gen:0 %+Strong:0 %+Pl:0>	#;
+<á 0:i l 0:l a:e i:0 n:0 n:0 %+Adj:0 %+Voc:0 %+Pl:0>	#;
+
+LEXICON AI-liath
++Adj+Base:liath		#;
++Adj+Fem+Com+Sg:liath	#;			!grey	
++Adj+Fem+Gen+Sg:léithe	#;	
++Adj+Fem+Voc+Sg:liath	#;
+
++Adj+Masc+Com+Sg:liath		#;
+!+Adj+Masc+Com+Sg+Len:liath	#;	
++Adj+Masc+Gen+Sg:léith		#;
++Adj+Masc+Voc+Sg:liath		#;
+
++Adj+Com+NotSlen+Pl:liatha 	#;
++Adj+Com+Slender+Pl:liatha	#;
++Adj+Gen+Weak+Pl:liath		#;
++Adj+Gen+Strong+Pl:liath	#;
++Adj+Voc+Pl:liatha			#;
+
+
+LEXICON AI-dearg	
++Adj+Fem+Gen+Sg:deirge			#;	
+
+LEXICON AI-liathdhearg	
++Adj+Fem+Gen+Sg:liathdheirge			#;	
+
+LEXICON AI-breá	
++Adj+Base:breá				#;	
++Adj+Base+Len:bhreá				#;	
++Adj+Fem+Com+Sg:bhreá			#;
++Adj+Fem+Gen+Sg:breátha			#;	
++Adj+Fem+Voc+Sg:bhreátha		#;
+
++Adj+Masc+Com+Sg:breá			#;
++Adj+Masc+Com+Sg+Len:bhreá		#;
++Adj+Masc+Gen+Sg:bhreá			#;
++Adj+Masc+Voc+Sg:bhreá			#;
+
++Adj+Com+NotSlen+Pl:breátha 	#;
++Adj+Com+Slender+Pl:bhreátha	#;
++Adj+Gen+Weak+Pl:breá			#;
++Adj+Gen+Strong+Pl:breátha		#;
++Adj+Voc+Pl:bhreátha			#;
+
+LEXICON AI-sean	
++Adj+Base:sean				#;	
++Adj+Base+Len:shean				#;	
++Adj+Fem+Com+Sg:shean			#;
++Adj+Fem+Gen+Sg:sine			#;	
++Adj+Fem+Voc+Sg:shean		#;
+
++Adj+Masc+Com+Sg:sean			#;
++Adj+Masc+Com+Sg+Len:shean		#;
++Adj+Masc+Gen+Sg:shin			#;
++Adj+Masc+Voc+Sg:shean			#;
+
++Adj+Com+NotSlen+Pl:seana 	#;
++Adj+Com+Slender+Pl:sheana	#;
++Adj+Gen+Weak+Pl:sean			#;
++Adj+Gen+Strong+Pl:seana		#;
++Adj+Voc+Pl:sheana			#;
+
+
+LEXICON AI-te
++Adj+Base:te				#;
++Adj+Base+Len:the				#;
++Adj+Fem+Com+Sg:the			#;			
++Adj+Fem+Gen+Sg:te			#;	
++Adj+Fem+Voc+Sg:the			#;
+
++Adj+Masc+Com+Sg:te			#;
++Adj+Masc+Com+Sg+Len:the		#;
++Adj+Masc+Gen+Sg:the		#;
++Adj+Masc+Voc+Sg:te			#;
+
++Adj+Com+NotSlen+Pl:teo 	#;
++Adj+Com+Slender+Pl:teo		#;
++Adj+Gen+Weak+Pl:teo		#;
++Adj+Gen+Strong+Pl:teo		#;
++Adj+Voc+Pl:teo				#;
+
+

@@ -1,0 +1,1091 @@
+!**************************************************************************
+! Moirfeolaíocht na nAinmfhocail Gaeilge (Morphology of Irish Nouns)
+!**************************************************************************
+
+LEXICON Nouns 
+!************************************************************************** 
+!					1st DECLENSION 
+!************************************************************************** 
+!	ALL MASCULINE NOUNS 
+!************************************************************************** 
+!	NOMINATIVE SINGULAR:	all end in a broad consonant
+!	GENITIVE SINGULAR:		FORMED BY SLENDERISING (ATTENUATION)
+!						or -each/-ach is converted to -í/-aí
+!	VOCATIVE SINGULAR:		same as genitive sg. with a few exceptions
+!************************************************************************** 
+!	PLURALS:	10 MASC. CATEGORIES: 2 WEAK AND 8 STRONG
+!			weak plural => Nom, Gen & Voc plurals are not the same
+!**************************************************************************  
+! 
+! (1) WEAK PLURALS 
+! 	
+!	Nom Pl : Caolú (Slenderise)
+!	Gen Pl : Tada (No change)
+!	Voc Pl : Append "a"
+!
+!
+!	Sg:				 			Pl: 
+! Nom												
+! 	an cat (the cat)				na cait	(the cats)		}
+!	an t-éan (the bird)				na héin	(the birds)		} slenderised	
+! 	an suipéar (the supper)			na suipéir (the suppers)}
+!
+! Gen
+!	bia an chait (the cat's food)	bia na gcat (the cats' food)	
+! 	ceol an éin (the birds's song)	ceol na n-éan (the birds' song)	
+! 	am an suipéir (the supper's time) an na suipéar (the suppers' time)
+!
+! Voc
+!	a chait (O Cat)					a chata (O Cats)
+!	a éin (O Bird)					a éana (O Birds)
+!	a suipéir (O Supper)			a suipéara (O Suppers)
+! 	
+!
+
+airgeadas	Nm1-SINGULAR;
+áireamh		Nm1-SINGULAR;
+amhras		Nm1-SINGULAR;
+aonar		Nm1-SINGULAR;
+ár		Nm1-SINGULAR;
+brath		Nm1-SINGULAR;
+caitheamh	Nm1-SINGULAR;
+ceannas		Nm1-SINGULAR; ! authority, headship
+comhar		Nm1-SINGULAR;
+cothrom		Nm1-SINGULAR;
+cur		Nm1-SINGULAR;
+dearcadh	Nm1-SINGULAR;
+dochar		Nm1-SINGULAR;
+dubh		Nm1-SINGULAR;
+éigean		Nm1-SINGULAR;
+eolas		Nm1-SINGULAR;
+glan		Nm1-SINGULAR;
+iompar		Nm1-SINGULAR;
+iúl		Nm1-SINGULAR;
+láithreach	Nm1-SINGULAR;
+ligean		Nm1-SINGULAR;
+líon		Nm1-SINGULAR;
+misneach	Nm1-SINGULAR;	! courage 
+mórán		Nm1-SINGULAR;
+neart		Nm1-SINGULAR;
+oideachas	Nm1-SINGULAR;
+ól		Nm1-SINGULAR;
+seasamh		Nm1-SINGULAR;
+staidéar	Nm1-SINGULAR;
+tuilleadh	Nm1-SINGULAR;
+tús		Nm1-SINGULAR;
+úr		Nm1-SINGULAR;
+
+
+
+ábhar		Nm1-1;	!
+achar		Nm1-1;	!
+aer		Nm1-1;	!
+airgead		Nm1-1;	! money
+airteagal	Nm1-1;	!
+alt		Nm1-1;	!
+amharc		Nm1-1;	!
+amhrán		Nm1-1;	!
+!aon		Nm1-1;	!
+arm		Nm1-1;	!
+bád		Nm1-1;	! boat
+ball 		Nm1-1;	!
+barr		Nm1-1;	!
+beagán		Nm1-1;	!
+bonn		Nm1-1;	!
+bord		Nm1-1;	! table
+béal		Nm1-1;	! mouth
+cat		Nm1-1;	! cat 
+ceann		Nm1-1;	! head, one 	** irregular voc. sg.  see xfst-fix.script
+ceantar		Nm1-1;	!
+clár		Nm1-1;  !  Standard plural cláir
+clár		Nm1-11; !  NonStandard plural cláracha
+cliabh		Nm1-1;	!               !!!!!!!!!!!!!!!check this
+clog		Nm1-1;	!
+cnoc		Nm1-1;	! hill 
+cór		Nm1-1;	!
+córas		Nm1-1;	!
+crann		Nm1-1;	! tree
+cúl		Nm1-1;	!
+cuntas		Nm1-1;	!
+dearmad		Nm1-1;	!
+dearmad+CM:dearúd		Nm1-1;	!
+diabhal		Nm1-1;	!
+diabhal+CC:deabhal		Nm1-1;	! Variation (Added CW 09/08)
+domhan		Nm1-1;	!
+éadan		Nm1-1;	!
+éan		Nm1-1;	! bird 
+fás		Nm1-1;	! growth
+focal		Nm1-1;	! word
+fad		Nm1-1;	! length
+fear		Nm1-1;	! man 
+fómhar		Nm1-1;	!
+fonn		Nm1-1;	!
+gael		Nm1-1;	!
+glas		Nm1-1;	!
+inneall 	Nm1-1;	! engine 
+iomlán		Nm1-1;	!
+ionad		Nm1-1;	!
+iontas		Nm1-1;	!
+lán		Nm1-1;	!
+lár		Nm1-1;	!
+leabhar		Nm1-1;	! book 
+leibhéal	Nm1-1;	!
+!mac		Nm1-1;	! now in irregular file
+marbh		Nm1-1;	!
+marcach		Nm1-1;	! jockey 
+meán		Nm1-1;	!
+meitheamh	Nm1-1;	!
+
+naomh   	Nm1-1;	! saint
+nóiméad		Nm1-1;	!
+oileán		Nm1-1;	!
+páipéar		Nm1-1;	! paper 
+pictiúr		Nm1-1;	!
+pobal		Nm1-1;	! public		** irregular voc. sg.  see xfst-fix.script
+post		Nm1-1;	! post		    ** alternative plural postanna should be added
+sagart  	Nm1-1;	! priest 
+scriosán	Nm1-1;	! eraser 
+séipéal 	Nm1-1;	! church 
+suíomh		Nm1-1;	! situation, site 
+suipéar 	Nm1-1;	! supper
+radharc		Nm1-1;	!
+réiteach	Nm1-1;	! solution 
+rialtas		Nm1-1;	!
+rún		Nm1-1;	! secret, love 	** irregular voc. sg.  see xfst-fix.script
+saor		Nm1-1;	!
+saothar		Nm1-1;	! work
+scannán		Nm1-1;	!
+sórt		Nm1-1;	!
+Satharn		Nm1-1;	! Saturday
+stáisiún	Nm1-1;	!
+stát		Nm1-1;	!
+tamall		Nm1-1;	!
+tamall+CU:tamalt		Nm1-1;	!
+teideal		Nm1-1;	!
+timpeall	Nm1-1;	!
+tionchar	Nm1-1;	!
+tom		Nm1-1;	!
+triúr		Nm1-1;	!
+turas		Nm1-1;	!
+uachtarán	Nm1-1;	!
+údar		Nm1-1;	!
+údarás		Nm1-1;	!
+
+!--------------------------------------------------------------------------
+! (2) WEAK PLURALS
+!	Nom Pl : Append "a"		(PL-)
+!	Gen Pl : No change		(PL-)
+!	Voc Pl : Append "a"		(PL-)
+!
+! EXAMPLE:
+!	Sg:				 			Pl:
+! Nom	
+!	an cleas(the trick)				na cleasa (the tricks)
+!	an t-úll (the apple)			na húlla (the apples)			
+!	an sábh (the saw)????
+!
+! Gen	
+!	fear an chlis (the trick's man)	fear na gcleas (the tricks' man)
+!	croí an úill (the apple core)	croí na n-úll (the apples' core)
+!
+!
+! Voc	
+!	a Chleas (O trick)				a Chleasa (O tricks)
+!	a úll 							a úlla
+! 	
+!
+
+bruas		Nm1-2;	! (thick) lip 
+cág		Nm1-2;	! jackdaw 
+ceart		Nm1-2;	! right
+cor		Nm1-2;	!
+!!dearg		Nm1-2;	! GS ea -> i BUT deirg not dirg SEE N-LEX-IRREG.TXT
+fionn		Nm1-2;	! fair, white
+gnáth		Nm1-2;	!
+íol		Nm1-2;	! idol 
+más		Nm1-2;	!
+óg		Nm1-2;	!
+slán		Nm1-2;
+úll		Nm1-2;	! apple
+
+!--------------------------------------------------------------------------
+! (3) STRONG PLURALS - ADD "TA"
+!	ONE SYLLABLE
+! 	LONG VOWEL (áéíóú ao ae o[mh] u[mh] i[á|ó] u[á|ó] a[rd|rl|rn|rr])
+!	OR DIPHTHONG (ua, ia)
+
+! EXAMPLE
+
+ál		Nm1-3;	! clutch, brood
+aon		Nm1-3;	! one, ace 
+céad		Nm1-3;	!
+ceol		Nm1-3;	!
+dán		Nm1-3;	!
+dún		Nm1-3;	!
+gaol		Nm1-3;	! relationship, relative
+geall		Nm1-3;	! bet
+Luan		Nm1-3;	! Monday
+rian		Nm1-3;	! mark, track 
+saol		Nm1-3;	! life
+scéal		Nm1-3;	!
+seol		Nm1-3;	! sail
+síol		Nm1-3;	! seed
+
+!--------------------------------------------------------------------------
+! (4) STRONG PLURALS - ADD "THA"
+!
+glór		Nm1-4;	! voice
+múr		Nm1-4;	! wall, shower
+scór		Nm1-4;	! twenty
+stór		Nm1-4;	! store, treasure 	** irreg voc.sg. - see xfst-fix.script
+
+!--------------------------------------------------------------------------
+! (5) STRONG PLURALS - ADD (A)Í
+!			   AND ENDING CHANGES 
+
+bealach		Nm1-5;	! way, road
+cogadh		Nm1-5;	!
+Domhnach	Nm1-5;	! Sunday
+deireadh	Nm1-5;	!
+éadach		Nm1-5;	! cloth
+geimhreadh	Nm1-5;	! winter
+leanbh		Nm1-5;	! child	
+margadh		Nm1-5;	! market 
+rabhadh		Nm1-5;	!
+samhradh	Nm1-5;	! summer
+soitheach	Nm1-5;	! vessal
+toradh		Nm1-5;	! fruit, result 	** irreg pl - see xfst-fix.script		
+
+
+!--------------------------------------------------------------------------
+! (6) STRONG PLURALS - ADD  "ANNA"
+
+bás		Nm1-6;	!
+bun		Nm1-6;	! 
+cás		Nm1-6;	! 
+carr		Nm1-6;	! car
+marc		Nm1-6;	! mark
+nós		Nm1-6;	!
+spás		Nm1-6;	! space
+taobh		Nm1-6;	!
+
+!--------------------------------------------------------------------------
+! (7) STRONG PLURALS - ADD "Í"
+
+
+cúram		Nm1-7;	! care, responsibility   ???????????????check this out
+réamhcúram	Nm1-7;	! precaution
+
+!--------------------------------------------------------------------------
+! (8) STRONG PLURALS - SYNCOPATE + ADD "ANNA"
+!
+! syncopation : "a" from last syllable will be removed
+praghas		Nm1-8;	! price
+saghas		Nm1-8;	! type, kind	
+
+!--------------------------------------------------------------------------
+! (9) STRONG PLURALS - SYNCOPATE, ATTENUATE + ADD "E"
+
+bóthar		Nm1-9;	! road
+doras		Nm1-9;	! door
+solas 		Nm1-9;	! light
+uasal		Nm1-9;	! noble person
+
+!--------------------------------------------------------------------------
+! (10) STRONG PLURALS - SYNCOPATE + ADD "EACHA"
+
+tobar		Nm1-10;	! well
+
+!--------------------------------------------------------------------------
+! (11) STRONG PLURALS - ADD "ACHA"
+
+cineál		Nm1-11;	! type, kind, species (NOT SYNCOPATED)
+leagan		Nm1-11;	! version
+!************************************************************************** 
+!					2nd DECLENSION 
+!************************************************************************** 
+!	ALL FEMININE NOUNS 
+!	except 3 which are masc.: im (butter) sliabh (mountain) teach (house)
+!************************************************************************** 
+!	NOMINATIVE SINGULAR:	all end in a broad/slender consonant
+!
+!	GENITIVE SINGULAR:		FORMED BY SLENDERISING (IF NECESSARY) + ADDING "E"
+!						or -each/-ach is converted to -í/-aí
+!
+!	VOCATIVE SINGULAR:		same as nominative sg. 
+!************************************************************************** 
+!
+!	PLURALS:	11 FEM. CATEGORIES:	4 WEAK AND 7 STRONG
+! 			1 MASC.
+!			
+! 		list the categories here ......
+!**************************************************************************  
+
+
+baint		Nf2-SINGULAR;
+réir		Nf2-SINGULAR;
+spéis		Nf2-SINGULAR;
+teilifís	Nf2-SINGULAR;
+titim		Nf2-SINGULAR;
+
+
+!--------------------------------------------------------------------------
+! (1) WEAK PLURALS (no longer used)
+!
+!--------------------------------------------------------------------------
+!
+! (2) WEAK PLURALS (ie Nom, Gen & Voc plurals are not the same)
+! ONE SYLLABLE - Broad/Slender
+! 	
+!	Nom Pl : Append "a"			(PL-3)
+!	Gen Pl : Broaden if nec.	(PL-2)
+!	Voc Pl : Append "a"			(PL-3)
+!
+binn		Nf2-2;	! peak		
+cliath		Nf2-2;	!
+deoir		Nf2-2;	! tear
+
+! FROM 2-1
+adharc		Nf2-2;	! horn
+bróg		Nf2-2;	! shoe		
+clann		Nf2-2;	! family
+cos		Nf2-2;	! foot
+fuinneog	Nf2-2;	! window
+lámh		Nf2-2;	! hand
+leath		Nf2-2;	!
+long		Nf2-2;	! ship
+
+
+!--------------------------------------------------------------------------
+! (3) WEAK PLURALS 
+! 	
+!	Nom Pl : Slenderise if nec. + add "e"	(PL-8)
+!	Gen Pl : Broaden						(PL-2)
+!	Voc Pl : Slenderise if nec. + add "e"	(PL-8)
+!
+dúil		Nf2-3;	! desire
+glúin		Nf2-3;	! knee or generation
+súil		Nf2-3;	! eye
+
+
+!--------------------------------------------------------------------------
+! (4) WEAK PLURALS 
+! 	MORE THAN ONE SYLLABLE, 
+!	ENDS IN (E)ACH WHICH CHANGES TO (A)Í IN GEN. SG. (USES ^ATH TAG & D4)
+! 	
+!	Nom Pl : Append "a"		(PL-3)
+!	Gen Pl : No change		(PL-0)
+!	Voc Pl : Append "a"		(PL-3)
+!
+
+
+báisteach	Nf2a-SINGULAR;	! rain		NO PL	
+cailleach	Nf2-4;	! hag, witch
+gealach		Nf2-4;	! moon
+girseach	Nf2-4;	! child
+
+
+!
+!--------------------------------------------------------------------------
+!
+! (5) STRONG PLURALS - ADD "TE"
+
+coill		Nf2-5;	! wood
+scrín		Nf2-5;	! shrine
+slinn		Nf2-5;	! a slate
+
+!--------------------------------------------------------------------------
+! (6) STRONG PLURALS - ADD "EANNA"
+!
+
+aghaidh		Nf2-6;	!
+ais		Nf2-6;	!
+áit		Nf2-6;	! place
+aois		Nf2-6;	!
+beirt		Nf2-6;	!
+breis		Nf2-6;	!
+caint		Nf2-6;	! talk
+ceist		Nf2-6;	!
+cuairt		Nf2-6;	!
+cúis		Nf2-6;	!
+deis		Nf2-6;	!
+dóigh		Nf2-6;	!
+feidhm		Nf2-6;	!
+leith		Nf2-6;	!
+méid		Nf2-6;	! size, magniture
+mír		Nf2-6;	!
+ollscoil	Nf2-6;	!
+sail		Nf2-6;	! timber beam, cudgel
+scéim		Nf2-6;	!
+scoil		Nf2-6;	!
+sráid		Nf2-6;	!
+sraith		Nf2-6;	!
+stailc		Nf2-6;	! strike
+suim		Nf2-6;	!
+
+
+!--------------------------------------------------------------------------
+! (7) STRONG PLURALS - ADD "Í"
+!  more than one syllable - SLENDER
+
+aimsir		Nf2-7;	! weather	
+beairic		Nf2-7;	! barrack
+eaglais		Nf2-7;	! church (as in organisation)
+insint		Nf2-7;	!
+intinn		Nf2-7;	!
+léaráid		Nf2-7;	!
+leithéid	Nf2-7;	!
+malairt		Nf2-7;	!
+oifig		Nf2-7;	!
+oscailt		Nf2-7;	!
+seachtain	Nf2-7;	!
+seirbhís	Nf2-7;	! service
+sochraid	Nf2-7;	! funeral
+tuairim		Nf2-7;	!
+tuairisc	Nf2-7;	! an account
+úsáid		Nf2-7;	!
+
+!--------------------------------------------------------------------------
+! ! BROAD & SLENDER
+! (8) STRONG PLURALS - ADD -(E)ACHA
+
+
+carraig		Nf2-8;	! a rock			! 
+ceirt		Nf2-8;	! a rag
+craobh		Nf2-8;	! branch			
+fíor		Nf2-8;	! figure/diagram
+fréamh		Nf2-8;	! root
+iall		Nf2-8;	! leash, shoelace
+iníon		Nf2-8;	!
+maidin		Nf2-8;	!
+muintir		Nf2-8;	!
+nead		Nf2-8;	! nest              ?????? test this
+splanc		Nf2-8;	! spark
+stoirm		Nf2-8;	! storm
+ubh		Nf2-8;	! egg	
+!--------------------------------------------------------------------------
+!) STRONG PLURALS - ADD "THA"
+! 
+
+aoir		Nf2-9;	! satire
+gáir		Nf2-9;	! a shout
+spéir		Nf2-9;	! sky
+stair		Nf2-9;	! history
+tír		Nf2-9;	! country
+!--------------------------------------------------------------------------
+! BROAD
+!  STRONG PLURALS - ADD "TA"
+! 
+
+buíon		Nf2-10;	! group, band		
+grian		Nf2-10;	! sun
+mian		Nf2-10;	!
+pian		Nf2-10;	! pain
+tonn		Nf2-10;	! wave (as in sea)	! irregular gen pl - see xfst-fix.script
+
+
+!--------------------------------------------------------------------------
+! 
+!  STRONG PLURALS - ADD "EANTA"
+
+uair		Nf2-11;	! hour, time
+
+!--------------------------------------------------------------------------
+toisc		Nf2-12;	! purpose, etc..
+
+!--------------------------------------------------------------------------
+! 3 Masculine words in 2nd Declension 
+
+!!im		Nm2-1;	! butter		! no pl. see xfst-remove.script
+im		Nm2-SINGULAR;	! butter	! no pl. 
+sliabh		Nm2-1; 	! mountain
+
+
+!************************************************************************** 
+!					3rd DECLENSION 
+!************************************************************************** 
+!	BOTH FEMININE & MASCULINE NOUNS 
+!************************************************************************** 
+!	NOMINATIVE SINGULAR:	all end in ?????
+!
+!	GENITIVE SINGULAR:		FORMED BY BROADENING (IF NECESSARY) + ADDING "A"
+!
+!	VOCATIVE SINGULAR:		same as ????
+!************************************************************************** 
+!
+!	PLURALS:	4 FEM. CATEGORIES: ALL STRONG
+!			7 MASC.CATEGORIES: ALL STRONG
+!**************************************************************************  
+! 
+
+!************************************************************************** 
+!                    3rd declension FEMININE NOUNS 
+!************************************************************************** 
+!
+coinneáil	Nf3-SINGULAR;	!
+éisteacht	Nf3-SINGULAR;	!
+imirt		Nf3-4;		! -SINGULAR;
+labhairt	Nf3-SINGULAR;	!
+tuiscint	Nf3-SINGULAR;	!
+díbirt		Nf3-SINGULAR;
+
+!  STRONG PLURALS - ADD "AÍ"
+!      more than one syllable ending in -(e)acht
+
+
+aisteoireacht	Nf3-1;	! acting ----test this e a
+beannacht	Nf3-1;	! blessing
+cumhacht	Nf3-1;	! power
+gaeltacht	Nf3-1;	!
+iarracht	Nf3-1;	!
+litríocht	Nf3-1;	!
+scoláireacht	Nf3-1;	! scholarship
+
+!--------------------------------------------------------------------------
+!
+!  STRONG PLURALS - ENDING CHANGES + ADD "AÍ"
+!	monosyllabic words ending in irt
+!
+buairt		Nf3-2;	! sorrow (worry)		
+iarraidh	Nf3-2;	! request
+
+!--------------------------------------------------------------------------
+!  STRONG PLURALS -  ADD "(E)ANNA"
+!
+
+fuil		Nf3-SINGULAR;	! blood           HAS IRREGULAR PLURAL
+toil		Nf3-SINGULAR;	! will (desire)   NO PLURAL
+
+!--------------------------------------------------------------------------
+!	polysyllabic words ending in irt
+
+féachaint	Nf3-4;	!
+forbairt	Nf3-4;	!
+tagairt		Nf3-4;	! reference	
+
+bagairt		Nf3-4;
+
+íobairt		Nf3-4;
+nollaig		Nf3-4;	! Christmas
+!--------------------------------------------------------------------------
+! 	words ending in áint, úint
+
+!!cinniúint	Nf3-4;	! fate		! No Plurals - see xfst-remove.script
+cinniúint	Nf3a-SINGULAR;	! fate		! No Plurals
+!!tiomáint	Nf3-4;	! driving	! No Plurals - see xfst-remove.script
+tiomáint	Nf3a-SINGULAR;	! driving	! No Plurals 
+
+!--------------------------------------------------------------------------
+bliain		Nf3-5;	! year
+
+!--------------------------------------------------------------------------
+gabháil		Nf3-SINGULAR;	! catch, seizure etc..  IRREG PL. SEE FIX FILE
+
+!--------------------------------------------------------------------------
+!  STRONG PLURALS -  BROADEN + "(E)ANNA"
+cuid		Nf3-8;	! a share, part  
+
+
+!************************************************************************** 
+!                  3rd declension MASCULINE NOUNS 
+!************************************************************************** 
+!
+! (13) STRONG PLURALS -  ADD "Í"
+!	personal nouns ending in -aeir, -éir, -eoir, -óir, -úir NIG P47
+
+
+
+díol		Nm3-SINGULAR;	!
+dul		Nm3-SINGULAR;	!
+fanacht		Nm3-SINGULAR;	!
+feadh		Nm3-SINGULAR;	!
+leas		Nm3-SINGULAR;	!
+meas		Nm3-SINGULAR;	!
+trácht		Nm3-SINGULAR;	!
+
+bádóir		Nm3-1;	! boat person
+múinteoir	Nm3-1;	!
+saighdiúir	Nm3-1;	! soldier   
+tincéir	 	Nm3-1;	! tinker
+táilliúir	Nm3-1;	! tailor
+scríbhneoir	Nm3-1;	! writer
+!--------------------------------------------------------------------------
+! 
+! (13) STRONG PLURALS -  ADD "ANNA"
+!	monosyllabic, broad ending
+
+acht		Nm3-2;	!
+am		Nm3-2;	! time
+áth		Nm3-2;	!
+bláth		Nm3-2;	! flower
+ceacht		Nm3-2;	! lesson
+cead		Nm3-2;	!
+dath		Nm3-2;	!
+dream		Nm3-2;	!
+fáth		Nm3-2;	!
+loch		Nm3-2;	! lake
+luach		Nm3-2;	!
+lucht		Nm3-2;	!
+modh		Nm3-2;	!
+snáth		Nm3-2;	! thread
+tráth		Nm3-2;	!
+
+!--------------------------------------------------------------------------
+!  STRONG PLURALS -  ADD "AÍ"
+!	monosyllabic, broad ending
+
+ab		Nm3-3;	!
+imeacht		Nm3-3;	!
+rás		Nm3-3;	! a race
+rud		Nm3-3;	! thing
+
+!--------------------------------------------------------------------------
+!  STRONG PLURALS - BROADEN + ADD "ANNA"
+!			  	OR CHANGE (io -> ea )+ ADD "ANNA"
+!	monosyllabic
+
+
+cith		Nm3-4;	! shower
+crith		Nm3-4;	! a shiver, shake
+droim		Nm3-4;	! back
+greim		Nm3-4;	! grip
+
+fios		Nm3a-SINGULAR;	! knowledge	! No Plurals - see xfst-remove.script
+sioc		Nm3a-SINGULAR;	! frost		! No Plurals - see xfst-remove.script
+
+!!crios		Nm3-4;	! belt		! Irregular Pl - see xfst-fix.script
+!! new category 28/03/08
+crios		Nm3-4a;	! belt
+!--------------------------------------------------------------------------
+!  STRONG PLURALS -  ADD "ACHA"
+!	monosyllabic, broad ending
+
+anam		Nm3-5;	! soul
+
+!--------------------------------------------------------------------------
+!  STRONG PLURALS -  BROADEN ADD "A"
+!	monosyllabic, slender ending
+
+
+flaith		Nm3-6;	! prince
+ros		Nm3-6;	!
+
+!--------------------------------------------------------------------------
+
+gleann		Nm3-7;	! glen
+
+!=======================end of 3rd declension=============================!
+
+!************************************************************************** 
+!					4th DECLENSION 
+!************************************************************************** 
+!	BOTH FEMININE & MASCULINE NOUNS 
+!************************************************************************** 
+!	NOMINATIVE SINGULAR:	all end in a vowel or "ín"
+!
+!	GENITIVE SINGULAR:		NO CHANGE
+!
+!	VOCATIVE SINGULAR:		same as ????
+!************************************************************************** 
+!
+!	PLURALS:	5 FEM. CATEGORIES: ALL STRONG
+!			7 MASC.CATEGORIES: ALL STRONG
+!**************************************************************************  
+!************************************************************************** 
+!                   4th declension FEMININE NOUNS 
+!************************************************************************** 
+
+! nouns ending in -a
+!  PL = +Í
+
+
+aigne		Nf4-SINGULAR;	!
+aire		Nf4-SINGULAR;	!
+áirithe		Nf4-SINGULAR;	!
+aithne		Nf4-SINGULAR;	!
+déanaí		Nf4-SINGULAR;	!
+faide		Nf4-SINGULAR;	! length
+imní		Nf4-SINGULAR;	!
+ní		Nf4-SINGULAR;	! wash
+óige		Nf4-SINGULAR;	!
+saoire		Nf4-SINGULAR;	!
+saoirse		Nf4-SINGULAR;	!
+taithí		Nf4-SINGULAR;	!
+plé		Nf4-SINGULAR;	! discussion
+
+bearna		Nf4-1;	! gap
+beatha		Nf4-1;	! life
+cuma		Nf4-1;	!
+eagla		Nf4-1;	! fear
+eala		Nf4-1;	! swam
+easpa		Nf4-1;	! lack
+lorga		Nf4-1;	! shin
+réalta		Nf4-1;	! star
+tábla		Nf4-1;	! table (e.g.of contents)
+
+!--------------------------------------------------------------------------
+! nouns ending in -e
+!  PL = +AÍ
+
+
+aice		Nf4-2;	!
+aicme		Nf4-2;	! class
+aiste		Nf4-2;	! essay
+bealtaine	Nf4-2;	!
+comhairle	Nf4-2;	! advice
+coinne		Nf4-2;	!
+fáilte		Nf4-2;	!
+farraige	Nf4-2;	!
+gloine		Nf4-2;	! glass
+sláinte		Nf4-2;	! health
+taibhse		Nf4-2;	! ghost
+táille		Nf4-2;	! fee
+tréimhse	Nf4-2;	!
+
+
+!--------------------------------------------------------------------------
+! nouns ending in -le and -ne (exceptions to above class)
+!PL = E -> TE
+
+Aoine		Nf4-3;	! Friday
+féile		Nf4-3;	! feast, festival
+léine		Nf4-3;	! shirt
+líne		Nf4-3;	!
+tine		Nf4-3;	! fire
+
+!--------------------------------------------------------------------------
+! more exceptions to above class
+
+!--------------------------------------------------------------------------
+! nouns ending in -é/í	! plurals é->éi +the
+				!         í->i +the
+
+bé		Nf4-4;	! maiden
+dé		Nf4-4;	! god
+iomaí		Nf4-4;	! couch, bed
+slí		Nf4-4;	! way, road
+
+! nouns ending in -aoi	! plurals +the
+laoi		Nf4-4;	! narrative poem
+
+!--------------------------------------------------------------------------
+! PL = +(E)ACHA
+Céadaoin	Nf4-5;	! Wednesday
+
+!--------------------------------------------------------------------------
+! PL = +ANNA
+
+brí		Nf4-6; ! meaning			!!!  FIX FILE
+caoi		Nf4-6; ! way, manner		!!!  FIX FILE
+gé		Nf4-6; ! goose
+Máirt		Nf4-6; ! Tuesday
+snáithe		Nf4-6; ! thread syn. snáth
+treo		Nf4-6; !
+
+
+oíche		Nf4-7;	! night
+
+
+! various ending in vowel	! plurals +nna
+bá		Nf4-8;	! bay
+fleá		Nf4-8;	! feast
+glao		Nf4-8;	! call
+grua		Nf4-8;	! cheek
+iomhá		Nf4-8;	! image
+má		Nf4-8;	! plain
+meá		Nf4-8;	! weight
+rogha		Nf4-8;	! bay
+sleá		Nf4-8;	! spear
+teanga		Nf4-SINGULAR;	! tongue or language		!!! FIX FILE for plural
+trá		Nf4-8;	! beach
+trua		Nf4-8;	! sorrow
+tua		Nf4-8;	! axe
+!************************************************************************** 
+!                   4th declension MASCULINE NOUNS 
+!************************************************************************** 
+
+
+! nouns ending in -ín (diminutive) 
+!	       OR -a				! plurals +í
+
+
+béarla		Nm4-SINGULAR;	! 
+céanna		Nm4-SINGULAR;	! 
+Déardaoin	Nm4-SINGULAR;	! Thursday
+gá		Nm4-SINGULAR;	! 
+grá		Nm4-SINGULAR;	!
+laghad		Nm4-SINGULAR;	!
+measc		Nm4-SINGULAR;	! jumble, confusion
+méid		Nm4-SINGULAR;	!
+nua		Nm4-SINGULAR;	!
+
+
+asailín		Nm4-1;	! small ass
+bádín		Nm4-1;	! small boat
+báisín		Nm4-1;	! basin
+balla		Nm4-1;	! wall
+bata		Nm4-1;	! stick
+beo		Nm4-1;	!
+cailín		Nm4-1;	! girl (unusually this is masculine)
+capaillín	Nm4-1;	! pony (small horse)
+ceirnín		Nm4-1;	! record (as in music)
+coinín		Nm4-1;	! rabbit
+cúpla		Nm4-1;	! 
+cúrsa		Nm4-1;	!
+dalta		Nm4-1;	! child, pupil
+dáta		Nm4-1;	!
+dílleachta	Nm4-1;	! orphen
+dráma		Nm4-1;	!
+earra		Nm4-1;	! article eg for sale
+féirín		Nm4-1;	! small gift
+freagra		Nm4-1;	!
+gairdín		Nm4-1;	! garden (small field?)
+garda		Nm4-1;	! guard
+gasóigín	Nm4-1;	! young shoot, boy scout
+grúpa		Nm4-1;	! group
+hata		Nm4-1;	! hat
+ispín		Nm4-1;	! sausage (!?)
+liosta		Nm4-1;	! list
+nóta		Nm4-1;	! note
+paidrín		Nm4-1;	! prayer (rosary)
+peaca		Nm4-1;	! sin
+pionta		Nm4-1;	! pint
+píopa		Nm4-1;	! pipe
+píosa		Nm4-1;	!
+posta		Nm4-1;	! variant on post
+ribín		Nm4-1;	! ribbon
+sampla		Nm4-1;	!
+scolóigín	Nm4-1;	! servant, pupil, hard-working youth
+seomra		Nm4-1;	!
+sicín		Nm4-1;	! chick
+siopa		Nm4-1;	! shop
+slabhra		Nm4-1;	! chain
+tiarna		Nm4-1;	! lord
+tionónta	Nm4-1;	! tennant
+togra		Nm4-1;	! lord
+toitín		Nm4-1;	! cigarette (small smoke!)
+tráthnóna	Nm4-1;	! afternoon			!!!!  FIX FILE
+veidhlín	Nm4-1;	! violin (loanword)
+
+!!!!ruidín		Nm4-1;	! little thing  see RUD + ÍN 
+!--------------------------------------------------------------------------
+! nouns ending in -e 		! plurals e -> í
+
+ailtire		Nm4-2;	! architect
+aire		Nm4-2;	!
+bairille	Nm4-2;	! barrel
+béile		Nm4-2;	! meal
+bríste		Nm4-2;	! trousers
+blúire		Nm4-2;	! bit eg of food
+buille		Nm4-2;	! a blow
+carráiste	Nm4-2;	! carriage
+céile		Nm4-2;	!
+císte		Nm4-2;	! cake
+cleite		Nm4-2;	! feather
+cluiche		Nm4-2;	! game
+cnaipe		Nm4-2;	! button
+cóiste		Nm4-2;	! coach
+coiste		Nm4-2;	! committee
+coláiste	Nm4-2;	! college
+dréimre		Nm4-2;	! ladder
+file		Nm4-2;	! poet
+garáiste	Nm4-2;	! garage
+machaire	Nm4-2;	! plain
+páiste		Nm4-2;	! child
+paiste		Nm4-2;	! patch
+pasáiste	Nm4-2;	! passage
+pointe		Nm4-2;	! point
+spiaire		Nm4-2;	! spy
+staighre	Nm4-2;	! stairs
+uisce		Nm4-2;	! water
+
+!--------------------------------------------------------------------------
+! nouns ending in -le and -ne (exceptions to above class - and things were looking so good!)
+					! plurals e -> te
+
+baile		Nm4-3;	! town
+míle		Nm4-3;	! mile
+
+sloinne		Nm4-3;	! surname
+!--------------------------------------------------------------------------
+! nouns ending in -í, -é, ú	
+! plurals í->i, é->éi ú->u +the
+
+
+ainmhí		Nm4-4;	! animal
+ceannaí		Nm4-4;	! buyer (merchant)
+ciontú		Nm4-4;	! conviction
+finné		Nm4-4;	! witness
+garraí		Nm4-4;	! field or garden
+iompú		Nm4-4;	! turning
+ionaclú		Nm4-4;	! innoculation
+laghdú		Nm4-4;	! decrease
+
+moncaí		Nm4-4;	! monkey
+ní		Nm4-4;	! thing
+oibrí		Nm4-4;	! worker
+páirtí		Nm4-4;	! party
+
+
+séimhiú		Nm4-4;	! lenition
+
+ullmhú		Nm4-4;	! preparation
+urú		Nm4-4;	! eclipse
+
+! nouns ending in -í 		! plurals +the
+
+contae		Nm4-4;	! county			!!! FIX FILE
+croí		Nm4-4;	! heart				!!! FIX FILE
+dlí		Nm4-4;	! law				!!! FIX FILE
+draoi		Nm4-4;	! druid, wizard
+gnó		Nm4-4;	! business			!!! FIX FILE
+rí		Nm4-4;	! king				!!! FIX FILE
+saoi		Nm4-4;	! master, expert
+
+!--------------------------------------------------------------------------
+! various ending in vowel	! plurals +nna
+
+ae		Nm4-6;	! liver
+bia		Nm4-6;	! food
+bogha		Nm4-6;	! bough
+bua		Nm4-6;	! victory
+ceo		Nm4-6;	! fog
+cnó		Nm4-6;	! nut
+cú		Nm4-6;	! hound
+dó		Nm4-6;	! a burn
+fia		Nm4-6;	! deer
+fogha		Nm4-6;	! an attack
+lao		Nm4-6;	! calf
+liú		Nm4-6;	! shout
+nia		Nm4-6;	! nephew
+raidió		Nm4-6;	! 
+pá		Nm4-6;	! pay
+sú		Nm4-6;	! juice
+stua		Nm4-6;	! 
+tae		Nm4-6;	! tea
+tlú		Nm4-6;	! tongs
+togha		Nm4-6;	! choice, variety
+brú		Nm4-6;	! hostel
+cló		Nm4-6;	! print
+
+!--------------------------------------------------------------------------
+! various others			! plurals +anna
+
+bus		Nm4-7;	! bus
+club		Nm4-7;	! club
+pas		Nm4-7;	! passport
+seans		Nm4-7;	! chance
+stop		Nm4-7;	! stop
+tram		Nm4-7;	! tram
+stad		Nm4-7;	! stop
+iúil		Nm4-7;	! July
+!=======================end of 4th declension=============================!
+
+!************************************************************************** 
+!					5th DECLENSION 
+!************************************************************************** 
+!	BOTH FEMININE & MASCULINE NOUNS 
+!************************************************************************** 
+!	NOMINATIVE SINGULAR:	all end in -il, -in, -ir and -is? or a vowel
+!
+!	GENITIVE SINGULAR:		WORD MUST END IN A BROAD CONSONANT
+!						Make broad if necessary and append "n" or "d"
+!						if root ends in a vowel.
+!				  		If the word has more than one syllable and 
+!				  		the last syllable is unstressed then the 
+!						unstressed vowel is removed (syncopation).
+!
+!	VOCATIVE SINGULAR:		same as ????
+!************************************************************************** 
+!
+!	PLURALS:	3 FEM. CATEGORIES: ALL STRONG
+!			1 MASC.CATEGORIES: ALL STRONG
+!**************************************************************************  
+
+!************************************************************************** 
+!                     5th declension FEMININE NOUNS 
+!************************************************************************** 
+
+! nouns ending in -il -in -ir 	! one syllable
+						! Sg. Leathnú +ach
+					 	! Pl. Leathnú +acha
+beoir		Nf5-1;	! beer
+cáin		Nf5-1;	! tax
+cráin		Nf5-1;	! sow pig
+láir		Nf5-1;	! mare
+riail		Nf5-1;	! rule
+traein		Nf5-1;	! train
+treoir		Nf5-1;	!
+
+!--------------------------------------------------------------------------
+! nouns ending in -il -in -ir	! more than one syllable, last unstressed, broad stem????
+ 						! Sg. Coimriú +(e)ach
+						! Pl. Coimriú +(e)acha
+
+
+cabhail		Nf5-2;	! body, trunk
+cabhair		Nf5-2;	! help
+cathair		Nf5-2;	! city
+lasair		Nf5-2;	! flame
+maidin		Nf5-2;	! maidin SEE ALSO Nf2.8 as not always syncopated
+nathair		Nf5-2;	! snake
+cathaoir	Nf5-2;	! chair			SLENDER GEN SG
+litir		Nf5-2;	! letter		SLENDER GEN SG
+uimhir		Nf5-2;	! number		SLENDER GEN SG
+láthair		Nf5-2;	! place, site	SLENDER GEN SG
+
+!--------------------------------------------------------------------------
+
+! nouns ending in a vowel
+						! Sg. +n
+						! Pl. +na
+ceathrú		Nf5-3;	! quarter
+comharsa	Nf5-3;	! neighbour
+monarcha	Nf5-3;	! factory
+pearsa		Nf5-3;	! person
+
+!--------------------------------------------------------------------------
+! these should go in irregular file ????
+! nouns ending in -ir, -n(n)
+
+máthair         Nf5-4;	! mother		
+abhainn         Nf5-4;	! river			!!!!SEE FIX FILE
+!--------------------------------------------------------------------------
+
+!************************************************************************** 
+!                   5th Declension MASCULINE NOUNS 
+!************************************************************************** 
+
+
+! numerals 20,30, 50 etc.
+
+!!!SEE N-LEX-IRREG.TXT fiche			Nm5-1;	! twenty
+!!!SEE N-LEX-IRREG.TXT daichead			Nm5-1;	! forty
+tríocha			Nm5-1;	! thirty
+ceathracha		Nm5-1;	! forty
+caoga			Nm5-1;	! fifty
+seasca			Nm5-1;	! sixty
+seachtó			Nm5-1;	! seventy
+ochtó			Nm5-1;	! eighty
+nócha			Nm5-1;	! ninety
+
+!--------------------------------------------------------------------------
+
+! nouns ending in -ir, -n(n)
+
+athair			Nm5-2;	! father
+bráthair		Nm5-2;	! brother (clerical)
+deartháir     		Nm5-2;	! brother		!!!!SEE FIX FILE
+
+!--------------------------------------------------------------------------
+
+! nouns ending ú / aí
+! gen sing +aithe
+
+athrú			Nm5-3;	! change
+leasú			Nm5-3;	! ammendment, improvement	SLENDER GEN SG
+méadú			Nm5-3;	! increase			SLENDER GEN SG
+sleamhnú		Nm5-3;	! slide				SLENDER GEN SG NO PL.
+tarlú			Nm5-3;	! happen			SLENDER GEN SG
+cónaí			Nm5-3;	! home				SLENDER GEN SG
+!=======================end of 5th declension=============================!

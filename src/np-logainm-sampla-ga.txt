@@ -1,0 +1,24 @@
+LEXICON NP-LEX-DCU
+Airgidín		NP-PLACE;	! ID: 1372017; English: Argideen
+Airglinn		NP-PLACE;	! ID: 129407; English: Araglin
+Boirneán		NP-PLACE;	! ID: 30601; English: Morenane
+Boistimín		NP-PLACE;	! ID: 26267; English: Bushtameen
+Coilleachán		NP-PLACE;	! ID: 3872; English: Cuillaghan
+Coilligeán		NP-PLACE;	! ID: 2375; English: Colligan
+
+!!COMPOSED NAMES
+
+<A b h a %_:%  B h a i l e %_:%  a n %_:%  M h u i l i n n>	NP-PLACE;	! ID: 116434; English: Milltown
+<A b h a %_:%  B h a r r %_:%  D u í n s e>			NP-PLACE;	! ID: 1395062; English: Bardinch River
+<B á %_:%  n a %_:%  C u a i l l í>				NP-PLACE;	! ID: 1165490; English: Coulagh Bay
+<B á %_:%  n a %_:%  M a i g h n e>				NP-PLACE;	! ID: 104243; English: Moyne Bay
+<C a r r a i g %_:%  a n %_:%  A i b h n í n>			NP-PLACE;	! ID: 1397620; English: Carrickanevneen
+<C a r r a i g %_:%  a n %_:%  A i r d>				NP-PLACE;	! ID: 50372; English: Carriganard
+
+!!GENITIVE FORMS
+
+Abartach+Prop+Noun+Masc+Gen+Sg:Abartaí		#;	! ID: 50573; English: Abartagh; Base: Abartach {Abartaí}
+Abhóca+Prop+Noun+Masc+Gen+Sg:Abhóca		#;	! ID: 55230; English: Avoca; Base: Abhóca {Abhóca}
+Bacastún+Prop+Noun+Masc+Gen+Sg+Len:Bhacastúin	#;	! ID: 17111; English: Backstown; Base: Bacastún {Bhacastúin}
+Bachaill+Prop+Noun+Masc+Gen+Sg+Len:Bhacaille	#;	! ID: 40151; English: Boughill; Base: Bachaill {Bhacaille}
+Baicstiall+Prop+Noun+Masc+Gen+Sg+Len:Bhaicstéille #;	! ID: 42205; English: Backsteel; Base: Baicstiall {Bhaicstéille}

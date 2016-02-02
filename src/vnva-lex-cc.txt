@@ -1,0 +1,36 @@
+! DE-VERBAL NOUN & ADJS
+! version 3 
+! Nov 2005
+! Elaine Ui Dhonnchadha
+! Updated May 2008
+!
+! verbal nouns have vn lemma rather than verb lemma
+! verbal noun gen is same as verbal adj except for new vns ending in -áil
+! and some other e.g. úsáide, úsáidte 
+!***********************************************************************
+LEXICON	VN-INIT
+#;
++Len:^IM^Sé	#;
++Ecl:^IM^Urú	#;
++hPref:^IM^hv	#;
+
+LEXICON	VA-INIT
+#;
++Len:^IM^Sé	#;
+
+!***********************************************************************
+! NO LONGER USED 05/2008
+
+LEXICON VA-VNGEN
++Adj:0	#;
++Adj+Len:^IM^Sé		#;		! 1/9/06 testing
+!+Adj:0		VN-INIT;
++Noun+Gen:0	VN-INIT;
+
+LEXICON VA-VNGEN-ÁIL
+!! áil -> Gen ála
++Adj:0	#;
++Adj+Len:^IM^Sé		#;		! 1/9/06 testing
+!+Adj:0			VN-INIT;
++Noun+Gen:^áil^Verb	VN-INIT;
+

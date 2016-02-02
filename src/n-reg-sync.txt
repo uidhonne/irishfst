@@ -1,0 +1,43 @@
+! Noun & Adjective (Gaeilge) Replace Rules
+! Elaine Uí Dhonnchadha
+!
+! (c) January 2001
+!
+! (1) Coimriú : Syncopation of Last Unstressed Syllable (^Coim)
+!		before an ending is added
+!***************************************************************************!
+! SYNCOPATION
+!
+! Vowel(s) in last syllable is/are dropped
+! saghas-saghs(anna)
+! (a|e) is required for i->[] in cabh(a)ir 
+! abhh(a)inn nneds fixing
+! daing(e)an, ís(e)al
+! but not cath^AOir 
+! domhn (domhain)
+! folmh (folamh) 
+! bóthr(syncopated bóthar)
+! ramh^Xr (ramhar)
+! uasl (uasal) (^UA=ua diph.)
+! máthr (máthair)
+! dors (doras)
+!***************************************************************************!
+
+define Cons  b|c|d|f|g|h|j|k|l|m|n|p|q|r|s|t|v|w|x|y|z;
+define Nountag  %^F|%^M|%^C|%^G|%^V;
+! cloigeann - cloigne, craiceann - craicne
+read regex [e a n n] -> [%^FY n e] || Cons  _ [Nountag+ |%^Adj] %^Coim
+.o.
+! drioball - drible, fuigheall - fuighle
+[e a l l] -> [%^FY l e],
+[a l l]   -> [%^FY l e] || Cons  _ [Nountag+ |%^Adj] %^Coim
+
+.o.
+! abhaill - abhla, abhlacha
+[a i l l]   -> [%^FY l a] || Cons  _ [Nountag+ |%^Adj] %^Coim
+
+.o.
+[a|e|i|o|u] -> [%^FY] || Cons  (a|e) _  ?^<3  [Nountag+ |%^Adj] %^Coim
+.o.
+ %^Coim -> []
+;

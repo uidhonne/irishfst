@@ -1,0 +1,423 @@
+# Irish Guesser
+# Verbal Nouns and Verbal Adjectives
+
+clear stack
+define Digit [%0| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 ];
+
+define VL [ a | o | u | á | ó | ú| e | i | é | í]; # all vowels
+define VF [a|o|u|á|ó|ú|e|i|é|í|y]; # all vowels incl. "y"
+
+define UV [ A | O | U | Á | Ó | Ú| E | I | É | Í]; # all uppercase vowels
+
+define CN [b|c|d|f|g|h|l|m|n|p|r|s|t|j|k|q|v|w|x|y|z|%-]; # all consonants	
+define AllCap [B|C|D|F|G|H|L|M|N|P|R|S|T|J|K|Q|V|W|X|Y|Z|A|E|I|O|U|Á|É|Í|Ó|Ú];
+
+#
+# up to 4 initial consonants with bh urú e.g. bhfrustracht
+#  %- Allcap included to cater for Ind-Eorpacha which we want to guess as Adj
+#define VSyl1 [ V (V) (V) (C) (C) (C) ];
+#define Syl1 [ (C) (C) V (V) (V) (C) (C) (%- AllCap) ];
+# e.g. mbr...
+define MutE [[[b] .x. [m b]]
+           | [[c] .x. [g c]]
+           | [[d] .x. [n d]]
+           | [[f] .x. [b h f]]
+           | [[g] .x. [n g]]
+           | [[p] .x. [b p]]
+           | [[t] .x. [d t]]
+] (CN)	; 
+
+# eclipsed proper nouns
+#
+define PMutE [[[B] .x. [m B]]
+            | [[C] .x. [g C]]
+            | [[D] .x. [n D]]
+            | [[F] .x. [b h F]]
+            | [[G] .x. [n G]]
+            | [[P] .x. [b P]]
+            | [[T] .x. [d T]]
+] (CN);	
+# e.g. ghr...
+define MutL [ [[b] .x. [b h]]
+           | [[c] .x. [c h]]
+           | [[d] .x. [d h]]
+           | [[f] .x. [f h]]
+           | [[g] .x. [g h]]
+           | [[m] .x. [m h]]
+           | [[p] .x. [p h]]
+           | [[s] .x. [s h]]
+           | [[t] .x. [t h]] ] (CN);	
+
+# lenited proper nouns
+
+define PMutL [ [[b] .x. [B h]]
+           | [[c] .x. [C h]]
+           | [[d] .x. [D h]]
+           | [[f] .x. [F h]]
+           | [[g] .x. [G h]]
+           | [[m] .x. [M h]]
+           | [[p] .x. [P h]]
+           | [[s] .x. [S h]]
+           | [[t] .x. [T h]]
+] (CN); # e.g. ghr...
+
+
+define MutVE [[a] .x. [n %- a]]
+           | [[e] .x. [n %- e]]
+           | [[i] .x. [n %- i]]
+           | [[o] .x. [n %- o]]
+           | [[u] .x. [n %- u]]
+           | [[á] .x. [n %- á]]
+           | [[é] .x. [n %- é]]
+           | [[í] .x. [n %- í]]
+           | [[ó] .x. [n %- ó]]
+           | [[ú] .x. [n %- ú]]
+;
+define PMutVE [[A] .x. [n A]]
+            | [[E] .x. [n E]]
+            | [[I] .x. [n I]]
+            | [[O] .x. [n O]]
+            | [[U] .x. [n U]]
+            | [[Á] .x. [n Á]]
+            | [[É] .x. [n É]]
+            | [[Í] .x. [n Í]]
+            | [[Ó] .x. [n Ó]]
+            | [[Ú] .x. [n Ú]]
+;
+define CC [ [b|d|f|p] (l|r) 
+          | [c|g|t] (l|n|r)
+          | h
+          | l
+          | m (n|r)
+          | n
+          | r
+          | s (c|g|l|m|n|p|r|t) (r)
+          | j
+          | k
+          | v
+          | x
+          | z
+]; # all consonant clusters 
+define PCC [[B|D|F|P] (l|r) 
+          | [C|G|T] (l|n|r)
+          | H
+          | L
+          | M (n|r)
+          | N
+          | Q	# allow for prop
+          | R
+          | S (c|g|l|m|n|p|r|t) (r)
+          | J
+          | K
+          | V
+          | W	# allow for prop
+          | X
+          | Z
+] (CN) # allow other initial conc. clusters for prop nouns e.g Sky, Mbari
+; # all consonant clusters 
+# c|onstr|ála -> 4 cons
+define Rest [VL (VL) (CN) (CN) (CN) (CN)]; # rest or first syllable e.g. tráú
+define VRest [(VL) (VL) (CN) (CN) (CN) (CN)]; # rest or first syllable
+#define Syl2 [ (C) V (V) (V) (C) (C) (C) ( %- AllCap)];
+define Syl2 [ (%- AllCap) (CN) (CN) VL (VL) (VL) (CN) (CN) (CN)];
+#define Syl3 [ (%- AllCap) (CN) (CN) VL (VL) (VL) (CN) (CN) (CN) ];
+# Root includes all strings that look like valid Irish roots.
+# up to 3 syllables e.g. easportáil, liteagraf
+# up to 4 syllables e.g. ind|ibh|id|i+úla
+#define Root [ Syl1 (Syl2) (Syl2) (Syl3) ];
+
+#-------
+# NEW
+#
+define OLDg [s [c .x. g]];
+define OLDRoot  [[OLDg Rest]  (Syl2) (Syl2) (OLDg)] |
+                [[CC Rest]  (Syl2) OLDg (Syl2) ] |
+                [[CC Rest]  (Syl2) (Syl2) OLDg ] ;
+define OLDNoun [ OLDRoot "+GuessOld":0 "+Noun":0  ];
+read regex OLDNoun;
+echo << saving bin/guess_ria.fst to file >>
+save stack bin/guess_ria.fst
+echo << Verb OLD Noun Guesser Complete >>
+#
+# END NEW APR 2012
+define Root  [ [[CC] Rest] |
+               [[VL] VRest]
+             ] (Syl2) (Syl2) (Syl2) ;
+
+define RootE [ [MutE Rest] | [MutVE VRest]
+             ] (Syl2) (Syl2) (Syl2) ;
+               
+define RootL [ MutL Rest 
+             ] (Syl2) (Syl2) (Syl2) ;
+               
+
+define PRoot  [ [ [PCC] Rest] | [ [UV] VRest]
+              ] (Syl2) (Syl2) (Syl2) ;
+               
+define PRootE [ [PMutE Rest] | [PMutVE VRest]
+             ] (Syl2) (Syl2) (Syl2) ;
+               
+define PRootL [ PMutL Rest 
+             ] (Syl2) (Syl2) (Syl2) ;
+               
+##################
+
+define VerbNounSuf [(e) á i l ] # always fem.
+                 | [ú] 		# always masc.
+;
+
+define VerbAdjSuf [t e ]
+                 |[t h e ]
+                 |[t a ]
+                 |[t h a ]
+;
+define GuessVnva [ Root VerbNounSuf "+Guess":0 "+Verbal":0 "+Noun":0  ]
+                |[ Root VerbAdjSuf  "+Guess":0 "+Verbal":0 "+Adj":0 ]
+;
+
+define GuessVnvaE [RootE VerbNounSuf "+Guess":0 "+Verbal":0 "+Noun":0 "+Ecl":0  ]
+                 |[RootE VerbAdjSuf  "+Guess":0 "+Verbal":0 "+Adj":0 "+Ecl":0 ]
+;
+
+define GuessVnvaL [RootL VerbNounSuf "+Guess":0 "+Verbal":0 "+Noun":0 "+Len":0  ]
+                 |[RootL VerbAdjSuf  "+Guess":0 "+Verbal":0 "+Adj":0 "+Len":0 ]
+;
+
+
+define Vnva [GuessVnva |  GuessVnvaE |GuessVnvaL ];
+read regex Vnva ;
+echo << saving bin/guess_vnva.fst to file >>
+save stack bin/guess_vnva.fst
+echo << Verb Noun/Adj Guesser Complete >>
+
+# Irish Noun Guesser 1
+# Guess Nouns using suffix rules of thumb
+# PART 1 : suffixes that look like independant noun/adj lexemes
+#          e.g. acht, each and would therefore be guessed as
+#          an element of a compound rather than a suffix
+#          e.g. áiteacha = áit + eacha
+#	   therefore these suffixes must be tried before the compound guesser
+#
+#	   On the other hand we would like to check for compounds before 
+#	   guessing according to the last syllable 
+#	   e.g. nuafhilíocht - we would rather identify fhilíocht than -ocht
+#	   Soln: split suffix guesser into those which can be mistaken for a
+#	   lexeme (try before compounds) and those which can't (after compounds)
+# LOOKUP ORDER: 
+#	1A. Noun Guesses 1 e.g. each, ál etc.
+#	2.  Compounds
+#	1B. Noun Guesses 2 e.g. án, eog etc
+
+# Root includes all strings that look like valid Irish roots.
+# up to 3 syllables e.g. easportáil, liteagraf
+# up to 4 syllables e.g. ind|ibh|id|i+úla
+
+# NOUNS #
+# typically masculine suffixes
+define MSufA 	[[á l]
+		|[a i r e]
+		|[ó i r]
+		|[í o c h]
+		|[ú i r] 
+		|[ú r]
+];
+define MSufB 	[[á n]
+		|[(e) a c h a s]
+		|[í n]
+		|[a s]
+		|[e o i r]
+		|[é a r a]
+		|[a í]
+		|[a c h]
+		|[i ú r]
+		|[i s t e]
+		|[é a r]
+		|[é i r]
+		|[ú n]
+];
+# this vn suffix is included here to prevent -ál compounds :)
+define VSufA 	[[á i l %+Guess %+Verbal %+Noun .x. á i l] 
+		|[á i l %+Guess %+Verbal %+Noun %+Gen .x. á l a] 
+		|[á l t a %+Guess %+Verbal %+Adj .x. á l t a] 
+                |[ó i r e a c h t %+Guess %+Verbal %+Noun .x. ó i r e a c h t ]
+                |[e o i r e a c h t %+Guess %+Verbal %+Noun .x. e o i r e a c h t ]
+                |[ó i r e a c h t [a %+Guess %+Verbal %+Noun %+Gen .x. a]]
+                |[e o i r e a c h t [a %+Guess %+Verbal %+Noun %+Gen .x. a]]
+];
+
+# typically feminine suffixes
+define FSufA 	[[ó g] #pp
+#		|[á i l] #pp  leave for VNs in VNVA
+		|[a c h t] #pp
+#		|[e a c h] #pp not really a fem suffix ...
+		|[l a n n] #pp - Note: could also be verb, e.g. listeál-ann
+		|[a i l t] #pp
+		|[a i r t] #pp
+		|[í o c h t] # aíocht is a noun
+];
+define FSufB 	[[e o g] 
+		|[a í l]
+		|[e a c h t]
+		|[í s]
+		|[i n t]
+		|[ú i l]
+		|[c h a n]
+];
+# typically feminine genitive suffixes
+define FGSufA 	[[l a n n %+Guess %+Noun %+Fem %+Gen %+Sg .x. l a i n n e] 
+		|[í o c h t %+Guess %+Noun %+Fem %+Gen %+Sg .x. í o c h t a] 
+		|[a c h t %+Guess %+Noun %+Fem %+Gen %+Sg .x. a c h t a]
+];
+define FGSufB 	[[ó g %+Guess %+Noun %+Fem %+Gen %+Sg .x. ó i g e] 
+		|[e o g %+Guess %+Noun %+Fem %+Gen %+Sg .x. e o i g e] 
+		|[a i l l %+Guess %+Noun %+Fem %+Gen %+Sg .x. a i l l e] 
+];
+
+# typically masculine genitive suffixes
+define MGSufA [[a c h [a s %+Guess %+Noun %+Masc %+Gen %+Sg .x. a i s]]
+];
+define MGSufB [[á n %+Guess %+Noun %+Masc %+Gen %+Sg .x. á i n] 
+];
+# typically plural suffixes
+define FPlSufA   [[%+Guess %+Noun %+Fem %+Com %+Pl .x. e a c h a ]
+];
+define FPlSufB   [[%+Guess %+Noun %+Fem %+Com %+Pl .x. e a n n a ]
+];
+
+define MPlSufA   [[a i r e %+Guess %+Noun %+Masc %+Com %+Pl .x. a i r í ]
+];
+define MPlSufB [[%+Guess %+Noun %+Masc %+Com %+Pl .x. a n n a ]
+                |[a %+Guess %+Noun %+Masc %+Com %+Pl .x. a í]
+               	|[%+Guess %+Noun %+Masc %+Com %+Pl .x. a c h a ]
+];
+
+##################
+# up to 3 syllables e.g. easportáil, liteagraf
+#;
+define GuessNounA  [[ Root FSufA]   "+Guess":0 "+Noun":0 "+Fem":0 "+Com":0 "+Sg":0
+	       	   |[ Root MSufA]   "+Guess":0 "+Noun":0 "+Masc":0 "+Com":0 "+Sg":0 
+	       	   |[ Root FGSufA]
+	       	   |[ Root MGSufA]
+	       	   |[ Root FPlSufA]
+	       	   |[ Root MPlSufA]
+	       	   |[ Root VSufA]
+];
+# eclipsed roots
+define GuessNounAE [[ RootE FSufA]   "+Guess":0 "+Noun":0 "+Fem":0 "+Com":0 "+Sg":0 "+Ecl":0
+	       	   |[ RootE MSufA]   "+Guess":0 "+Noun":0 "+Masc":0 "+Com":0 "+Sg":0 "+Ecl":0 
+	       	   |[ RootE FGSufA "+Ecl":0 ]
+	       	   |[ RootE MGSufA "+Ecl":0 ]
+	       	   |[ RootE FPlSufA "+Ecl":0 ]
+	       	   |[ RootE MPlSufA "+Ecl":0 ]
+	       	   |[ RootE VSufA "+Ecl":0 ]
+];
+# lenited roots
+define GuessNounAL [[ RootL FSufA]   "+Guess":0 "+Noun":0 "+Fem":0 "+Com":0 "+Sg":0 "+Len":0
+	       	   |[ RootL MSufA]   "+Guess":0 "+Noun":0 "+Masc":0 "+Com":0 "+Sg":0 "+Len":0 
+	       	   |[ RootL FGSufA "+Len":0 ]
+	       	   |[ RootL MGSufA "+Len":0 ]
+	       	   |[ RootL FPlSufA "+Len":0 ]
+	       	   |[ RootL MPlSufA "+Len":0 ]
+	       	   |[ RootL VSufA "+Len":0 ]
+];
+###########################
+define GuessNounB  [[ Root FSufB]   "+Guess":0 "+Noun":0 "+Fem":0 "+Com":0 "+Sg":0
+	       	   |[ Root MSufB]   "+Guess":0 "+Noun":0 "+Masc":0 "+Com":0 "+Sg":0 
+	       	   |[ [0 .x. t %-] Root]  "+Guess":0 "+Noun":0 "+Masc":0 "+Com":0 "+Sg":0 "+DefArt":0 
+	       	   |[ [s .x. t s] Root]    "+Guess":0 "+Noun":0 "+Fem":0 "+Com":0 "+Sg":0 "+DefArt":0 
+	       	   #|[ [0 .x. h] Root]    "+Guess+Noun+Fem+Com+Sg+hPref":0 # wont work as long as h is included in CC
+	       	   |[ h Root]    "+Guess":0 "+Noun":0 "+Fem":0 "+Com":0 "+Sg":0 "+hPref":0 
+	       	   |[ Root FGSufB]
+	       	   |[ Root MGSufB]
+	       	   |[ Root FPlSufB]
+	       	   |[ Root MPlSufB]
+];
+# eclipsed roots
+define GuessNounBE [[RootE FSufB]   "+Guess":0 "+Noun":0 "+Fem":0 "+Com":0 "+Sg":0 "+Ecl":0
+	       	   |[ RootE MSufB]   "+Guess":0 "+Noun":0 "+Masc":0 "+Com":0 "+Sg":0 "+Ecl":0 
+	       	   |[ RootE FGSufB "+Ecl":0 ]
+	       	   |[ RootE MGSufB "+Ecl":0 ]
+	       	   |[ RootE FPlSufB "+Ecl":0 ]
+	       	   |[ RootE MPlSufB "+Ecl":0 ]
+];
+
+# lenited roots
+define GuessNounBL [[RootL FSufB]   "+Guess":0 "+Noun":0 "+Fem":0 "+Com":0 "+Sg":0 "+Len":0
+	       	   |[ RootL MSufB]   "+Guess":0 "+Noun":0 "+Masc":0 "+Com":0 "+Sg":0 "+Len":0 
+	       	   |[ RootL FGSufB "+Len":0 ]
+	       	   |[ RootL MGSufB "+Len":0 ]
+	       	   |[ RootL FPlSufB "+Len":0 ]
+	       	   |[ RootL MPlSufB "+Len":0 ]
+];
+##################
+# ADJECTIVES
+define AdjSufA [e a c h %+Guess %+Adj %+Base .x. e a c h]
+              |[í o c h %+Guess %+Adj %+Base .x. í o c h]
+              |[ú i l %+Guess %+Adj %+Base .x. ú i l]	# prevents compounds with iúil
+;
+
+#define AdjSufB [ú i l %+Guess %+Adj %+Base .x. ú i l]
+define AdjSufB [a c h %+Guess %+Adj %+Base .x. a c h]
+             |[á l t a %+Guess %+Adj %+Base .x. á l t a]
+             |[a c h %+Guess %+Adj %+Pl .x. a c h a]
+	     |[ú i l %+Guess %+Adj %+Pl .x. ú l a]
+;
+
+#define GuessAdj [ AdjRoot AdjSuf ] ;
+define GuessAdjA [ Root AdjSufA ] ;
+define GuessAdjB [ Root AdjSufB ] ;
+
+##################
+# NOUN GUESSER A - endings that look like a lexeme and could erroneously
+# take part in a compouns e.g each, acht etc.
+define NounAdjA [GuessNounA | GuessPNounA | GuessNounAE | GuessNounAL | GuessAdjA];
+##!!
+clear stack
+##!!
+read regex NounAdjA ;
+echo << saving bin/nguess1a.fst to file >>
+save stack bin/nguess1a.fst
+
+##################
+# NOUN GUESSER B - endings that don't look like a lexeme
+define NounAdjB [GuessNounB |  GuessNounBE |GuessNounBL | GuessAdjB];
+##!!
+clear stack
+##!!
+read regex NounAdjB ;
+echo << saving bin/nguess1b.fst to file >>
+save stack bin/nguess1b.fst
+echo << Noun Guesser 1 Complete >>
+
+
+##########################################
+
+
+define Eng [%' s];
+# Digit included to cater for TG4, TV5, 2FM etc.
+define Init  [ AllCap (%.)|Digit];
+define SmallInit [ CN (%.)|Digit];
+
+
+define PropNouns   [[ PRoot (Eng)]   "+Guess":0 "+Prop":0 "+Noun":0 "+Masc":0 "+Com":0 "+Sg":0
+		   |[ M (a) c PRoot (VF)] "+Guess":0 "+Prop":0 "+Noun":0 "+Masc":0 "+Com":0 "+Sg":0
+		   |[ M a g PRoot (VF)] "+Guess":0 "+Prop":0 "+Noun":0 "+Masc":0 "+Com":0 "+Sg":0
+                   |[ PRootE ]  "+Guess":0 "+Prop":0 "+Noun":0 "+Masc":0 "+Com":0 "+Sg":0 "+Ecl":0
+                   |[ PRootL ]  "+Guess":0 "+Prop":0 "+Noun":0 "+Masc":0 "+Com":0 "+Sg":0 "+Len":0
+                   |[Init (Init) (Init) (Init) (Init)] "+Guess":0 "+Abr":0
+                   |[(Init) (SmallInit) (SmallInit) (SmallInit) ] "+Guess":0 "+Abr":0
+                   |[[CN|AllCap]+ %@ [CN|AllCap|%.]+ [CN|AllCap]+] "+Guess":0 "+Abr":0 "+Email":0
+                   |[[h t t p %: %/ %/] [CN|AllCap|%.]+ [CN|AllCap]+] "+Guess":0 "+Abr":0 "+Url":0
+                   |[[w w w %.] [CN|AllCap|%.]+ [CN|AllCap]+] "+Guess":0 "+Abr":0 ":0 +Url":0
+                   |[x|X] "+Num":0 "+Op":0
+
+];
+
+
+clear stack
+read regex PropNouns ;
+echo << saving bin/propguess.fst to file >>
+save stack bin/propguess.fst
+                                                                                
+echo << Proper Noun Guesser Complete >>
+

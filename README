@@ -1,0 +1,23 @@
+1. You need foma installed and in your $PATH
+code and binaries here if needed:  http://code.google.com/p/foma/
+
+2. You also need vislcg3 installed and in your $PATH
+see http://beta.visl.sdu.dk/download/vislcg3/
+the version used by this distribution is vislcg3 0.9.7.7299
+
+3. Extract the tarfile irishfst.tgz
+it should create
+irishfst/Makefile
+irishfst/README
+irishfst/test.sh
+irishfst/src/*.txt, *.script
+irishfst/dis/gael-dis.rle, lookup2cg3.prl
+irishfst/int/ (empty)
+irishfst/bin/ (empty)
+
+4. run make in the irishfst directory
+the main transducer will be bin/lexguess.fst 
+
+5. test using ./test.sh
+
+Mar 2012 EUD

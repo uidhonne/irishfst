@@ -1,0 +1,61 @@
+# Irish Noun Guesser 2
+# Guesses Foreign words which include "y" as a vowel (my) 
+# or which have more than 3 cons in final syllable (tights)
+# also abbreviations like DJ (no vowel so not considered a noun)
+# also abbrevs like I.N.T.O.
+
+# Root covers strings that looks like a valid Irish root
+# Pref lists some prefixes
+
+clear stack
+
+define BV [ a | o | u | á | ó | ú ] ; 	# Broad Vowels
+define SV [ e | i | é | í ] ; 		# Slender Vowels
+
+define VL [a|o|u|á|ó|ú|e|i|é|í]; # all vowels
+define AVL [a|o|u|á|ó|ú|e|i|é|í|A|E|I|O|U|Á|É|Í|Ó|Ú]; # all vowels
+define VF [a|o|u|á|ó|ú|e|i|é|í|y]; # all vowels incl. "y"
+define AVF [a|o|u|á|ó|ú|e|i|é|í|A|E|I|O|U|Á|É|Í|Ó|Ú|y|Y]; # all vowels incl. "y"
+
+define CN [b|c|d|f|g|h|l|m|n|p|r|s|t|%-|j|k|q|v|w|x|y|z]; # all consonants	
+define Cap [B|C|D|F|G|H|L|M|N|P|R|S|T|J|K|Q|V|W|X|Y|Z];
+define AllCap [B|C|D|F|G|H|L|M|N|P|R|S|T|J|K|Q|V|W|X|Y|Z|A|E|I|O|U|Á|É|Í|Ó|Ú]; 
+define Stop [%.];
+
+define ALPHA [b|c|d|f|g|h|l|m|n|p|r|s|t|j|k|q|v|w|x|y|z|B|C|D|F|G|H|L|M|N|P|R|S|T|J|K|Q|V|W|X|Y|Z|a|o|u|á|ó|ú|e|i|é|í|A|E|I|O|U|Á|É|Í|Ó|Ú|1|2|3|4|5|6|7|8|9|%0|%.|%_|%?];
+define XMLPUNCT [%" | %'| %/ | %= ];
+define SP " ";
+# Root includes all strings that look like valid Irish roots.
+
+# up to 4 consequtive consonants e.g. ullmhaigh
+# even 5 e.g. tonnchrith
+
+define Syl    [ (CN)   (CN) (CN) (VL) (VL) VL (CN) (CN) (CN)];
+define CapSyl [ (Cap) (CN) (CN) (VL) (VL) VL (CN) (CN) (CN)];
+
+# F= foreign as vowels include y e.g. my, dye etc.
+define FSyl    [ (CN)  (CN) (CN) (VF) (VF) VF (CN) (CN) (CN)];
+define FCapSyl [ (Cap) (CN) (CN) (VF) (VF) VF (CN) (CN) (CN)];
+define FCapLongSyl [ (Cap) (CN) (CN) (VF) (VF) VF (CN) (CN) (CN) (CN)];
+
+define BrSyl  [ (CN) (CN) (CN) (VL) (VL) BV (CN) (CN) (CN)];
+define SlSyl  [ (CN) (CN) (CN) (VL) (VL) SV (CN) (CN) (CN)];
+
+
+# foreign word containing "y" as vowel
+# or possible foreign word ending in more than 3 consonants e.g. tights
+# or possible foreign word with more than 3 syllables e.g. paralizing
+# or illiterate
+define Foreign  [FCapSyl (FSyl) (FSyl) (FSyl) (FSyl) ] "+Guess":0 "+Foreign":0
+	       |[FCapLongSyl (FSyl) (FSyl) ] "+Guess":0 "+Foreign":0
+	       |[ALPHA+ %@ e n g ] "+Foreign":0 "+English":0  # so@eng in spoken transcripts
+	       |[ALPHA+ %@ ALPHA+ %. ALPHA+ ] "+Guess":0 "+Email":0
+	       |[[w w (w) %. | W W (W) %. | H T T P %: %/ %/ | h t t p %: %/ %/] ALPHA+ ] "+Guess":0 "+Web":0
+	       |[(SP) [{<div}|{<speaker_turn }] [SP|ALPHA|XMLPUNCT]+ {>}] "+Guess":0 "+XMLTag":0
+;
+
+read regex Foreign ;
+echo << saving bin/guess_foreign.fst to file >>
+save stack bin/guess_foreign.fst
+
+echo << Foreign Guesser Complete >>
