@@ -15,7 +15,8 @@ read regex [..] -> h  || %^CB [m|b|c|d|f|g|p|t] _
 .o. 
 ! remove any h prohibited by dntls rule
 ! e.g. an-saibhir seanduine
-h -> [] || [d|n|t|l|s] (%-) %^CB [d|n|t|l|s] _	
+! added %_ for standardised historical forms like aon_duine
+h -> [] || [d|n|t|l|s] ([%-|%_]) %^CB [d|n|t|l|s] _	
 !!.o.	NOW REMOVED IN n-reg-tidy AT THE ENd
 !!%^CB -> []	! initial mutation at compound boundary
 ;

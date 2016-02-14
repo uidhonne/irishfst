@@ -907,10 +907,10 @@ Nm5-7-SINGULAR;
 
 !----------------------------------------------------------------------------
 LEXICON Ns
-+Subst+Noun+Sg:0	SéUrú;
++Subst+Noun+Sg:0	NounSéUrú;
 
 LEXICON Nspl
-+Subst+Noun+Pl:0	SéUrú;
++Subst+Noun+Pl:0	NounSéUrú;
 
 !************************************************************************** 
 ! INITIAL MUTATIONS
@@ -919,7 +919,7 @@ LEXICON Nspl
 ! NOMINATIVE SINGULAR 
 !-------------------
 LEXICON Nom-sg-initial
-SéUrú;		
+NounSéUrú;		
 +DefArt:^Sé^tv^ts	#; 	! definite article eg. an cat (m) (p38 NIG)
 			! an t-éan(m) - the bird (p39 NIG) 
 			! an bhróg(f) - the shoe
@@ -934,22 +934,19 @@ SéUrú;
 ! e.g. ar bhoscaí, i mboscaí
 ! possessive e.g. ár n-aithreacha - our fathers (^C)
 
-LEXICON SéUrú
+LEXICON NounSéUrú
 #;			! indefinite => no initial mutation
 Emphasis;
-!!! appending the +Len & +Ecl rather than creating seperate forms ...
 +Ecl:^IM^Urú	Emphasis;		
 +Len:^IM^Sé	Emphasis;		
 +hPref:^IM^hv	Emphasis;	!! adds ^h to vowel-initial words ...  but adds the +hPref to all words ... see fix file
-!!!!!+Poss:^Poss	Emphasis; !! +Poss tag gets appended to all nouns not
-				  !! just vowel-initial e.g. doras, fiú etc.
-				  !!  although no initial mutation takes place 
 					
 
 LEXICON Emphasis
 #;
 +Emph:s^Emph	#;   			!  NEEDS 1PL NE/NA & 3PL SEAN/SAN ALSO
-
+!!! added 8/5/2014 EUD for theach-sa etc.
++Emph:%-s^Emph	#;   			!  NEEDS 1PL NE/NA & 3PL SEAN/SAN ALSO	
 
 
 !-------------------
@@ -957,7 +954,7 @@ LEXICON Emphasis
 !-------------------
 
 LEXICON Gen-sg-initial
-SéUrú;			! eg. tábhacht a n-oidhreachta
+NounSéUrú;			! eg. tábhacht a n-oidhreachta
 #; 			! eg. bia cait, bia sagairt, bia stóir, 
 			!     bia rúin, pobail  
 			!     siopa grósaera - a grocer's shop
@@ -982,7 +979,7 @@ SéUrú;			! eg. tábhacht a n-oidhreachta
 
 LEXICON Pl-initial
 +DefArt:^Sé^Urú^hv			#; 	! eg. na cait (m)
-SéUrú;					! optional initial mutations for posession, after prepositions
+NounSéUrú;					! optional initial mutations for posession, after prepositions
 
 !************************************************************************** 
 ! FINAL MUTATIONS
@@ -1149,3 +1146,4 @@ LEXICON PL-OCHA					! ADD "OCHA"
 +Pl:ocha		Pl-initial;
 
 !---------------------------------------------------------------------------
+

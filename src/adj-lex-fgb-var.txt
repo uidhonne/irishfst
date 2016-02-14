@@ -1005,7 +1005,14 @@ doiligh+Adj+Fem+Gen+Sg:doilghe	#;
 doiligh+Adj+Com+Pl:doilghe	#;
 doiligh+Adj+Comp:doilghe	#;
 doiligh+Adj+Comp:doilgheacha	#;
-
+!ALSO
+doiligh+Adj+Base:doiligh	#;
+doiligh+Adj+Base+Len:dhoiligh	#;
+doiligh+Adj+Masc+Com+Sg:doiligh	#;
+doiligh+Adj+Fem+Com+Sg+Len:dhoiligh	#;
+doiligh+Adj+Fem+Gen+Sg:doilí	#;
+doiligh+Adj+Com+Pl:doilí	#;
+doiligh+Adj+Comp:doilí	#;
 !amainiris		amairinis
 amainiris	AdjBASE;
 !amainiris+Adv+Temp:amainiris	#;

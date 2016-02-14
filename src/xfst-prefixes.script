@@ -23,6 +23,7 @@ define Prefix	[[a d h]
 		|[a n a]
 		|[a i n]
 		|[a o n]
+		|[A o n]	
 		|[a r d]
 		|[a s]
 		|[a t h]
@@ -143,16 +144,20 @@ define PrefAll [ Prefix ];
 
 # FIXED AUG 2011
 #           ;
+# 21/5/2014 historical aon_ní, aon_duine, aon_neach
+# ??? adding underscore did not work well in practice aon_ní mapped to ní (VN) etc.
 define Pref [[[].x. PrefAll ] 0:"^CB" ]    # no hyphen
+	   |[[[].x.[PrefAll %_]] 0:"^CB" ]	# with underscore
 	   |[[[].x.[PrefAll %-]] 0:"^CB" ]	# with hyphen
 	   |[ [] .x. [t %- ] ]	# t- mistakenly prefixed to fem noun e.g. t-easpa 
-           ;
+       ;
 #
 ##END FIX
+
 #
 define PrefTag [[%+GuessPref] .x. 0];
 define NonBase [%+Gen | %+Voc | %+Dat | %+Len | %+Ecl | %+Emph| %+Pl | %+DefArt | %+hPref ];
-##
+## NOUNS
 read regex ~$[NonBase] .o. @"int/ncomm.fst";
 read regex ~$[NonBase] .o. @"int/vnvalex.fst"; 	# INCLUDES Verbal Adjectives
 union net
@@ -166,7 +171,7 @@ concatenate net
 ##=>
 save stack int/ncommpref.fst
 echo << prefixes + nouns saved as int/ncommpref.fst...>>>
-
+##=> ADJECTIVES
 clear stack
 define NonAdjBase [%+Masc | %+Fem | %+Len | %+Sg | %+Pl | %+Ecl | %+Pl | %+Comp ];
 read regex  ~$[NonAdjBase] .o. @"int/adjlex.fst";
@@ -181,6 +186,7 @@ concatenate net
 save stack int/adjpref.fst
 echo << prefixes + adjs saved as int/adjpref.fst...>>>
 
+##=> VERBS
 clear stack
 #read regex  @"int/v12.fst";
 read regex  @"int/v12lex.fst";
@@ -194,6 +200,27 @@ concatenate net
 ##=>
 save stack int/verbpref.fst
 echo << prefixes + verbs 1&2 saved as int/verbpref.fst...>>>
+#######################################
+# (historical verb forms)
+# underscore from caighdeánaitheoir, i.e. a_deirtear
+#define PrefHist [[[].x. [a %_ ]  ] 0:"^CB" ] ;   
+define PrefHist [[[].x. [[a|A] %_ ] ]|
+		 [[].x. [[D|d] o %_ ]]
+] ;   
+clear stack
+#read regex  @"int/v12lex.fst";
+read regex  @"int/verb-all.fst";
+read regex PrefHist;
+concatenate net
+##=>
+## comment out next three lines 
+read regex PrefTag;
+rotate stack
+concatenate net
+##=>
+save stack int/verbprefhist.fst
+echo << prefixes + verbs 1&2 saved as int/verbprefhist.fst...>>>	  
+#####################################
 # just checking for adj first to see how that works out ...
 # to accomodate an-mhór as noun or adj ... Make would also have to be changed
 #read regex  @"int/ncommpref.fst";

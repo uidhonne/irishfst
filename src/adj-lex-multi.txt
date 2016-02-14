@@ -80,6 +80,9 @@ Multichar_Symbols
 +Cop	! with Copail "is" e.g. b'fhearr
 +Its	! Adj+Its
 
+! in historical texts some prefixs may be written separately, e.g. droch, fo etc.
++Pref	! Prefixes which are usually attached to the noun they qualify; e.g. droch dhuine, sean leaid
+
 ^Adj	! Adjective- used in initial mutations
 ^Sé	! Séimhiú (softening) Lenition - h added after certain initial 
 	! consonants (bcdfgmpst)

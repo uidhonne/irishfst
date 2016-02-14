@@ -3148,7 +3148,7 @@ Seáin	NP-Fam;
 Sealbhaigh	NP-Fam-chg;
 Sealmair	NP-Fam;
 Séamais	NP-Fam;
-Séamas	NP-Fam;
+!!!Séamas	NP-Fam;
 Seambar	NP-Fam;
 Seamróg	NP-Fam;
 Seanacháin	NP-Fam;

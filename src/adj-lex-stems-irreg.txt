@@ -14,6 +14,28 @@ mó	AdjBASE;	! many as in "An mó ..?" "How many...?"
 mórmhór	AdjBASE;	! especially as in "go mórmhór
 mórmór	AdjBASE;	! especially as in "go mórmór
 
+!!! Prefixes which may have been written separately in historical texts
+
+adh+Adj+Pref:adh	#;
+ath+Adj+Pref:ath	#;
+deá+Adj+Pref:deá	#;
+droch+Adj+Pref:droch	#;
+feill+Adj+Pref:feill	#;
+fo+Adj+Pref:fo	#;
+fó+Adj+Pref:fó	#;
+freas+Adj+Pref:freas	#;
+frith+Adj+Pref:frith	#;
+iom+Adj+Pref:iom	#;
+íos+Adj+Pref:íos	#;
+réi+Adj+Pref:réi	#;
+sain+Adj+Pref:sain	#;
+tiú+Adj+Pref:tiú	#;
+tob+Adj+Pref:tob	#;
+tras+Adj+Pref:tras	#;
+uas+Adj+Pref:uas	#;
+uir+Adj+Pref:uir	#;
+
+
 píre+Adj+Base:píre			#;	! dáiríre píre
 !uile+Adj+Base:uilig	SEE DET-LEX		#;	! all, entirely
 <g o %_:%  l e o r %+Adj:0 %+Its:0>	#;	! e.g. ceart/minic go_leor

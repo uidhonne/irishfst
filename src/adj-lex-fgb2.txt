@@ -686,7 +686,7 @@ catalaíoch		Adj1-4;	! Grammar::(gsm ~, gsf & comp -íche, npl ~a)
 cathaiseach		Adj1-3;
 cathógach		Adj1-3;
 catóideach		Adj1-3;
-cé		Adj3-1;
+!!cé		Adj3-1;			! rare/literary use as adj
 ceachrach		Adj1-3;
 ceachrach		Adj1-3;
 ceachtartha		Adj3-1;

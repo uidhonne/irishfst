@@ -28,52 +28,52 @@ LEXICON Root
 LEXICON Numerals
 
 !!!! CARDINAL !!!!
-aon+Num+Card:aon			SéUrú;
+aon+Num+Card:aon			NumSéUrú;
 aon+Num+Card:haon			#;
 aon+Num+Card+Def:t-aon		#;
-dó+Num+Card:dó				SéUrú; ! a dó (two)
+dó+Num+Card:dó				NumSéUrú; ! a dó (two)
 dó+Num+Card:dhá				#; ! with a noun: dhá chapall (two horses)
 dó+Num+Card+Def:dá			#;
-trí+Num+Card:trí			SéUrú;
-ceathair+Num+Card:ceathair	SéUrú; ! a ceathair (four)
-ceathair+Num+Card:ceithre	SéUrú; ! ceithre chapall (four horses)
-cúig+Num+Card:cúig			SéUrú;
-sé+Num+Card:sé				SéUrú;
-seacht+Num+Card:seacht		SéUrú;
-ocht+Num+Card:ocht			SéUrú;
-naoi+Num+Card:naoi			SéUrú;
-deich+Num+Card:deich		SéUrú;
-fiche+Num+Card:fiche		SéUrú;
-tríocha+Num+Card:tríocha	SéUrú;
-daichead+Num+Card:daichead	SéUrú;
-caoga+Num+Card:caoga		SéUrú;
-seasca+Num+Card:seasca		SéUrú;
-seachtó+Num+Card:seachtó	SéUrú;
-ochtó+Num+Card:ochtó		SéUrú;
+trí+Num+Card:trí			NumSéUrú;
+ceathair+Num+Card:ceathair	NumSéUrú; ! a ceathair (four)
+ceathair+Num+Card:ceithre	NumSéUrú; ! ceithre chapall (four horses)
+cúig+Num+Card:cúig			NumSéUrú;
+sé+Num+Card:sé				NumSéUrú;
+seacht+Num+Card:seacht		NumSéUrú;
+ocht+Num+Card:ocht			NumSéUrú;
+naoi+Num+Card:naoi			NumSéUrú;
+deich+Num+Card:deich		NumSéUrú;
+fiche+Num+Card:fiche		NumSéUrú;
+tríocha+Num+Card:tríocha	NumSéUrú;
+daichead+Num+Card:daichead	NumSéUrú;
+caoga+Num+Card:caoga		NumSéUrú;
+seasca+Num+Card:seasca		NumSéUrú;
+seachtó+Num+Card:seachtó	NumSéUrú;
+ochtó+Num+Card:ochtó		NumSéUrú;
 ochtó+Num+Card:t-ochtó		#;
-nócha+Num+Card:nócha		SéUrú;
-céad+Num+Card:céad			SéUrú; ! hundred
-míle+Num+Card:míle			SéUrú;
-milliún+Num+Card:milliún	SéUrú;
+nócha+Num+Card:nócha		NumSéUrú;
+céad+Num+Card:céad			NumSéUrú; ! hundred
+míle+Num+Card:míle			NumSéUrú;
+milliún+Num+Card:milliún	NumSéUrú;
 
 !!!! ORDINAL !!!!
 
-céad+Num+Ord:céad			SéUrú; ! first
+céad+Num+Ord:céad			NumSéUrú; ! first
 !!céad+Num+Ord+Def:chéad	#;
-aon+Num+Ord:aonú			SéUrú;
+aon+Num+Ord:aonú			NumSéUrú;
 aon+Num+Ord+Def:t-aonú		#;
-dara+Num+Ord:dara			SéUrú;
-dó+Num+Ord:dóú				SéUrú;
-treas+Num+Ord:treas			SéUrú;
-trí+Num+Ord:tríú			SéUrú;
-ceathair+Num+Ord:ceathrú	SéUrú;
-cúig+Num+Ord:cúigiú			SéUrú;
-sé+Num+Ord:séú				SéUrú;
-seacht+Num+Ord:seachtú		SéUrú;
-ocht+Num+Ord:ochtú			SéUrú;
+dara+Num+Ord:dara			NumSéUrú;
+dó+Num+Ord:dóú				NumSéUrú;
+treas+Num+Ord:treas			NumSéUrú;
+trí+Num+Ord:tríú			NumSéUrú;
+ceathair+Num+Ord:ceathrú	NumSéUrú;
+cúig+Num+Ord:cúigiú			NumSéUrú;
+sé+Num+Ord:séú				NumSéUrú;
+seacht+Num+Ord:seachtú		NumSéUrú;
+ocht+Num+Ord:ochtú			NumSéUrú;
 !!ocht+Num+Ord+Def:t-ochtú	#;
-naoi+Num+Ord:naoú			SéUrú;
-deich+Num+Ord:deichiú		SéUrú;
+naoi+Num+Ord:naoú			NumSéUrú;
+deich+Num+Ord:deichiú		NumSéUrú;
 
 !!!! Operators !!!!
 ++Num+Op:+	#;
@@ -81,9 +81,9 @@ deich+Num+Ord:deichiú		SéUrú;
 *+Num+Op:*	#;
 =+Num+Op:=	#;
 /+Num+Op:/	#;
+÷+Num+Op:÷	#;
 
-
-LEXICON SéUrú
+LEXICON NumSéUrú
 #;
 +Len:^IM^Sé^tv		#;
 +Ecl:^IM^Urú		#;

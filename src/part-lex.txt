@@ -1,5 +1,5 @@
 ! t- and n- with +Part tag
-! ADDED HERE as there are sometimes split from the following
+! ADDED HERE as they are sometimes split from the following
 ! word at the end of a line in a text
 
 !****************************************************************************
@@ -77,7 +77,7 @@ mac+Part+Pat:mac		#;	! Mac Griana
 mac+Part+Pat:Mhic		#;	! Mac Griana
 mac+Part+Pat:Mc			#;	! Mc Griana
 la+Part+Pat:la			#;	! la Fontaine
-!!! the following create unnecessary ambiguity ...
+!!! the following create unnecessary ambiguity ... probabilities wouldbe useful here ...
 !!!le+Part+Pat:le			#;	! le Clézio
 de+Part+Pat:de			#;	! de Burgo
 
@@ -144,6 +144,8 @@ dar+Part+Vb+Rel+Indirect:dar	#;! indirect I think :gach lá dar chuireas díom
 
 a+Part+Vb+Rel+Indirect+Pro:a		#;! that who/which: sin a bhfuil ann (understood: sin [é/í/iad] a bhfuil ann
 ar+Part+Vb+Rel+Indirect+Pro:ar		#;! gach [rud] ar cheannaigh sé
+
+do+Part+Vb:do_		#;! (historical form) 1) rel: an scéal do chuir siad thart, 2) preverpal part: do chuir siad thart, 3) infin: ba mhaith liom an scéal do chuir thart
 
 nach+Part+Vb+Neg+Rel:nach		#; ! Dir&Indir: an cailín nach dtuigeann an scéal
 nach+CM+Part+Vb+Neg+Rel:ná		#; ! ná beadh, ian té ná taithníonn etc. 

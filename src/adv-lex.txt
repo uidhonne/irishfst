@@ -15,6 +15,7 @@ Multichar_Symbols
 +Its		! intensifiers e.g. sách, ró- etc.
 !!+Phr		! Phrasal        
 +Q		! Interrogative
++Wh		! Interrogative
 !!+Rel		! Relative e.g. mar, nuair
 +Dir		! Directional
 +Loc		! Locative
@@ -92,8 +93,8 @@ amugha+Adv+Gn:amugha		#; ! (Added CW 09/08) variation of amú
 ámh+Adv+Gn:ámh		#;		! truly
 fadó+Adv+Gn:fadó	#;		! long ago
 fiú+Adv+Gn:fiú	#;		! leven
-anois+Adv+Gn:anois	#;
-anois+Adv+Gn:Anois	#;		! included as alternative to Prop Noun
+anois+Adv+Temp:anois	#;
+anois+Adv+Temp:Anois	#;		! included as alternative to Prop Noun
 arís+Adv+Gn:arís	#;
 arís+Adv+Gn:aríst	#;
 !! MOVED TO ADJ annamh+Adv+Gn:annamh	#;
@@ -135,7 +136,7 @@ anocht+Adv+Temp:anocht	#;
 aréir+Adv+Temp:aréir	#;
 anuraidh+Adv+Temp:anuraidh	#;
 istoíche+Adv+Temp:istoíche	#;
-<l e %_:%  g a i r i d %+Adv:0 %+Temp:0>	#;	! lately; Temporal Adv
+<l e %_:%  r a i r i d %+Adv:0 %+Temp:0>	#;	! lately; Temporal Adv
 <t h a r %_:%  a %_:%  b h e i t h %+Adv:0 %+Its:0>	#;	! Its Adv
 túisce+Adv+Temp:túisce	#; ! (Added CW 09/08)
 amainiris+Adv+Temp:amainiris	#; ! The second day after tomorrow (Added CW 09/08)
@@ -168,13 +169,21 @@ arú+Adv+Gn:arú	#;
 !!cá+Cop+Adv+Q:cárb	#;
 !!cá+Cop+Adv+Q:cárbh	#;
 
-cá+Adv+Q:cá		#;
-cá+Adv+Q+Past:cár	#;
-cá+Adv+Q:cár	#;
-cá+Adv+Q:cárb	#;
-cá+Adv+Q:cárbh	#;
-cathain+Adv+Q:cathain	#;
-conas+Adv+Q:conas	#;
+!!cá+Adv+Q:cá		#;
+!!cá+Adv+Q+Past:cár	#;
+!!cá+Adv+Q:cár	#;
+!!cá+Adv+Q:cárb	#;
+!!cá+Adv+Q:cárbh	#;
+!!cathain+Adv+Q:cathain	#;
+!!conas+Adv+Q:conas	#;
+
+cá+Adv+Q+Wh:cá		#;
+cá+Adv+Q+Wh+Past:cár	#;
+cá+Adv+Q+Wh:cár	#;
+cá+Adv+Q+Wh:cárb	#;
+cá+Adv+Q+Wh:cárbh	#;
+cathain+Adv+Q+Wh:cathain	#;
+conas+Adv+Q+Wh:conas	#;
 
 ! DEGREE (INTENSIFIERS OF ADJECTIVES)
 
