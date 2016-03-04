@@ -716,7 +716,7 @@ bin/pcompadjs.fst: int/ncmpd.fst int/ninit.fst int/ndiph.fst \
 ########################
 #bug 19-12-2014 was not using p-version i.e. @printf "load int/verbcmpd.fst \n\
 pcompverbs.fst: bin/pcompverbs.fst
-bin/pcompverbs.fst: int/pverbcmpd.fst int/ncmpd.fst int/ninit.fst int/vrul.fst int/ftidy.fst
+bin/pcompverbs.fst: int/ncmpd.fst int/ninit.fst int/vrul.fst int/ftidy.fst
 	@echo
 	@echo " <<< Composing Compound Verbs and Rules >>>"
 	@echo
