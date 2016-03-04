@@ -16,29 +16,46 @@ Beirbeireach	Adj1-3;	! Berber
 Búrbónach	Adj1-3;	! Bourbon
 Canárach	Adj1-3;	! Canarian
 Coirdíneach	Adj1-3;	! Kurdish
+Céiniach	Adj1-3;	 ! Kenyan
+Cóiréach	Adj1-3;	 ! Korean
 Formósach	Adj1-3;	! Formosan
 Fíníneach	Adj1-3;	! Fenian
 Gael-Mheiriceánach	Adj1-3;	! Irish American
 Heiseánach	Adj1-3;	! Hessian
+Iar-Indiach	Adj1-3;	 ! West Indian
+Iaránach	Adj1-3;	 ! Iranian
 Inceach	Adj1-3;	! Incan
+Indiach	Adj1-3;	 ! Indian
 Indiach-Mheiriceánach	Adj1-3;	! Indian-American
+Ioruach	Adj1-3;	 ! Norwegian, Norse
 Iútlannach	Adj1-3;	! Jutlandic
+Laitviach	Adj1-3;	 ! Latvian
 Leiveantach	Adj1-3;	! Levantine
 Londanach	Adj1-3;	! Londoner
+Lucsamburgach	Adj1-3;	 ! Luxembourgish
 Lúsatánach	Adj1-3;	! Lusitanian
 Madagascrach	Adj1-3;	! Madagascan
+Malaeisiach	Adj1-3;	 ! Malaysian
 Moldávach	Adj1-3;	! Moldovan
 Mícéanach	Adj1-3;	! Mycenaean
 Naipleach	Adj1-3;	! Neapolitan
 Nua-Chaladónach	Adj1-3;	! New Caledonian
+Nua-Shéalannach	Adj1-3;	 ! New Zealand
+Oir-Indiach	Adj1-3;	 ! East Indian
 Pan-Mheiriceánach	Adj1-3;	! Pan-American
+Paraguach	Adj1-3;	 ! Paraguaian
 Patagónach	Adj1-3;	! Patagonian
 Piréineach	Adj1-3;	! Pyrenean
+Prúiseach	Adj1-3;	 ! Prussian
 Ríceach	Adj1-3;	! Rican (Cósta Ríceach, Portó Ríceach)
 Sadúisíneach	Adj1-3;	! Sadducean
+Saimbiach	Adj1-3;	 ! Zambian
 Sargasach	Adj1-3;	! Sargasso (An Mhuir Sargasach: The Sargasso Sea)
 Seineagálach	Adj1-3;	! Senegalese
+Seirbiach	Adj1-3;	 ! Serbian
 Siléiseach	Adj1-3;	! Silesian
+Siriach	Adj1-3;	 ! Syrian
+Slóivéanach	Adj1-3;	 ! Slovenian
 Somálach	Adj1-3;	! Somalian
 Sorbach	Adj1-3;	! Sorbian
 Spartach	Adj1-3;	! Spartan
@@ -49,6 +66,7 @@ Tansánach	Adj1-3;	! Tanzanian
 Tasmánach	Adj1-3;	! Tasmanian
 Teasálach	Adj1-3;	! Thessalian
 Turcamánach	Adj1-3;	! Turkmen
+Tuscánach	Adj1-3;	 ! Tuscan
 Téacrach	Adj1-3;	! Teucrian
 Tógalannach	Adj1-3;	! Togolese, Togolander
 Uraguach	Adj1-3;	! Uruguayan
