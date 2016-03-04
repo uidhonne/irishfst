@@ -685,7 +685,7 @@ bin/pcompnouns.fst: int/pncommcmpd.fst int/ncmpd.fst int/ninit.fst int/ndiph.fst
 # UPPERCASE COMPOUND ADJs + RULES
 ########################
 pcompadjs.fst: bin/pcompadjs.fst
-bin/pcompadjs.fst: int/padjcmpd.fst int/ncmpd.fst int/ninit.fst int/ndiph.fst \
+bin/pcompadjs.fst: int/ncmpd.fst int/ninit.fst int/ndiph.fst \
 	int/nsync.fst int/nx.fst int/nchg.fst \
 	int/nchk.fst int/nslen.fst int/nbr.fst \
 	int/nvh.fst int/ntidy.fst int/ftidy.fst
@@ -716,7 +716,7 @@ bin/pcompadjs.fst: int/padjcmpd.fst int/ncmpd.fst int/ninit.fst int/ndiph.fst \
 ########################
 #bug 19-12-2014 was not using p-version i.e. @printf "load int/verbcmpd.fst \n\
 pcompverbs.fst: bin/pcompverbs.fst
-bin/pcompverbs.fst: int/pverbcmpd.fst int/ncmpd.fst int/ninit.fst int/vrul.fst int/ftidy.fst
+bin/pcompverbs.fst: int/ncmpd.fst int/ninit.fst int/vrul.fst int/ftidy.fst
 	@echo
 	@echo " <<< Composing Compound Verbs and Rules >>>"
 	@echo
@@ -751,6 +751,17 @@ verbcmpd.fst:  int/verbcmpd.fst
 int/verbcmpd.fst: src/xfst-compounds.script int/v12lex.fst
 	@echo
 	@echo " <<< Compound Verbs >>>"
+	@echo
+	@foma  -f src/xfst-compounds.script
+
+pncommcmpd.fst: int/pncommcmpd.fst
+int/pncommcmpd.fst: src/xfst-compounds.script int/pncommcmpd.fst int/ncmpd.fst \
+	int/ninit.fst int/ndiph.fst \
+	int/nsync.fst int/nx.fst int/nchg.fst \
+	int/nchk.fst int/nslen.fst int/nbr.fst \
+	int/nvh.fst int/ntidy.fst int/ftidy.fst
+	@echo
+	@echo " <<< Compound Proper Nouns >>>"
 	@echo
 	@foma  -f src/xfst-compounds.script
 
@@ -884,6 +895,7 @@ int/num.fst: src/num-lex.txt
 ###################################################################
 
 adj.fst: int/adj.fst
+int/adjlex.fst: int/adj.fst
 int/adj.fst: src/adj-lex-multi.txt src/adj-lex-stems.txt src/adj-lex-stems-irreg.txt \
 	src/adj-lex-stems2.txt \
 	src/adj-lex-stems3.txt \
@@ -997,6 +1009,7 @@ int/v3.fst: src/v3-lex-stems.txt \
 
 # verbs - 1st & 2nd conjugation
 v12.fst: int/v12.fst
+int/v12lex.fst: int/v12.fst
 int/v12.fst: src/v-lex-multi.txt src/v12-lex-cc.txt src/v2-lex-cc.txt src/v1-lex-cc.txt \
 	src/v1-lex-stems.txt \
 	src/v2-lex-stems.txt \
@@ -1094,6 +1107,7 @@ bin/prefverbshist.fst: int/verbprefhist.fst  \
 ###################################################################
 
 vn.fst: int/vn.fst
+int/vnvalex.fst: int/vn.fst
 int/vn.fst: src/vnva-lex-multi.txt \
 	src/vn-lex-stems.txt  \
 	src/vng-lex-stems.txt  \
