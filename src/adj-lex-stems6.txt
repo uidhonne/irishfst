@@ -1,0 +1,57 @@
+LEXICON AdjF
+Aegéach	Adj1-3;	! Aegean
+Aeólach	Adj1-3;	! Aeolian
+Afra-Mheiriceánach	Adj1-3;	! Afro-American
+Agragantach	Adj1-3;	! Agrigentian
+Ailbíseach	Adj1-3;	! Albigensian
+Airiasach      Adj1-3;  ! Arian
+Aiticeach	Adj1-3;	! Attic (Greek)
+Andalúiseach	Adj1-3;	! Andalusian
+Angla-Caitliceach	Adj1-3;	! Anglo-Catholic
+Angla-Indiach	Adj1-3;	! Anglo-Indian
+Angla-Éireannach	Adj1-3;	! Anglo Irish
+Aontachtach	Adj1-3;	! Unionist
+Bailéarach	Adj1-3;	! Balearic
+Beirbeireach	Adj1-3;	! Berber
+Búrbónach	Adj1-3;	! Bourbon
+Canárach	Adj1-3;	! Canarian
+Coirdíneach	Adj1-3;	! Kurdish
+Formósach	Adj1-3;	! Formosan
+Fíníneach	Adj1-3;	! Fenian
+Gael-Mheiriceánach	Adj1-3;	! Irish American
+Heiseánach	Adj1-3;	! Hessian
+Inceach	Adj1-3;	! Incan
+Indiach-Mheiriceánach	Adj1-3;	! Indian-American
+Iútlannach	Adj1-3;	! Jutlandic
+Leiveantach	Adj1-3;	! Levantine
+Londanach	Adj1-3;	! Londoner
+Lúsatánach	Adj1-3;	! Lusitanian
+Madagascrach	Adj1-3;	! Madagascan
+Moldávach	Adj1-3;	! Moldovan
+Mícéanach	Adj1-3;	! Mycenaean
+Naipleach	Adj1-3;	! Neapolitan
+Nua-Chaladónach	Adj1-3;	! New Caledonian
+Pan-Mheiriceánach	Adj1-3;	! Pan-American
+Patagónach	Adj1-3;	! Patagonian
+Piréineach	Adj1-3;	! Pyrenean
+Ríceach	Adj1-3;	! Rican (Cósta Ríceach, Portó Ríceach)
+Sadúisíneach	Adj1-3;	! Sadducean
+Sargasach	Adj1-3;	! Sargasso (An Mhuir Sargasach: The Sargasso Sea)
+Seineagálach	Adj1-3;	! Senegalese
+Siléiseach	Adj1-3;	! Silesian
+Somálach	Adj1-3;	! Somalian
+Sorbach	Adj1-3;	! Sorbian
+Spartach	Adj1-3;	! Spartan
+Suiméarach	Adj1-3;	! Sumerian
+Suranamach	Adj1-3;	! Surinamese
+Sóróstarach	Adj1-3;	! Zoroastrian
+Tansánach	Adj1-3;	! Tanzanian
+Tasmánach	Adj1-3;	! Tasmanian
+Teasálach	Adj1-3;	! Thessalian
+Turcamánach	Adj1-3;	! Turkmen
+Téacrach	Adj1-3;	! Teucrian
+Tógalannach	Adj1-3;	! Togolese, Togolander
+Uraguach	Adj1-3;	! Uruguayan
+Voltach	Adj1-3;	! Voltaic
+Áigéach	Adj1-3;	! Augean
+Éatrúscach	Adj1-3;	! Etruscan
