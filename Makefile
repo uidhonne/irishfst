@@ -884,6 +884,7 @@ int/num.fst: src/num-lex.txt
 ###################################################################
 
 adj.fst: int/adj.fst
+int/adjlex.fst: int/adj.fst
 int/adj.fst: src/adj-lex-multi.txt src/adj-lex-stems.txt src/adj-lex-stems-irreg.txt \
 	src/adj-lex-stems2.txt \
 	src/adj-lex-stems3.txt \
@@ -997,6 +998,7 @@ int/v3.fst: src/v3-lex-stems.txt \
 
 # verbs - 1st & 2nd conjugation
 v12.fst: int/v12.fst
+int/v12lex.fst: int/v12.fst
 int/v12.fst: src/v-lex-multi.txt src/v12-lex-cc.txt src/v2-lex-cc.txt src/v1-lex-cc.txt \
 	src/v1-lex-stems.txt \
 	src/v2-lex-stems.txt \
@@ -1094,6 +1096,7 @@ bin/prefverbshist.fst: int/verbprefhist.fst  \
 ###################################################################
 
 vn.fst: int/vn.fst
+int/vnvalex.fst: int/vn.fst
 int/vn.fst: src/vnva-lex-multi.txt \
 	src/vn-lex-stems.txt  \
 	src/vng-lex-stems.txt  \
