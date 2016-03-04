@@ -685,7 +685,7 @@ bin/pcompnouns.fst: int/pncommcmpd.fst int/ncmpd.fst int/ninit.fst int/ndiph.fst
 # UPPERCASE COMPOUND ADJs + RULES
 ########################
 pcompadjs.fst: bin/pcompadjs.fst
-bin/pcompadjs.fst: int/padjcmpd.fst int/ncmpd.fst int/ninit.fst int/ndiph.fst \
+bin/pcompadjs.fst: int/ncmpd.fst int/ninit.fst int/ndiph.fst \
 	int/nsync.fst int/nx.fst int/nchg.fst \
 	int/nchk.fst int/nslen.fst int/nbr.fst \
 	int/nvh.fst int/ntidy.fst int/ftidy.fst
