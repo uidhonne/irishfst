@@ -754,6 +754,17 @@ int/verbcmpd.fst: src/xfst-compounds.script int/v12lex.fst
 	@echo
 	@foma  -f src/xfst-compounds.script
 
+pncommcmpd.fst: int/pncommcmpd.fst
+int/pncommcmpd.fst: src/xfst-compounds.script int/pncommcmpd.fst int/ncmpd.fst \
+	int/ninit.fst int/ndiph.fst \
+	int/nsync.fst int/nx.fst int/nchg.fst \
+	int/nchk.fst int/nslen.fst int/nbr.fst \
+	int/nvh.fst int/ntidy.fst int/ftidy.fst
+	@echo
+	@echo " <<< Compound Proper Nouns >>>"
+	@echo
+	@foma  -f src/xfst-compounds.script
+
 # all noun lexicons 
 # (incl. numbers like aon, dó trí...)
 #######################################
