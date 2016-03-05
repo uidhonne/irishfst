@@ -150,7 +150,8 @@ borradh+Verbal+Noun+VTI:borradh	VN-INIT;
 bradú+Verbal+Noun+VTI:bradú	VN-INIT;
 bradaíl+Verbal+Noun+NStem:bradaíl	VN-INIT;
 braichadh+Verbal+Noun+VTI:braichadh	VN-INIT;
-braith+Verbal+Noun+VTI:braith	VN-INIT;
+!! changed brath from VTI to VT ...
+braith+Verbal+Noun+VT:braith	VN-INIT;
 brath+Verbal+Noun+VTI:brath	VN-INIT;
 braistint+Verbal+Noun+VTI:braistint	VN-INIT;
 brandáil+Verbal+Noun+VT:brandáil	VN-INIT;

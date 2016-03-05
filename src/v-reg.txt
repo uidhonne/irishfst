@@ -32,7 +32,6 @@ m h -> [%^FT] || _ %^bgmh %^Verb ]
 .o.
 [%^bgmh ->[]]
 .o.
-
 ! 2nd. Conjugation Syncopation of Stem
 
 [a i l -> %^FY l || _ %^Coim %^Verb [\%^Fr]]
@@ -93,6 +92,9 @@ m h -> [%^FT] || _ %^bgmh %^Verb ]
 
 .o.
 
+!! fix rithtear, braithtear etc should be ritear, braitear etc
+[t h -> [] || i _ t %^FS e a r ]
+.o.
 [%^VAdj -> [] ]		!TEMPORARY - VERBAL ADJS. AND VERBAL NOUNS
 			!            IN 2 MUST BE SORTED OUT
 ;
