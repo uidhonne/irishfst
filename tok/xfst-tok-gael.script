@@ -1,6 +1,7 @@
 #--------------------------------------------
 # Elaine Uí Dhonnchadha
 # 2002
+#
 # based on tokeniser by Anne Schiller
 #
 # add LE GO and CHUN GO - then fix the manually disambiguated stuff
@@ -44,12 +45,12 @@ define WS [SP|NL|TAB];
 
 echo >>> define punctuation
 
-
-#define SINGLE [%" | %. | %, | %; | %: | %! | %? | %( | %) | %[ | %] | %{ | %} |%'| %_ | %` | %# | %& | %£ | %€ | %< | %> |%/ | %° | %· |® | ¡|¿];
+#define SINGLE [%" | %. | %, | %; | %: | %! | %? | %( | %) | %[ | %] | %{ | %} |%'| %_ | %` | %# | %& | %£ | %€ | %< | %> |%/ | %° | %· | %® | %¡ | %¿ ];
 #without underscore
-define SINGLE [%" | %. | %, | %; | %: | %! | %? | %( | %) | %[ | %] | %{ | %} |%'| %` | %# | %& | %£ | %€ | %< | %> |%/ | %° | %· |® | ¡|¿];
+define SINGLE [%" | %. | %, | %; | %: | %! | %? | %( | %) | %[ | %] | %{ | %} | %' | %` | %# | %& | %£ | %€ | %< | %> | %° | %˚ | %º | %· | %® | %¡ | %¿ | %⇒ | %√ | %± | %∝ | %∝ | %α | %Ω | %Ω | %Ω | %ρ | %Ρ | %• | %µ | %π | %∏ | %Π | %π | %ㅠ | %Δ | %∆ | %© | %… | %♠️ | %♥️ | %♦️ | %♣️ | %♕ | %♛ | %♔ | %♖ | %♜ | %ℕ | %† | %① | %② | %③ | %④ | %⑤ | %⑥ | %⑦ | %⑧ | %⑨ | %⑩ | %⑪ | %⑫ | %⑬ | %⑭ | %⑮ | %⑯ | %⑰ | %⑱ | %⑲ | %⑳ | %→ | %↑ | %↓ | %Γ | %ϑ | %Λ | %Ξ | %θ | %Σ | %Φ | %Ψ | %Ω | %ø | %∞ | %∂ | %∧ | %∀ | %∑ | %β | %γ | %δ | %Ε | %ε | %Β | %Α | %Ζ | %ζ | %Η | %η | %Θ | % | %Ι | %ι | %Κ | %κ | %λ | %Μ | %Ν | %ν | %ξ | %Ο | %ο | %σ | %ς | %Τ | %τ | %Υ | %υ | %Φ | %φ | %Χ | %χ | %Ψ | %ψ | %Ω | %ω | %μ | %∴ | %½ | %¼ | %¾ | %⅔ | %⅓ | %¯ | %³ | %² | %¹ | %≈ | %↔  | %➞ | %⇔ | %▶️ | %◀️  | %▼ | %✔ | %✘ | %➡️ | %⬅️ | %⬆️ | %⬇️ | %↗️ | %↘️ | %↙️ | %↖️ | %↕️ | %↔️ | %↪️ | %↩️ | %⤴️ | %⤵️  | %~ | %∕ | %‰  | %¬ |  %∪ | %∩ | %≥ | %≤ | %≡ | %≈ | %≠ | %× | %| | %∠ | %» | %« | %ı | %ƒ | %⁄ | %Ө | % ];
 
-#"
+### The following are symbols that, when included, caused tokenize process to hang. Test #1 51min hang > ^C, Test #2 17min hang > ^C. 
+
 #define PUNCT [ %. %. (%.) | %` %` | %' %'| %, %, ];
 define PUNCT [ %. %. %. | %` %` | %' %'| %, %, | %-];
 
@@ -236,8 +237,8 @@ echo >>> numeric expressions
 
 define Digit [%0| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 ];
 
-define NumOp [%- | %= | %+ | %* | %/ | %: | %÷];
-
+define NumOp [%- | %= | %+ | %* | %/ | %: | %÷ ];
+# | %×
 define NumSep [%. | %, ];
 
 #define NUM [Digit | NumOp | NumSep]+ & $[Digit];
@@ -281,35 +282,6 @@ define ENGWORD [ Char Char+ [' s]];
 
 #--------------------------------------------
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 echo >>> some multi-word expressions
 
 define MWE [ 
@@ -340,10 +312,11 @@ define MWE [
 {de bharr} |
 {d'ainneoin}|
 [{D}|{d}] {á bharr sin}|
-{de bharr}|
+{De bharr}|
 {de chois}|
 {de dheasca}|
 {de dheascaibh}|
+{de láimh}|
 {de dhíobháil}|
 [{D}|{d}] {e réir} |
 {de thairbhe}|
@@ -446,7 +419,8 @@ define MWE [
 {Lucht Oibre}|
 # counties 
 {Áth Cliath}|
-{Átha Cliath}|
+{Baile Átha Cliath}|
+{Contae Átha Cliath}|
 {Cill Chainnigh}|
 {gCill Chainnigh}|
 {Chill Chainnigh}|
