@@ -141,6 +141,7 @@ SELECT (Prep Simp) IF (1 (Pron Dem)) (2 ("amach"));
 #SELECT (Adj) IF (-2 ("as")) (-1 (Adj));
 
 #sé = Noun only in phrase "sé nó seachrán" or after Art
+SELECT (Noun) IF (0 ("<sé>")) (2 ("seachrán"));
 REMOVE (Noun) IF (0 ("<sé>")) (NOT 2 ("seachrán"));
 
 # ann = Noun only in "in ann"
