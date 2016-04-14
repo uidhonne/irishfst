@@ -1020,7 +1020,7 @@ SELECT (Num Card) IF (-1C (Part Nm));
 #GÓD Bhí sé fhear sa theach. Sé cannot be a pronoun if followed by a lenited noun.
 SELECT (Num Card) IF (0 ("<sé>")) (1C (Noun Len));
 #GÓD Bhí sé sé mhí san Aifric. Personal pronouns do not trigger eclipsis.
-REMOVE (Num Card Ecl) IF (-1 (Pron Pers))
+REMOVE (Num Card Ecl) IF (-1 (Pron Pers)) ;
 # -------------- @ADDED CW 09/08 --------------
 
 # Avoid that "seasca" is interpreted as plural of "seasc" (barren, unfruitful)
