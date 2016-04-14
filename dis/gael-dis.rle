@@ -141,11 +141,13 @@ SELECT (Prep Simp) IF (1 (Pron Dem)) (2 ("amach"));
 #SELECT (Adj) IF (-2 ("as")) (-1 (Adj));
 
 #sé = Noun only in phrase "sé nó seachrán" or after Art
+SELECT (Noun) IF (0 ("<sé>")) (2 ("seachrán"));
 REMOVE (Noun) IF (0 ("<sé>")) (NOT 2 ("seachrán"));
 
 # ann = Noun only in "in ann"
-REMOVE (Noun) IF (0 ("ann")) (NOT -1 ("<in>")) ;
-SELECT (Noun) IF (0 ("ann")) (-1 ("<in>")) ;
+# rules not needed, as "in ann" is a multiword, and the Noun analysis is absent
+#REMOVE (Noun) IF (0 ("ann")) (NOT -1 ("<in>")) ;
+#SELECT (Noun) IF (0 ("ann")) (-1 ("<in>")) ;
 
 # ar/agus/ná a chumas/cumas/gcumas
 #SELECT (Noun Com) IF (0 ("cumas")) (-2 ("ar") OR ("agus") OR ("ná")) (-1 ("a"));
