@@ -1,0 +1,53 @@
+LEXICON NounsG
+Aegéach	Nm1-1;	! Aegean
+Aeólach	Nm1-1;	! Aeolian
+Afra-Mheiriceánach	Nm1-1;	! Afro-American
+Agragantach	Nm1-1;	! Agrigentian
+Ailbíseach	Nm1-1;	! Albigensian
+Airiasach      Nm1-1;  ! Arian
+Andalúiseach	Nm1-1;	! Andalusian
+Angla-Caitliceach	Nm1-1;	! Anglo-Catholic
+Angla-Indiach	Nm1-1;	! Anglo-Indian
+Angla-Éireannach:      NPI-Éireannach; ! Anglo-Irish
+Aontachtach	Nm1-1;	! Unionist
+Bailéarach	Nm1-1;	! Balearic
+Beirbeireach	Nm1-1;	! Berber
+Búrbónach	Nm1-1;	! Bourbon
+Canárach	Nm1-1;	! Canarian
+Coirdíneach	Nm1-1;	! Kurd
+Formósach	Nm1-1;	! Formosan
+Fíníneach	Nm1-1;	! Fenian
+Gael-Mheiriceánach	Nm1-1;	! Irish American
+Heiseánach	Nm1-1;	! Hessian
+Inceach	Nm1-1;	! Inca
+Indiach-Mheiriceánach	Nm1-1;	! Indian-American
+Iútlannach	Nm1-1;	! Jute
+Leiveantach	Nm1-1;	! Levantine
+Londanach	Nm1-1;	! Londoner
+Lúsatánach	Nm1-1;	! Lusitanian
+Madagascrach	Nm1-1;	! Madagascan
+Moldávach	Nm1-1;	! Moldovan
+Mícéanach	Nm1-1;	! Mycenaean
+Naipleach	Nm1-1;	! Neapolitan
+Nua-Chaladónach	Nm1-1;	! New Caledonian
+Pan-Mheiriceánach	Nm1-1;	! Pan-American
+Patagónach	Nm1-1;	! Patagonian
+Piréineach	Nm1-1;	! Pyrenean
+Ríceach	Nm1-1;	! Rican (Cósta Ríceach, Portó Ríceach)
+Sadúisíneach	Nm1-1;	! Sadducee
+Seineagálach	Nm1-1;	! Senegalese
+Siléiseach	Nm1-1;	! Silesian
+Somálach	Nm1-1;	! Somalian
+Sorbach	Nm1-1;	! Sorb
+Spartach	Nm1-1;	! Spartan
+Suiméarach	Nm1-1;	! Sumerian
+Suranamach	Nm1-1;	! Surinamese
+Sóróstarach	Nm1-1;	! Zoroastrian
+Tansánach	Nm1-1;	! Tanzanian
+Tasmánach	Nm1-1;	! Tasmanian
+Teasálach	Nm1-1;	! Thessalian
+Turcamánach	Nm1-1;	! Turkmen
+Téacrach	Nm1-1;	! Teucrian
+Tógalannach	Nm1-1;	! Togolese, Togolander
+Uraguach	Nm1-1;	! Uruguayan
+Éatrúscach	Nm1-1;	! Etruscan
