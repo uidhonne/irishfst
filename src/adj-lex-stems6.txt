@@ -56,6 +56,7 @@ Seirbiach	Adj1-3;	 ! Serbian
 Siléiseach	Adj1-3;	! Silesian
 Siriach	Adj1-3;	 ! Syrian
 Slóivéanach	Adj1-3;	 ! Slovenian
+Sóivéadach	Adj1-3;	 ! Soviet
 Somálach	Adj1-3;	! Somalian
 Sorbach	Adj1-3;	! Sorbian
 Spartach	Adj1-3;	! Spartan
