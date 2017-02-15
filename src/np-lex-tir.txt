@@ -215,12 +215,12 @@ Iondúis	NP-PLACE-sg;	! Indus
 Iordáin	Nf2-Prop;	! Jordan
 Iorua	Nf4-Prop;	! Norway
 Íoslann	Nf2-Prop;	! Iceland
-Iosrael	NP-PLACE-sg;	! Israel
-Iostanbúl	NP-PLACE-sg;	! Istanbul
-Ísiltír	NP-PLACE-pl;	! !!!!Netherlands ( The)
+Iosrael	Nm4-Prop;	! Israel
+Iostanbúl	Nm4-Prop;	! Istanbul
+Ísiltír	Nf2-Prop;	! !!!!Netherlands ( The)
 Iúgslaiv	Nf2-Prop;	! Yugoslavia
-Iútlainn	NP-PLACE-sg;	! Jutland
-Labradar	NP-PLACE-sg;	! Labrador
+Iútlainn	Nf2-Prop;	! Jutland
+Labradar	Nm4-Prop;	! Labrador
 Lagáin	NP-PLACE-sg;	! Lagan
 Laitvia	NP-PLACE-sg;	! Latvia
 Laoi	Nf4-Prop;	! Lee
