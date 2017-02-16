@@ -7,47 +7,47 @@ Aeigéach	NP-PLACE-sg;	! !!!!Aegean (Sea)
 Aetóip	Nf2-Prop;	! Ethiopia
 Afganastáin	Nf2-Prop;	! Afghanistan
 Afraic	Nf2-Prop;	! Africa
-Áidin	NP-PLACE-sg;	! Aden
+Áidin	Nf4-Prop;	! Aden
 Aidriad	NP-PLACE-sg;	! !!!!Adriatic (Sea)
-Aigéine	NP-PLACE-sg;	! Oceania
+Aigéine	Nf4-Prop;	! Oceania
 Ailgéir	Nf2-Prop;	! Algeria
 Airgintín	Nf2-Prop;	! Argentina
-Airméin	NP-PLACE-sg;	! Armenia
+Airméin	Nf2-Prop;	! Armenia
 Aise	NP-PLACE-sg;	! !!!!Asia Minor
 Aíse	Nf4-Prop;	! Asia
-Aithin	NP-PLACE-sg;	! Athens
-Alasca	NP-PLACE-sg;	! Alaska
+Aithin	Nf2-Prop;	! Athens
+Alasca	Nm4-Prop;	! Alaska
 Albáin	Nf2-Prop;	! Albania
-Albain	NP-PLACE-sg;	! Scotland
-Alsáis	NP-PLACE-sg;	! Alsace
+Albain	NP-PLACE-sg;	! Scotland !Nf5-Prop??
+Alsáis	Nf2-Prop;	! Alsace
 Amasóin	Nf2-Prop;	! Amazon
-Amstardam	NP-PLACE-sg;	! Amsterdam
-Andóra	NP-PLACE-sg;	! Andorra
-Angóla	NP-PLACE-sg;	! Angola
-Antuairp	NP-PLACE-sg;	! Antwerp
+Amstardam	Nm4-Prop;	! Amsterdam
+Andóra	Nm4-Prop;	! Andorra
+Angóla	Nm4-Prop;	! Angola
+Antuairp	Nf4-Prop;	! Antwerp
 Éimíríochtaí	NP-PLACE-pl;	! !!!!United Arab Emirates - Aontas na nÉimíríochtaí Arabacha
 Arabacha	AdjM-Prop-pl;	! !!!!United Arab Emirates
-Sóivéadach	Nf4-Prop;	! !!!!Soviet Union - Aontas na Sóivéadach
+Sóivéadach	Nm1-Prop;	! Soviet Union - Aontas na Sóivéadach
 Araib	Nf2-Prop;	! Arabia
 Shádach	AdjF-Prop;	! !!!!Saudi Arabia
 Árainn	NP-PLACE-sg;	! Arainn 
-Astracáin	NP-PLACE-sg;	! Astrak(h)an
+Astracáin	Nf2-Prop;	! Astrak(h)an
 Astráil	Nf2-Prop;	! Australia
-Astraláise	NP-PLACE-sg;	! Australasia
-Bahámaí	NP-PLACE-sg;	! !!!!Bahamas (The )
-Bairéin	NP-PLACE-sg;	! Bahrein
+Astraláise	Nf4-Prop;	! Australasia
+Bahámaí	NP-PLACE-pl;	! !!!!Bahamas (The )
+Bairéin	Nf4-Prop;	! Bahrein
 Balcáin	NP-PLACE-pl;	! Balkans
 Bioscáin	Nf2-Prop;	!!!!Bá na Bioscáine! !!!!Biscay (Bayof )
 Banglaidéis	Nf2-Prop;	! Bangladesh
-Barbadós	NP-PLACE-sg;	! Barbados
-Béalgrád	NP-PLACE-sg;	! Belgrade
-Beangál	NP-PLACE-sg;	! Bengal
+Barbadós	Nm4-Prop;	! Barbados
+Béalgrád	Nm4-Prop;	! Belgrade
+Beangál	Nm4-Prop;	! Bengal
 Beilg	Nf2-Prop;	! Belgium
-Beinin	NP-PLACE-sg;	! Benin
-Beirlín	NP-PLACE-sg;	! Berlin
-Beirmiúdaí	NP-PLACE-sg;	! !!!!Bermudas (The)
-Beirmiúda	NP-PLACE-sg;	! Bermuda
-Beirn	NP-PLACE-sg;	! Berne
+Beinin	Nf4-Prop;	! Benin
+Beirlín	Nf4-Prop;	! Berlin
+Beirmiúdaí	NP-PLACE-pl;	! !!!!Bermudas (The)
+Beirmiúda	Nm4-Prop;	! Bermuda
+Beirn	Nf4-Prop;	! Berne
 Beithil	Nf2-Prop;	! Bethlehem
 Bablóinia	Nf4-Prop;	! Babylonia
 Bablóin	Nf2-Prop;	! Babylon
@@ -63,7 +63,7 @@ Boisnia	Nf4-Prop;	! Bosnia
 Burgúin	Nf2-Prop;	! Burgundy
 Burúin	Nf2-Prop;	! Burundi
 Bútáin	Nf2-Prop;	! Bhutan
-Biafra	NP-PLACE-sg;	! Biafra
+Biafra	Nm4-Prop;	! Biafra
 Biosáint	Nf2-Prop;	! Byzantium
 Boirneo	NP-PLACE-sg;	! Borneo
 Bolaiv	Nf2-Prop;	! Bolivia
