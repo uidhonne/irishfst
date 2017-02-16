@@ -65,32 +65,32 @@ Burúin	Nf2-Prop;	! Burundi
 Bútáin	Nf2-Prop;	! Bhutan
 Biafra	Nm4-Prop;	! Biafra
 Biosáint	Nf2-Prop;	! Byzantium
-Boirneo	NP-PLACE-sg;	! Borneo
+Boirneo	Nm4-Prop;	! Borneo
 Bolaiv	Nf2-Prop;	! Bolivia
-Bostún	NP-PLACE-sg;	! Boston
+Bostún	Nm1-Prop;	! Boston
 Brasaíl	Nf2-Prop;	! Brazil
-Briostó	NP-PLACE-sg;	! Bristol
+Briostó	Nm4-Prop;	! Bristol
 Briotáin	Nf2-Prop;	! Brittany
 Bruiséil	Nf2-Prop;	! Brussels
-Búcairist	NP-PLACE-sg;	! Bucharest
-Búdaipeist	NP-PLACE-sg;	! Budapest
+Búcairist	Nf4-Prop;	! Bucharest
+Búdaipeist	Nf4-Prop;	! Budapest
 Bulgáir	Nf2-Prop;	! Bulgaria
-Burma	NP-PLACE-sg;	! Burma
+Burma	Nm4-Prop;	! Burma
 Caerdydd	NP-PLACE-sg;	! Cardiff
-Caireo	NP-PLACE-sg;	! Cairo
-Calcúta	NP-PLACE-sg;	! Calcutta
+Caireo	Nm4-Prop;	! Cairo
+Calcúta	Nm4-Prop;	! Calcutta
 Camarúin	NP-PLACE-sg;	! !!!!Cameroons (The )
 Camarún	Nm1-Prop;	! Cameroon
 !!!!Caolas Bheiring	! !!!!Bering Straits
 Beiring	Nm4-Prop;	! !!!!Bering Straits
 Catalóin	Nf2-Prop;	! Catalonia
-Catar	NP-PLACE-sg;	! Qatar
+Catar	Nm4-Prop;	! Qatar
 !!!!CATHAIR!!!!! 
 Alastair	Nm4-Prop;	! Alexandria
 Ailgéir		Nf2-Prop;	! Algiers Cathair na hAilgéire
 Vatacáin	Nf2-Prop;	! Vatican City Cathair na Vatacáine
 !!!!CATHAIR!!!!! 
-Ceanada	NP-PLACE-sg;	! Canada
+Ceanada	Nm4-Prop;	! Canada
 Céinia	Nf4-Prop;	! Kenya
 Cairéil	Nf2-Prop;	! Karelia
 Caismír	Nf2-Prop;	! Kasbmir
@@ -105,7 +105,7 @@ Cosaiv	Nf4-Prop;	! Kosovo
 Crimé	Nf4-Prop;	! Crimea
 Cróit	Nf2-Prop;	! Croatia
 Cipir	Nf2-Prop;	! Cyprus
-Cóbanhávan	NP-PLACE-sg;	! Copenhagen
+Cóbanhávan	Nm4-Prop;	! Copenhagen
 !!!!Coilíneacht na Rinne	NP-PLACE-sg;	! !!!!Cape Colony
 Cóiré	Nf4-Prop;	! Korea
 Colóim	Nf2-Prop;	! Columbia
@@ -115,7 +115,6 @@ Briotanach	AdjM-Prop;	! !!!!British Commonwealth - Comhlathas Briotanach
 Cónaidhm Nf2-Prop;
 Rúis	Nf2-Prop;	! !!!!Russian Federation
 Congó	Nm4-Prop;	! Congo
-Congó	NP-PLACE-sg;	! Congó
 !!!!Corn na Breataine	NP-PLACE-sg;	! Cornwall
 Breatain	Nf2-Prop;	! 
 Corsaic	Nf2-Prop;	! Corsica
@@ -123,22 +122,22 @@ Corsaic	Nf2-Prop;	! Corsica
 !!!!Cósta Ríce	NP-PLACE-sg;	! !!!!Costa Rica
 Créit	Nf2-Prop;	! Crete
 !!!!Críoch Lochlann	NP-PLACE-sg;	! Scandinavia
-Cuáit	NP-PLACE-sg;	! Kuwait
-Cúba	NP-PLACE-sg;	! Cuba
-Dagastáin	NP-PLACE-sg;	! Dagestan
-Dalmáit	NP-PLACE-sg;	! Dalmatia
-Damaisc	NP-PLACE-sg;	! Damascos
+Cuáit	Nf4-Prop;	! Kuwait
+Cúba	Nm4-Prop;	! Cuba
+Dagastáin	Nf2-Prop;	! Dagestan
+Dalmáit	Nf2-Prop;	! Dalmatia
+Damaisc	Nf2-Prop;	! Damascos
 Danmhairg	Nf2-Prop;	! Denmark
 Danóib	Nf2-Prop;	! Danube
-Dardainéil	NP-PLACE-sg;	! Dardanelles
+Dardainéil	Nf2-Prop;	! Dardanelles
 Deilí	NP-PLACE-sg;	! Delhi
 !!!!Deilí Nua	NP-PLACE-sg;	! !!!!New Delhi
 !!!!Dnípir Dniester An Drnsir	NP-PLACE-sg;	! Dnieper
 !!!!Dúiche na Réine	NP-PLACE-sg;	! !!!!Rhineland (The)
 !!!!Dún Éideann	NP-PLACE-sg;	! Edinburgh
-Eabhrac	NP-PLACE-sg;	! York
-Eabró	NP-PLACE-sg;	! Ebro
-Eacuadór	NP-PLACE-sg;	! Ecuador
+Eabhrac	Nm4-Prop;	! York
+Eabró	Nf4-Prop;	! Ebro
+Eacuadór	Nm4-Prop;	! Ecuador
 Eastóin	NP-PLACE-sg;	! Estonia
 Éigipt	Nf2-Prop;	! Egypt
 Eilbe	NP-PLACE-sg;	! Elbe
