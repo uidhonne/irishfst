@@ -18,7 +18,7 @@ Aíse	Nf4-Prop;	! Asia
 Aithin	Nf2-Prop;	! Athens
 Alasca	Nm4-Prop;	! Alaska
 Albáin	Nf2-Prop;	! Albania
-Albain	NP-PLACE-sg;	! Scotland !Nf5-Prop??
+Albain	Nf5-Prop;	! Scotland
 Alsáis	Nf2-Prop;	! Alsace
 Amasóin	Nf2-Prop;	! Amazon
 Amstardam	Nm4-Prop;	! Amsterdam
