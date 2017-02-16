@@ -138,42 +138,41 @@ Deilí	NP-PLACE-sg;	! Delhi
 Eabhrac	Nm4-Prop;	! York
 Eabró	Nf4-Prop;	! Ebro
 Eacuadór	Nm4-Prop;	! Ecuador
-Eastóin	NP-PLACE-sg;	! Estonia
+Eastóin	Nf2-Prop;	! Estonia
 Éigipt	Nf2-Prop;	! Egypt
-Eilbe	NP-PLACE-sg;	! Elbe
+Eilbe	Nf4-Prop;	! Elbe
 Eilvéis	Nf2-Prop;	! Switzerland
-Éimin	NP-PLACE-sg;	! Yemen
-Eofrait	NP-PLACE-sg;	! Euphrates
+Éimin	Nf4-Prop;	! Yemen
+Eofrait	Nf2-Prop;	! Euphrates
 Féiníc	Nf2-Prop;	! Phoenicia
 Freaslainn	Nf2-Prop;	! Friesland
 Filipíneacha	NP-PLACE-sg;	! !!!!Philippines (The )
 Fionlainn	Nf2-Prop;	! Finland
-Flóndras	NP-PLACE-sg;	! Flanders
-Flórans	NP-PLACE-sg;	! Firenze
-Flórans	NP-PLACE-sg;	! Florence
+Flóndras	Nm4-Prop;	! Flanders
+Flórans	Nm4-Prop;	! Florence (Firenze)
 Frainc	Nf2-Prop;	! France
 Gaillimh	Nf2-Prop;	! Galway
 Gaill	Nf2-Prop;	! Gaul
 Gainséis	Nf2-Prop;	! Ganges
-Gána	NP-PLACE-sg;	! Ghana
+Gána	Nm4-Prop;	! Ghana
 !!!!Garbhchríocha na hAlban	NP-PLACE-sg;	! !!!!Scottish Highlands (The )
-Geansaí	NP-PLACE-sg;	! Guernsey
+Geansaí	Nf4-Prop;	! Guernsey
 Gearmáin	Nf2-Prop;	! Germany
-Geirsí	NP-PLACE-sg;	! Jersey
+Geirsí	Nf4-Prop;	! Jersey
 Genova	NP-PLACE-sg;	! Genoa
 Gabúin	Nf3-Prop;	! Gabon
 Gaimbia	Nf4-Prop;	! Gambia
 Guine 	Nf4-Prop;	! !!!!Equatorial Guinea
 Mheánchriosach	AdjM-Prop;	! !!!!Equatorial Guinea - Ghuine Mheánchriosach
 Ginéiv	Nf2-Prop;	! Geneva
-Giobráltar	NP-PLACE-sg;	! Gibraltar
-Glaschú	NP-PLACE-sg;	! Glasgow
+Giobráltar	Nm4-Prop;	! Gibraltar
+Glaschú	Nm4-Prop;	! Glasgow
 Graonlainn	Nf2-Prop;	! Greenland
 Gréig	Nf2-Prop;	! Greece
 !!!!Guadalúip (agus a Spleáchríocha)	NP-PLACE-sg;	! !!!!Guadeloupe (and Dependencies)
 Guáin	Nf2-Prop;	! Guyana
 Gúam	NP-PLACE-sg;	! Guam
-Guatamala	NP-PLACE-sg;	! Guatemala
+Guatamala	Nm4-Prop;	! Guatemala
 !!!!Guine Bhissau	NP-PLACE-sg;	! !!!!Guinea Bissau
 Guine	Nf4-Prop;	! Guinea
 Háig	Nf2-Prop;	! !!!!Hague, the
@@ -183,34 +182,34 @@ Aipiníní	NP-PLACE-pl;	! Appenines
 Háití	NP-PLACE-sg;	! Haiti
 Alpa	NP-PLACE-pl;	! Alps
 Asóir	NP-PLACE-pl;	! !!!!Azores (The)
-Haváí	NP-PLACE-sg;	! Hawaii
+Haváí	Nf4-Prop;	! Hawaii
 Havána	NP-PLACE-sg;	! Havana
-Heilsincí	NP-PLACE-sg;	! Helsinki
+Heilsincí	Nf4-Prop;	! Helsinki
 Himiléithe	NP-PLACE-pl;	! !!!!Himalayas (The)
 !!!!hIndiacha Thoir	NP-PLACE-pl;	! !!!!East Indies
 !!!!hIndiacha Thoir Thiar	NP-PLACE-sg;	! !!!!Indies (The East West)
 !!!!hOileáin Bhailéaracha	NP-PLACE-sg;	! !!!!Balearic Islands (The )
 Canáracha	NP-PLACE;	! !!!!Canary Islands
 !!!!hOileáin Fhílipíneacha	NP-PLACE-pl;	! Philippines
-Hondúras	NP-PLACE-sg;	! Honduras
+Hondúras	Nm4-Prop;	! Honduras
 !!!!Hong Cong	NP-PLACE-sg;	! !!!!Hong Kong
-Iacúit	NP-PLACE-sg;	! Yakut
-Iacútsc	NP-PLACE-sg;	! Yakutsk
-Iamáice	NP-PLACE-sg;	! Jamaica
+Iacúit	Nf2-Prop;	! Yakut
+Iacútsc	Nm4-Prop;	! Yakutsk
+Iamáice	Nf4-Prop;	! Jamaica
 Iarachó	NP-PLACE-sg;	! Jericho
 Iaráin	Nf2-Prop;	! Iran
 Iarúsailéim	Nf2-Prop;	! Jerusalem
-Iáva	NP-PLACE-sg;	! Java
+Iáva	Nm4-Prop;	! Java
 Ibéir	Nf2-Prop;	! lberia
 India	Nf4-Prop;	! India
 Indinéis	Nf2-Prop;	! Indonesia
-Ind-Sín	NP-PLACE-sg;	! Indo-China
+Ind-Sín	Nf2-Prop;	! Indo-China
 !!!!Inis Iocht	NP-PLACE-sg;	! !!!!Wight, The Isle of
 !!!!Inse Ghall	NP-PLACE-sg;	! Hebrides
 !!!!Inse Orc	NP-PLACE-sg;	! !!!!Orkneys (The )
 Iodáil	Nf2-Prop;	! Italy
 Ióhanasburg	NP-PLACE-sg;	! Johannesburg
-Iondúis	NP-PLACE-sg;	! Indus
+Iondúis	Nf2-Prop;	! Indus
 Iordáin	Nf2-Prop;	! Jordan
 Iorua	Nf4-Prop;	! Norway
 Íoslann	Nf2-Prop;	! Iceland
@@ -221,49 +220,48 @@ Iúgslaiv	Nf2-Prop;	! Yugoslavia
 Iútlainn	Nf2-Prop;	! Jutland
 Labradar	Nm4-Prop;	! Labrador
 Lagáin	NP-PLACE-sg;	! Lagan
-Laitvia	NP-PLACE-sg;	! Latvia
+Laitvia	Nf4-Prop;	! Latvia
 Laoi	Nf4-Prop;	! Lee
 Laos	NP-PLACE-sg;	! Laos
-Laplainn	NP-PLACE-sg;	! Lapland
+Laplainn	Nf2-Prop;	! Lapland
 Iaráic	Nf2-Prop;	! Iraq
 Learpholl	Nm1-Prop;	! Liverpool
 !!!!Leithinis Bhalcánach	NP-PLACE-sg;	! !!!!Balkan Peninsula
 !!!!Leithinis Mhalae	NP-PLACE-sg;	! !!!!Malay Peninsulà
-Leiveaint	NP-PLACE-sg;	! !!!!Levant (The )
-Leódhas	NP-PLACE-sg;	! !!!!Lewis Island
-Leosóta	NP-PLACE-sg;	! Lesotho
-Libéir	NP-PLACE-sg;	! Liberia
+Leiveaint	Nf2-Prop;	! !!!!Levant (The )
+Leódhas	Nm4-Prop;	! !!!!Lewis Island
+Leosóta	Nm4-Prop;	! Lesotho
+Libéir	Nf2-Prop;	! Liberia
 Libia	Nf4-Prop;	! Libya
-Lichtinstéin	NP-PLACE-sg;	! Liechtenstein
+Lichtinstéin	Nf4-Prop;	! Liechtenstein
 Life	Nf4-Prop;	! Liffey
 Liobáin	Nf2-Prop;	! Lebanon
 Liospóin	Nf2-Prop;	! Lisbon
-Liotuáin	NP-PLACE-sg;	! Lithuania
+Liotuáin	Nf2-Prop;	! Lithuania
 !!!!Loch Cuan	NP-PLACE-sg;	! !!!!Strangford Lough
 !!!!Loch Dearg	NP-PLACE-sg;	! !!!!Lough Derg
 !!!!Loch Deirgeirt	NP-PLACE-sg;	! !!!!Lough Derg
 !!!!Loch Eirne	NP-PLACE-sg;	! !!!!Lough Erne
 !!!!Loch Lao	NP-PLACE-sg;	! !!!!Belfast Lough
 !!!!Loch nEathach	NP-PLACE-sg;	! !!!!Lough Neagh
-Lombaird	NP-PLACE-sg;	! Lombardy
-Lorráin	NP-PLACE-sg;	! Lorraine
-Lováin	NP-PLACE-sg;	! Louvain
-Lucsamburg	NP-PLACE-sg;	! Luxembourg
+Lombaird	Nf2-Prop;	! Lombardy
+Lorráin	Nf2-Prop;	! Lorraine
+Lováin	Nf4-Prop;	! Louvain
+Lucsamburg	Nm4-Prop;	! Luxembourg
 Luimneach	Nm1-Prop;	! Limerick
 Madagascar	NP-PLACE-sg;	! Madagascar
-Maidéara	NP-PLACE-sg;	! Madeira
-Maidéara	NP-PLACE-sg;	! Maderia
-Maidrid	NP-PLACE-sg;	! Madrid
-Mailí	NP-PLACE-sg;	! Mali
-Mainile	NP-PLACE-sg;	! Manila
+Maidéara	Nm4-Prop;	! Madeira
+Maidrid	Nf4-Prop;	! Madrid
+Mailí	Nf4-Prop;	! Mali
+Mainile	Nf4-Prop;	! Manila
 Malaeisia	Nf4-Prop;	! Malaysia
-Mallarca	NP-PLACE-sg;	! Majorca
-Málta	NP-PLACE-sg;	! Malta
-Manainn	NP-PLACE-sg;	! !!!!Man, Isle of
-Manchain	NP-PLACE-sg;	! Manchester
-Maracó	NP-PLACE-sg;	! Morocco
-Meice	NP-PLACE-sg;	! Mecca
-Meicsiceo	NP-PLACE-sg;	! Mexico
+Mallarca	Nm4-Prop;	! Majorca
+Málta	Nm4-Prop;	! Malta
+Manainn	Nf2-Prop;	! !!!!Man, Isle of
+Manchain	Nf4-Prop;	! Manchester
+Maracó	Nm4-Prop;	! Morocco
+Meice	Nf4-Prop;	! Mecca
+Meicsiceo	Nm4-Prop;	! Mexico
 !!!!Meiriceá Laidineach	Nm4-Prop;	! !!!!Latin America
 Macadóin	Nf4-Prop;	! Macedonia
 Maláiv		Nf4-Prop;	! Malawi
@@ -286,14 +284,14 @@ Moldóiv	Nf4-Prop;	! Moldova
 !!!!Mhuir Shargasach	NP-PLACE-sg;	! !!!!Sargasso Sea (The )
 !!!!Mhuir Thuaidh	Nf3-Prop;	! !!!!North Sea
 !!!!Mhuir Thuaidh	NP-PLACE-sg;	! !!!!North Sea (The )
-Mionarca	NP-PLACE-sg;	! Minorca
-Molacaí	NP-PLACE-sg;	! !!!!Molucca Islands (The)
-Monacó	NP-PLACE-sg;	! Monaco
+Mionarca	Nm4-Prop;	! Minorca
+Molacaí	NP-PLACE-pl;	! !!!!Molucca Islands (The)
+Monacó	Nm4-Prop;	! Monaco
 Mongóil	Nf2-Prop;	! Mongolia
-Montainéagró	NP-PLACE-sg;	! Montenegro
-Montsarat	NP-PLACE-sg;	! Montserrat
+Montainéagró	Nm4-Prop;	! Montenegro
+Montsarat	Nm4-Prop;	! Montserrat
 Mósaimbíc	Nf2-Prop;	! Mozambique
-Moscó	NP-PLACE-sg;	! Moscow
+Moscó	Nm4-Prop;	! Moscow
 !!!!Muir Bhailt	NP-PLACE-sg;	! !!!!Baltic Sea
 !!!!Muir Bhreatan	NP-PLACE-sg;	! !!!!Saint George's Channel
 !!!!Muir Bhreatan	NP-PLACE-sg;	! !!!!St George's Channel
@@ -309,13 +307,13 @@ Moscó	NP-PLACE-sg;	! Moscow
 !!!!Murascaill na Peirse	NP-PLACE-sg;	! !!!!Persian Gulf (The )
 Muscat	NP-PLACE-sg;	! Muscat
 !!!!Na hOileáin Mhaildíve	NP-PLACE-sg;	! !!!!Maldive Islands (The )
-Namaib	NP-PLACE-sg;	! Namibia
-Nárú	NP-PLACE-sg;	! Naura
+Namaib	Nf2-Prop;	! Namibia
+Nárú	Nm4-Prop;	! Naura
 Nasaireit	NP-PLACE-sg;	! Nazareth
 Natal	NP-PLACE-sg;	! Natal
 Neipeál	NP-PLACE-sg;	! Nepal
-Niasalainn	NP-PLACE-sg;	! Nyasaland
-Nicearagua	NP-PLACE-sg;	! Nicaragua
+Niasalainn	Nf2-Prop;	! Nyasaland
+Nicearagua	Nm4-Prop;	! Nicaragua
 Nigéir	Nf2-Prop;	! Nigeria
 Nígir	Nf2-Prop;	! Niger
 Normainn	NP-PLACE-sg;	! Normandy
