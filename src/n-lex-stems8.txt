@@ -6,3 +6,4 @@ dobharshaothrú  Nm5-3;  ! aquaculture
 uisceshaothrú   Nm5-3;  ! aquaculture
 atreisiú        Nm5-3;  ! reinforcement
 mótarbhád       Nm1-1;  ! motor boat
+2-hiodrocsaídéfheinil		Nf2-SINGULAR; ! 2-hydroxybiphenyl !!! problematic - capitalised from 'h'
