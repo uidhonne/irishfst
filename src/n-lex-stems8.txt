@@ -1,0 +1,8 @@
+LEXICON NounsH
+mótarfheithicil Nf2-7;  ! motor vehicle
+fomhír  Nf2-6;  ! sub-item
+imthoisc        Nf2-12; ! circumstance
+dobharshaothrú  Nm5-3;  ! aquaculture
+uisceshaothrú   Nm5-3;  ! aquaculture
+atreisiú        Nm5-3;  ! reinforcement
+mótarbhád       Nm1-1;  ! motor boat
