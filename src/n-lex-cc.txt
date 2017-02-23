@@ -384,6 +384,13 @@ Nf4-SINGULAR;
 +Noun+Fem+Gen+Strong:^G	PL-OCHA;
 +Noun+Fem+Voc:^V		PL-OCHA;
 
+LEXICON 	Nf4-11
+
+Nf4-SINGULAR;
++Noun+Fem+Com:^C^Ath		PL-TÍ;
++Noun+Fem+Gen+Strong:^G^Ath	PL-TÍ;
++Noun+Fem+Voc:^V^Ath		PL-TÍ;
+
 !--------------------------------------------------------------------------
 ! Strong Plurals : Leathnú  +acha
 
@@ -1089,6 +1096,9 @@ LEXICON PL-(E)ANNA				! ADD "ANNA" IF BROAD & ADD "EANNA" IF SLENDER
 
 LEXICON PL-Í					! ADD "Í"
 +Pl:í		Pl-initial;
+
+LEXICON PL-TÍ					! ADD "TÍ"
++Pl:tí		Pl-initial;
 
 
 LEXICON PL-(CAOL)E				! ADD "E" & CAOLÚ IF BROAD
