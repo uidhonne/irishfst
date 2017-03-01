@@ -151,7 +151,8 @@ Danóib	Nf2-Prop;	! Danube
 Dardainéil	Nf2-Prop;	! Dardanelles
 Deilí	NP-PLACE-sg;	! Delhi
 !!!!Deilí Nua	NP-PLACE-sg;	! !!!!New Delhi
-!!!!Dnípir Dniester An Drnsir	NP-PLACE-sg;	! Dnieper
+Dnípir	Nf2-Prop;	! Dnieper (river)
+Dnístir	Nf2-Prop;	! Dniester (river)
 !!!!Dúiche na Réine	NP-PLACE-sg;	! !!!!Rhineland (The)
 !!!!Dún Éideann	NP-PLACE-sg;	! Edinburgh
 Eabhrac	Nm4-Prop;	! York
