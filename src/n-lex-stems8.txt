@@ -13,3 +13,5 @@ réamhainm	NI-ainm; ! forename
 iar-réamhainm	NI-ainm; ! former forename
 eagrúchán	Nm1-1;	! organisation, organisational
 ilstóráil	Nf3-SINGULAR;	! multiple storage
+móruasal	Nm1-9;	! magnate; móruaisle - nobility
+mór-uasal	Nm1-9;	! variant of móruasal
