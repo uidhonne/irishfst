@@ -215,7 +215,7 @@ Iorua	Nf4-Prop;	! Norway
 Íoslann	Nf2-Prop;	! Iceland
 Iosrael	Nm4-Prop;	! Israel
 Iostanbúl	Nm4-Prop;	! Istanbul
-Ísiltír	Nf2-Prop;	! !!!!Netherlands ( The)
+Ísiltír	Nf2-Prop;	! Netherlands ( The)
 Iúgslaiv	Nf2-Prop;	! Yugoslavia
 Iútlainn	Nf2-Prop;	! Jutland
 Labradar	Nm4-Prop;	! Labrador
@@ -228,8 +228,8 @@ Iaráic	Nf2-Prop;	! Iraq
 Learpholl	Nm1-Prop;	! Liverpool
 !!!!Leithinis Bhalcánach	NP-PLACE-sg;	! !!!!Balkan Peninsula
 !!!!Leithinis Mhalae	NP-PLACE-sg;	! !!!!Malay Peninsulà
-Leiveaint	Nf2-Prop;	! !!!!Levant (The )
-Leódhas	Nm4-Prop;	! !!!!Lewis Island
+Leiveaint	Nf2-Prop;	! Levant (The )
+Leódhas	Nm4-Prop;	! Lewis Island
 Leosóta	Nm4-Prop;	! Lesotho
 Libéir	Nf2-Prop;	! Liberia
 Libia	Nf4-Prop;	! Libya
@@ -257,7 +257,7 @@ Mainile	Nf4-Prop;	! Manila
 Malaeisia	Nf4-Prop;	! Malaysia
 Mallarca	Nm4-Prop;	! Majorca
 Málta	Nm4-Prop;	! Malta
-Manainn	Nf2-Prop;	! !!!!Man, Isle of
+Manainn	Nf2-Prop;	! Man, Isle of
 Manchain	Nf4-Prop;	! Manchester
 Maracó	Nm4-Prop;	! Morocco
 Meice	Nf4-Prop;	! Mecca
@@ -317,7 +317,7 @@ Nicearagua	Nm4-Prop;	! Nicaragua
 Nigéir	Nf2-Prop;	! Nigeria
 Nígir	Nf2-Prop;	! Niger
 Normainn	Nf2-Prop;	! Normandy
-Nua-Eabhrac	Nm4-Prop;	! !!!!New York
+Nua-Eabhrac	Nm4-Prop;	! New York
 Nua-Ghuíne	Nf4-Prop;	! !!!!New Guinea
 Nua-Shéalainn	Nf2-Prop;	! !!!!New Zealand
 !!!!OILEÁIN!!!!! 
