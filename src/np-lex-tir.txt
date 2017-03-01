@@ -52,6 +52,7 @@ Beachuanlainn	Nf2-Prop;	! Bechuanaland
 Béalgrád	Nm4-Prop;	! Belgrade
 Beangál	Nm4-Prop;	! Bengal
 Beilg	Nf2-Prop;	! Belgium
+Beilís	Nf2-Prop;	! Belize
 Beinin	Nf4-Prop;	! Benin
 Beirlín	Nf4-Prop;	! Berlin
 Beirmiúdaí	NP-PLACE-pl;	! !!!!Bermudas (The)
@@ -65,9 +66,14 @@ Banglaidéis	Nf2-Prop;	! !!!!Bangla Desh
 Balúchastáin	Nf2-Prop;	! Baluchistan
 Barbair	Nf2-Prop;	! Barbary
 Bealarúis	Nf2-Prop;	! Belarus
+Béóitia	Nf4-Prop;	! Boeotia
 Bílearúis	Nf2-Prop;	! Byelorussia
+Bitín	Nf2-Prop;	! Bithynia
+Boihéim	Nf2-Prop;	! Bohemia
 Boisnia-Heirseagaivéin	Nf2-Prop;	! Bosnia-Herzegovina
 Boisnia	Nf4-Prop;	! Bosnia
+Botsuáin	Nf2-Prop;	! Botswana
+Bratasláiv	Nf2-Prop;	! Bratislava
 !!!Breatain	Nf2-Prop; !!!!Bhreatain Bheag (Wales)
 Burgúin	Nf2-Prop;	! Burgundy
 Burúin	Nf2-Prop;	! Burundi
@@ -90,8 +96,10 @@ Caireo	Nm4-Prop;	! Cairo
 Calcúta	Nm4-Prop;	! Calcutta
 Camarúin	NP-PLACE-sg;	! !!!!Cameroons (The )
 Camarún	Nm1-Prop;	! Cameroon
+Capadóic	Nf2-Prop;	! Cappadocia
 !!!!Caolas Bheiring	! !!!!Bering Straits
 Beiring	Nm4-Prop;	! !!!!Bering Straits
+Casacstáin	Nf2-Prop;	! Kazakhstan
 Catalóin	Nf2-Prop;	! Catalonia
 Catar	Nm4-Prop;	! Qatar
 !!!!CATHAIR!!!!! 
@@ -108,6 +116,8 @@ Cambóid	Nf2-Prop;	! Cambodia
 Campúis	Nf2-Prop;	! Kampucbea
 Cartaig	Nf2-Prop;	! Carthage
 Ceilibéis	Nf2-Prop;	! Celebes
+Cirgeastáin	Nf2-Prop;	! Kyrgyzstan
+!Cianoirthear	Nm1-Prop;	! Far East !!! g. Cianoirthir
 Coraint	Nf2-Prop;	! Corinth
 Cordastáin	Nf2-Prop;	! Kurdistan
 Cosaiv	Nf4-Prop;	! Kosovo
