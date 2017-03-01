@@ -291,6 +291,7 @@ Manchain	Nf4-Prop;	! Manchester
 Maracó	Nm4-Prop;	! Morocco
 Meice	Nf4-Prop;	! Mecca
 Meicsiceo	Nm4-Prop;	! Mexico
+Meilinéis	Nf2-Prop;	! Melanesia
 !!!!Meiriceá Laidineach	Nm4-Prop;	! !!!!Latin America
 Macadóin	Nf4-Prop;	! Macedonia
 Maláiv		Nf4-Prop;	! Malawi
@@ -298,6 +299,7 @@ Manchúir	Nf4-Prop;	! Manchuria
 Máratáin	Nf2-Prop;	! Mauritania
 Meánmhuir	Nf3-Prop;	! !!!!Mediterranean Sea
 Measpatáim	Nf2-Prop;	! Mesopotamia
+Micrinéis	Nf2-Prop;	! Micronesia
 Moldóiv	Nf4-Prop;	! Moldova
 !!!!Mhuir Bhailéarach	NP-PLACE-sg;	! !!!!Balearic Sea
 !!!!Mhuir Bhailt	NP-PLACE-sg;	! !!!!Baltic Sea (The )
@@ -315,10 +317,15 @@ Moldóiv	Nf4-Prop;	! Moldova
 !!!!Mhuir Thuaidh	NP-PLACE-sg;	! !!!!North Sea (The )
 Mionarca	Nm4-Prop;	! Minorca
 Molacaí	NP-PLACE-pl;	! !!!!Molucca Islands (The)
+Moldáiv	Nf2-Prop;	! Moldavia
+Valáic-Mholdáiv	Nf2-Prop;	! Wallacia-Moldavia
+Valáic	Nf2-Prop;	! Wallacia
 Monacó	Nm4-Prop;	! Monaco
 Mongóil	Nf2-Prop;	! Mongolia
 Montainéagró	Nm4-Prop;	! Montenegro
 Montsarat	Nm4-Prop;	! Montserrat
+Moráiv	Nf2-Prop;	! Moravia
+Mordóiv	Nf2-Prop;	! Mordovia
 Mósaimbíc	Nf2-Prop;	! Mozambique
 Moscó	Nm4-Prop;	! Moscow
 !!!!Muir Bhailt	NP-PLACE-sg;	! !!!!Baltic Sea
