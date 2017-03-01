@@ -316,15 +316,15 @@ Niasalainn	Nf2-Prop;	! Nyasaland
 Nicearagua	Nm4-Prop;	! Nicaragua
 Nigéir	Nf2-Prop;	! Nigeria
 Nígir	Nf2-Prop;	! Niger
-Normainn	NP-PLACE-sg;	! Normandy
-Nua-Eabhrac	NP-PLACE-sg;	! !!!!New York
+Normainn	Nf2-Prop;	! Normandy
+Nua-Eabhrac	Nm4-Prop;	! !!!!New York
 Nua-Ghuíne	Nf4-Prop;	! !!!!New Guinea
 Nua-Shéalainn	Nf2-Prop;	! !!!!New Zealand
 !!!!OILEÁIN!!!!! 
 Ailiúit	NP-PLACE-pl;	! O. Ailiúit - Aleutian Islands
 Comóra	NP-PLACE-sg;	! !!!!Comoro Islands
 Fáclann	Nf2-Prop;	! !!!!Falkland Islands
-Faró	NP-PLACE-sg;	! !!!!Faroe Islands
+Faró	Nm4-Prop;	! !!!!Faroe Islands
 Fidsí	NP-PLACE-sg;	! !!!!Fiji Islands
 Maildíve	NP-PLACE-sg;	! !!!!Maldive Islands (The )
 !!!!Oileáin Mhuir nIocht	NP-PLACE-sg;	! !!!!Channel Islands
@@ -332,23 +332,22 @@ Aimiréalacht	Nf3-Prop;	! !!!!Admirality Islands
 Manann	NP-PLACE-sg;	! !!!!Isle of Man
 Muirís	NP-PLACE-sg;	! Mauritius
 Deascabháil	Nf3-Prop;	! !!!!Ascension Island
-Tobága	NP-PLACE-sg;	! !!!!Trinidad and Tobago
-Oiséit	NP-PLACE-sg;	! Ossetia
-Ollainn	NP-PLACE-sg;	! Holland
+Tobága	Nm4-Prop;	! !!!!Trinidad and Tobago
+Oiséit	Nf2-Prop;	! Ossetia
+Ollainn	Nf2-Prop;	! Holland
 Oman	NP-PLACE-sg;	! Oman
-Oranócó	NP-PLACE-sg;	! Orinoco
-Osló	NP-PLACE-sg;	! Oslo
-Ostainn	NP-PLACE-sg;	! Ostend
+Oranócó	Nf4-Prop;	! Orinoco
+Osló	Nm4-Prop;	! Oslo
+Ostainn	Nf4-Prop;	! Ostend
 Ostair	Nf2-Prop;	! Austria
 Pacastáín	Nf2-Prop;	! Pakistan
 Palaistín	Nf2-Prop;	! Palestine
-Panama	NP-PLACE-sg;	! Panama
-Papua	NP-PLACE-sg;	! Papua
-Paragua	NP-PLACE-sg;	! Paraguay
-Páras	NP-PLACE-sg;	! Paris
-Péicing	NP-PLACE-sg;	! Beijing
-Péicing	NP-PLACE-sg;	! Peking
-Peiriú	NP-PLACE-sg;	! Peru
+Panama	Nm4-Prop;	! Panama
+Papua	Nm4-Prop;	! Papua
+Paragua	Nm4-Prop;	! Paraguay
+Páras	Nm4-Prop;	! Paris
+Péicing	Nf4-Prop;	! Beijing, Peking
+Peiriú	Nm4-Prop;	! Peru
 Patagóin	Nf4-Prop;	! Patagonia
 Malagásach	NP-PLACE-sg;	! !!!!Malagasy Republic
 Polainéis	Nf2-Prop;	! Polynesia
@@ -357,7 +356,6 @@ Pontmhuir	Nf3-Prop;	! !!!!Pontian Sea
 Prúis		Nf4-Prop;	! Prussia
 Puinseaib	Nf4-Prop;	! Punjab
 Piréiní	NP-PLACE-pl;	! Pyrenees
-Piréiní	NP-PLACE-sg;	! !!!!Pyrenees (The)
 Seic	Nf2-Prop;	! !!!!Czech Republic (The )
 Volta	NP-PLACE-fem;	! !!!!Voltaic Republic
 Polainn	Nf2-Prop;	! Poland
