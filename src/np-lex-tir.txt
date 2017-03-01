@@ -118,6 +118,7 @@ Cartaig	Nf2-Prop;	! Carthage
 Ceilibéis	Nf2-Prop;	! Celebes
 Cirgeastáin	Nf2-Prop;	! Kyrgyzstan
 !Cianoirthear	Nm1-Prop;	! Far East !!! g. Cianoirthir
+!Meánoirthear	Nm1-Prop;	! Middle East
 Coraint	Nf2-Prop;	! Corinth
 Cordastáin	Nf2-Prop;	! Kurdistan
 Cosaiv	Nf4-Prop;	! Kosovo
@@ -164,6 +165,7 @@ Eilbe	Nf4-Prop;	! Elbe
 Eilvéis	Nf2-Prop;	! Switzerland
 Éimin	Nf4-Prop;	! Yemen
 Eofrait	Nf2-Prop;	! Euphrates
+Eoráise	Nf4-Prop;	! Eurasia
 Féiníc	Nf2-Prop;	! Phoenicia
 Freaslainn	Nf2-Prop;	! Friesland
 Filipíneacha	NP-PLACE-sg;	! !!!!Philippines (The )
@@ -171,9 +173,13 @@ Fionlainn	Nf2-Prop;	! Finland
 Flóndras	Nm4-Prop;	! Flanders
 Flórans	Nm4-Prop;	! Florence (Firenze)
 Frainc	Nf2-Prop;	! France
+Frigia	Nf4-Prop;	! Phrygia
+Gailíl	Nf2-Prop;	! Galilee
+Gailís	Nf2-Prop;	! Galicia
 Gaillimh	Nf2-Prop;	! Galway
 Gaill	Nf2-Prop;	! Gaul
 Gainséis	Nf2-Prop;	! Ganges
+Galáit	Nf2-Prop;	! Galatia
 Gána	Nm4-Prop;	! Ghana
 !!!!Garbhchríocha na hAlban	NP-PLACE-sg;	! !!!!Scottish Highlands (The )
 Geansaí	Nf4-Prop;	! Guernsey
@@ -228,6 +234,7 @@ Ind-Sín	Nf2-Prop;	! Indo-China
 !!!!Inse Ghall	NP-PLACE-sg;	! Hebrides
 !!!!Inse Orc	NP-PLACE-sg;	! !!!!Orkneys (The )
 Iodáil	Nf2-Prop;	! Italy
+Iodúimé	Nf4-Prop;	! Idumea
 Ióhanasburg	NP-PLACE-sg;	! Johannesburg
 Iondúis	Nf2-Prop;	! Indus
 Iordáin	Nf2-Prop;	! Jordan
@@ -239,6 +246,7 @@ Iostanbúl	Nm4-Prop;	! Istanbul
 Iúgslaiv	Nf2-Prop;	! Yugoslavia
 Iútlainn	Nf2-Prop;	! Jutland
 Labradar	Nm4-Prop;	! Labrador
+Labhráise	Nf4-Prop;	! Laurasia
 Lagáin	NP-PLACE-sg;	! Lagan
 Laitvia	Nf4-Prop;	! Latvia
 Laoi	Nf4-Prop;	! Lee
@@ -254,6 +262,7 @@ Leosóta	Nm4-Prop;	! Lesotho
 Libéir	Nf2-Prop;	! Liberia
 Libia	Nf4-Prop;	! Libya
 Lichtinstéin	Nf4-Prop;	! Liechtenstein
+Licia	Nf4-Prop;	! Lycia
 Life	Nf4-Prop;	! Liffey
 Liobáin	Nf2-Prop;	! Lebanon
 Liospóin	Nf2-Prop;	! Lisbon
