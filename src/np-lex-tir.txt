@@ -3,10 +3,12 @@ LEXICON NP-LEX-TIR
 <B a i l e %_:%  A t h a %_:%  C l i a t h>	Nm4-Prop;	! Dublin
 <B é a l %_:%  F e i r s t e>	Nm4-Prop;	! Belfast
 <A n %_:%  N í l>	Nf2-Prop;	! Nile
+Abcáis	Nf2-Prop;	! Abkhazia
 Aeigéach	NP-PLACE-sg;	! !!!!Aegean (Sea)
 Aetóip	Nf2-Prop;	! Ethiopia
 Afganastáin	Nf2-Prop;	! Afghanistan
 Afraic	Nf2-Prop;	! Africa
+Aibisín	Nf2-Prop;	! Abyssinia
 Áidin	Nf4-Prop;	! Aden
 Aidriad	NP-PLACE-sg;	! !!!!Adriatic (Sea)
 Aigéine	Nf4-Prop;	! Oceania
@@ -15,6 +17,7 @@ Airgintín	Nf2-Prop;	! Argentina
 Airméin	Nf2-Prop;	! Armenia
 Aise	NP-PLACE-sg;	! !!!!Asia Minor
 Aíse	Nf4-Prop;	! Asia
+Aisiria	Nf4-Prop;	! Assyria
 Aithin	Nf2-Prop;	! Athens
 Alasca	Nm4-Prop;	! Alaska
 Albáin	Nf2-Prop;	! Albania
@@ -24,6 +27,7 @@ Amasóin	Nf2-Prop;	! Amazon
 Amstardam	Nm4-Prop;	! Amsterdam
 Andóra	Nm4-Prop;	! Andorra
 Angóla	Nm4-Prop;	! Angola
+Antartaice	Nf4-Prop	! Antarctica
 Antuairp	Nf4-Prop;	! Antwerp
 Éimíríochtaí	NP-PLACE-pl;	! !!!!United Arab Emirates - Aontas na nÉimíríochtaí Arabacha
 Arabacha	AdjM-Prop-pl;	! !!!!United Arab Emirates
@@ -31,15 +35,20 @@ Sóivéadach	Nm1-Prop;	! Soviet Union - Aontas na Sóivéadach
 Araib	Nf2-Prop;	! Arabia
 Shádach	AdjF-Prop;	! !!!!Saudi Arabia
 Árainn	NP-PLACE-sg;	! Arainn 
+Asarbaiseáin	Nf2-Prop;	! Azerbaijan
 Astracáin	Nf2-Prop;	! Astrak(h)an
 Astráil	Nf2-Prop;	! Australia
 Astraláise	Nf4-Prop;	! Australasia
 Bahámaí	NP-PLACE-pl;	! !!!!Bahamas (The )
 Bairéin	Nf4-Prop;	! Bahrein
 Balcáin	NP-PLACE-pl;	! Balkans
-Bioscáin	Nf2-Prop;	!!!!Bá na Bioscáine! !!!!Biscay (Bayof )
+Balúcastáin	Nf2-Prop;	! Baluchistan
 Banglaidéis	Nf2-Prop;	! Bangladesh
 Barbadós	Nm4-Prop;	! Barbados
+Basútlainn	Nf2-Prop;	! Basutoland
+Baváir	Nf2-Prop;	! Bavaria
+Bioscáin	Nf2-Prop;	!!!!Bá na Bioscáine! !!!!Biscay (Bayof )
+Beachuanlainn	Nf2-Prop;	! Bechuanaland
 Béalgrád	Nm4-Prop;	! Belgrade
 Beangál	Nm4-Prop;	! Bengal
 Beilg	Nf2-Prop;	! Belgium
