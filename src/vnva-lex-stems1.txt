@@ -188,3 +188,21 @@ uasmhéadaithe+Verbal+Adj:uasmhéadaithe	VA-INIT;	! ADJECTIVE
 íosmhéadú+Verbal+Noun+VT:íosmhéadú	VN-INIT;	! VERB::íosmhéadaigh; Grammar::(gs -ithe)
 íosmhéadú+Verbal+Noun+VT+Gen:íosmhéadaithe	VN-INIT;	! GENITIVE
 íosmhéadaithe+Verbal+Adj:íosmhéadaithe	VA-INIT;	! ADJECTIVE
+comhadú+Verbal+Noun+VT:comhadú	VN-INIT;	! VERB::comhadaigh; Grammar::(gs -ithe)
+comhadú+Verbal+Noun+VT+Gen:comhadaithe	VN-INIT;	! GENITIVE
+comhadaithe+Verbal+Adj:comhadaithe	VA-INIT;	! ADJECTIVE
+feisiú+Verbal+Noun+VT:feisiú	VN-INIT;	! VERB::feisigh; Grammar::(gs -ithe)
+feisiú+Verbal+Noun+VT+Gen:feisithe	VN-INIT;	! GENITIVE
+feisithe+Verbal+Adj:feisithe	VA-INIT;	! ADJECTIVE
+idirnáisiúntú+Verbal+Noun+VT:idirnáisiúntú	VN-INIT;	! VERB::idirnáisiúntaigh; Grammar::(gs -ithe)
+idirnáisiúntú+Verbal+Noun+VT+Gen:idirnáisiúntaithe	VN-INIT;	! GENITIVE
+idirnáisiúntaithe+Verbal+Adj:idirnáisiúntaithe	VA-INIT;	! ADJECTIVE
+rochtú+Verbal+Noun+VT:rochtú	VN-INIT;	! VERB::rochtaigh; Grammar::(gs -ithe)
+rochtú+Verbal+Noun+VT+Gen:rochtaithe	VN-INIT;	! GENITIVE
+rochtaithe+Verbal+Adj:rochtaithe	VA-INIT;	! ADJECTIVE
+sainchóiriú+Verbal+Noun+VT:sainchóiriú	VN-INIT;	! VERB::sainchóirigh; Grammar::(gs -ithe)
+sainchóiriú+Verbal+Noun+VT+Gen:sainchóirithe	VN-INIT;	! GENITIVE
+sainchóirithe+Verbal+Adj:sainchóirithe	VA-INIT;	! ADJECTIVE
+trasbhéarlú+Verbal+Noun+VT:trasbhéarlú	VN-INIT;	! VERB::trasbhéarlaigh; Grammar::(gs -ithe)
+trasbhéarlú+Verbal+Noun+VT+Gen:trasbhéarlaithe	VN-INIT;	! GENITIVE
+trasbhéarlaithe+Verbal+Adj:trasbhéarlaithe	VA-INIT;	! ADJECTIVE

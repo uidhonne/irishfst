@@ -62,3 +62,9 @@ uasmhéadaigh+Verb+VTI:uasmhéadaigh	V2-BR;	! maximise
 áscaigh+Verb+VT:áscaigh	V2-BR;	! instantiate
 íoslaghdaigh+Verb+VTI:íoslaghdaigh	V2-BR;	! minimise
 íosmhéadaigh+Verb+VTI:íosmhéadaigh	V2-BR;	! minimise
+comhadaigh+Verb+VT:comhadaigh	V2-BR;	! file
+feisigh+Verb+VT:feisigh	V2-SL;	! fuck, fit?
+idirnáisiúntaigh+Verb+VTI:idirnáisiúntaigh	V2-BR;	! internationalise
+rochtaigh+Verb+VTI:rochtaigh	V2-BR;	! access
+sainchóirigh+Verb+VTI:sainchóirigh	V2-SL;	! customise
+trasbhéarlaigh+Verb+VTI:trasbhéarlaigh	V2-BR;	! translate
