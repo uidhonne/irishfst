@@ -1,4 +1,5 @@
 LEXICON NounsG
+Acaech	Nm1-1;	! Achaen
 Aegéach	Nm1-1;	! Aegean
 Aeólach	Nm1-1;	! Aeolian
 Afra-Mheiriceánach	Nm1-1;	! Afro-American
@@ -10,6 +11,7 @@ Angla-Caitliceach	Nm1-1;	! Anglo-Catholic
 Angla-Indiach	Nm1-1;	! Anglo-Indian
 Angla-Éireannach:      NPI-Éireannach; ! Anglo-Irish
 Aontachtach	Nm1-1;	! Unionist
+Apaláiseach	Nm1-1;	! Appalachian
 Bailéarach	Nm1-1;	! Balearic
 Beirbeireach	Nm1-1;	! Berber
 Búrbónach	Nm1-1;	! Bourbon

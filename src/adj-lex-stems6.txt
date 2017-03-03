@@ -1,4 +1,5 @@
 LEXICON AdjF
+Acaech	Adj1-3;	! Achaean
 Aegéach	Adj1-3;	! Aegean
 Aeólach	Adj1-3;	! Aeolian
 Afra-Mheiriceánach	Adj1-3;	! Afro-American
@@ -11,6 +12,7 @@ Angla-Caitliceach	Adj1-3;	! Anglo-Catholic
 Angla-Indiach	Adj1-3;	! Anglo-Indian
 Angla-Éireannach	Adj1-3;	! Anglo Irish
 Aontachtach	Adj1-3;	! Unionist
+Apaláiseach	Adj1-3;	! Appalachian
 Bailéarach	Adj1-3;	! Balearic
 Beirbeireach	Adj1-3;	! Berber
 Búrbónach	Adj1-3;	! Bourbon
