@@ -117,6 +117,13 @@ LEXICON Nm4-Prop
 +Prop+Noun+Masc+Voc:^M^V		Seimhiu;
 +Adj+Base+DeNom:^VHach	NpSéUrú-TIR;
 
+! fem nouns - Albain/na hAlban
+LEXICON Nf5-Prop
++Prop+Noun+Fem+Com:^F^C			Sing;
++Prop+Noun+Fem+Gen:^F^G^Lea		IMGen;
++Prop+Noun+Fem+Voc:^F^V			Seimhiu;
++Adj+Base+DeNom:^VH^Leaach	NpSéUrú-TIR;
+
 
 LEXICON IMGen
 #;
