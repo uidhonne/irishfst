@@ -1,5 +1,6 @@
 LEXICON AdjG
 dobharshaothraithe	Adj3-1;	! aquaculture
 digiteach	Adj1-3;	! digital
+vioscósach	Adj1-3;	! viscose, viscuous
 móruasal	Adj4-3;	! magnific
 mór-uasal	Adj4-3;	! variant of móruasal
