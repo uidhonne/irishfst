@@ -492,6 +492,7 @@ Tartair	NP-PLACE-sg;	! Tartary
 Tasmáin	Nf2-Prop;	! Tasmania
 Atlantach	Nm1-Prop;	! !!!!Atlantic Ocean
 Téalainn	Nf2-Prop;	! Thailand
+Teasáil	Nf2-Prop;	! Thessaly
 Téaváin	NP-PLACE-sg;	! Taiwan
 Tibéid	Nf2-Prop;	! Tibet
 Tibir	Nf2-Prop;	! Tiber
