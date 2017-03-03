@@ -3,3 +3,62 @@ slim-mhaisigh+Verb+VT:slim-mhaisigh	V2-SL;	! finish
 struchtúraigh+Verb+VT:struchtúraigh	V2-BR;	! structure
 veinírigh+Verb+VT:veinírigh	V2-SL;	! veneer
 vearnaiseáil+Verb+VT:vearnaiseáil	V1-SL-LC;	! varnish
+aerthriomaigh+Verb+VTI:aerthriomaigh	V2-BR;	! air-dry
+aisdúichigh+Verb+VT:aisdúichigh	V2-SL;	! extradite
+amaigh+Verb+VT:amaigh	V2-BR;	! time
+asaltaigh+Verb+VTI:asaltaigh	V2-BR;	! dislocate
+asamhlaigh+Verb+VTI:asamhlaigh	V2-BR;	! assimilate
+athbhreoslaigh+Verb+VT:athbhreoslaigh	V2-BR;	! refuel
+athchistigh+Verb+VTI:athchistigh	V2-SL;	! refund
+athchuimhnigh+Verb+VTI:athchuimhnigh	V2-SL;	! recall
+athlonnaigh+Verb+VTI:athlonnaigh	V2-BR;	! relocate, resettle
+atreoraigh+Verb+VTI:atreoraigh	V2-BR;	! refer, redirect
+bainistigh+Verb+VTI:bainistigh	V2-SL;	! manage
+barrfheabhsaigh+Verb+VTI:barrfheabhsaigh	V2-BR;	! optimise
+brataigh+Verb+VTI:brataigh	V2-BR;	! coat
+broidearnaigh+Verb+VTI:broidearnaigh	V2-BR;	! effervesce
+bréifnigh+Verb+VTI:bréifnigh	V2-SL;	! perforate
+cascáidigh+Verb+VTI:cascáidigh	V2-SL;	! cascade
+catagóirigh+Verb+VT:catagóirigh	V2-SL;	! categorise
+catalógaigh+Verb+VT:catalógaigh	V2-BR;	! catalogue
+coimisiúnaigh+Verb+VT:coimisiúnaigh	V2-BR;	! commission
+cumraigh+Verb+VT:cumraigh	V2-BR;	! configure
+cuíchóirigh+Verb+VTI:cuíchóirigh	V2-SL;	! rationalise
+damáistigh+Verb+VTI:damáistigh	V2-SL;	! damage
+digitigh+Verb+VT:digitigh	V2-SL;	! digitise
+díchoimisiúnaigh+Verb+VT:díchoimisiúnaigh	V2-BR;	! decommission
+dídhlúthaigh+Verb+VTI:dídhlúthaigh	V2-BR;	! 
+dífhabhtaigh+Verb+VTI:dífhabhtaigh	V2-BR;	! debug, disinfect
+dúshaothraigh+Verb+VTI:dúshaothraigh	V2-BR;	! exploit
+formáidigh+Verb+VT:formáidigh	V2-SL;	! format
+fáithimigh+Verb+VT:fáithimigh	V2-SL;	! hem
+incrimintigh+Verb+VTI:incrimintigh	V2-SL;	! increment
+ionchódaigh+Verb+VT:ionchódaigh	V2-BR;	! encode
+ionfhabhtaigh+Verb+VT:ionfhabhtaigh	V2-BR;	! infect
+ionphlandaigh+Verb+VTI:ionphlandaigh	V2-BR;	! implant
+lipéadaigh+Verb+VTI:lipéadaigh	V2-BR;	! label
+luachmhéadaigh+Verb+VTI:luachmhéadaigh	V2-BR;	! appreciate
+meamhlaigh+Verb+VI:meamhlaigh	V2-BR;	! miaow, meow
+nuachóirigh+Verb+VTI:nuachóirigh	V2-SL;	! modernise
+nuashonraigh+Verb+VTI:nuashonraigh	V2-BR;	! update
+optamaigh+Verb+VTI:optamaigh	V2-BR;	! optimise
+prognóisigh+Verb+VTI:prognóisigh	V2-SL;	! prognose
+príobháidigh+Verb+VTI:príobháidigh	V2-SL;	! privatise
+riospráidigh+Verb+VI:riospráidigh	V2-SL;	! respire
+ríomhairigh+Verb+VTI:ríomhairigh	V2-SL;	! computerise
+ríomhchláraigh+Verb+VTI:ríomhchláraigh	V2-BR;	! program
+scrollaigh+Verb+VTI:scrollaigh	V2-BR;	! scroll
+spriongaigh+Verb+VTI:spriongaigh	V2-BR;	! spring
+sruthlínigh+Verb+VTI:sruthlínigh	V2-SL;	! streamline
+stocthiomsaigh+Verb+VTI:stocthiomsaigh	V2-BR;	! 
+suirigh+Verb+VTI:suirigh	V2-SL;	! court
+sóiligh+Verb+VTI:sóiligh	V2-SL;	! season
+teisiligh+Verb+VTI:teisiligh	V2-SL;	! tessellate
+tollánaigh+Verb+VTI:tollánaigh	V2-BR;	! tunnel
+trasfhoirmigh+Verb+VTI:trasfhoirmigh	V2-SL;	! transform
+tírdhreachtaigh+Verb+VTI:tírdhreachtaigh	V2-BR;	! landscape
+uasghrádaigh+Verb+VT:uasghrádaigh	V2-BR;	! upgrade
+uasmhéadaigh+Verb+VTI:uasmhéadaigh	V2-BR;	! maximise
+áscaigh+Verb+VT:áscaigh	V2-BR;	! instantiate
+íoslaghdaigh+Verb+VTI:íoslaghdaigh	V2-BR;	! minimise
+íosmhéadaigh+Verb+VTI:íosmhéadaigh	V2-BR;	! minimise
