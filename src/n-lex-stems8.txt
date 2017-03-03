@@ -1,0 +1,17 @@
+LEXICON NounsH
+mótarfheithicil Nf2-7;  ! motor vehicle
+fomhír  Nf2-6;  ! sub-item
+imthoisc        Nf2-12; ! circumstance
+dobharshaothrú  Nm5-3;  ! aquaculture
+uisceshaothrú   Nm5-3;  ! aquaculture
+atreisiú        Nm5-3;  ! reinforcement
+mótarbhád       Nm1-1;  ! motor boat
+2-hiodrocsaídéfheinil		Nf2-SINGULAR; ! 2-hydroxybiphenyl !!! problematic - capitalised from 'h'
+cibearchoireacht	Nf3-SINGULAR; ! cyber crime
+oibriúchán	Nm1-1;	! operation, operational
+réamhainm	NI-ainm; ! forename
+iar-réamhainm	NI-ainm; ! former forename
+eagrúchán	Nm1-1;	! organisation, organisational
+ilstóráil	Nf3-SINGULAR;	! multiple storage
+móruasal	Nm1-9;	! magnate; móruaisle - nobility
+mór-uasal	Nm1-9;	! variant of móruasal

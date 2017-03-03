@@ -185,5 +185,5 @@ LEXICON Root
 	NounsVariants;		! Variants extracted from FGB
 	NounsEqualVariants;	! Variants extracted from FGB (2011 EUD)
 	NounsG;			! Nationalities
-
+	NounsH;			! Additions from the gaois.ie bitext	
 
