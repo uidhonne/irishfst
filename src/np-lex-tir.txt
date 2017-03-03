@@ -508,22 +508,22 @@ Tonga	NP-PLACE-sg;	! Tonga
 Traí	NP-PLACE-sg;	! Troy
 Tripilí	NP-PLACE-sg;	! Tripoli
 Túinéis	Nf2-Prop;	! Tunisia
-Túinis	NP-PLACE-sg;	! Tunis
+Túinis	Nf4-Prop;	! Tunis
 Tuirc	Nf2-Prop;	! Turkey
-Turcastáin	NP-PLACE-sg;	! Turkenstan
-Tuscáin	NP-PLACE-sg;	! Tuscany
-Úcráin	NP-PLACE-sg;	! Ukraine
-Udmairt	NP-PLACE-sg;	! Udmust
-Uganda	NP-PLACE-sg;	! Uganda
-Úisbéiceastáin	NP-PLACE-sg;	! Uzbekistan
+Turcastáin	Nf2-Prop;	! Turkenstan
+Tuscáin	Nf2-Prop;	! Tuscany
+Úcráin	Nf2-Prop;	! Ukraine
+Udmairt	Nf4-Prop;	! Udmurt
+Uganda	Nm4-Prop;	! Uganda
+Úisbéiceastáin	Nf2-Prop;	! Uzbekistan
 Ungáir	Nf2-Prop;	! Hungary
-Uragua	NP-PLACE-sg;	! Uruguay
-Úrail	NP-PLACE-sg;	! !!!!Ural (The River)
-Vársá	NP-PLACE-sg;	! Warsaw
+Uragua	Nm4-Prop;	! Uruguay
+Úrail	Nf2-Prop;	! !!!!Ural (The River)
+Vársá	Nm4-Prop;	! Warsaw
 Veinéis	Nf2-Prop;	! Venice
-Veiniséala	NP-PLACE-sg;	! Venezuela
-Vín	NP-PLACE-sg;	! Vienna
-Vítneam	NP-PLACE-sg;	! Vietnam
+Veiniséala	Nm4-Prop;	! Venezuela
+Vín	Nf4-Prop;	! Vienna
+Vítneam	Nm4-Prop;	! Vietnam
 Vítneam	NP-PLACE-sg;	! Viet-Nam
 Volga	NP-PLACE-sg;	! Volga
 Volta	NP-PLACE-sg;	! !!!!Volta River (The)
