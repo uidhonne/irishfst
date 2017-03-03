@@ -138,7 +138,6 @@ neamhní	Nm4-4;	! pl -nithe nothing, nought
 !!XXforlíonadh	Nm1-SYNC;	! pl -ntaí filling, swelling;
 folíne	Nf4-3;	! pl -nte (telephone) extension   FIX PLURALS
 !!XXathsmaoineamh	Nm1-SYNC;	! pl -nte afterthought, teacht
-díolúine	Nf4-3;	! pl -ntí exemption, immunity;
 !!XXsíneadh	Nm1-SYNC;	! pl -ntí stretch(ing); extension,
 tuilsolas	Nm1-9;	! pl -oilse flood-light
 bruachsholas	Nm1-9;	! pl -oilse footlight
