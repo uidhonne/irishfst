@@ -1,2 +1,3 @@
 LEXICON VerbsD
 veinírigh+Verb+VT:veinírigh	V2-SL;	! veneer
+vearnaiseáil+Verb+VT:vearnaiseáil	V1-SL-LC;	! varnish

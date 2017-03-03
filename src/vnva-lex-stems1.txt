@@ -2,3 +2,6 @@ LEXICON VNVA1
 veiníriú+Verbal+Noun+VT:veiníriú	VN-INIT;	! VERB::veinírigh*x1*y; Grammar::(gs -ithe)
 veiníriú+Verbal+Noun+VT+Gen:veinírithe	VN-INIT;	! GENITIVE
 veinírithe+Verbal+Adj:veinírithe	VA-INIT;	! ADJECTIVE
+vearnaiseáil+Verbal+Noun+VT:vearnaiseáil	VN-INIT;	! VERB::vearnaiseáil*x2*y; Grammar::(gs -ála, pl -álacha)
+vearnaiseáil+Verbal+Noun+VT+Gen:vearnaiseála	VN-INIT;	! GENITIVE
+vearnaiseáilte+Verbal+Adj:vearnaiseáilte	VA-INIT;	! ADJECTIVE
