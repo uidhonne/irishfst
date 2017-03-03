@@ -95,7 +95,7 @@ mam	 	Nf2-6;	 ! pl ~anna mammy
 
 micreafón	 Nm1-1;	 ! microphone
    
-muinchille	 Nm4-2;	 ! sleeve!!!!!!! CHECK THIS
+muinchille	 Nf4-2;	 ! sleeve
    
 !! SEE N-LEX-IRREG muineál	 Nm1-1;	 ! gs & npl -níl
 
