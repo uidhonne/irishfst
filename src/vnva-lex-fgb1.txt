@@ -168,6 +168,9 @@ dúbláilte+Verbal+Adj:dúbláilte	VA-INIT;	! ADJECTIVE
 duilliú+Verbal+Noun+VTI:duilliú	VN-INIT;	! VERB::duilligh*x1*y; Grammar::(gs -ithe)
 duilliú+Verbal+Noun+VTI+Gen:duillithe	VN-INIT;	! GENITIVE
 duillithe+Verbal+Adj:duillithe	VA-INIT;	! ADJECTIVE
+earbadh+Verbal+Noun+VTI:earbadh	VN-INIT		! VERB::earb*x1*y; Grammar::(gs -tha)
+earbadh+Verbal+Noun+VTI+Gen:earbtha	VN-INIT;	! GENITIVE
+earbtha+Verbal+Adj:earbtha	VA-INIT;	! ADJECTIVE
 eachtrú+Verbal+Noun+VTI:eachtrú	VN-INIT;	! VERB::eachtraigh*x1*y; Grammar::(gs -raithe, pl -ruithe)
 eachtrú+Verbal+Noun+VTI+Gen:eachtraithe	VN-INIT;	! GENITIVE
 eachtraithe+Verbal+Adj:eachtraithe	VA-INIT;	! ADJECTIVE
