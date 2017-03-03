@@ -76,4 +76,5 @@ LEXICON Root
 	Verbs-FGB2;		! FGB verbs
 	Verb-Variants;		! FGB verb variants
 	VerbsEqualVariants;	! FGB verb = variants
+	VerbsD;			! Additions from spellchecker
 

@@ -1,0 +1,2 @@
+LEXICON VerbsD
+veinírigh+Verb+VTI:veinírigh	V2-SL;	! veneer

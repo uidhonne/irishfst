@@ -792,6 +792,7 @@ src/n-lex-stems2.txt src/n-lex-stems3.txt \
 src/n-lex-stems4.txt src/n-lex-stems5.txt \
 src/n-lex-stems6.txt \
 src/n-lex-stems7.txt \
+src/n-lex-stems8.txt \
 src/n-lex-fgb1.txt \
 src/n-lex-fgb2.txt \
 #src/n-lex-fgb-variants.txt \
@@ -809,6 +810,7 @@ src/n-lex-cc.txt
 	src/n-lex-stems5.txt \
 	src/n-lex-stems6.txt \
 	src/n-lex-stems7.txt \
+	src/n-lex-stems8.txt \
 	src/n-lex-fgb1.txt \
 	src/n-lex-fgb2.txt \
 	src/n-lex-cc.txt \
@@ -904,6 +906,7 @@ int/adj.fst: src/adj-lex-multi.txt src/adj-lex-stems.txt src/adj-lex-stems-irreg
 	src/adj-lex-stems4.txt \
 	src/adj-lex-stems5.txt \
 	src/adj-lex-stems6.txt \
+	src/adj-lex-stems7.txt \
 	src/adj-lex-fgb1.txt \
 	src/adj-lex-fgb2.txt \
 	src/adj-lex-cc.txt \
@@ -922,6 +925,7 @@ int/adj.fst: src/adj-lex-multi.txt src/adj-lex-stems.txt src/adj-lex-stems-irreg
 	src/adj-lex-stems4.txt \
 	src/adj-lex-stems5.txt \
 	src/adj-lex-stems6.txt \
+	src/adj-lex-stems7.txt \
 	src/adj-lex-fgb1.txt \
 	src/adj-lex-fgb2.txt \
 	src/adj-lex-cc.txt > /tmp/adjlex.txt
@@ -1019,6 +1023,7 @@ int/v12.fst: src/v-lex-multi.txt src/v12-lex-cc.txt src/v2-lex-cc.txt src/v1-lex
 	src/v2-lex-stems.txt \
 	src/v4-lex-stems.txt \
 	src/v5-lex-stems.txt \
+	src/v6-lex-stems.txt \
 	src/v-lex-fgb1.txt \
 	src/v-lex-fgb2.txt \
 	int/ninit.fst int/vrul.fst
@@ -1030,6 +1035,7 @@ int/v12.fst: src/v-lex-multi.txt src/v12-lex-cc.txt src/v2-lex-cc.txt src/v1-lex
 	src/v2-lex-stems.txt \
 	src/v4-lex-stems.txt \
 	src/v5-lex-stems.txt \
+	src/v6-lex-stems.txt \
 	src/v-lex-fgb1.txt \
 	src/v-lex-fgb2.txt \
 	src/v12-lex-cc.txt \
