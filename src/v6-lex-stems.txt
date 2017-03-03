@@ -50,7 +50,7 @@ ríomhchláraigh+Verb+VTI:ríomhchláraigh	V2-BR;	! program
 scrollaigh+Verb+VTI:scrollaigh	V2-BR;	! scroll
 spriongaigh+Verb+VTI:spriongaigh	V2-BR;	! spring
 sruthlínigh+Verb+VTI:sruthlínigh	V2-SL;	! streamline
-stocthiomsaigh+Verb+VTI:stocthiomsaigh	V2-BR;	! 
+stocthiomsaigh+Verb+VTI:stocthiomsaigh	V2-BR;	! stocktake, take stock
 suirigh+Verb+VTI:suirigh	V2-SL;	! court
 sóiligh+Verb+VTI:sóiligh	V2-SL;	! season
 teisiligh+Verb+VTI:teisiligh	V2-SL;	! tessellate
