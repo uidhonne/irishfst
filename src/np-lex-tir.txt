@@ -427,28 +427,28 @@ Samó	NP-PLACE-sg;	! Samoa
 !!!!Samó Thiar	NP-PLACE-sg;	! !!!!Western Samoa
 !!!!San Héilin	NP-PLACE-sg;	! !!!!Saint Helena
 !!!!San Mairíne	NP-PLACE-sg;	! !!!!San Marino
-Sasana	NP-PLACE-sg;	! England
-Sceilt	NP-PLACE-sg;	! Scheldt
+Sasana	Nm4-Prop;	! England
+Sceilt	Nf2-Prop;	! Scheldt
 Scillí	NP-PLACE-sg;	! !!!!Scilly Islands (The)
-Sead	NP-PLACE-sg;	! Chad
+Sead	Nm4-Prop;	! Chad
 Séalainn	NP-PLACE-sg;	! Zealand
 Sealtainn	NP-PLACE-pl;	! Shetlands
 Seapáin	Nf2-Prop;	! Japan
 Seicslóvaic	Nf2-Prop;	! Czechoslovakia
-Seineagáil	NP-PLACE-sg;	! Senegal
+Seineagáil	Nf2-Prop;	! Senegal
 Séin	NP-PLACE-sg;	! Seine
-Seirbia	NP-PLACE-sg;	! Serbia
-Seisnia	NP-PLACE-sg;	! Chechnia
-Seoirsia	NP-PLACE-sg;	! Georgia
+Seirbia	Nf4-Prop;	! Serbia
+Seisnia	Nf4-Prop;	! Chechnia
+Seoirsia	Nf4-Prop;	! Georgia
 !!!!Siarra Leon	NP-PLACE-sg;	! !!!!Sierra Leone
 Sibéir	Nf2-Prop;	! Siberia
-Sicil	NP-PLACE-sg;	! Sicily
+Sicil	Nf2-Prop;	! Sicily
 Sile	Nf4-Prop;	! Chile
-Singeapór	NP-PLACE-sg;	! Singapore
+Singeapór	Nm4-Prop;	! Singapore
 Sín	Nf2-Prop;	! China
 Siombáib	Nf2-Prop;	! Zimbabwe
 Sionainn	Nf2-Prop;	! Shannon
-Sionainn	NP-PLACE-sg;	! !!!!Shannon (The )
+Sionainn	Nf2-Prop;	! !!!!Shannon (The )
 Siria	Nf4-Prop;	! Syria
 !!!!Sléibhte Apaláiseacha	NP-PLACE-sg;	! !!!!Appalachian Mountains
 !!!!Sléibhte Atlais	NP-PLACE-sg;	! !!!!Atlas Mountains
