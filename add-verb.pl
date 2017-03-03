@@ -14,21 +14,27 @@ binmode VNVA, ":utf8";
 binmode VERB, ":utf8";
 
 my %grm = (
+	'aeáil' => 'pres -álann; vn ~ f, gs -ála',
 	'eáil' => 'pres -álann; vn ~ f, gs -ála',
+	'iáil' => 'pres -álann; vn ~ f, gs -ála',
 	'áil' => 'pres -álann; vn ~ f, gs -ála',
 	'aigh' => 'gs -ithe',
 	'igh' => 'gs -ithe',
 );
 
 my %ends = (
+	'aeáil' => ['aeáil', 'aeáilte', 'aeáilte'],
 	'eáil' => ['eáil', 'eáilte', 'eáilte'],
+	'iáil' => ['iáil', 'iáilte', 'iáilte'],
 	'áil' => ['áil', 'áilte', 'áilte'],
 	'aigh' => ['ú', 'aithe', 'aithe'],
 	'igh' => ['iú', 'ithe', 'ithe'],
 );
 
 my %ccs = (
+	'aeáil' => 'V1-SL-LV',
 	'eáil' => 'V1-SL-LC',
+	'iáil' => 'V1-SL-LV',
 	'áil' => 'V1-SL-LC',
 	'aigh' => 'V2-BR',
 	'igh' => 'V2-SL',
