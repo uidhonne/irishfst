@@ -53,3 +53,4 @@ Téacrach	Nm1-1;	! Teucrian
 Tógalannach	Nm1-1;	! Togolese, Togolander
 Uraguach	Nm1-1;	! Uruguayan
 Éatrúscach	Nm1-1;	! Etruscan
+acadúlach	Nm1-1;	! academic

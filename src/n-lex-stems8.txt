@@ -15,3 +15,4 @@ eagrúchán	Nm1-1;	! organisation, organisational
 ilstóráil	Nf3-SINGULAR;	! multiple storage
 móruasal	Nm1-9;	! magnate; móruaisle - nobility
 mór-uasal	Nm1-9;	! variant of móruasal
+éachtóir	Nm3-1;	! stuntman

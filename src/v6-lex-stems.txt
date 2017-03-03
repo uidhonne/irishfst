@@ -1,3 +1,5 @@
 LEXICON VerbsD
+slim-mhaisigh+Verb+VT:slim-mhaisigh	V2-SL;	! finish
+struchtúraigh+Verb+VT:struchtúraigh	V2-BR;	! structure
 veinírigh+Verb+VT:veinírigh	V2-SL;	! veneer
 vearnaiseáil+Verb+VT:vearnaiseáil	V1-SL-LC;	! varnish

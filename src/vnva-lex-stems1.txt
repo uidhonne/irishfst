@@ -1,4 +1,10 @@
 LEXICON VNVA1
+slim-mhaisiú+Verbal+Noun+VT:slim-mhaisiú	VN-INIT;	! VERB::slim-mhaisigh*x1*y; Grammar::(gs -ithe)
+slim-mhaisiú+Verbal+Noun+VT+Gen:slim-mhaisithe	VN-INIT;	! GENITIVE
+slim-mhaisithe+Verbal+Adj:slim-mhaisithe	VA-INIT;	! ADJECTIVE
+struchtúrú+Verbal+Noun+VT:struchtúrú	VN-INIT;	! VERB::struchtúrigh*x1*y; Grammar::(gs -ithe)
+struchtúrú+Verbal+Noun+VT+Gen:struchtúraithe	VN-INIT;	! GENITIVE
+struchtúraithe+Verbal+Adj:struchtúraithe	VA-INIT;	! ADJECTIVE
 veiníriú+Verbal+Noun+VT:veiníriú	VN-INIT;	! VERB::veinírigh*x1*y; Grammar::(gs -ithe)
 veiníriú+Verbal+Noun+VT+Gen:veinírithe	VN-INIT;	! GENITIVE
 veinírithe+Verbal+Adj:veinírithe	VA-INIT;	! ADJECTIVE
