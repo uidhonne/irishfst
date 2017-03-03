@@ -2975,7 +2975,7 @@ séimeantaic	Nf2-SINGULAR;	! semantics
 séitéireacht	Nf3-SINGULAR;	! cheating
 síceolaíocht	Nf3-SINGULAR;	! psychology
 síciatracht	Nf3-SINGULAR;	! psychiatry
-síleáil	Nf3-1;	! ceiling; wainscotting; partition (in
+síleáil	Nf3-6a;	! ceiling; wainscotting; partition (in
 sínitheoir	Nm3-1;	! signatory
 sínteoireacht	Nf3-SINGULAR;	! stretching; lolling, lazing, ~
 síntiúsóir	Nm3-1;	! subscriber
