@@ -16,3 +16,7 @@ ilstóráil	Nf3-SINGULAR;	! multiple storage
 móruasal	Nm1-9;	! magnate; móruaisle - nobility
 mór-uasal	Nm1-9;	! variant of móruasal
 éachtóir	Nm3-1;	! stuntman
+feimineach	Nm1-1;	! feminist
+blag	Nm4-7;	! blog
+r-phost	Nm1-1;	! e-mail
+ríomhphost	Nm1-1;	! e-mail
