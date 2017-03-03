@@ -116,5 +116,6 @@ LEXICON Root
 	AdjVariants;			! Adj Variants in FGB
 	AdjEqualVariants;		! Adj Variants with Equal Sign in FGB
 	AdjF;				! Nationalities
+	AdjG;				! Additions from gaois.ie bitext
 
 !************************************************************************** 
