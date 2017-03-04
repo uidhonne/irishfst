@@ -2370,7 +2370,7 @@ plátáil	Nf3-SINGULAR;	! plating, sheeting, armour vt
 pléadáil	Nf3-SINGULAR;	! plea; disputation vt &
 pléascóg	Nf2-1;	! cracker
 pléireacht	Nf3-SINGULAR;	! gallivanting, revelry
-poblacht	Nf3-SINGULAR;	! republic
+poblacht	Nf3-1;	! republic
 poibleog	Nf2-1;	! poplar
 poiblitheoir	Nm3-1;	! publicist
 poiblíocht	Nf3-SINGULAR;	! publicity
