@@ -52,3 +52,6 @@ raighdeáil	Nf3-SINGULAR;	!>! ride, shag
 ainteagmháil	Nf3-SINGULAR;	! molestation
 idirlíon	Nm1-3;	! internet
 einceifileapaite	Nf4-SINGULAR;	! encephalopathy
+daon-phoblacht	Nf3-1;	! people's republic
+ríomhthráchtáil	Nf3-SINGULAR;	! e-commerce
+tvuít	Nf2-6;	! tweet

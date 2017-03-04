@@ -385,6 +385,7 @@ Páras	Nm4-Prop;	! Paris
 Péicing	Nf4-Prop;	! Beijing, Peking
 Peiriú	Nm4-Prop;	! Peru
 Patagóin	Nf4-Prop;	! Patagonia
+Portaingéil	Nf2-Prop;	! Portugal
 Malagásach	NP-PLACE-sg;	! !!!!Malagasy Republic
 Polainéis	Nf2-Prop;	! Polynesia
 Pó		Nf4-Prop;	! Po
@@ -415,7 +416,6 @@ Rómáin	NP-PLACE-sg;	! Rumania
 Ruanda	NP-PLACE-sg;	! Rwanda
 Rúis	Nf2-Prop;	! Russia
 Sahára	Nm4-Prop;	! Sahara
-Sahára	NP-PLACE-sg;	! !!!!Sahara (The )
 Saimbéis	NP-PLACE-sg;	! Zambesi
 Saimbia	Nf4-Prop;	! Zambia
 Sainsibeár	NP-PLACE-sg;	! Zanzibar
@@ -457,6 +457,7 @@ Siria	Nf4-Prop;	! Syria
 !!!!Sléibhte Cugais	NP-PLACE-sg;	! !!!!Caucasus Mountains
 !!!!Sléibhte na hÚraile	NP-PLACE-sg;	! !!!!Ural Mountains (The)
 Slóivéin	Nf2-Prop;	! Slovenia
+Slóvaic	Nf2-Prop;	! Slovakia
 Sóifia	NP-PLACE-sg;	! Sophia
 Somáil	Nf2-Prop;	! Somalie
 Spáinn	Nf2-Prop;	! Spain
