@@ -257,3 +257,15 @@ códáilte+Verbal+Adj:códáilte	VA-INIT;	! ADJECTIVE
 focáil+Verbal+Noun+VTI:focáil	VN-INIT;	! VERB::focáil; Grammar::(pres -álann; vn ~ f, gs -ála)
 focáil+Verbal+Noun+VTI+Gen:focála	VN-INIT;	! GENITIVE
 focáilte+Verbal+Adj:focáilte	VA-INIT;	! ADJECTIVE
+clogáil+Verbal+Noun+VTI:clogáil	VN-INIT;	! VERB::clogáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+clogáil+Verbal+Noun+VTI+Gen:clogála	VN-INIT;	! GENITIVE
+clogáilte+Verbal+Adj:clogáilte	VA-INIT;	! ADJECTIVE
+caibeáil+Verbal+Noun+VTI:caibeáil	VN-INIT;	! VERB::caibeáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+caibeáil+Verbal+Noun+VTI+Gen:caibeála	VN-INIT;	! GENITIVE
+caibeáilte+Verbal+Adj:caibeáilte	VA-INIT;	! ADJECTIVE
+facsáil+Verbal+Noun+VTI:facsáil	VN-INIT;	! VERB::facsáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+facsáil+Verbal+Noun+VTI+Gen:facsála	VN-INIT;	! GENITIVE
+facsáilte+Verbal+Adj:facsáilte	VA-INIT;	! ADJECTIVE
+fótachóipeáil+Verbal+Noun+VTI:fótachóipeáil	VN-INIT;	! VERB::fótachóipeáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+fótachóipeáil+Verbal+Noun+VTI+Gen:fótachóipeála	VN-INIT;	! GENITIVE
+fótachóipeáilte+Verbal+Adj:fótachóipeáilte	VA-INIT;	! ADJECTIVE

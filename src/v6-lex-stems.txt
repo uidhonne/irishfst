@@ -85,3 +85,7 @@ canbhásáil+Verb+VTI:canbhásáil	V1-SL-LC;	! canvas
 cácáil+Verb+VTI:cácáil	V1-SL-LC;	! caulk
 códáil+Verb+VTI:códáil	V1-SL-LC;	! code
 focáil+Verb+VTI:focáil	V1-SL-LC;	! fuck
+clogáil+Verb+VTI:clogáil	V1-SL-LC;	! clock
+caibeáil+Verb+VTI:caibeáil	V1-SL-LC;	! plant, bury
+facsáil+Verb+VTI:facsáil	V1-SL-LC;	! fax
+fótachóipeáil+Verb+VTI:fótachóipeáil	V1-SL-LC;	! photocopy
