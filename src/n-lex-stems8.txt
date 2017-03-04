@@ -29,3 +29,26 @@ clubáil	Nf3-SINGULAR;	! clubbing
 !clubáil+Verbal+Noun+NStem:clubáil	VN-INIT;	! ag clubáil happens
 cadhc	Nm4-7;	! kayak
 cadhcáil	Nf3-SINGULAR;	! kayaking !!! ag cadhcáil 
+biodáil	Nf3-SINGULAR;	! bid (price)
+aisfháil	Nf3-6a;	! retrieval
+próiseáil	Nf3-SINGULAR;	! processing !! verb reading already present
+geaigeáil	Nf3-SINGULAR;	!>! courting
+giaráil	Nf3-SINGULAR;	! gearing
+grútáil	Nf3-6a;	! grout, grouting
+iltascáil	Nf3-SINGULAR;	! multitasking
+ionghabháil	Nf3-SINGULAR;	! ingestation; intake; annexation
+iontógáil	Nf3-SINGULAR;	! ingestion; intake
+aer-iontógáil	Nf3-SINGULAR;	! air intake
+mionbhál	Nm1-1;	! pinball
+moltáil	Nf3-SINGULAR;	!>! courting
+fuíollábhar	Nm1-1;	! waste matter, waste material
+asraon	Nm1-3;	! outlet
+haema-scagdhealú	Nm4-4; ! haemodialysis
+haemascagdhealú	Nm4-4; ! haemodialysis
+ponndáil	Nf3-SINGULAR;	!>! masturbation
+proiteáil	Nf3-SINGULAR;	!>! courting
+radharcphéinteáil	Nf3-SINGULAR;	! decor
+raighdeáil	Nf3-SINGULAR;	!>! ride, shag
+ainteagmháil	Nf3-SINGULAR;	! molestation
+idirlíon	Nm1-3;	! internet
+einceifileapaite	Nf4-SINGULAR;	! encephalopathy

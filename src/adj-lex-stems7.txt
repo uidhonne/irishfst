@@ -6,3 +6,5 @@ móruasal	Adj4-3;	! magnific
 mór-uasal	Adj4-3;	! variant of móruasal
 feimineach	Adj1-3;	! feminist
 optamach	Adj1-3;	! optimal
+réamhghabhálach	Adj1-3;	! preemptive, pre-emptive
+neamh-réamhghabhálach	Adj1-3;	! non-preemptive, nonpre-emptive
