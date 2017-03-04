@@ -105,3 +105,6 @@ muilleáil+Verb+VTI:muilleáil	V1-SL-LC;	! mill
 plugáil+Verb+VTI:plugáil	V1-SL-LC;	! plug
 téipeáil+Verb+VTI:téipeáil	V1-SL-LC;	! tape
 íoslódáil+Verb+VTI:íoslódáil	V1-SL-LC;	! download
+súmáil+Verb+VTI:súmáil	V1-SL-LC;	!>! zoom
+zúmáil+Verb+VTI:zúmáil	V1-SL-LC;	! zoom
+tvuíteáil+Verb+VTI:tvuíteáil	V1-SL-LC;	! tweet

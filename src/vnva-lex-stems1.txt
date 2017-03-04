@@ -317,3 +317,12 @@ téipeáilte+Verbal+Adj:téipeáilte	VA-INIT;	! ADJECTIVE
 íoslódáil+Verbal+Noun+VTI:íoslódáil	VN-INIT;	! VERB::íoslódáil; Grammar::(pres -álann; vn ~ f, gs -ála)
 íoslódáil+Verbal+Noun+VTI+Gen:íoslódála	VN-INIT;	! GENITIVE
 íoslódáilte+Verbal+Adj:íoslódáilte	VA-INIT;	! ADJECTIVE
+súmáil+Verbal+Noun+VTI:súmáil	VN-INIT;	! VERB::súmáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+súmáil+Verbal+Noun+VTI+Gen:súmála	VN-INIT;	! GENITIVE
+súmáilte+Verbal+Adj:súmáilte	VA-INIT;	! ADJECTIVE
+zúmáil+Verbal+Noun+VTI:zúmáil	VN-INIT;	! VERB::zúmáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+zúmáil+Verbal+Noun+VTI+Gen:zúmála	VN-INIT;	! GENITIVE
+zúmáilte+Verbal+Adj:zúmáilte	VA-INIT;	! ADJECTIVE
+tvuíteáil+Verbal+Noun+VTI:tvuíteáil	VN-INIT;	! VERB::tvuíteáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+tvuíteáil+Verbal+Noun+VTI+Gen:tvuíteála	VN-INIT;	! GENITIVE
+tvuíteáilte+Verbal+Adj:tvuíteáilte	VA-INIT;	! ADJECTIVE
