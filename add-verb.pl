@@ -23,10 +23,10 @@ my %grm = (
 );
 
 my %ends = (
-	'aeáil' => ['aeáil', 'aeáilte', 'aeáilte'],
-	'eáil' => ['eáil', 'eáilte', 'eáilte'],
-	'iáil' => ['iáil', 'iáilte', 'iáilte'],
-	'áil' => ['áil', 'áilte', 'áilte'],
+	'aeáil' => ['aeáil', 'aeála', 'aeáilte'],
+	'eáil' => ['eáil', 'eála', 'eáilte'],
+	'iáil' => ['iáil', 'iála', 'iáilte'],
+	'áil' => ['áil', 'ála', 'áilte'],
 	'aigh' => ['ú', 'aithe', 'aithe'],
 	'igh' => ['iú', 'ithe', 'ithe'],
 );
