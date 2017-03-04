@@ -43,6 +43,7 @@ my %ccs = (
 sub mkvnva {
 	my $stem = $_[0];
 	my $endin = $_[1];
+	my $trans = $_[2];
 	my $verb = $stem . $endin;
 	my $aref = $ends{$endin};
 	my $vn = $stem . @$aref[0];
@@ -50,8 +51,8 @@ sub mkvnva {
 	my $va = $stem . @$aref[2];
 	
 my $vnva = <<__EOF__;
-${vn}+Verbal+Noun+VT:${vn}	VN-INIT;	! VERB::${verb}; Grammar::($grm{$endin})
-${vn}+Verbal+Noun+VT+Gen:${vngen}	VN-INIT;	! GENITIVE
+${vn}+Verbal+Noun+V$trans:${vn}	VN-INIT;	! VERB::${verb}; Grammar::($grm{$endin})
+${vn}+Verbal+Noun+V$trans+Gen:${vngen}	VN-INIT;	! GENITIVE
 ${va}+Verbal+Adj:${va}	VA-INIT;	! ADJECTIVE
 __EOF__
 
@@ -74,7 +75,7 @@ while(<>) {
 			print STDERR "Error: $p[0]\n";
 			next;
 		}
-		print VNVA mkvnva($stem, $end);
+		print VNVA mkvnva($stem, $end, $p[2]);
 		print VERB "$p[0]+Verb+V$p[2]:$p[0]\t$ccs{$end};\t! $p[1]\n";
 	}
 }
