@@ -20,3 +20,7 @@ feimineach	Nm1-1;	! feminist
 blag	Nm4-7;	! blog
 r-phost	Nm1-1;	! e-mail
 ríomhphost	Nm1-1;	! e-mail
+baiscphróiseáil	Nf3-SINGULAR;	! batch processing
+béite-thástáil	Nf3-SINGULAR;	! beta testing
+bratbhuamáil	Nf3-SINGULAR;	! carpet bombing, saturation bombing
+brógstrapáil	Nf3-SINGULAR;	! bootstrapping
