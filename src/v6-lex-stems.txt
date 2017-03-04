@@ -68,3 +68,4 @@ idirnáisiúntaigh+Verb+VTI:idirnáisiúntaigh	V2-BR;	! internationalise
 rochtaigh+Verb+VTI:rochtaigh	V2-BR;	! access
 sainchóirigh+Verb+VTI:sainchóirigh	V2-SL;	! customise
 trasbhéarlaigh+Verb+VTI:trasbhéarlaigh	V2-BR;	! translate
+uisce-sciáil+Verb+VI:uisce-sciáil	V1-SL-LV;	! water ski

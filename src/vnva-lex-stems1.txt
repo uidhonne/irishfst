@@ -206,3 +206,6 @@ sainchóirithe+Verbal+Adj:sainchóirithe	VA-INIT;	! ADJECTIVE
 trasbhéarlú+Verbal+Noun+VT:trasbhéarlú	VN-INIT;	! VERB::trasbhéarlaigh; Grammar::(gs -ithe)
 trasbhéarlú+Verbal+Noun+VT+Gen:trasbhéarlaithe	VN-INIT;	! GENITIVE
 trasbhéarlaithe+Verbal+Adj:trasbhéarlaithe	VA-INIT;	! ADJECTIVE
+uisce-sciáil+Verbal+Noun+VT:uisce-sciáil	VN-INIT;	! VERB::uisce-sciáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+uisce-sciáil+Verbal+Noun+VT+Gen:uisce-sciáilte	VN-INIT;	! GENITIVE
+uisce-sciáilte+Verbal+Adj:uisce-sciáilte	VA-INIT;	! ADJECTIVE
