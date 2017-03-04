@@ -72,7 +72,7 @@ uisce-sciáil+Verb+VI:uisce-sciáil	V1-SL-LV;	! water ski
 sótáil+Verb+VT:sótáil	V1-SL-LC;	! sauté
 scuabáil+Verb+VTI:scuabáil	V1-SL-LC;	! shuffle
 scrobláil+Verb+VTI:scrobláil	V1-SL-LC;	! scavenge
-scriúáil+Verb+VTI:scriúáil	V1-SL-LC;	! screw
+scriúáil+Verb+VTI:scriúáil	V1-SL-LV;	! screw
 anótáil+Verb+VT:anótáil	V1-SL-LC;	! annotate
 athbhútáil+Verb+VTI:athbhútáil	V1-SL-LC;	! reboot
 bútáil+Verb+VTI:bútáil	V1-SL-LC;	! boot
