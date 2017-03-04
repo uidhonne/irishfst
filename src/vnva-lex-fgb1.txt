@@ -929,3 +929,198 @@ trusáilte+Verbal+Adj:trusáilte	VA-INIT;	! ADJECTIVE
 tua+Verbal+Noun+VT:tua	VN-INIT;	! VERB::tuaigh; Grammar::(pres -ann, fut -afaidh; vn tua m, gs & pp-ite)
 tua+Verbal+Noun+VT+Gen:tuaite	VN-INIT;	! GENITIVE
 tuaite+Verbal+Adj:tuaite	VA-INIT;	! ADJECTIVE
+gobáil+Verbal+Noun+VTI:gobáil	VN-INIT;	! VERB::gobáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+gobáil+Verbal+Noun+VTI+Gen:gobála	VN-INIT;	! GENITIVE
+gobáilte+Verbal+Adj:gobáilte	VA-INIT;	! ADJECTIVE
+pléideáil+Verbal+Noun+VTI:pléideáil	VN-INIT;	! VERB::pléideáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+pléideáil+Verbal+Noun+VTI+Gen:pléideála	VN-INIT;	! GENITIVE
+pléideáilte+Verbal+Adj:pléideáilte	VA-INIT;	! ADJECTIVE
+rabhláil+Verbal+Noun+VTI:rabhláil	VN-INIT;	! VERB::rabhláil; Grammar::(pres -álann; vn ~ f, gs -ála)
+rabhláil+Verbal+Noun+VTI+Gen:rabhlála	VN-INIT;	! GENITIVE
+rabhláilte+Verbal+Adj:rabhláilte	VA-INIT;	! ADJECTIVE
+rástáil+Verbal+Noun+VTI:rástáil	VN-INIT;	! VERB::rástáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+rástáil+Verbal+Noun+VTI+Gen:rástála	VN-INIT;	! GENITIVE
+rástáilte+Verbal+Adj:rástáilte	VA-INIT;	! ADJECTIVE
+beaiceáil+Verbal+Noun+VTI:beaiceáil	VN-INIT;	! VERB::beaiceáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+beaiceáil+Verbal+Noun+VTI+Gen:beaiceála	VN-INIT;	! GENITIVE
+beaiceáilte+Verbal+Adj:beaiceáilte	VA-INIT;	! ADJECTIVE
+canstráil+Verbal+Noun+VTI:canstráil	VN-INIT;	! VERB::canstráil; Grammar::(pres -álann; vn ~ f, gs -ála)
+canstráil+Verbal+Noun+VTI+Gen:canstrála	VN-INIT;	! GENITIVE
+canstráilte+Verbal+Adj:canstráilte	VA-INIT;	! ADJECTIVE
+ciaráil+Verbal+Noun+VTI:ciaráil	VN-INIT;	! VERB::ciaráil; Grammar::(pres -álann; vn ~ f, gs -ála)
+ciaráil+Verbal+Noun+VTI+Gen:ciarála	VN-INIT;	! GENITIVE
+ciaráilte+Verbal+Adj:ciaráilte	VA-INIT;	! ADJECTIVE
+ciarláil+Verbal+Noun+VTI:ciarláil	VN-INIT;	! VERB::ciarláil; Grammar::(pres -álann; vn ~ f, gs -ála)
+ciarláil+Verbal+Noun+VTI+Gen:ciarlála	VN-INIT;	! GENITIVE
+ciarláilte+Verbal+Adj:ciarláilte	VA-INIT;	! ADJECTIVE
+cleiteáil+Verbal+Noun+VTI:cleiteáil	VN-INIT;	! VERB::cleiteáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+cleiteáil+Verbal+Noun+VTI+Gen:cleiteála	VN-INIT;	! GENITIVE
+cleiteáilte+Verbal+Adj:cleiteáilte	VA-INIT;	! ADJECTIVE
+cloigneáil+Verbal+Noun+VTI:cloigneáil	VN-INIT;	! VERB::cloigneáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+cloigneáil+Verbal+Noun+VTI+Gen:cloigneála	VN-INIT;	! GENITIVE
+cloigneáilte+Verbal+Adj:cloigneáilte	VA-INIT;	! ADJECTIVE
+coipeáil+Verbal+Noun+VTI:coipeáil	VN-INIT;	! VERB::coipeáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+coipeáil+Verbal+Noun+VTI+Gen:coipeála	VN-INIT;	! GENITIVE
+coipeáilte+Verbal+Adj:coipeáilte	VA-INIT;	! ADJECTIVE
+cuibeáil+Verbal+Noun+VTI:cuibeáil	VN-INIT;	! VERB::cuibeáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+cuibeáil+Verbal+Noun+VTI+Gen:cuibeála	VN-INIT;	! GENITIVE
+cuibeáilte+Verbal+Adj:cuibeáilte	VA-INIT;	! ADJECTIVE
+deighleáil+Verbal+Noun+VTI:deighleáil	VN-INIT;	! VERB::deighleáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+deighleáil+Verbal+Noun+VTI+Gen:deighleála	VN-INIT;	! GENITIVE
+deighleáilte+Verbal+Adj:deighleáilte	VA-INIT;	! ADJECTIVE
+deiseáil+Verbal+Noun+VTI:deiseáil	VN-INIT;	! VERB::deiseáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+deiseáil+Verbal+Noun+VTI+Gen:deiseála	VN-INIT;	! GENITIVE
+deiseáilte+Verbal+Adj:deiseáilte	VA-INIT;	! ADJECTIVE
+fuáil+Verbal+Noun+VTI:fuáil	VN-INIT;	! VERB::fuáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+fuáil+Verbal+Noun+VTI+Gen:fuála	VN-INIT;	! GENITIVE
+fuáilte+Verbal+Adj:fuáilte	VA-INIT;	! ADJECTIVE
+glambáil+Verbal+Noun+VTI:glambáil	VN-INIT;	! VERB::glambáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+glambáil+Verbal+Noun+VTI+Gen:glambála	VN-INIT;	! GENITIVE
+glambáilte+Verbal+Adj:glambáilte	VA-INIT;	! ADJECTIVE
+gliondáil+Verbal+Noun+VTI:gliondáil	VN-INIT;	! VERB::gliondáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+gliondáil+Verbal+Noun+VTI+Gen:gliondála	VN-INIT;	! GENITIVE
+gliondáilte+Verbal+Adj:gliondáilte	VA-INIT;	! ADJECTIVE
+gotháil+Verbal+Noun+VTI:gotháil	VN-INIT;	! VERB::gotháil; Grammar::(pres -álann; vn ~ f, gs -ála)
+gotháil+Verbal+Noun+VTI+Gen:gothála	VN-INIT;	! GENITIVE
+gotháilte+Verbal+Adj:gotháilte	VA-INIT;	! ADJECTIVE
+graibeáil+Verbal+Noun+VTI:graibeáil	VN-INIT;	! VERB::graibeáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+graibeáil+Verbal+Noun+VTI+Gen:graibeála	VN-INIT;	! GENITIVE
+graibeáilte+Verbal+Adj:graibeáilte	VA-INIT;	! ADJECTIVE
+ramsáil+Verbal+Noun+VTI:ramsáil	VN-INIT;	! VERB::ramsáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+ramsáil+Verbal+Noun+VTI+Gen:ramsála	VN-INIT;	! GENITIVE
+ramsáilte+Verbal+Adj:ramsáilte	VA-INIT;	! ADJECTIVE
+ríocáil+Verbal+Noun+VTI:ríocáil	VN-INIT;	! VERB::ríocáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+ríocáil+Verbal+Noun+VTI+Gen:ríocála	VN-INIT;	! GENITIVE
+ríocáilte+Verbal+Adj:ríocáilte	VA-INIT;	! ADJECTIVE
+slámáil+Verbal+Noun+VTI:slámáil	VN-INIT;	! VERB::slámáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+slámáil+Verbal+Noun+VTI+Gen:slámála	VN-INIT;	! GENITIVE
+slámáilte+Verbal+Adj:slámáilte	VA-INIT;	! ADJECTIVE
+spliontráil+Verbal+Noun+VTI:spliontráil	VN-INIT;	! VERB::spliontráil; Grammar::(pres -álann; vn ~ f, gs -ála)
+spliontráil+Verbal+Noun+VTI+Gen:spliontrála	VN-INIT;	! GENITIVE
+spliontráilte+Verbal+Adj:spliontráilte	VA-INIT;	! ADJECTIVE
+tulcáil+Verbal+Noun+VTI:tulcáil	VN-INIT;	! VERB::tulcáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+tulcáil+Verbal+Noun+VTI+Gen:tulcála	VN-INIT;	! GENITIVE
+tulcáilte+Verbal+Adj:tulcáilte	VA-INIT;	! ADJECTIVE
+clampáil+Verbal+Noun+VTI:clampáil	VN-INIT;	! VERB::clampáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+clampáil+Verbal+Noun+VTI+Gen:clampála	VN-INIT;	! GENITIVE
+clampáilte+Verbal+Adj:clampáilte	VA-INIT;	! ADJECTIVE
+clingeáil+Verbal+Noun+VTI:clingeáil	VN-INIT;	! VERB::clingeáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+clingeáil+Verbal+Noun+VTI+Gen:clingeála	VN-INIT;	! GENITIVE
+clingeáilte+Verbal+Adj:clingeáilte	VA-INIT;	! ADJECTIVE
+constrabháil+Verbal+Noun+VTI:constrabháil	VN-INIT;	! VERB::constrabháil; Grammar::(pres -álann; vn ~ f, gs -ála)
+constrabháil+Verbal+Noun+VTI+Gen:constrabhála	VN-INIT;	! GENITIVE
+constrabháilte+Verbal+Adj:constrabháilte	VA-INIT;	! ADJECTIVE
+constráil+Verbal+Noun+VTI:constráil	VN-INIT;	! VERB::constráil; Grammar::(pres -álann; vn ~ f, gs -ála)
+constráil+Verbal+Noun+VTI+Gen:constrála	VN-INIT;	! GENITIVE
+constráilte+Verbal+Adj:constráilte	VA-INIT;	! ADJECTIVE
+cróisiáil+Verbal+Noun+VTI:cróisiáil	VN-INIT;	! VERB::cróisiáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+cróisiáil+Verbal+Noun+VTI+Gen:cróisiála	VN-INIT;	! GENITIVE
+cróisiáilte+Verbal+Adj:cróisiáilte	VA-INIT;	! ADJECTIVE
+cúbáil+Verbal+Noun+VTI:cúbáil	VN-INIT;	! VERB::cúbáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+cúbáil+Verbal+Noun+VTI+Gen:cúbála	VN-INIT;	! GENITIVE
+cúbáilte+Verbal+Adj:cúbáilte	VA-INIT;	! ADJECTIVE
+gríoscáil+Verbal+Noun+VTI:gríoscáil	VN-INIT;	! VERB::gríoscáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+gríoscáil+Verbal+Noun+VTI+Gen:gríoscála	VN-INIT;	! GENITIVE
+gríoscáilte+Verbal+Adj:gríoscáilte	VA-INIT;	! ADJECTIVE
+lascáil+Verbal+Noun+VTI:lascáil	VN-INIT;	! VERB::lascáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+lascáil+Verbal+Noun+VTI+Gen:lascála	VN-INIT;	! GENITIVE
+lascáilte+Verbal+Adj:lascáilte	VA-INIT;	! ADJECTIVE
+plástaráil+Verbal+Noun+VTI:plástaráil	VN-INIT;	! VERB::plástaráil; Grammar::(pres -álann; vn ~ f, gs -ála)
+plástaráil+Verbal+Noun+VTI+Gen:plástarála	VN-INIT;	! GENITIVE
+plástaráilte+Verbal+Adj:plástaráilte	VA-INIT;	! ADJECTIVE
+ransáil+Verbal+Noun+VTI:ransáil	VN-INIT;	! VERB::ransáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+ransáil+Verbal+Noun+VTI+Gen:ransála	VN-INIT;	! GENITIVE
+ransáilte+Verbal+Adj:ransáilte	VA-INIT;	! ADJECTIVE
+réabáil+Verbal+Noun+VTI:réabáil	VN-INIT;	! VERB::réabáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+réabáil+Verbal+Noun+VTI+Gen:réabála	VN-INIT;	! GENITIVE
+réabáilte+Verbal+Adj:réabáilte	VA-INIT;	! ADJECTIVE
+scealpáil+Verbal+Noun+VTI:scealpáil	VN-INIT;	! VERB::scealpáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+scealpáil+Verbal+Noun+VTI+Gen:scealpála	VN-INIT;	! GENITIVE
+scealpáilte+Verbal+Adj:scealpáilte	VA-INIT;	! ADJECTIVE
+sliseáil+Verbal+Noun+VTI:sliseáil	VN-INIT;	! VERB::sliseáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+sliseáil+Verbal+Noun+VTI+Gen:sliseála	VN-INIT;	! GENITIVE
+sliseáilte+Verbal+Adj:sliseáilte	VA-INIT;	! ADJECTIVE
+smeádaráil+Verbal+Noun+VTI:smeádaráil	VN-INIT;	! VERB::smeádaráil; Grammar::(pres -álann; vn ~ f, gs -ála)
+smeádaráil+Verbal+Noun+VTI+Gen:smeádarála	VN-INIT;	! GENITIVE
+smeádaráilte+Verbal+Adj:smeádaráilte	VA-INIT;	! ADJECTIVE
+smeádráil+Verbal+Noun+VTI:smeádráil	VN-INIT;	! VERB::smeádráil; Grammar::(pres -álann; vn ~ f, gs -ála)
+smeádráil+Verbal+Noun+VTI+Gen:smeádrála	VN-INIT;	! GENITIVE
+smeádráilte+Verbal+Adj:smeádráilte	VA-INIT;	! ADJECTIVE
+smíochtáil+Verbal+Noun+VTI:smíochtáil	VN-INIT;	! VERB::smíochtáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+smíochtáil+Verbal+Noun+VTI+Gen:smíochtála	VN-INIT;	! GENITIVE
+smíochtáilte+Verbal+Adj:smíochtáilte	VA-INIT;	! ADJECTIVE
+stucáil+Verbal+Noun+VTI:stucáil	VN-INIT;	! VERB::stucáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+stucáil+Verbal+Noun+VTI+Gen:stucála	VN-INIT;	! GENITIVE
+stucáilte+Verbal+Adj:stucáilte	VA-INIT;	! ADJECTIVE
+triáil+Verbal+Noun+VTI:triáil	VN-INIT;	! VERB::triáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+triáil+Verbal+Noun+VTI+Gen:triála	VN-INIT;	! GENITIVE
+triáilte+Verbal+Adj:triáilte	VA-INIT;	! ADJECTIVE
+slámáil+Verbal+Noun+VTI:slámáil	VN-INIT;	! VERB::slámáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+slámáil+Verbal+Noun+VTI+Gen:slámála	VN-INIT;	! GENITIVE
+slámáilte+Verbal+Adj:slámáilte	VA-INIT;	! ADJECTIVE
+athliostáil+Verbal+Noun+VTI:athliostáil	VN-INIT;	! VERB::athliostáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+athliostáil+Verbal+Noun+VTI+Gen:athliostála	VN-INIT;	! GENITIVE
+athliostáilte+Verbal+Adj:athliostáilte	VA-INIT;	! ADJECTIVE
+bréitseáil+Verbal+Noun+VTI:bréitseáil	VN-INIT;	! VERB::bréitseáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+bréitseáil+Verbal+Noun+VTI+Gen:bréitseála	VN-INIT;	! GENITIVE
+bréitseáilte+Verbal+Adj:bréitseáilte	VA-INIT;	! ADJECTIVE
+bruiseáil+Verbal+Noun+VTI:bruiseáil	VN-INIT;	! VERB::bruiseáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+bruiseáil+Verbal+Noun+VTI+Gen:bruiseála	VN-INIT;	! GENITIVE
+bruiseáilte+Verbal+Adj:bruiseáilte	VA-INIT;	! ADJECTIVE
+caibeáil+Verbal+Noun+VTI:caibeáil	VN-INIT;	! VERB::caibeáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+caibeáil+Verbal+Noun+VTI+Gen:caibeála	VN-INIT;	! GENITIVE
+caibeáilte+Verbal+Adj:caibeáilte	VA-INIT;	! ADJECTIVE
+comhghlasáil+Verbal+Noun+VTI:comhghlasáil	VN-INIT;	! VERB::comhghlasáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+comhghlasáil+Verbal+Noun+VTI+Gen:comhghlasála	VN-INIT;	! GENITIVE
+comhghlasáilte+Verbal+Adj:comhghlasáilte	VA-INIT;	! ADJECTIVE
+construáil+Verbal+Noun+VTI:construáil	VN-INIT;	! VERB::construáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+construáil+Verbal+Noun+VTI+Gen:construála	VN-INIT;	! GENITIVE
+construáilte+Verbal+Adj:construáilte	VA-INIT;	! ADJECTIVE
+díphacáil+Verbal+Noun+VTI:díphacáil	VN-INIT;	! VERB::díphacáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+díphacáil+Verbal+Noun+VTI+Gen:díphacála	VN-INIT;	! GENITIVE
+díphacáilte+Verbal+Adj:díphacáilte	VA-INIT;	! ADJECTIVE
+forcáil+Verbal+Noun+VTI:forcáil	VN-INIT;	! VERB::forcáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+forcáil+Verbal+Noun+VTI+Gen:forcála	VN-INIT;	! GENITIVE
+forcáilte+Verbal+Adj:forcáilte	VA-INIT;	! ADJECTIVE
+gotháil+Verbal+Noun+VTI:gotháil	VN-INIT;	! VERB::gotháil; Grammar::(pres -álann; vn ~ f, gs -ála)
+gotháil+Verbal+Noun+VTI+Gen:gothála	VN-INIT;	! GENITIVE
+gotháilte+Verbal+Adj:gotháilte	VA-INIT;	! ADJECTIVE
+grabáil+Verbal+Noun+VTI:grabáil	VN-INIT;	! VERB::grabáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+grabáil+Verbal+Noun+VTI+Gen:grabála	VN-INIT;	! GENITIVE
+grabáilte+Verbal+Adj:grabáilte	VA-INIT;	! ADJECTIVE
+híleáil+Verbal+Noun+VTI:híleáil	VN-INIT;	! VERB::híleáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+híleáil+Verbal+Noun+VTI+Gen:híleála	VN-INIT;	! GENITIVE
+híleáilte+Verbal+Adj:híleáilte	VA-INIT;	! ADJECTIVE
+lúbáil+Verbal+Noun+VTI:lúbáil	VN-INIT;	! VERB::lúbáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+lúbáil+Verbal+Noun+VTI+Gen:lúbála	VN-INIT;	! GENITIVE
+lúbáilte+Verbal+Adj:lúbáilte	VA-INIT;	! ADJECTIVE
+ródáil+Verbal+Noun+VTI:ródáil	VN-INIT;	! VERB::ródáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+ródáil+Verbal+Noun+VTI+Gen:ródála	VN-INIT;	! GENITIVE
+ródáilte+Verbal+Adj:ródáilte	VA-INIT;	! ADJECTIVE
+scolbáil+Verbal+Noun+VTI:scolbáil	VN-INIT;	! VERB::scolbáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+scolbáil+Verbal+Noun+VTI+Gen:scolbála	VN-INIT;	! GENITIVE
+scolbáilte+Verbal+Adj:scolbáilte	VA-INIT;	! ADJECTIVE
+scrábáil+Verbal+Noun+VTI:scrábáil	VN-INIT;	! VERB::scrábáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+scrábáil+Verbal+Noun+VTI+Gen:scrábála	VN-INIT;	! GENITIVE
+scrábáilte+Verbal+Adj:scrábáilte	VA-INIT;	! ADJECTIVE
+slaiseáil+Verbal+Noun+VTI:slaiseáil	VN-INIT;	! VERB::slaiseáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+slaiseáil+Verbal+Noun+VTI+Gen:slaiseála	VN-INIT;	! GENITIVE
+slaiseáilte+Verbal+Adj:slaiseáilte	VA-INIT;	! ADJECTIVE
+sondáil+Verbal+Noun+VTI:sondáil	VN-INIT;	! VERB::sondáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+sondáil+Verbal+Noun+VTI+Gen:sondála	VN-INIT;	! GENITIVE
+sondáilte+Verbal+Adj:sondáilte	VA-INIT;	! ADJECTIVE
+spleantráil+Verbal+Noun+VTI:spleantráil	VN-INIT;	! VERB::spleantráil; Grammar::(pres -álann; vn ~ f, gs -ála)
+spleantráil+Verbal+Noun+VTI+Gen:spleantrála	VN-INIT;	! GENITIVE
+spleantráilte+Verbal+Adj:spleantráilte	VA-INIT;	! ADJECTIVE
+tíáil+Verbal+Noun+VTI:tíáil	VN-INIT;	! VERB::tíáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+tíáil+Verbal+Noun+VTI+Gen:tíála	VN-INIT;	! GENITIVE
+tíáilte+Verbal+Adj:tíáilte	VA-INIT;	! ADJECTIVE
+tiompáil+Verbal+Noun+VTI:tiompáil	VN-INIT;	! VERB::tiompáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+tiompáil+Verbal+Noun+VTI+Gen:tiompála	VN-INIT;	! GENITIVE
+tiompáilte+Verbal+Adj:tiompáilte	VA-INIT;	! ADJECTIVE
+tosáil+Verbal+Noun+VTI:tosáil	VN-INIT;	! VERB::tosáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+tosáil+Verbal+Noun+VTI+Gen:tosála	VN-INIT;	! GENITIVE
+tosáilte+Verbal+Adj:tosáilte	VA-INIT;	! ADJECTIVE
+trinseáil+Verbal+Noun+VTI:trinseáil	VN-INIT;	! VERB::trinseáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+trinseáil+Verbal+Noun+VTI+Gen:trinseála	VN-INIT;	! GENITIVE
+trinseáilte+Verbal+Adj:trinseáilte	VA-INIT;	! ADJECTIVE
