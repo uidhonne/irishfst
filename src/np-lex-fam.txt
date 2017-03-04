@@ -683,6 +683,7 @@ Comhaill	NP-Fam;
 Comhain	NP-Fam;
 Comhain	NP-Fam;
 Cónaill	NP-Fam;
+Congáil	NP-Fam;
 Críost	NP-Fam;
 Crosáin	NP-Fam;
 Cuda	NP-Fam-V;
