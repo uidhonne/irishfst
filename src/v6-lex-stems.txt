@@ -89,3 +89,19 @@ clogáil+Verb+VTI:clogáil	V1-SL-LC;	! clock
 caibeáil+Verb+VTI:caibeáil	V1-SL-LC;	! plant, bury
 facsáil+Verb+VTI:facsáil	V1-SL-LC;	! fax
 fótachóipeáil+Verb+VTI:fótachóipeáil	V1-SL-LC;	! photocopy
+clónáil+Verb+VT:clónáil	V1-SL-LC;	! clone
+corrsheiceáil+Verb+VTI:corrsheiceáil	V1-SL-LC;	! spot-check
+cótáil+Verb+VT:cótáil	V1-SL-LC;	! coat
+díghlasáil+Verb+VTI:díghlasáil	V1-SL-LC;	! unlock
+díphlugáil+Verb+VTI:díphlugáil	V1-SL-LC;	! unplug
+fónáil+Verb+VTI:fónáil	V1-SL-LC;	! phone
+giaráil+Verb+VTI:giaráil	V1-SL-LC;	! leverage
+déchliceáil+Verb+VTI:déchliceáil	V1-SL-LC;	! double-click
+gliogáil+Verb+VTI:gliogáil	V1-SL-LC;	! click
+greanáil+Verb+VTI:greanáil	V1-SL-LC;	! sand
+landáil+Verb+VTI:landáil	V1-SL-LC;	! land
+lámhnaigh+Verb+Vsire (make children):lámhnaigh	V2-BR;	! TI
+muilleáil+Verb+VTI:muilleáil	V1-SL-LC;	! mill
+plugáil+Verb+VTI:plugáil	V1-SL-LC;	! plug
+téipeáil+Verb+VTI:téipeáil	V1-SL-LC;	! tape
+íoslódáil+Verb+VTI:íoslódáil	V1-SL-LC;	! download
