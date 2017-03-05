@@ -8,3 +8,4 @@ feimineach	Adj1-3;	! feminist
 optamach	Adj1-3;	! optimal
 réamhghabhálach	Adj1-3;	! preemptive, pre-emptive
 neamh-réamhghabhálach	Adj1-3;	! non-preemptive, nonpre-emptive
+sochapatach	Adj1-3;	! sociopathic
