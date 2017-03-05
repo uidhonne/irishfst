@@ -55,3 +55,10 @@ einceifileapaite	Nf4-SINGULAR;	! encephalopathy
 daon-phoblacht	Nf3-1;	! people's republic
 ríomhthráchtáil	Nf3-SINGULAR;	! e-commerce
 tvuít	Nf2-6;	! tweet
+bunsmaoineamh	NI-smaoineamh;	! basic idea
+meantóireacht	Nf3-SINGULAR;	! mentoring
+meantóir	Nm3-1;	! mentor
+frithlaoch	NI-laoch;	! anti-hero
+sochapatach	Nm1-1;	! sociopath
+mór-ráchairt	Nf2-SINGULAR;	! best seller
+comhtharlúint	Nf3-4	! coincidence
