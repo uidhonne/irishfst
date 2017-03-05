@@ -5491,7 +5491,7 @@ sárú	Nm4-4;	! violation; infringement; frustration; exhaustion,
 bíocunta	Nm4-1;	! viscount
 vitimín	Nm4-1;	! vitamin
 toiliú	Nm5-3;	! volition; consent
-volta	Nm4-1;	! volt
+volta	Nm4-6;	! volt
 orla	Nm4-1;	! vomit(ing)
 alpaire	Nm4-2;	! voracious eater
 vóta	Nm4-1;	! vote
