@@ -828,6 +828,13 @@ Nm4-SINGULAR;
 +Noun+Masc+Gen+Strong:^G	PL-AÍ;
 +Noun+Masc+Voc:^V		PL-AÍ;
 
+LEXICON Nm4-13
+
+Nm4-SINGULAR;
++Noun+Masc+Com:^C		PL-THANNA;
++Noun+Masc+Gen+Strong:^G	PL-THANNA;
++Noun+Masc+Voc:^V		PL-THANNA;
+
 !---------------------------------------------------------------------------
 !---------------------------------------------------------------------------
 ! Strong Plurals : +idí
@@ -1115,6 +1122,9 @@ LEXICON PL-(LEA)ACHA			! ADD "ACHA" & LEATHNÚ
 LEXICON PL-(E)ACHA				! ADD "ACHA" IF BROAD & ADD "EACHA" IF SLENDER
 +Pl:^VHacha	Pl-initial;
 
+
+LEXICON PL-THANNA				! ADD "THANNA"
++Pl:thanna	Pl-initial;
 
 LEXICON PL-TE					! ADD "TE"
 +Pl:te		Pl-initial;
