@@ -64,3 +64,4 @@ mór-ráchairt	Nf2-SINGULAR;	! best seller
 comhtharlúint	Nf3-4	! coincidence
 zéite	Nf4-2;	! zeta
 x-gha	Nm4-13;	! x-ray
+meitreo	Nm4-6;	! metro
