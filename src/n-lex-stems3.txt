@@ -703,7 +703,7 @@ liús	Nm1-1;	! (fish) pike
 roc	Nm1-1;	! (fish) ray
 scoirneach	Nm1-1;	! (fish) smooth hound
 sól	Nm1-1;	! (fish) sole
-duán	Nm1-1;	! (fish-)hook, ~ báid boat-hook
+duán	Nm1-1;	! (fish-)hook, ~ báid boat-hook; kidney
 spinéar	Nm1-1;	! (fishing) spinner
 tarraiceán	Nm1-1;	! (furniture) drawer
 tuiseal	Nm1-1;	! (grammar) case
@@ -2308,7 +2308,6 @@ citeal	Nm1-1;	! kettle
 túlán	Nm1-1;	! kettle
 méarchlár	Nm1-1;	! keyboard
 meannleathar	Nm1-1;	! kid (leather)
-duán	Nm1-1;	! kidney
 cileagram	Nm1-1;	! kilogram(me)
 cililítear	Nm1-1;	! kilolitre
 ciliméadar	Nm1-1;	! kilometre
