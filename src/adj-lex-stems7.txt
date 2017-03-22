@@ -3,10 +3,12 @@ dobharshaothraithe	Adj3-1;	! aquaculture
 digiteach	Adj1-3;	! digital
 vioscósach	Adj1-3;	! viscose, viscuous
 móruasal	Adj4-3;	! magnific
-mór-uasal	Adj4-3;	! variant of móruasal
+mór-uasal	Adj4-3;	! var:móruasal
 feimineach	Adj1-3;	! feminist
 optamach	Adj1-3;	! optimal
 réamhghabhálach	Adj1-3;	! preemptive, pre-emptive
 neamh-réamhghabhálach	Adj1-3;	! non-preemptive, nonpre-emptive
 sochapatach	Adj1-3;	! sociopathic
 eipiceach	Adj1-3;	! epic
+ailbheol-charballach	Adj1-3;	! alveolo-palatal, alveopalatal
+achuimilteach	Adj1-3;	! affricate

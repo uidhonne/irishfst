@@ -67,3 +67,5 @@ x-gha	Nm4-13;	! x-ray
 meitreo	Nm4-6;	! metro
 amharclannaíocht	Nf3-SINGULAR;	! theatre
 fóineolaíocht	Nf3-SINGULAR;	! phonology
+graiféim	Nf2-7;	! grapheme
+íosdifríocht	Nf3-1;	! differential
