@@ -9,7 +9,7 @@ Airiasach      Nm1-1;  ! Arian
 Andalúiseach	Nm1-1;	! Andalusian
 Angla-Caitliceach	Nm1-1;	! Anglo-Catholic
 Angla-Indiach	Nm1-1;	! Anglo-Indian
-Angla-Éireannach:Angla-^CB      NPI-Éireannach; ! Anglo-Irish
+Angla-Éireannach	Nm1-1; ! Anglo-Irish
 Aontachtach	Nm1-1;	! Unionist
 Apaláiseach	Nm1-1;	! Appalachian
 Bailéarach	Nm1-1;	! Balearic
