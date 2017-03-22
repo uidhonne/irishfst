@@ -145,12 +145,12 @@ LEXICON NpSéUrú-fem
 +Com+Sg:			#; 
 +Com+Sg+Len:^IM^Sé		#; 
 +Gen+Sg+hPref:^IM^hve		#;  ! muintir na háite
-+Gen+Pl+Ecl:^IM^Urú		#;
++Gen+Sg+Ecl:^IM^Urú		#;
 
 LEXICON NpSéUrú
 +Com+Sg:	#; 
 +Gen+Sg+Len:^IM^Sé		#; 
-+Gen+Pl+Ecl:^IM^Urú		#;
++Gen+Sg+Ecl:^IM^Urú		#;
 
 LEXICON NpSéUrú-EN
 +Com+Sg:	#; 
