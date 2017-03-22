@@ -150,6 +150,7 @@ LEXICON NpSéUrú-fem
 
 LEXICON NpSéUrú
 +Com+Sg:	#; 
++Com+Sg+Len:^IM^Sé		#; 
 +Gen+Sg+Len:^IM^Sé		#; 
 +Com+Sg+Ecl:^IM^Urú		#;
 +Gen+Sg+Ecl:^IM^Urú		#;
