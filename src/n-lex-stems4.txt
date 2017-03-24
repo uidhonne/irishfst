@@ -3087,7 +3087,7 @@ timpireacht	Nf3-1;	! anus
 timpiste	Nf4-2;	! accident, mishap
 tincéireacht	Nf3-SINGULAR;	! tinkering
 tintríocht	Nf3-SINGULAR;	! fieriness, hot temper
-tíocht+CC	Nm3-SINGULAR;	! approach, arrival; growth; access; (Added CW 09/08)
+tíocht+CC:tíocht	Nm3-SINGULAR;	! approach, arrival; growth; access; (Added CW 09/08)
 tiomnóir	Nm3-1;	! testator
 tionsclaíocht	Nf3-SINGULAR;	! industrialism
 tionscnóir	Nm3-1;	! beginner; originator; promoter

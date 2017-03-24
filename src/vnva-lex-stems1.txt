@@ -302,8 +302,8 @@ greanáilte+Verbal+Adj:greanáilte	VA-INIT;	! ADJECTIVE
 landáil+Verbal+Noun+VTI:landáil	VN-INIT;	! VERB::landáil; Grammar::(pres -álann; vn ~ f, gs -ála)
 landáil+Verbal+Noun+VTI+Gen:landála	VN-INIT;	! GENITIVE
 landáilte+Verbal+Adj:landáilte	VA-INIT;	! ADJECTIVE
-lámhnú+Verbal+Noun+Vsire (make children):lámhnú	VN-INIT;	! VERB::lámhnaigh; Grammar::(gs -ithe)
-lámhnú+Verbal+Noun+Vsire (make children)+Gen:lámhnaithe	VN-INIT;	! GENITIVE
+lámhnú+Verbal+Noun+VTI:lámhnú	VN-INIT;	! VERB::lámhnaigh; Grammar::(gs -ithe)
+lámhnú+Verbal+Noun+VTI+Gen:lámhnaithe	VN-INIT;	! GENITIVE
 lámhnaithe+Verbal+Adj:lámhnaithe	VA-INIT;	! ADJECTIVE
 muilleáil+Verbal+Noun+VTI:muilleáil	VN-INIT;	! VERB::muilleáil; Grammar::(pres -álann; vn ~ f, gs -ála)
 muilleáil+Verbal+Noun+VTI+Gen:muilleála	VN-INIT;	! GENITIVE
