@@ -69,3 +69,5 @@ amharclannaíocht	Nf3-SINGULAR;	! theatre
 fóineolaíocht	Nf3-SINGULAR;	! phonology
 graiféim	Nf2-7;	! grapheme
 íosdifríocht	Nf3-1;	! differential
+acáise	Nf4-SINGULAR;	! acacia
+acaicia	Nf4-SINGULAR;	! acacia
