@@ -110,3 +110,4 @@ zúmáil+Verb+VTI:zúmáil	V1-SL-LC;	! zoom
 tvuíteáil+Verb+VTI:tvuíteáil	V1-SL-LC;	! tweet
 scuaideáil+Verb+VT:scuaideáil	V1-SL-LC;	! bedabble, bespatter
 fíordheimhnigh+Verb+VTI:fíordheimhnigh	V2-SL;	! authenticate
+forordaigh+Verb+VT:forordaigh	V2-BR;	! pre-ordain

@@ -332,3 +332,6 @@ scuaideáilte+Verbal+Adj:scuaideáilte	VA-INIT;	! ADJECTIVE
 fíordheimhniú+Verbal+Noun+VTI:fíordheimhniú	VN-INIT;	! VERB::fíordheimhnigh; Grammar::(gs -ithe)
 fíordheimhniú+Verbal+Noun+VTI+Gen:fíordheimhnithe	VN-INIT;	! GENITIVE
 fíordheimhnithe+Verbal+Adj:fíordheimhnithe	VA-INIT;	! ADJECTIVE
+forordú+Verbal+Noun+VT:forordú	VN-INIT;	! VERB::forordaigh; Grammar::(gs -ithe)
+forordú+Verbal+Noun+VT+Gen:forordaithe	VN-INIT;	! GENITIVE
+forordaithe+Verbal+Adj:forordaithe	VA-INIT;	! ADJECTIVE

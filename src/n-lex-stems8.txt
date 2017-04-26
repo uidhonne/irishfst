@@ -76,3 +76,5 @@ caoin-chead	Nm3-SINGULAR;	! VAR: caoinchead
 mion-náisiún	Nm1-1;	! small nation
 fochuideachta	Nf4-SINGULAR;	! subsidiary
 toghcheantar	Nm1-1;	! constituency
+príomh-cheanncheathrú	Nf5-3;	! main headquarters
+dí-mheas	Nm3-SINGULAR;	! VAR: dímheas
