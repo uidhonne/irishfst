@@ -66,7 +66,7 @@ bain+Verb+VTI:bain	V1-SL;
 úsáid+Verb+VT+Vow:úsáid	V1-SL;	
 lig+Verb+VTI:lig	V1-SL;	
 mair+Verb+VTI:mair	V1-SL;	! live, last
-siúil+Verb+VTI:siúil	V1-SL;	! walk
+siúil+Verb+VTI:siúil	V1-SL-BR;	! walk
 tit+Verb+VI:tit	V1-SL;	! fall
 tuig+Verb+VTI:tuig	V1-SL;	! understand
 cráigh+Verb+VT:cráigh	V1-BR-LV;	! Broad,Long Vowel
