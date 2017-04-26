@@ -1236,7 +1236,7 @@ coisc+Verb+VTI:coisc	V1-SL;	! vn cosc check, stop;
 dorchaigh+Verb+VTI:dorchaigh	V2-BR;	! darken; become secretive, reserved,
 cnámhaigh+Verb+VTI:cnámhaigh	V2-BR;	! ossify;
 cinntigh+Verb+VTI:cinntigh	V2-SL;	! make certain; confirm, assure
-ceiliúir+Verb+VTI:ceiliúir	V1-SL;	! pres -úrann warble, sing;
+ceiliúir+Verb+VTI:ceiliúir	V1-SL-BR;	! pres -úrann warble, sing;
 céimnigh+Verb+VTI:céimnigh	V2-SL;	! step; grade, graduation; structure
 ceistigh+Verb+VTI:ceistigh	V2-SL;	! question, interrogate
 ciceáil+Verb+VTI:ciceáil	V1-SL-LC;	! kick
