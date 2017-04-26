@@ -71,3 +71,8 @@ graiféim	Nf2-7;	! grapheme
 íosdifríocht	Nf3-1;	! differential
 acáise	Nf4-SINGULAR;	! acacia
 acaicia	Nf4-SINGULAR;	! acacia
+lánchumas	Nm1-1;	! ability
+caoin-chead	Nm3-SINGULAR;	! VAR: caoinchead
+mion-náisiún	Nm1-1;	! small nation
+fochuideachta	Nf4-SINGULAR;	! subsidiary
+toghcheantar	Nm1-1;	! constituency
