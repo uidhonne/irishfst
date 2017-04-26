@@ -86,3 +86,7 @@ gnáthgharraí	Nm4-4;	! common garden(?)
 seandúshlán	Nm1-1;	! old challenge
 buanchoimeád	Nm5-7;	! preservation
 leathuair	Nf2-13; ! half hour
+banlaoch	NI-laoch;	! female warrior, heroine
+príomhoifigeach	Nm1-1;	! chief officer
+an-easpa	Nf4-1;	! extreme lack
+deargaistriú	Nm5-3;	! redshift
