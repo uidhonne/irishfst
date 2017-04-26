@@ -80,3 +80,9 @@ príomh-cheanncheathrú	Nf5-3;	! main headquarters
 dí-mheas	Nm3-SINGULAR;	! VAR: dímheas
 infheisteoir	Nm3-1;	! investor
 príomhfhoirgneamh	Nm1-1;	! main building
+ardoideachas	Nm1-SINGULAR;	! higher education
+díthógáil	Nf3-SINGULAR;	! deconstruction
+gnáthgharraí	Nm4-4;	! common garden(?)
+seandúshlán	Nm1-1;	! old challenge
+buanchoimeád	Nm5-7;	! preservation
+leathuair	Nf2-13; ! half hour
