@@ -175,6 +175,16 @@ SELECT (Conj) IF (0 ("cé")) (1 ("go") OR ("gur") OR ("nach") OR ("nár"))(NOT 1
 # le cúnamh/cuidiú Dé
 REMOVE (Verbal Noun) IF (0 ("cúnamh") OR ("cuidiú")) (1 ("<Dé>"));
 
+# an ról is dual dó
+SELECT (Cop) IF (1 ("dual")) (2 ("do" Prep));
+SELECT (Subst Noun Sg) IF (-1 (Cop)) (0 ("dual")) (1 ("do" Prep));
+SELECT (Prep) IF (0 ("do")) (-2 (Cop)) (-1 ("dual"));
+
+# is áil le
+SELECT (Cop) IF (1 ("áil")) (2 ("le" Prep));
+SELECT (Subst Noun Sg) IF (-1 (Cop)) (0 ("áil")) (1 ("le" Prep));
+SELECT (Prep) IF (0 ("le")) (-2 (Cop)) (-1 ("áil"));
+
 # let us assume that ba = bó(pl) must have a pl article preceding it
 # not strictly true but ba=cop in most cases ... 
 REMOVE (Noun) IF (0 ("<ba>") OR ("<Ba>")) (NOT -1 (Art Pl));
