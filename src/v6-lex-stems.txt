@@ -108,3 +108,5 @@ téipeáil+Verb+VTI:téipeáil	V1-SL-LC;	! tape
 súmáil+Verb+VTI:súmáil	V1-SL-LC;	!>! zoom
 zúmáil+Verb+VTI:zúmáil	V1-SL-LC;	! zoom
 tvuíteáil+Verb+VTI:tvuíteáil	V1-SL-LC;	! tweet
+scuaideáil+Verb+VT:scuaideáil	V1-SL-LC;	! bedabble, bespatter
+fíordheimhnigh+Verb+VTI:fíordheimhnigh	V2-SL;	! authenticate

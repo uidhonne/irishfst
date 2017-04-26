@@ -326,3 +326,9 @@ zúmáilte+Verbal+Adj:zúmáilte	VA-INIT;	! ADJECTIVE
 tvuíteáil+Verbal+Noun+VTI:tvuíteáil	VN-INIT;	! VERB::tvuíteáil; Grammar::(pres -álann; vn ~ f, gs -ála)
 tvuíteáil+Verbal+Noun+VTI+Gen:tvuíteála	VN-INIT;	! GENITIVE
 tvuíteáilte+Verbal+Adj:tvuíteáilte	VA-INIT;	! ADJECTIVE
+scuaideáil+Verbal+Noun+VT:scuaideáil	VN-INIT;	! VERB::scuaideáil; Grammar::(pres -álann; vn ~ f, gs -ála)
+scuaideáil+Verbal+Noun+VT+Gen:scuaideála	VN-INIT;	! GENITIVE
+scuaideáilte+Verbal+Adj:scuaideáilte	VA-INIT;	! ADJECTIVE
+fíordheimhniú+Verbal+Noun+VTI:fíordheimhniú	VN-INIT;	! VERB::fíordheimhnigh; Grammar::(gs -ithe)
+fíordheimhniú+Verbal+Noun+VTI+Gen:fíordheimhnithe	VN-INIT;	! GENITIVE
+fíordheimhnithe+Verbal+Adj:fíordheimhnithe	VA-INIT;	! ADJECTIVE
