@@ -455,8 +455,8 @@ baindilín		Nm4-1;		! Entry: baindilín, m = bunsileán.
 bainfheis		Nf2-8;		! Entry: bainfheis = bainis.
 bainríoghan		Nf3-6;		! Entry: bainríoghan = banríon.
 bainséar		Nm1-1;		! Entry: bainséar = mainséar.
-báirc+Noun+Fem+Sg+Com:báirc		#;	! ***
-báirc+Noun+Fem+Sg+Com+DefArt:bháirc		#;	! ***
+báirc+Noun+Fem+Com+Sg:báirc		#;	! ***
+báirc+Noun+Fem+Com+Sg+DefArt:bháirc		#;	! ***
 bairghean		Nm4-1;		! Entry: bairghean, m = bairín. ???
 bairricín		Nm4-1;		! Entry: bairricín = barraicín.
 bairrléir		Nf2-SINGULAR;		! Entry: bairrléir, f = barrliobar. ***
