@@ -159,6 +159,7 @@ define PrefTag [[%+GuessPref] .x. 0];
 define NonBase [%+Gen | %+Voc | %+Dat | %+Len | %+Ecl | %+Emph| %+Pl | %+DefArt | %+hPref ];
 ## NOUNS
 read regex ~$[NonBase] .o. @"int/ncomm.fst";
+read regex ~$[NonBase] .o. @"int/nprop.fst";
 read regex ~$[NonBase] .o. @"int/vnvalex.fst"; 	# INCLUDES Verbal Adjectives
 union net
 read regex Pref;

@@ -4026,7 +4026,7 @@ iardhearcadh		Nm1-5;	!	(gs -aidh, pl -aí)
 iardraí		Nm4-SINGULAR;	!	(gs ~)
 iarimpriseanachas		Nm1-SINGULAR;	!	(gs -ais)
 iarimpriseanaí		Nm4-4;	!	(gs ~, pl -aithe)
-Iar-Indiach		Nm1-1;	!	(gs & npl -aigh, gpl ~) & a
+!!!!! let prefix script handle this Iar-Indiach		Nm1-1;	!	(gs & npl -aigh, gpl ~) & a
 iarlaom		Nm3-SINGULAR;	!	(gs ~a)
 iarleann		Nm3-SINGULAR;	!	(gs ~a)
 iarmharach		Nm1-1;	!	(gs & npl -aigh, gpl ~)
