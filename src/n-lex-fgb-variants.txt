@@ -1524,8 +1524,8 @@ treascradh		Nm1-1;	! Headword: treascairt (f) *** ???
 treifead		Nf2-7;	! Headword: treifid (f)
 tréithiúlacht		Nf3-SINGULAR;	! Headword: tréitheachas (m) ***
 !triacail		Nf?-??;	! Headword: triacla (m)
-triacail+Noun+Fem+Sg:0	#;
-triacail+Noun+Fem+Sg+DefArt:0	#;
+!triacail+Noun+Fem+Sg:0	#;
+!triacail+Noun+Fem+Sg+DefArt:0	#;
 trilleán		Nm1-1;	! Headword: trillín (m) ***
 trochladh		Nm1-1;	! Headword: trochlú (m) *** ???
 trodaire		Nm4-2;	! Headword: trodaí (m) ***
