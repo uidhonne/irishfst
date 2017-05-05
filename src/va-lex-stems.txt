@@ -463,7 +463,7 @@ cúitithe+Verbal+Adj:cúitithe	VA-INIT;
 cúlaithe+Verbal+Adj:cúlaithe	VA-INIT;
 cúléiste+Verbal+Adj:cúléiste	VA-INIT;
 cúltortha+Verbal+Adj:cúltortha	VA-INIT;
-!cumaisctha+Verbal+Adj:cumaisctha	VA-INIT;
+cumaiscthe+Verbal+Adj:cumaiscthe	VA-INIT;
 cumasctha+Verbal+Adj:cumasctha	VA-INIT;
 cumasaithe+Verbal+Adj:cumasaithe	VA-INIT;
 cumhachtaithe+Verbal+Adj:cumhachtaithe	VA-INIT;
