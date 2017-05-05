@@ -1212,8 +1212,8 @@ nagaidín		Nm4-1;	! Headword: nagadán (m) ***
 náisián		Nm1-1;	! Headword: náisiún (m)
 néalfairt		Nf2-SINGULAR;	! Headword: néalfartach (f)
 !neanaidh		Nf?-??;	! Headword: neanta (m)
-neanaidh+Noun+Fem+Sg:0	#;	! Headword: neanta (m)
-neanaidh+Noun+Fem+Sg+DefArt:0	#;
+!neanaidh+Noun+Fem+Sg:0	#;	! Headword: neanta (m)
+!neanaidh+Noun+Fem+Sg+DefArt:0	#;
 neantán		Nm1-1;	! Headword: neantóg (f) ***
 niúmón		Nm1-SINGULAR;	! Headword: niúmóine (m) ***
 ofráid		Nf2-SINGULAR;	! Headword: ofráil (f)
