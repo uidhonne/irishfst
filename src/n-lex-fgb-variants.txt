@@ -1181,8 +1181,8 @@ méaráil		Nf3-SINGULAR;	! Headword: méaraíocht (f)
 mearathal		Nm1-1;	! Headword: mearbhall (m)
 meataire		Nm4-2;	! Headword: meatachán (m) ***
 meathló		Nm5-3;	! Headword: meathlú (m) Change Nm5-3 to cater for -ó as well. 
-meathló+Noun+Masc+Sg:meathlú	#;
-meathló+Noun+Masc+Sg+DefArt:meathlú	#;
+meathló+Noun+Masc+Com+Sg:meathlú	#;
+meathló+Noun+Masc+Com+Sg+DefArt:meathlú	#;
 meiliteoir		Nm3-1;	! Headword: meiliteálaí (m) ***
 meilsceán		Nm1-SINGULAR;	! Headword: meilsceánach (m)
 meilteachán		Nm1-1;	! Headword: meilteoireacht (f) ***
