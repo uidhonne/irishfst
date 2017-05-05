@@ -8520,20 +8520,20 @@ feinistear+Noun+Fem+Gen+Sg:feinistre	#;
 feinistear+Noun+Fem+Gen+Sg+DefArt:feinistre	#;
 feinistear+Noun+Fem+Com+Pl:feinistrí	#;
 feinistear+Noun+Fem+Com+Pl+DefArt:feinistrí	#;
-feinistear+Noun+Fem+Com+Pl+Strong:feinistrí	#;
-feinistear+Noun+Fem+Com+Pl+Strong+DefArt:feinistrí	#;
+feinistear+Noun+Fem+Com+Strong+Pl:feinistrí	#;
+feinistear+Noun+Fem+Com+Strong+Pl+DefArt:feinistrí	#;
 seinistir+Noun+Fem+Gen+Sg:seinistre	#;
 seinistir+Noun+Fem+Gen+Sg+DefArt:seinistre	#;
 seinistir+Noun+Fem+Com+Pl:seinistrí	#;
 seinistir+Noun+Fem+Com+Pl+DefArt:seinistrí	#;
-seinistir+Noun+Fem+Com+Pl+Strong:seinistrí	#;
-seinistir+Noun+Fem+Com+Pl+Strong+DefArt:seinistrí	#;
+seinistir+Noun+Fem+Com+Strong+Pl:seinistrí	#;
+seinistir+Noun+Fem+Com+Strong+Pl+DefArt:seinistrí	#;
 sinistir+Noun+Fem+Gen+Sg:sinistre	#;
 sinistir+Noun+Fem+Gen+Sg+DefArt:sinistre	#;
 sinistir+Noun+Fem+Com+Pl:sinistrí	#;
 sinistir+Noun+Fem+Com+Pl+DefArt:sinistrí	#;
-sinistir+Noun+Fem+Com+Pl+Strong:sinistrí	#;
-sinistir+Noun+Fem+Com+Pl+Strong+DefArt:sinistrí	#;
+sinistir+Noun+Fem+Com+Strong+Pl:sinistrí	#;
+sinistir+Noun+Fem+Com+Strong+Pl+DefArt:sinistrí	#;
 siollúr		Nm1-1;		! Entry: siollúr, m = silleadh 2.
 slisnín		Nm4-1;		! Entry: slisnigh, slisnín, m = slis, sliseog.
 !srathar		Nm1-1;		! Entry: srathar, m & f. 1 = srathair. 2 = srathaire.
