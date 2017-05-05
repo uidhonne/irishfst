@@ -338,7 +338,7 @@ comhthiomsaigh+Verb+VT:comhthiomsaigh		V2-BR;	! analyzed as compound: comh+thiom
 comhthit+Verb+VI:comhthit		V1-SL;	! analyzed as compound: comh+thit
 !!!!!comhthiúin+Verb+VT:comhthiúin		V1-SL-BRX;	! (pres -únann; vn -únadh m, gs-únta); analyzed as compound: comh+thiúin	*** New kind!
 comthaigh+Verb+VI:comthaigh		V2-BR;
-cónaisc+Verb+VT:cónaisc		V1-SL;	! analyzed as compound: có+naisc	** cf. nasc -> V1-BR
+cónaisc+Verb+VT:cónaisc		V1-SL-BR;	! analyzed as compound: có+naisc	** cf. nasc -> V1-BR
 conclúidigh+Verb+VI:conclúidigh		V2-SL;
 connaigh+Verb+VTI:connaigh		V2-BR;
 conraigh+Verb+VI:conraigh		V2-BR;

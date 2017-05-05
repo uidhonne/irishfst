@@ -157,7 +157,7 @@ robáil+Verb+VTI:robáil	V1-SL-LC;	! robbery vt & i
 sóinseáil+Verb+VTI:sóinseáil	V1-SL-LC;	! & vt & i
 spáráil+Verb+VTI:spáráil	V1-SL-LC;	! sparing, economy vt &
 stócáil+Verb+VTI:stócáil	V1-SL-LC;	! preparation(s) vt & i
-stuáil+Verb+VTI:stuáil	V1-SL-LV;	! stowage; stuffing, padding; stor
+stuáil+Verb+VTI:stuáil	V1-SL-BR;	! stowage; stuffing, padding; stor
 súisteáil+Verb+VTI:súisteáil	V1-SL-LC;	! flailing, threshing; beating vt
 liostáil+Verb+VTI:liostáil	V1-SL-LC;	! enlistment vt & i
 troid+Verb+VTI:troid	V1-SL;	! & vt & i
