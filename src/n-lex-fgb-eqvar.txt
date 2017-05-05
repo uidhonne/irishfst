@@ -8367,7 +8367,7 @@ feorainn+Noun+Fem+Gen+Sg:feorann	#;
 feorainn+Noun+Fem+Gen+Sg+DefArt:feorann	#;
 feorainn+Noun+Fem+Com+Pl+Strong:feoranna	#;
 feorainn+Noun+Fem+Com+Pl+DefArt:feoranna	#;
-feorainn+Noun+Fem+Com+Gen+DefArt:feoranna	#;
+feorainn+Noun+Fem+Gen+Pl+DefArt:feoranna	#;
 barrainn		Nf2-2;		! Entry: barrainn, f = barrann.
 barrann		Nf2-2;
 baspairt		Nf2-7;		! Entry: baspairt, f, ~each = spaspas, -ach.
