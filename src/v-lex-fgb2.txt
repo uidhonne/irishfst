@@ -4,14 +4,13 @@
 LEXICON Verbs-FGB2
 
 achainigh+Verb+VT:achainigh		V2-SL;
-achair+Verb+VT:achair		V1-SL-BR-sync;	! (pres achrann, vn ~t)
 achtáil+Verb+VT:achtáil		V1-SL-LC;
 aclaigh+Verb+VT:aclaigh		V2-BR;
 adhfhuathaigh+Verb+VT:adhfhuathaigh		V2-BR;	! analyzed as compound: adh+fhuathaigh
 adhmhill+Verb+VT:adhmhill		V1-SL;	! analyzed as compound: adh+mhill
 adhnáirigh+Verb+VT:adhnáirigh		V2-SL;	! analyzed as compound: adh+náirigh
 agaigh+Verb+VT:agaigh		V2-BR;
-agaill+Verb+VT:agaill		V1-SL-BR-sync;	! (pres -allann, vn -allamh)
+agaill+Verb+VT:agaill		V1-BR-sync;	! (pres -allann, vn -allamh)
 aibhligh+Verb+VI:aibhligh		V2-SL;
 áibhligh+Verb+VT:áibhligh		V2-SL;
 aibhsigh+Verb+VT:aibhsigh		V2-SL;
@@ -58,7 +57,7 @@ atarraing+Verb+VT:atarraing		V2-SL;
 atáthaigh+Verb+VTI:atáthaigh		V2-BR;
 atéigh+Verb+VT:atéigh		V1-SL;	!	***
 athachtaigh+Verb+VT:athachtaigh		V2-BR;	! analyzed as compound: ath+achtaigh
-athadhain+Verb+VT:athadhain		V1-SL-BR;	! (pres -dhnann, fut -anfaidh; vn ~t f, gs~te); analyzed as compound: ath+adhain
+athadhain+Verb+VT:athadhain		V1-BR-sync;	! (pres -dhnann, fut -anfaidh; vn ~t f, gs~te); analyzed as compound: ath+adhain
 athadhlaic+Verb+VT:athadhlaic		V1-SL-BR;	! (pres -acann, vn -acadh); analyzed as compound: ath+adhlaic
 athaimsigh+Verb+VT:athaimsigh		V2-SL;	! analyzed as compound: ath+aimsigh
 athainmnigh+Verb+VT:athainmnigh		V2-SL;	! analyzed as compound: ath+ainmnigh
@@ -1307,7 +1306,7 @@ scáthcheil+Verb+VT:scáthcheil		V1-SL	; ! (vn ~t f, gs ~te)
 siabhair+Verb+VT:siabhair		V2-BR-sync	; ! (vn -bhradh m, gs & pp -artha)
 sil-leag+Verb+VT:sil-leag		V1-BR	; ! (vn ~an, pp ~tha)
 síolchuir+Verb+VTI:síolchuir		V1-SL	; ! (vn -ur, pp -urtha)
-!!!!!spadhar+Verb+VT:spadhar		V1-BR-sync; ! (vn -dhradh m, gs & pp ~tha) *** ??? Prob. with sycopation	CHECK NEW
+spadhar+Verb+VT:spadhar		V1-BR-sync; ! (vn -dhradh m, gs & pp ~tha) *** ??? Prob. with sycopation	CHECK NEW
 !!!!!sroighill+Verb+VT:sroighill	V1-SL-sync; ! OR V1-SL-BRX ???; ! (vn -ghleadh)    	NOTE: sync ghill -> ghl CHECK NEW
 tacair+Verb+VT:tacair		V2-BR-sync	; ! (vn -ar, pp -artha)
 !!!!!tafainn+Verb+VT:tafainn		V1-BR-SL; ! (pres taifneann, vn -ann)	*** ??? V1 + BR + Syncopation + Slen 	CHECK NEW

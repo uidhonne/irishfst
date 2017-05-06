@@ -58,8 +58,8 @@ creimseáil+Verb+VTI:creimseáil		V1-SL-LC;
 cuilteáil+Verb+VTI:cuilteáil		V1-SL-LC;
 cúinneáil+Verb+VT:cúinneáil		V1-SL-LC;
 cúláil+Verb+VT:cúláil		V1-SL-LC;	! analyzed as compound: cúl+áil
-damhain+Verb+VT:damhain		V1-SL-BR;	! (pres -mhnann; vn -mhnadh m, gs ~te)
-!!!!!deachair+Verb+VT:deachair		V2-BR-sync;	! (pres -chraíonn, vn -chrú)
+damhain+Verb+VT:damhain		V1-BR-sync;	! (pres -mhnann; vn -mhnadh m, gs ~te)
+deachair+Verb+VT:deachair		V2-BR-sync;	! (pres -chraíonn, vn -chrú)
 difreáil+Verb+VTI:difreáil		V1-SL-LC;
 díoghail+Verb+VT:díoghail		V1-SL-BR;	! (pres -ghlann); analyzed as compound: dí+oghail
 díoscarnaigh+Verb+VI:díoscarnaigh		V2-BR;	! analyzed as compound: dí+oscarnaigh

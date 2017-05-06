@@ -406,6 +406,10 @@ LEXICON V1-SL-BR-sync	! 1st. Conjugation - slender is sync. and becomes broad
 			! except Imperative 2P Sg remains slender AND
 			! all Past remains slender except 1P Pl
 0:^Coim		V1-SL-BR;
+
+LEXICON V1-BR-sync
+0:^Coim		V1-BR;
+
 !**************************************************************************
 ! NEW  02/05/08 
 LEXICON V1-SL-BR	! 1st. Conjugation - slender becomes broad

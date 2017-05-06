@@ -1296,9 +1296,9 @@ beoigh+Verb+VTI:beoigh	V1-SV;	! animate, enliven; (of wind)
 bioraigh+Verb+VTI:bioraigh	V2-BR;	! point, sharpen, bhioraigh sé
 bisigh+Verb+VTI:bisigh	V2-SL;	! improve, recover; increase, prosper
 aistrigh+Verb+VTI+Vow:aistrigh	V2-SL;	! move, transfer; translate
-achair+Verb+VTI+Vow:achair	V2-BR-sync;	! pres achrann vn ~t
+achair+Verb+VTI+Vow:achair	V1-BR-sync;	! pres achrann vn ~t
 aclaigh+Verb+VTI+Vow:aclaigh	V2-BR;	! limber; exercise; flex;
-adhain+Verb+VTI+Vow:adhain	V2-BR-sync;	! pres adhnann kindle; inflame;
+adhain+Verb+VTI+Vow:adhain	V1-BR-sync;	! pres adhnann kindle; inflame;
 admhaigh+Verb+VTI+Vow:admhaigh	V2-BR;	! acknowledge, admit, confess
 athlíon+Verb+VTI+Vow:athlíon	V1-BR;	! refill, replenish
 aibigh+Verb+VTI+Vow:aibigh	V2-SL;	! ripen, mature
