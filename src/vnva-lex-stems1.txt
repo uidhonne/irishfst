@@ -416,3 +416,6 @@ trangláilte+Verbal+Adj:trangláilte	VA-INIT;	! ADJECTIVE
 trasnáil+Verbal+Noun+VTI:trasnáil	VN-INIT;	! VERB::trasnáil; Grammar::(pres -álann; vn ~ f, gs -ála)
 trasnáil+Verbal+Noun+VTI+Gen:trasnála	VN-INIT;	! GENITIVE
 trasnáilte+Verbal+Adj:trasnáilte	VA-INIT;	! ADJECTIVE
+ubhchruthú+Verbal+Noun+VTI:ubhchruthú	VN-INIT;	! VERB::ubhchruthaigh; Grammar::(gs -ithe)
+ubhchruthú+Verbal+Noun+VTI+Gen:ubhchruthaithe	VN-INIT;	! GENITIVE
+ubhchruthaithe+Verbal+Adj:ubhchruthaithe	VA-INIT;	! ADJECTIVE

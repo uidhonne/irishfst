@@ -138,3 +138,4 @@ stropáil+Verb+VTI:stropáil	V1-SL-LC;	! strop
 tiáil+Verb+VTI:tiáil	V1-SL-LV;	! tee
 trangláil+Verb+VTI:trangláil	V1-SL-LC;	! lumber
 trasnáil+Verb+VTI:trasnáil	V1-SL-LC;	! filibuster
+ubhchruthaigh+Verb+VTI:ubhchruthaigh	V2-BR;	! ovalise !!EIDism
