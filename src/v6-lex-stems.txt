@@ -68,11 +68,11 @@ idirnáisiúntaigh+Verb+VTI:idirnáisiúntaigh	V2-BR;	! internationalise
 rochtaigh+Verb+VTI:rochtaigh	V2-BR;	! access
 sainchóirigh+Verb+VTI:sainchóirigh	V2-SL;	! customise
 trasbhéarlaigh+Verb+VTI:trasbhéarlaigh	V2-BR;	! translate
-uisce-sciáil+Verb+VI:uisce-sciáil	V1-SL-LV;	! water ski
+uisce-sciáil+Verb+VI:uisce-sciáil	V1-SL-LC;	! water ski
 sótáil+Verb+VT:sótáil	V1-SL-LC;	! sauté
 scuabáil+Verb+VTI:scuabáil	V1-SL-LC;	! shuffle
 scrobláil+Verb+VTI:scrobláil	V1-SL-LC;	! scavenge
-scriúáil+Verb+VTI:scriúáil	V1-SL-LV;	! screw
+scriúáil+Verb+VTI:scriúáil	V1-SL-LC;	! screw
 anótáil+Verb+VT:anótáil	V1-SL-LC;	! annotate
 athbhútáil+Verb+VTI:athbhútáil	V1-SL-LC;	! reboot
 bútáil+Verb+VTI:bútáil	V1-SL-LC;	! boot
@@ -111,3 +111,30 @@ tvuíteáil+Verb+VTI:tvuíteáil	V1-SL-LC;	! tweet
 scuaideáil+Verb+VT:scuaideáil	V1-SL-LC;	! bedabble, bespatter
 fíordheimhnigh+Verb+VTI:fíordheimhnigh	V2-SL;	! authenticate
 forordaigh+Verb+VT:forordaigh	V2-BR;	! pre-ordain
+athchorcáil+Verb+VT:athchorcáil	V1-SL-LC;	! recork
+scartáil+Verb+VT:scartáil	V1-SL-LC;	! scrap
+atheaspórtáil+Verb+VTI:atheaspórtáil	V1-SL-LC;	! re-export
+athfhuáil+Verb+VTI:athfhuáil	V1-SL-LC;	! restitch
+athiompórtáil+Verb+VTI:athiompórtáil	V1-SL-LC;	! reimport
+athshuncáil+Verb+VTI:athshuncáil	V1-SL-LC;	! reinvest
+athvearnaiseáil+Verb+VTI:athvearnaiseáil	V1-SL-LC;	! revarnish
+babáil+Verb+VTI:babáil	V1-SL-LC;	! bob
+clifeáil+Verb+VTI:clifeáil	V1-SL-LC;	! pilfer
+cruanphéinteáil+Verb+VTI:cruanphéinteáil	V1-SL-LC;	! enamel
+cuasphlánáil+Verb+VTI:cuasphlánáil	V1-SL-LC;	! rout out
+cóimhiotáil+Verb+VTI:cóimhiotáil	V1-SL-LC;	! alloy
+forphéinteáil+Verb+VTI:forphéinteáil	V1-SL-LC;	! over-paint
+fásáil+Verb+VTI:fásáil	V1-SL-LC;	! face off
+garbhphlástráil+Verb+VTI:garbhphlástráil	V1-SL-LC;	! parget
+gliondáil+Verb+VTI:gliondáil	V1-SL-LC;	! roll up
+lindireáil+Verb+VTI:lindireáil	V1-SL-LC;	! render
+praeitseáil+Verb+VTI:praeitseáil	V1-SL-LC;	! preachify
+priosláil+Verb+VTI:priosláil	V1-SL-LC;	! slaver
+scafláil+Verb+VTI:scafláil	V1-SL-LC;	! scaffold
+scriobláil+Verb+VTI:scriobláil	V1-SL-LC;	! scribble
+smugláil+Verb+VTI:smugláil	V1-SL-LC;	! smuggle
+splaghsáil+Verb+VTI:splaghsáil	V1-SL-LC;	! splice
+stropáil+Verb+VTI:stropáil	V1-SL-LC;	! strop
+tiáil+Verb+VTI:tiáil	V1-SL-LV;	! tee
+trangláil+Verb+VTI:trangláil	V1-SL-LC;	! lumber
+trasnáil+Verb+VTI:trasnáil	V1-SL-LC;	! filibuster
