@@ -299,6 +299,7 @@ clóbhuailte+Verbal+Adj:clóbhuailte	VA-INIT;
 clochraithe+Verbal+Adj:clochraithe	VA-INIT;
 clogtha+Verbal+Adj:clogtha	VA-INIT;
 clóirínithe+Verbal+Adj:clóirínithe	VA-INIT;
+clóscríofa+Verbal+Adj:clóscríofa                VA-INIT;
 cloiste+Verbal+Adj:cloiste	VA-INIT;
 cloíte+Verbal+Adj:cloíte	VA-INIT;
 clóite+Verbal+Adj:clóite	VA-INIT;
