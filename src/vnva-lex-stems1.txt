@@ -419,3 +419,9 @@ trasnáilte+Verbal+Adj:trasnáilte	VA-INIT;	! ADJECTIVE
 ubhchruthú+Verbal+Noun+VTI:ubhchruthú	VN-INIT;	! VERB::ubhchruthaigh; Grammar::(gs -ithe)
 ubhchruthú+Verbal+Noun+VTI+Gen:ubhchruthaithe	VN-INIT;	! GENITIVE
 ubhchruthaithe+Verbal+Adj:ubhchruthaithe	VA-INIT;	! ADJECTIVE
+éitearú+Verbal+Noun+VTI:éitearú	VN-INIT;	! VERB::éitearaigh; Grammar::(gs -ithe)
+éitearú+Verbal+Noun+VTI+Gen:éitearaithe	VN-INIT;	! GENITIVE
+éitearaithe+Verbal+Adj:éitearaithe	VA-INIT;	! ADJECTIVE
+tras-scríobh+Verbal+Noun+VTI:tras-scríobh       VN-INIT;        ! VERB::tras-scríobh; Grammar::(gs -ofa)
+tras-scríobh+Verbal+Noun+VTI+Gen:tras-scríofa           VN-INIT
+tras-scríofa+Verbal+Adj:tras-scríofa                VA-INIT;

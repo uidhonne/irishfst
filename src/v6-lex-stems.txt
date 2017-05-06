@@ -139,3 +139,5 @@ tiáil+Verb+VTI:tiáil	V1-SL-LV;	! tee
 trangláil+Verb+VTI:trangláil	V1-SL-LC;	! lumber
 trasnáil+Verb+VTI:trasnáil	V1-SL-LC;	! filibuster
 ubhchruthaigh+Verb+VTI:ubhchruthaigh	V2-BR;	! ovalise !!EIDism
+éitearaigh+Verb+VTI:éitearaigh	V2-BR;	! etherise
+tras-scríobh+Verb+VTI:tras-scríobh      V1-BR;  ! transcribe
