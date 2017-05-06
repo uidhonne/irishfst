@@ -840,7 +840,7 @@ timpeallghearr+Verb+VT:timpeallghearr	V1-BR;	! circumcise;
 tréaslaigh+Verb+VT:tréaslaigh	V2-BR;	! rud a thréaslú do
 tíor+Verb+VT:tíor	V1-BR;	! dry up, parch; scorch,
 tnáith+Verb+VT:tnáith	V1-SL;	! wear down, exhaust
-toghair+Verb+VT:toghair	V2-BR-sync;	! summon; invoke;
+toghair+Verb+VT:toghair	V2-SL;	! summon; invoke;
 toibhigh+Verb+VT:toibhigh	V2-SL;	! vn tobhach levy, exact
 toirchigh+Verb+VT:toirchigh	V2-SL;	! fertilize, impregnate
 toitrigh+Verb+VT:toitrigh	V2-SL;	! smoke, fumigate
@@ -1252,7 +1252,7 @@ cláraigh+Verb+VTI:cláraigh	V2-BR;	! tabulate; register, flatten; lay
 clasaigh+Verb+VTI:clasaigh	V2-BR;	! channel; trench; gash, groove;
 cinn+Verb+VTI:cinn	V1-SL;	! (with ar) surpass, overcome;
 crúbáil+Verb+VTI:crúbáil	V1-SL-LC;	! claw, paw
-comhair+Verb+VTI:comhair	V2-BR-sync;	! count, calculate
+comhair+Verb+VTI:comhair	V1-BR-sync;	! count, calculate
 creim+Verb+VTI:creim	V1-SL;	! gnaw; corrode, erode
 críochnaigh+Verb+VTI:críochnaigh	V2-BR;	! finish; complete, accomplish
 criostalaigh+Verb+VTI:criostalaigh	V2-BR;	! crystallize;
