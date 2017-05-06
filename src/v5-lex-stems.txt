@@ -466,7 +466,7 @@ díchuir+Verb+VT:díchuir	V1-SL;	! vn -ur expel; disperse,
 díchnámhaigh+Verb+VT:díchnámhaigh	V2-BR;	! bone, fillet
 dícheann+Verb+VT:dícheann	V1-BR;	! behead; cut off, destroy
 dícháiligh+Verb+VT:dícháiligh	V2-SL;	! disqualify;
-gleadhair+Verb+VT:gleadhair	V2-BR-sync;	! pres -dhrann beat noisily,
+gleadhair+Verb+VT:gleadhair	V1-BR-sync;	! pres -dhrann beat noisily,
 deisigh+Verb+VT:deisigh	V2-SL;	! mend, repair
 díláraigh+Verb+VT:díláraigh	V2-BR;	! decentralize;
 deighil+Verb+VT:deighil	V2-SL-sync;	! pres -ghleann part, separate,
@@ -588,7 +588,7 @@ athghlaoigh+Verb+VT+Vow:athghlaoigh	V1-SL;	! vn -aoch recall
 athghabh+Verb+VT+Vow:athghabh	V1-BR;	! vn ~áil recapture; recover
 athchum+Verb+VT+Vow:athchum	V1-BR;	! reconstruct; distort;
 athchuir+Verb+VT+Vow:athchuir	V1-SL;	! vn -chur replant; remand;
-athchomhair+Verb+VT+Vow:athchomhair	V2-BR-sync;	! vn ~eamh re-count, recalculate
+athchomhair+Verb+VT+Vow:athchomhair	V1-SL;	! vn ~eamh re-count, recalculate
 athchóirigh+Verb+VT+Vow:athchóirigh	V2-SL;	! rearrange; restore, renovate
 athscinn+Verb+VT+Vow:athscinn	V1-SL;	! spring back; recoil;
 comhdaigh+Verb+VT:comhdaigh	V2-BR;	! file (document, etc.)
@@ -627,7 +627,7 @@ aisghair+Verb+VT+Vow:aisghair	V1-SL;	! abrogate; repeal;
 adhmhol+Verb+VT+Vow:adhmhol	V1-BR;	! extol, eulogize
 adhlaic+Verb+VT+Vow:adhlaic	V1-SL-BR;	! was V1-SL-X;	! pres -acann bury
 adharcáil+Verb+VT+Vow:adharcáil	V1-SL-LC;	! horn, gore
-adhair+Verb+VT+Vow:adhair	V2-BR-sync;	! pres adhrann vn adhradh
+adhair+Verb+VT+Vow:adhair	V1-BR-sync;	! pres adhrann vn adhradh
 adamhaigh+Verb+VT+Vow:adamhaigh	V2-BR;	! atomize;
 achtaigh+Verb+VT+Vow:achtaigh	V2-BR;	! enact;
 achoimrigh+Verb+VT+Vow:achoimrigh	V2-SL;	! summarize, recapitulate
