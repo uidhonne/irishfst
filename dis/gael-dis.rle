@@ -160,6 +160,11 @@ SELECT (Prep Simp) IF (1 ("geall")) (2 ("ar")) (0 ("mar"));
 
 # fear gill
 REMOVE (Foreign English) IF (0 ("geall")) (-1 ("fear") OR ("cluiche") OR ("ticéad") OR ("bean") OR ("bradaí"));
+# clog dúisithe
+REMOVE (Foreign English) IF (0 ("clog")) (1 ("dúisithe"));
+# poll anála
+SELECT (Noun Masc) IF (0 ("poll")) (1 ("anáil") OR ("gaoth"));
+SELECT (Noun Fem) IF (0 ("gaoth")) (-1 ("poll"));
 
 # ar chor/cor ar bith
 SELECT (Noun Sg) IF (0 ("cor")) (1 ("ar")) (2 ("bith"));
