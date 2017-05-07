@@ -163,7 +163,7 @@ REMOVE (Foreign English) IF (0 ("geall")) (-1 ("fear") OR ("cluiche") OR ("ticé
 # clog dúisithe
 REMOVE (Foreign English) IF (0 ("clog")) (1 ("dúisithe"));
 # poll anála
-SELECT (Noun Masc) IF (0 ("poll")) (1 ("anáil") OR ("gaoth") OR ("ascaille") OR ("luaithe") OR ("dubh") OR ("séite") OR ("tóraíochta") OR ("plocóide") OR ("cré") OR ("sóláis") OR ("gairbhéil") OR ("mianaigh") OR ("tairne") OR ("luiche") OR ("ola") OR ("bioráin") OR ("domhain") OR ("leideora") OR ("coinín") OR ("sliogáin") OR ("faire") OR ("gaile") OR ("súite") OR ("snámha") OR ("maiste") OR ("iomlaisc") OR ("silte"));
+SELECT (Noun Masc) IF (0 ("poll")) (1 ("<anáil>") OR ("<gaoth>") OR ("<ascaille>") OR ("<luaithe>") OR ("dubh") OR ("<séite>") OR ("<tóraíochta>") OR ("<plocóide>") OR ("<cré>") OR ("<sóláis>") OR ("<gairbhéil>") OR ("<mianaigh>") OR ("<tairne>") OR ("<luiche>") OR ("<ola>") OR ("<bioráin>") OR ("<domhain>") OR ("<leideora>") OR ("coinín") OR ("<sliogáin>") OR ("<faire>") OR ("<gaile>") OR ("<súite>") OR ("<snámha>") OR ("<maiste>") OR ("<iomlaisc>") OR ("<silte>") OR ("<péiste>") OR ("<glúine>") OR ("<buama>") OR ("<stopalláin>"));
 SELECT (Noun Fem) IF (0 ("gaoth")) (-1 ("poll"));
 
 # ar chor/cor ar bith
