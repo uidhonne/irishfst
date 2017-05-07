@@ -158,6 +158,9 @@ SELECT (Noun Com) IF (0 ("cumas")) (-2 ("ar") OR ("agus") OR ("ná")) (-1 (Det P
 SELECT (Noun Com) IF (0 ("geall")) (1 ("ar")) (-1 ("mar"));
 SELECT (Prep Simp) IF (1 ("geall")) (2 ("ar")) (0 ("mar"));
 
+# fear gill
+REMOVE (Foreign English) IF (0 ("geall")) (-1 ("fear") OR ("cluiche") OR ("ticéad") OR ("bean") OR ("bradaí"));
+
 # ar chor/cor ar bith
 SELECT (Noun Sg) IF (0 ("cor")) (1 ("ar")) (2 ("bith"));
 
