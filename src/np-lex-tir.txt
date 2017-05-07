@@ -27,7 +27,7 @@ Amasóin	Nf2-Prop;	! Amazon
 Amstardam	Nm4-Prop;	! Amsterdam
 Andóra	Nm4-Prop;	! Andorra
 Angóla	Nm4-Prop;	! Angola
-Antartaice	Nf4-Prop	! Antarctica
+Antartaice	Nf4-Prop;	! Antarctica
 Antuairp	Nf4-Prop;	! Antwerp
 Éimíríochtaí	NP-PLACE-pl;	! !!!!United Arab Emirates - Aontas na nÉimíríochtaí Arabacha
 Arabacha	AdjM-Prop-pl;	! !!!!United Arab Emirates
