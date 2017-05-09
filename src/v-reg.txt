@@ -83,8 +83,9 @@ m h -> [%^FT] || _ %^bgmh %^Verb ]
 .o.
 
 ! 1st Conjugation Slender Stems => broaden root eg sábháil
-
-[i -> [%^FB ] || _ ? %^Lea]
+! also cumaisc, teasairg, agaill - may 2017
+! also iniaigh, eisiaigh
+[i -> [%^FB ] || _ ? (c|g|h|l) %^Lea]
 .o.
 [%^Lea -> []]
 .o.

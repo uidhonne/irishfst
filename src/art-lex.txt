@@ -30,7 +30,7 @@ Multichar_Symbols
 
 +Sg	! singular
 +Pl	! plural
-
++NG	! Don't Generate 
 
 LEXICON Root
         Articles;
@@ -38,9 +38,9 @@ LEXICON Root
 LEXICON Articles
 
 an+Art+Sg+Def:an		#;
-an+Art+Sg+Def:a'		#;
-an+Art+Sg+Def:'n		#;
-an+Art+Sg+Def:a			#;
+an+Art+Sg+Def+NG:a'		#;
+an+Art+Sg+Def+NG:'n		#;
+an+Art+Sg+Def+NG:a			#;
 
 na+Art+Pl+Def:na		#;
 na+Art+Gen+Sg+Def+Fem:na	#;

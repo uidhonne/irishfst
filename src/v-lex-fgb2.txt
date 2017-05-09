@@ -176,7 +176,8 @@ atogh+Verb+VT:atogh		V1-BR;
 atrácht+Verb+VT:atrácht		V1-BR;
 atreabh+Verb+VT:atreabh		V1-BR;
 bacaigh+Verb+VT:bacaigh		V2-BR;
-!!!!!bailc+Verb+VT:bailc		V1-SL-BRX;	! (pres balcann, vn balcadh, pp balctha)	*** New kind!
+!!!!!bailc+Verb+VT:bailc		V1-SL-BR;	! (pres balcann, vn balcadh, pp balctha)	*** New kind!
+bailc+Verb+VT:bailc		V1-SL-BR;	! (pres balcann, vn balcadh, pp balctha)	*** New kind!
 balbhaigh+Verb+VT:balbhaigh		V2-BR;
 ballastaigh+Verb+VT:ballastaigh		V2-BR;
 ballbhasc+Verb+VT:ballbhasc		V1-BR;
@@ -1292,6 +1293,7 @@ grodloisc+Verb+VTI:grodloisc		V1-SL; ! (vn -oscadh, pp ~the)
 !!!!!imdheighil+Verb+VT:imdheighil		V1-SL-sync; ! OR V1-SL-BRX ???	; ! (pres -ghleann; vn ~t, gs ~te)	CHECK NEW
 inchreach+Verb+VT:inchreach		V1-BR; !
 !!!!!iniaigh+Verb+VT:iniaigh		V1-SL-BRX; ! (pres -ann, fut -afaidh, vn -amh, pp-ata)	! New kind
+iniaigh+Verb+VT:iniaigh		V1-SL-BR; ! (pres -ann, fut -afaidh, vn -amh, pp-ata)	! New kind
 inphléasc+Verb+VI:inphléasc		V1-BR; !
 insamhail+Verb+VT:insamhail		V2-BR-sync	; ! (vn -mhladh m, gs -alta)
 inscríobh+Verb+VT:inscríobh		V1-SL	; ! (vn ~ m, gs & pp -ofa)

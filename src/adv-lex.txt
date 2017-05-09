@@ -22,6 +22,7 @@ Multichar_Symbols
 +Temp		! Temporal e.g. inniu, amárach etc.
 +Past
 +Cop
++NG		! do not generate
 !---------------------------------------------------------------------------
 
 LEXICON Root
@@ -64,9 +65,11 @@ aniar+Adv+Dir:aniar	#;
 ann+Adv+Loc:ann		#;
 anseo+Adv+Loc:anseo	#;
 ansiúd+Adv+Loc:ansiúd	#;
-anseo+Adv+Loc:anso	#;
+anseo+Adv+Loc+NG:anso	#;
 ansin+Adv+Loc:ansin	#;
-ansin+Adv+Loc:ansan	#;
+ansin+Adv+Loc+NG:ansan	#;
+ansin+Adv+Temp:ansin	#;
+ansin+Adv+Temp+NG:ansan	#;
 abhaile+Adv+Dir:abhaile	#;
 amach+Adv+Dir:amach	#;
 isteach+Adv+Dir:isteach	#;
@@ -89,7 +92,7 @@ nuige+Adv+Dir:nuig	#; ! (Added CW 09/08)
 ! GENERAL
 araon+Adv+Gn:araon	#;
 amú+Adv+Gn:amú		#;
-amugha+Adv+Gn:amugha		#; ! (Added CW 09/08) variation of amú
+amugha+Adv+Gn+NG:amugha		#; ! (Added CW 09/08) variation of amú
 ámh+Adv+Gn:ámh		#;		! truly
 fadó+Adv+Gn:fadó	#;		! long ago
 fiú+Adv+Gn:fiú	#;		! leven
@@ -100,8 +103,8 @@ arís+Adv+Gn:aríst	#;
 !! MOVED TO ADJ annamh+Adv+Gn:annamh	#;
 cheana+Adv+Gn:cheana	#;
 choíche+Adv+Gn:choíche	#;
-choíche+Adv+Gn:choidhche	#; !(Added CW 09/08)
-choíche+Adv+Gn:choidhchin	#; !(Added CW 09/08)
+choíche+Adv+Gn+NG:choidhche	#; !(Added CW 09/08)
+choíche+Adv+Gn+NG:choidhchin	#; !(Added CW 09/08)
 déanach+Adv+Gn:déanach	#;
 fós+Adv+Gn:fós	#;
 feasta+Adv+Gn:feasta	#;
@@ -119,36 +122,36 @@ uaireanta+Adv+Gn:uaireanta	#;
 <i %_ m e a s c %+Adv:0 %+Gn:0>	#;	! Manner Adv
 <i n %_ a i r d e %+Adv:0 %+Gn:0>	#;	! Manner Adv
 chuige+Adv+Gn:chuige	#; !(Added CW 09/08)
-chuige+Adv+Gn:chuigint	#; !(Added CW 09/08)
-chuige+Adv+Gn:chuigis	#; !(Added CW 09/08)
+chuige+Adv+Gn+NG:chuigint	#; !(Added CW 09/08)
+chuige+Adv+Gn+NG:chuigis	#; !(Added CW 09/08)
 eadhon+Adv+Gn:eadhon	#; !(Added CW 09/08) Lit: Namely
 eadhón+Adv+Gn:eadhón	#; !(Added CW 09/08) Lit: Namely
 trá+Adv+Gn:trá	#; ! (Added CW 09/08) Lit: Then, indeed
 trá+Adv+Gn:tra	#; ! (Added CW 09/08) Lit: Then, indeed
 
 inniu+Adv+Temp:inniu	#;
-inniu+Adv+Temp:inniubh	#; !(Added CW 09/08)
+inniu+Adv+Temp+NG:inniubh	#; !(Added CW 09/08)
 inniu+Adv+Temp+Gen+Sg:innibh	#; !(Added CW 09/08)
 inné+Adv+Temp:inné	#;
 amárach+Adv+Temp:amárach	#;
-amárach+Adv+Temp:amáireach	#;
+amárach+Adv+Temp+NG:amáireach	#;
 anocht+Adv+Temp:anocht	#;
 aréir+Adv+Temp:aréir	#;
 anuraidh+Adv+Temp:anuraidh	#;
 istoíche+Adv+Temp:istoíche	#;
-<l e %_:%  r a i r i d %+Adv:0 %+Temp:0>	#;	! lately; Temporal Adv
+<l e %_:%  g a i r i d %+Adv:0 %+Temp:0>	#;	! lately; Temporal Adv
 <t h a r %_:%  a %_:%  b h e i t h %+Adv:0 %+Its:0>	#;	! Its Adv
 túisce+Adv+Temp:túisce	#; ! (Added CW 09/08)
 amainiris+Adv+Temp:amainiris	#; ! The second day after tomorrow (Added CW 09/08)
 amairinis+Adv+Temp:amairinis	#; ! Variation of amainiris
 nuige+Adv+Temp:nuige	#; ! (Added CW 09/08)
-nuige+Adv+Temp:nuig	#; ! (Added CW 09/08)
+nuige+Adv+Temp+NG:nuig	#; ! (Added CW 09/08)
 
 amhlaidh+Adv+Gn:amhlaidh	#;
 beagnach+Adv+Gn:beagnach	#;
 dáiríre+Adv+Gn:dáiríre	#; ! 
-dáiríre+Adv+Gn:dáirírí	#; ! (Added CW 09/08)
-dáiríre+Adv+Gn:dáiríribh	#; ! (Added CW 09/08)
+dáiríre+Adv+Gn+NG:dáirírí	#; ! (Added CW 09/08)
+dáiríre+Adv+Gn+NG:dáiríribh	#; ! (Added CW 09/08)
 fosta+Adv+Gn:fosta	#;
 freisin+Adv+Gn:freisin	#;
 áfach+Adv+Gn:áfach	#;
