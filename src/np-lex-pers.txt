@@ -490,4 +490,4 @@ Punk		Nm4-Prop;
 Rex		Nm4-Prop;
 Eiffel		Nm4-Prop;
 Daid		Nm4-Prop;
-
+Platón	Nm1-Prop;
