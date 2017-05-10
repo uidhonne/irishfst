@@ -382,7 +382,8 @@ Panama	Nm4-Prop;	! Panama
 Papua	Nm4-Prop;	! Papua
 Paragua	Nm4-Prop;	! Paraguay
 Páras	Nm4-Prop;	! Paris
-Péicing	Nf4-Prop;	! Beijing, Peking
+Péicing	Nf4-Prop;	! Peking
+Béising	Nf4-Prop;	! Beijing
 Peiriú	Nm4-Prop;	! Peru
 Patagóin	Nf4-Prop;	! Patagonia
 Portaingéil	Nf2-Prop;	! Portugal
