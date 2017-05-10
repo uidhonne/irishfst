@@ -249,7 +249,7 @@ athbhreithniú	Nm5-3;	! review, revision
 beophianadh	Nm5-7;	! suspense, impatience
 blaiseadh	Nm5-6;	! taste, bite, sup
 !!seanchairteacha	Nfpl;	! ~ a tharraingt ort
-!!bearradh	Nm5-6;	! ~ gruaige hair-cut, ~
+bearradh	Nm5-6;	! ~ gruaige hair-cut, ~
 eisfhearadh	Nm5-6;	! excretion
 feiste		Nf4-2;	! device, arrangement
 úirí		Nf4-10;	! testis
