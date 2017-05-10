@@ -72,6 +72,7 @@ Bitín	Nf2-Prop;	! Bithynia
 Boihéim	Nf2-Prop;	! Bohemia
 Boisnia-Heirseagaivéin	Nf2-Prop;	! Bosnia-Herzegovina
 Boisnia	Nf4-Prop;	! Bosnia
+Boróbadúr	Nm4-Prop;	! Borobudur
 Botsuáin	Nf2-Prop;	! Botswana
 Bratasláiv	Nf2-Prop;	! Bratislava
 !!!Breatain	Nf2-Prop; !!!!Bhreatain Bheag (Wales)
