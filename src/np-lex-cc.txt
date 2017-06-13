@@ -46,26 +46,26 @@ LEXICON NP-PERS-EN
 
 
 LEXICON NP-Fam
-+Prop+Noun+Masc+Com+Sg:^IM^hv		#;
++Prop+Noun+Masc+Com+Sg+hPref:^IM^hv		#;
 +Prop+Noun+Masc+Gen+Sg:^M^G^Caol^hv^ts		#; ! ^Caol not yet tested
 +Prop+Noun+Fem+Gen+Sg:^IM^Sé		#;
 !!!+Prop+Noun+Masc+Gen+Sg:^M^G^Sé		#;
 +Prop+Noun+Masc+Com+Sg+DefArt:^M^C^Lea^tv^VHach		#;
 
 LEXICON NP-Fam-0
-+Prop+Noun+Masc+Com+Sg:^IM^hv		#;
++Prop+Noun+Masc+Com+Sg+hPref:^IM^hv		#;
 +Prop+Noun+Masc+Gen+Sg:^M^G^hv^ts		#;
 +Prop+Noun+Fem+Gen+Sg:^IM^Sé		#;
 +Prop+Noun+Masc+Com+Sg+DefArt:^IM^tv		#;
 
 LEXICON NP-Fam-V
-+Prop+Noun+Masc+Com+Sg:^IM^hv		#;
++Prop+Noun+Masc+Com+Sg+hPref:^IM^hv		#;
 +Prop+Noun+Masc+Gen+Sg:^M^G^hv^ts		#;
 +Prop+Noun+Fem+Gen+Sg:^IM^Sé		#;
 +Prop+Noun+Masc+Com+Sg+DefArt:^IM^tvch	#;
 
 LEXICON NP-Fam-chg
-+Prop+Noun+Masc+Com+Sg:^IM^hv		#;
++Prop+Noun+Masc+Com+Sg+hPref:^IM^hv		#;
 +Prop+Noun+Masc+Gen+Sg:^M^G^hv^ts		#;
 +Prop+Noun+Fem+Gen+Sg:^IM^Sé		#;
 +Prop+Noun+Masc+Com+Sg+DefArt:^Ath^IM^tv	#;
