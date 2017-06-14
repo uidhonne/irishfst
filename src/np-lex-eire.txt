@@ -154,7 +154,7 @@ Bré	NP-PLACE;	! Bray
 Cairlinn	NP-PLACE;	! Carlingford
 Ceanannas	NP-PLACE;	! Kells
 Ceatharlach	NP-PLACE;	! Carlow
-Cabháin	NP-PLACE-fem;	! !!!!Co. Cavan
+!Cabháin	NP-PLACE-fem;	! !!!!Co. Cavan
 Ceatharlach	NP-PLACE-fem;	! !!!!Co. Carlow
 Ciarraí	NP-PLACE-fem;	! !!!!Co. Kerry
 Cláir	NP-PLACE-fem;	! !!!!Co. Clare
