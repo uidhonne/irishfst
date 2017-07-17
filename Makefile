@@ -1133,7 +1133,6 @@ int/vn.fst: src/vnva-lex-multi.txt \
 	src/vng-lex-stems.txt  \
 	src/va-lex-stems.txt  \
 	src/vnva-lex-fgb1.txt  \
-	src/vnva-lex-stems1.txt \
 	src/vnva-lex-cc.txt > /tmp/vnvalex.txt
 	@printf "read lexc /tmp/vnvalex.txt \n\
 	save stack int/vnvalex.fst \n\
