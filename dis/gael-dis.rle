@@ -141,11 +141,13 @@ SELECT (Prep Simp) IF (1 (Pron Dem)) (2 ("amach"));
 #SELECT (Adj) IF (-2 ("as")) (-1 (Adj));
 
 #sé = Noun only in phrase "sé nó seachrán" or after Art
+SELECT (Noun) IF (0 ("<sé>")) (2 ("seachrán"));
 REMOVE (Noun) IF (0 ("<sé>")) (NOT 2 ("seachrán"));
 
 # ann = Noun only in "in ann"
-REMOVE (Noun) IF (0 ("ann")) (NOT -1 ("<in>")) ;
-SELECT (Noun) IF (0 ("ann")) (-1 ("<in>")) ;
+# rules not needed, as "in ann" is a multiword, and the Noun analysis is absent
+#REMOVE (Noun) IF (0 ("ann")) (NOT -1 ("<in>")) ;
+#SELECT (Noun) IF (0 ("ann")) (-1 ("<in>")) ;
 
 # ar/agus/ná a chumas/cumas/gcumas
 #SELECT (Noun Com) IF (0 ("cumas")) (-2 ("ar") OR ("agus") OR ("ná")) (-1 ("a"));
@@ -155,6 +157,17 @@ SELECT (Noun Com) IF (0 ("cumas")) (-2 ("ar") OR ("agus") OR ("ná")) (-1 (Det P
 # mar gheall ar/air
 SELECT (Noun Com) IF (0 ("geall")) (1 ("ar")) (-1 ("mar"));
 SELECT (Prep Simp) IF (1 ("geall")) (2 ("ar")) (0 ("mar"));
+
+# fear gill
+REMOVE (Foreign English) IF (0 ("geall")) (-1 ("fear") OR ("cluiche") OR ("ticéad") OR ("bean") OR ("bradaí"));
+# clog dúisithe
+REMOVE (Foreign English) IF (0 ("clog")) (1 ("dúisithe"));
+# poll anála
+SELECT (Noun Masc) IF (0 ("poll")) (1 ("<anáil>") OR ("<gaoth>") OR ("<ascaille>") OR ("<luaithe>") OR ("dubh") OR ("<séite>") OR ("<tóraíochta>") OR ("<plocóide>") OR ("<cré>") OR ("<sóláis>") OR ("<gairbhéil>") OR ("<mianaigh>") OR ("<tairne>") OR ("<luiche>") OR ("<ola>") OR ("<bioráin>") OR ("<domhain>") OR ("<leideora>") OR ("coinín") OR ("<sliogáin>") OR ("<faire>") OR ("<gaile>") OR ("<súite>") OR ("<snámha>") OR ("<maiste>") OR ("<iomlaisc>") OR ("<silte>") OR ("<péiste>") OR ("<glúine>") OR ("<buama>") OR ("<stopalláin>"));
+SELECT (Noun Fem) IF (0 ("gaoth")) (-1 ("poll"));
+
+# Check
+REMOVE (Ecl) IF (-1C (Noun Com));
 
 # ar chor/cor ar bith
 SELECT (Noun Sg) IF (0 ("cor")) (1 ("ar")) (2 ("bith"));
@@ -172,6 +185,16 @@ SELECT (Conj) IF (0 ("cé")) (1 ("go") OR ("gur") OR ("nach") OR ("nár"))(NOT 1
 
 # le cúnamh/cuidiú Dé
 REMOVE (Verbal Noun) IF (0 ("cúnamh") OR ("cuidiú")) (1 ("<Dé>"));
+
+# an ról is dual dó
+SELECT (Cop) IF (1 ("dual")) (2 ("do" Prep));
+SELECT (Subst Noun Sg) IF (-1 (Cop)) (0 ("dual")) (1 ("do" Prep));
+SELECT (Prep) IF (0 ("do")) (-2 (Cop)) (-1 ("dual"));
+
+# is áil le
+SELECT (Cop) IF (1 ("áil")) (2 ("le" Prep));
+SELECT (Subst Noun Sg) IF (-1 (Cop)) (0 ("áil")) (1 ("le" Prep));
+SELECT (Prep) IF (0 ("le")) (-2 (Cop)) (-1 ("áil"));
 
 # let us assume that ba = bó(pl) must have a pl article preceding it
 # not strictly true but ba=cop in most cases ... 
@@ -1018,7 +1041,7 @@ SELECT (Num Card) IF (-1C (Part Nm));
 #GÓD Bhí sé fhear sa theach. Sé cannot be a pronoun if followed by a lenited noun.
 SELECT (Num Card) IF (0 ("<sé>")) (1C (Noun Len));
 #GÓD Bhí sé sé mhí san Aifric. Personal pronouns do not trigger eclipsis.
-REMOVE (Num Card Ecl) IF (-1 (Pron Pers))
+REMOVE (Num Card Ecl) IF (-1 (Pron Pers)) ;
 # -------------- @ADDED CW 09/08 --------------
 
 # Avoid that "seasca" is interpreted as plural of "seasc" (barren, unfruitful)
