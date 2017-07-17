@@ -1,0 +1,33 @@
+LEXICON VerbalAdjsIrreg1
+
+abair:ráite			VA-TAG;
+beir:beirthe		VA-TAG;
+clois:cloiste		VA-TAG;
+cluin:cluinstine	VA-TAG;
+ith:ite			VA-TAG;
+tabhair:tugtha	VA-TAG;
+tar:tagtha		VA-TAG;
+téigh:dulta		VA-TAG;
+feic:feicthe	VA-TAG;
+déan:déanta		VA-TAG;
+faigh:faighte	VA-TAG;
+
+LEXICON VerbalAdjsIrreg2
+righ:rite	VA-TAG;	! gh-te
+saighid:saighte	VA-TAG;	! sync-te
+slíom:slíomha	VA-TAG;	! ha
+inis:inste	VA-TAG;	! sync-te
+cloígh:cloíte	VA-TAG;	! gh-te
+snigh:snaite	VA-TAG;	! gh-te
+codail:codlata	VA-TAG;	! sync-ata
+maígh:maíte	VA-TAG;	! gh-te
+sleabhac:sleabhctha	VA-TAG;	! sync-tha
+caígh:caíte	VA-TAG;	! gh-te
+comhaill	:comhalta	VA-TAG;	! br-taX
+iaigh:iata	VA-TAG;	! igh-ta
+innill:inlithe	VA-TAG;	
+liath:liata	VA-TAG;	! taX
+meath:meata	VA-TAG;	! taX
+nigh:nite	VA-TAG;	! igh-te
+tadhaill:tadhlaithe	VA-TAG;	! sync-aithe
+tnúth:tnúta	VA-TAG;	! taX

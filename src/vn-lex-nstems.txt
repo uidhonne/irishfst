@@ -1,0 +1,25 @@
+LEXICON VerbalNounsAgent
+bádóir:bádóireacht	VN-TAG-NSTEM;
+bradaí:bradaíl	VN-TAG-NSTEM;
+máistir:máistreacht	VN-TAG-NSTEM;
+peata:peataireacht	VN-TAG-NSTEM;
+spailpín:spailpínteacht	VN-TAG-NSTEM;
+tincéir:tincéireacht	VN-TAG-NSTEM;
+aisteoir:aisteoireacht	VN-TAG-NSTEM;
+
+
+LEXICON VerbalNounsOther
+caint		VN-TAG-NSTEM;		! CAINTEOIR
+magadh		VN-TAG-NSTEM;		! MAGADÓIR
+únfairt		VN-TAG-NSTEM;		! ÚNFARTÁLAÍ
+fíochán		VN-TAG-NSTEM;		! FÍODÓIR
+ceisneamh	VN-TAG-NSTEM;		! VERB CEIS ??? grumble
+fearthainn	VN-TAG-NSTEM;		! VERB FEAR ??? pour out
+tnúthán		VN-TAG-NSTEM;		! TNÚTHÁNAÍ
+fosaíocht	VN-TAG-NSTEM;		! FOSAÍ ???
+comhrá		VN-TAG-NSTEM;
+béicíl		VN-TAG-NSTEM;
+obair		VN-TAG-NSTEM;
+spraoi		VN-TAG-NSTEM;
+súgradh		VN-TAG-NSTEM;
+siamsaíocht	VN-TAG-NSTEM;
