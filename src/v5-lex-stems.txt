@@ -1336,7 +1336,7 @@ buamáil+Verb+VTI:buamáil	V1-SL-LC;	! bomb;
 breoigh+Verb+VTI:breoigh	V1-SV;	! glow; heat; sear; sicken;
 brostaigh+Verb+VTI:brostaigh	V2-BR;	! hasten, urge; hurry
 blais+Verb+VTI:blais	V1-SL;	! taste; partake of;
-braith+Verb+VTI:braith	V1-SL;	! vn -ath perceive, feel;
+!!! USE VT in v-lex-fgb2.txt   braith+Verb+VTI:braith	V1-SL;	! vn -ath perceive, feel;
 géill+Verb+VTI:géill	V1-SL;	! yield, surrender, ~eadh do
 gair+Verb+VTI:gair	V1-SL;	! vn ~m call, an
 galaigh+Verb+VTI:galaigh	V2-BR;	! vaporize; evaporate; steam;

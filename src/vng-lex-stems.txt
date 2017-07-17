@@ -161,7 +161,8 @@ bordáil+Verbal+Noun+VTI+Gen:bordála		VN-INIT;
 borradh+Verbal+Noun+VTI+Gen:borrtha		VN-INIT;
 bradú+Verbal+Noun+VTI+Gen:bradaithe		VN-INIT;
 brandáil+Verbal+Noun+VT+Gen:brandála		VN-INIT;
-brath+Verbal+Noun+VTI+Gen:braite		VN-INIT;
+!! changed brath from VTI to VT
+brath+Verbal+Noun+VT+Gen:braite		VN-INIT;
 breabadh+Verbal+Noun+VT+Gen:breabtha		VN-INIT;
 breacadh+Verbal+Noun+VTI+Gen:breactha		VN-INIT; ! ***
 bréagadh+Verbal+Noun+VT+Gen:bréagtha		VN-INIT;
