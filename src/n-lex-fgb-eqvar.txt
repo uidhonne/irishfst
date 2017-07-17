@@ -455,8 +455,8 @@ baindilín		Nm4-1;		! Entry: baindilín, m = bunsileán.
 bainfheis		Nf2-8;		! Entry: bainfheis = bainis.
 bainríoghan		Nf3-6;		! Entry: bainríoghan = banríon.
 bainséar		Nm1-1;		! Entry: bainséar = mainséar.
-báirc+Noun+Fem+Sg+Com:báirc		#;	! ***
-báirc+Noun+Fem+Sg+Com+DefArt:bháirc		#;	! ***
+báirc+Noun+Fem+Com+Sg:báirc		#;	! ***
+báirc+Noun+Fem+Com+Sg+DefArt:bháirc		#;	! ***
 bairghean		Nm4-1;		! Entry: bairghean, m = bairín. ???
 bairricín		Nm4-1;		! Entry: bairricín = barraicín.
 bairrléir		Nf2-SINGULAR;		! Entry: bairrléir, f = barrliobar. ***
@@ -2900,7 +2900,7 @@ duadhain		Nf2-7;		! Entry: duadhain = dóing.
 duaidhnéis		Nf2-SINGULAR;		! Entry: duaidhnéis, ~each = duainéis, -each.
 dualach		Nm1-1;		! Entry: dualach, m = dual.
 dualán		Nm1-1;		! Entry: dualán, m = duailín.
-duán		Nm1-1;		! Entry: duán = damhán.
+!duán		Nm1-1;		! Entry: duán = damhán.
 duánacht		Nf3-SINGULAR;		! Entry: duánacht = duántacht.
 duardálaí		Nm4-4;		! Entry: duardáil, duardálaí = durdáil, durdálaí.
 duardán		Nm1-1;		! Entry: duardán = dordán.
@@ -8367,7 +8367,7 @@ feorainn+Noun+Fem+Gen+Sg:feorann	#;
 feorainn+Noun+Fem+Gen+Sg+DefArt:feorann	#;
 feorainn+Noun+Fem+Com+Pl+Strong:feoranna	#;
 feorainn+Noun+Fem+Com+Pl+DefArt:feoranna	#;
-feorainn+Noun+Fem+Com+Gen+DefArt:feoranna	#;
+feorainn+Noun+Fem+Gen+Pl+DefArt:feoranna	#;
 barrainn		Nf2-2;		! Entry: barrainn, f = barrann.
 barrann		Nf2-2;
 baspairt		Nf2-7;		! Entry: baspairt, f, ~each = spaspas, -ach.
@@ -8520,20 +8520,20 @@ feinistear+Noun+Fem+Gen+Sg:feinistre	#;
 feinistear+Noun+Fem+Gen+Sg+DefArt:feinistre	#;
 feinistear+Noun+Fem+Com+Pl:feinistrí	#;
 feinistear+Noun+Fem+Com+Pl+DefArt:feinistrí	#;
-feinistear+Noun+Fem+Com+Pl+Strong:feinistrí	#;
-feinistear+Noun+Fem+Com+Pl+Strong+DefArt:feinistrí	#;
+feinistear+Noun+Fem+Com+Strong+Pl:feinistrí	#;
+feinistear+Noun+Fem+Com+Strong+Pl+DefArt:feinistrí	#;
 seinistir+Noun+Fem+Gen+Sg:seinistre	#;
 seinistir+Noun+Fem+Gen+Sg+DefArt:seinistre	#;
 seinistir+Noun+Fem+Com+Pl:seinistrí	#;
 seinistir+Noun+Fem+Com+Pl+DefArt:seinistrí	#;
-seinistir+Noun+Fem+Com+Pl+Strong:seinistrí	#;
-seinistir+Noun+Fem+Com+Pl+Strong+DefArt:seinistrí	#;
+seinistir+Noun+Fem+Com+Strong+Pl:seinistrí	#;
+seinistir+Noun+Fem+Com+Strong+Pl+DefArt:seinistrí	#;
 sinistir+Noun+Fem+Gen+Sg:sinistre	#;
 sinistir+Noun+Fem+Gen+Sg+DefArt:sinistre	#;
 sinistir+Noun+Fem+Com+Pl:sinistrí	#;
 sinistir+Noun+Fem+Com+Pl+DefArt:sinistrí	#;
-sinistir+Noun+Fem+Com+Pl+Strong:sinistrí	#;
-sinistir+Noun+Fem+Com+Pl+Strong+DefArt:sinistrí	#;
+sinistir+Noun+Fem+Com+Strong+Pl:sinistrí	#;
+sinistir+Noun+Fem+Com+Strong+Pl+DefArt:sinistrí	#;
 siollúr		Nm1-1;		! Entry: siollúr, m = silleadh 2.
 slisnín		Nm4-1;		! Entry: slisnigh, slisnín, m = slis, sliseog.
 !srathar		Nm1-1;		! Entry: srathar, m & f. 1 = srathair. 2 = srathaire.

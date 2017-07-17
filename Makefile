@@ -685,7 +685,7 @@ bin/pcompnouns.fst: int/pncommcmpd.fst int/ncmpd.fst int/ninit.fst int/ndiph.fst
 # UPPERCASE COMPOUND ADJs + RULES
 ########################
 pcompadjs.fst: bin/pcompadjs.fst
-bin/pcompadjs.fst: int/padjcmpd.fst int/ncmpd.fst int/ninit.fst int/ndiph.fst \
+bin/pcompadjs.fst: int/ncmpd.fst int/ninit.fst int/ndiph.fst \
 	int/nsync.fst int/nx.fst int/nchg.fst \
 	int/nchk.fst int/nslen.fst int/nbr.fst \
 	int/nvh.fst int/ntidy.fst int/ftidy.fst
@@ -716,7 +716,7 @@ bin/pcompadjs.fst: int/padjcmpd.fst int/ncmpd.fst int/ninit.fst int/ndiph.fst \
 ########################
 #bug 19-12-2014 was not using p-version i.e. @printf "load int/verbcmpd.fst \n\
 pcompverbs.fst: bin/pcompverbs.fst
-bin/pcompverbs.fst: int/pverbcmpd.fst int/ncmpd.fst int/ninit.fst int/vrul.fst int/ftidy.fst
+bin/pcompverbs.fst: int/ncmpd.fst int/ninit.fst int/vrul.fst int/ftidy.fst
 	@echo
 	@echo " <<< Composing Compound Verbs and Rules >>>"
 	@echo
@@ -754,6 +754,17 @@ int/verbcmpd.fst: src/xfst-compounds.script int/v12lex.fst
 	@echo
 	@foma  -f src/xfst-compounds.script
 
+pncommcmpd.fst: int/pncommcmpd.fst
+int/pncommcmpd.fst: src/xfst-compounds.script int/pncommcmpd.fst int/ncmpd.fst \
+	int/ninit.fst int/ndiph.fst \
+	int/nsync.fst int/nx.fst int/nchg.fst \
+	int/nchk.fst int/nslen.fst int/nbr.fst \
+	int/nvh.fst int/ntidy.fst int/ftidy.fst
+	@echo
+	@echo " <<< Compound Proper Nouns >>>"
+	@echo
+	@foma  -f src/xfst-compounds.script
+
 # all noun lexicons 
 # (incl. numbers like aon, dó trí...)
 #######################################
@@ -780,6 +791,8 @@ int/ncomm.fst: src/n-lex-multi.txt src/n-lex-stems.txt \
 src/n-lex-stems2.txt src/n-lex-stems3.txt \
 src/n-lex-stems4.txt src/n-lex-stems5.txt \
 src/n-lex-stems6.txt \
+src/n-lex-stems7.txt \
+src/n-lex-stems8.txt \
 src/n-lex-fgb1.txt \
 src/n-lex-fgb2.txt \
 #src/n-lex-fgb-variants.txt \
@@ -796,6 +809,8 @@ src/n-lex-cc.txt
 	src/n-lex-stems4.txt \
 	src/n-lex-stems5.txt \
 	src/n-lex-stems6.txt \
+	src/n-lex-stems7.txt \
+	src/n-lex-stems8.txt \
 	src/n-lex-fgb1.txt \
 	src/n-lex-fgb2.txt \
 	src/n-lex-cc.txt \
@@ -884,11 +899,14 @@ int/num.fst: src/num-lex.txt
 ###################################################################
 
 adj.fst: int/adj.fst
+int/adjlex.fst: int/adj.fst
 int/adj.fst: src/adj-lex-multi.txt src/adj-lex-stems.txt src/adj-lex-stems-irreg.txt \
 	src/adj-lex-stems2.txt \
 	src/adj-lex-stems3.txt \
 	src/adj-lex-stems4.txt \
 	src/adj-lex-stems5.txt \
+	src/adj-lex-stems6.txt \
+	src/adj-lex-stems7.txt \
 	src/adj-lex-fgb1.txt \
 	src/adj-lex-fgb2.txt \
 	src/adj-lex-cc.txt \
@@ -906,6 +924,8 @@ int/adj.fst: src/adj-lex-multi.txt src/adj-lex-stems.txt src/adj-lex-stems-irreg
 	src/adj-lex-stems3.txt \
 	src/adj-lex-stems4.txt \
 	src/adj-lex-stems5.txt \
+	src/adj-lex-stems6.txt \
+	src/adj-lex-stems7.txt \
 	src/adj-lex-fgb1.txt \
 	src/adj-lex-fgb2.txt \
 	src/adj-lex-cc.txt > /tmp/adjlex.txt
@@ -997,11 +1017,13 @@ int/v3.fst: src/v3-lex-stems.txt \
 
 # verbs - 1st & 2nd conjugation
 v12.fst: int/v12.fst
+int/v12lex.fst: int/v12.fst
 int/v12.fst: src/v-lex-multi.txt src/v12-lex-cc.txt src/v2-lex-cc.txt src/v1-lex-cc.txt \
 	src/v1-lex-stems.txt \
 	src/v2-lex-stems.txt \
 	src/v4-lex-stems.txt \
 	src/v5-lex-stems.txt \
+	src/v6-lex-stems.txt \
 	src/v-lex-fgb1.txt \
 	src/v-lex-fgb2.txt \
 	int/ninit.fst int/vrul.fst
@@ -1013,6 +1035,7 @@ int/v12.fst: src/v-lex-multi.txt src/v12-lex-cc.txt src/v2-lex-cc.txt src/v1-lex
 	src/v2-lex-stems.txt \
 	src/v4-lex-stems.txt \
 	src/v5-lex-stems.txt \
+	src/v6-lex-stems.txt \
 	src/v-lex-fgb1.txt \
 	src/v-lex-fgb2.txt \
 	src/v12-lex-cc.txt \
@@ -1094,11 +1117,13 @@ bin/prefverbshist.fst: int/verbprefhist.fst  \
 ###################################################################
 
 vn.fst: int/vn.fst
+int/vnvalex.fst: int/vn.fst
 int/vn.fst: src/vnva-lex-multi.txt \
 	src/vn-lex-stems.txt  \
 	src/vng-lex-stems.txt  \
 	src/va-lex-stems.txt  \
 	src/vnva-lex-fgb1.txt  \
+	src/vnva-lex-stems1.txt \
 	src/vnva-lex-cc.txt int/ninit.fst int/vrul.fst
 	@echo
 	@echo " <<< Compiling Verbal Nouns & Adjectives >>>"

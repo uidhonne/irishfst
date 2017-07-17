@@ -1,0 +1,101 @@
+LEXICON NounsH
+mótarfheithicil Nf2-7;  ! motor vehicle
+fomhír  Nf2-6;  ! sub-item
+imthoisc        Nf2-12; ! circumstance
+dobharshaothrú  Nm5-3;  ! aquaculture
+uisceshaothrú   Nm5-3;  ! aquaculture
+atreisiú        Nm5-3;  ! reinforcement
+mótarbhád       Nm1-1;  ! motor boat
+2-hiodrocsaídéfheinil		Nf2-SINGULAR; ! 2-hydroxybiphenyl !!! problematic - capitalised from 'h'
+cibearchoireacht	Nf3-SINGULAR; ! cyber crime
+oibriúchán	Nm1-1;	! operation, operational
+réamhainm	NI-ainm; ! forename
+iar-réamhainm	NI-ainm; ! former forename
+eagrúchán	Nm1-1;	! organisation, organisational
+ilstóráil	Nf3-SINGULAR;	! multiple storage
+móruasal	Nm1-9;	! magnate; móruaisle - nobility
+mór-uasal	Nm1-9;	! variant of móruasal
+éachtóir	Nm3-1;	! stuntman
+feimineach	Nm1-1;	! feminist
+blag	Nm4-7;	! blog
+r-phost	Nm1-1;	! e-mail
+ríomhphost	Nm1-1;	! e-mail
+baiscphróiseáil	Nf3-SINGULAR;	! batch processing
+béite-thástáil	Nf3-6a;	! beta testing
+bratbhuamáil	Nf3-SINGULAR;	! carpet bombing, saturation bombing
+brógstrapáil	Nf3-SINGULAR;	! bootstrapping
+físchomhdháil	Nf3-6a;	! video conference
+clubáil	Nf3-SINGULAR;	! clubbing
+!clubáil+Verbal+Noun+NStem:clubáil	VN-INIT;	! ag clubáil happens
+cadhc	Nm4-7;	! kayak
+cadhcáil	Nf3-SINGULAR;	! kayaking !!! ag cadhcáil 
+biodáil	Nf3-SINGULAR;	! bid (price)
+aisfháil	Nf3-6a;	! retrieval
+próiseáil	Nf3-SINGULAR;	! processing !! verb reading already present
+geaigeáil	Nf3-SINGULAR;	!>! courting
+giaráil	Nf3-SINGULAR;	! gearing
+grútáil	Nf3-6a;	! grout, grouting
+iltascáil	Nf3-SINGULAR;	! multitasking
+ionghabháil	Nf3-SINGULAR;	! ingestation; intake; annexation
+iontógáil	Nf3-SINGULAR;	! ingestion; intake
+aer-iontógáil	Nf3-SINGULAR;	! air intake
+mionbhál	Nm1-1;	! pinball
+moltáil	Nf3-SINGULAR;	!>! courting
+fuíollábhar	Nm1-1;	! waste matter, waste material
+asraon	Nm1-3;	! outlet
+haema-scagdhealú	Nm4-4; ! haemodialysis
+haemascagdhealú	Nm4-4; ! haemodialysis
+ponndáil	Nf3-SINGULAR;	!>! masturbation
+proiteáil	Nf3-SINGULAR;	!>! courting
+radharcphéinteáil	Nf3-SINGULAR;	! decor
+raighdeáil	Nf3-SINGULAR;	!>! ride, shag
+ainteagmháil	Nf3-SINGULAR;	! molestation
+idirlíon	Nm1-3;	! internet
+einceifileapaite	Nf4-SINGULAR;	! encephalopathy
+daon-phoblacht	Nf3-1;	! people's republic
+ríomhthráchtáil	Nf3-SINGULAR;	! e-commerce
+tvuít	Nf2-6;	! tweet
+bunsmaoineamh	NI-smaoineamh;	! basic idea
+meantóireacht	Nf3-SINGULAR;	! mentoring
+meantóir	Nm3-1;	! mentor
+frithlaoch	NI-laoch;	! anti-hero
+sochapatach	Nm1-1;	! sociopath
+mór-ráchairt	Nf2-SINGULAR;	! best seller
+comhtharlúint	Nf3-4	! coincidence
+zéite	Nf4-2;	! zeta
+x-gha	Nm4-13;	! x-ray
+meitreo	Nm4-6;	! metro
+amharclannaíocht	Nf3-SINGULAR;	! theatre
+fóineolaíocht	Nf3-SINGULAR;	! phonology
+graiféim	Nf2-7;	! grapheme
+íosdifríocht	Nf3-1;	! differential
+acáise	Nf4-SINGULAR;	! acacia
+acaicia	Nf4-SINGULAR;	! acacia
+lánchumas	Nm1-1;	! ability
+caoin-chead	Nm3-SINGULAR;	! VAR: caoinchead
+mion-náisiún	Nm1-1;	! small nation
+fochuideachta	Nf4-SINGULAR;	! subsidiary
+toghcheantar	Nm1-1;	! constituency
+príomh-cheanncheathrú	Nf5-3;	! main headquarters
+dí-mheas	Nm3-SINGULAR;	! VAR: dímheas
+infheisteoir	Nm3-1;	! investor
+príomhfhoirgneamh	Nm1-1;	! main building
+ardoideachas	Nm1-SINGULAR;	! higher education
+díthógáil	Nf3-SINGULAR;	! deconstruction
+gnáthgharraí	Nm4-4;	! common garden(?)
+seandúshlán	Nm1-1;	! old challenge
+buanchoimeád	Nm5-7;	! preservation
+leathuair	Nf2-13; ! half hour
+banlaoch	NI-laoch;	! female warrior, heroine
+príomhoifigeach	Nm1-1;	! chief officer
+an-easpa	Nf4-1;	! extreme lack
+deargaistriú	Nm5-3;	! redshift
+comhbheartas	Nm1-1;	! common policy
+sean-am	Nm3-2;	! old time
+seanam	Nm3-2;
+banaisteoir	Nm3-1;	! actress
+droch-chuimhneamh	Nm1-1;	! misrecollection
+comhchéim	Nf2-6;	! equal term
+clársheoltóireacht	Nf3-SINGULAR;	! windsurfing
+clársheoltóir	Nm3-1;	! windsurfer
+traslitriú	Nm5-3;	! transliteration

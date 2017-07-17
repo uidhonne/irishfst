@@ -46,28 +46,28 @@ LEXICON NP-PERS-EN
 
 
 LEXICON NP-Fam
-+Prop+Noun+Masc+Com+Sg:^IM^hv		#;
++Prop+Noun+Masc+Com+Sg+hPref:^IM^hv		#;
 +Prop+Noun+Masc+Gen+Sg:^M^G^Caol^hv^ts		#; ! ^Caol not yet tested
-+Prop+Noun+Fem+Gen+Sg:^IM^Sé		#;
++Prop+Noun+Fem+Gen+Sg+Len:^IM^Sé		#;
 !!!+Prop+Noun+Masc+Gen+Sg:^M^G^Sé		#;
 +Prop+Noun+Masc+Com+Sg+DefArt:^M^C^Lea^tv^VHach		#;
 
 LEXICON NP-Fam-0
-+Prop+Noun+Masc+Com+Sg:^IM^hv		#;
++Prop+Noun+Masc+Com+Sg+hPref:^IM^hv		#;
 +Prop+Noun+Masc+Gen+Sg:^M^G^hv^ts		#;
-+Prop+Noun+Fem+Gen+Sg:^IM^Sé		#;
++Prop+Noun+Fem+Gen+Sg+Len:^IM^Sé		#;
 +Prop+Noun+Masc+Com+Sg+DefArt:^IM^tv		#;
 
 LEXICON NP-Fam-V
-+Prop+Noun+Masc+Com+Sg:^IM^hv		#;
++Prop+Noun+Masc+Com+Sg+hPref:^IM^hv		#;
 +Prop+Noun+Masc+Gen+Sg:^M^G^hv^ts		#;
-+Prop+Noun+Fem+Gen+Sg:^IM^Sé		#;
++Prop+Noun+Fem+Gen+Sg+Len:^IM^Sé		#;
 +Prop+Noun+Masc+Com+Sg+DefArt:^IM^tvch	#;
 
 LEXICON NP-Fam-chg
-+Prop+Noun+Masc+Com+Sg:^IM^hv		#;
++Prop+Noun+Masc+Com+Sg+hPref:^IM^hv		#;
 +Prop+Noun+Masc+Gen+Sg:^M^G^hv^ts		#;
-+Prop+Noun+Fem+Gen+Sg:^IM^Sé		#;
++Prop+Noun+Fem+Gen+Sg+Len:^IM^Sé		#;
 +Prop+Noun+Masc+Com+Sg+DefArt:^Ath^IM^tv	#;
 
 ! when it is a place name
@@ -117,6 +117,13 @@ LEXICON Nm4-Prop
 +Prop+Noun+Masc+Voc:^M^V		Seimhiu;
 +Adj+Base+DeNom:^VHach	NpSéUrú-TIR;
 
+! fem nouns - Albain/na hAlban
+LEXICON Nf5-Prop
++Prop+Noun+Fem+Com:^F^C			Sing;
++Prop+Noun+Fem+Gen:^F^G^Lea		IMGen;
++Prop+Noun+Fem+Voc:^F^V			Seimhiu;
++Adj+Base+DeNom:^VH^Leaach	NpSéUrú-TIR;
+
 
 LEXICON IMGen
 #;
@@ -138,12 +145,15 @@ LEXICON NpSéUrú-fem
 +Com+Sg:			#; 
 +Com+Sg+Len:^IM^Sé		#; 
 +Gen+Sg+hPref:^IM^hve		#;  ! muintir na háite
-+Gen+Pl+Ecl:^IM^Urú		#;
++Com+Sg+Ecl:^IM^Urú		#;
++Gen+Sg+Ecl:^IM^Urú		#;
 
 LEXICON NpSéUrú
 +Com+Sg:	#; 
++Com+Sg+Len:^IM^Sé		#; 
 +Gen+Sg+Len:^IM^Sé		#; 
-+Gen+Pl+Ecl:^IM^Urú		#;
++Com+Sg+Ecl:^IM^Urú		#;
++Gen+Sg+Ecl:^IM^Urú		#;
 
 LEXICON NpSéUrú-EN
 +Com+Sg:	#; 

@@ -1123,7 +1123,7 @@ Heilléanaíoch		Adj1-4;	 ! Grammar::(gsm ~, gsf & comp -íche, npl ~a)
 heitrighnéasach		Adj1-3;
 hidreaclórach		Adj1-3;
 hidreastatach		Adj1-3;
-hidrileictreach		Adj1-3;
+hidrileictreach		Adj1-3;	! hydroelectric
 hiopnóiseach		Adj1-3;
 hipearbóileach		Adj1-3;
 histéireach		Adj1-3;

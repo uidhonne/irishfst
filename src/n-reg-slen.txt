@@ -62,6 +62,11 @@ e a -> %^FS i || Cons+ %^X _ Cons+ %^Caol
 a -> %^FS i || %^X é _ Cons+ %^Caol
 
 !-----------------------------------------------------------------------------
+! aer
+.o.
+ [..] -> %^FS i || %^X %^AE _ Cons+ %^Caol 	
+
+!-----------------------------------------------------------------------------
 ! seol
 ! naomh, craobh, gaol, saol, fraoch
 ! ball, leabhar
@@ -72,7 +77,7 @@ a -> %^FS i || %^X é _ Cons+ %^Caol
 ! punt, cúr, casúr, bruas
 ! oil(e)án, cin(e)ál, s(e)án
 .o.
- [..] -> %^FS i || %^X (e) [%^AO|a|á|o|ó|u|ú|%^UA] _ Cons+ %^Caol 	
+ [..] -> %^FS i || %^X (e|u) [%^AO|a|á|o|ó|u|ú|%^UA] _ Cons+ %^Caol 	
 
 !-----------------------------------------------------------------------------
 ! náis(i)ún, proifisiúin

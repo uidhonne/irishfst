@@ -1528,7 +1528,7 @@ LEXICON VI11-PresIndRel		! Present Relative  - Láithreach Coibhneasta
 
 LEXICON VI11-PresIndDepNeg	! Present Dependant Neg. - Láith. Spléach (ní)
 +Neg:níl		#;
-+Neg:níleann+CM		#;
++Neg+CM:níleann		#;
 +1P+Sg+Neg:nílim	#;
 +1P+Sg+Neg+Emph:nílimse	#;
 +2P+Sg+Neg+CM:nílir	#;

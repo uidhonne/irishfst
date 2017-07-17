@@ -35,4 +35,5 @@ LEXICON Root
 	VNVA-FGB1;		! Foclóir Gaeilge Béarla Ó Dónaill
 	VN-Variants;		! FGB VN variants (VN, VNG & VA included)
 	VNEqualVariants;
+	VNVA1;			! gaois/spell checker additions
 

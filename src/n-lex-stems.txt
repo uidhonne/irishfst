@@ -63,7 +63,6 @@ iompar		Nm1-SINGULAR;
 iúl		Nm1-SINGULAR;
 láithreach	Nm1-SINGULAR;
 ligean		Nm1-SINGULAR;
-líon		Nm1-SINGULAR;
 misneach	Nm1-SINGULAR;	! courage 
 mórán		Nm1-SINGULAR;
 neart		Nm1-SINGULAR;
@@ -780,7 +779,7 @@ caoi		Nf4-6; ! way, manner		!!!  FIX FILE
 gé		Nf4-6; ! goose
 Máirt		Nf4-6; ! Tuesday
 snáithe		Nf4-6; ! thread syn. snáth
-treo		Nf4-6; !
+treo		Nm4-6; !
 
 
 oíche		Nf4-7;	! night

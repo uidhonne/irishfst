@@ -1181,8 +1181,8 @@ méaráil		Nf3-SINGULAR;	! Headword: méaraíocht (f)
 mearathal		Nm1-1;	! Headword: mearbhall (m)
 meataire		Nm4-2;	! Headword: meatachán (m) ***
 meathló		Nm5-3;	! Headword: meathlú (m) Change Nm5-3 to cater for -ó as well. 
-meathló+Noun+Masc+Sg:meathlú	#;
-meathló+Noun+Masc+Sg+DefArt:meathlú	#;
+meathló+Noun+Masc+Com+Sg:meathlú	#;
+meathló+Noun+Masc+Com+Sg+DefArt:meathlú	#;
 meiliteoir		Nm3-1;	! Headword: meiliteálaí (m) ***
 meilsceán		Nm1-SINGULAR;	! Headword: meilsceánach (m)
 meilteachán		Nm1-1;	! Headword: meilteoireacht (f) ***
@@ -1212,8 +1212,8 @@ nagaidín		Nm4-1;	! Headword: nagadán (m) ***
 náisián		Nm1-1;	! Headword: náisiún (m)
 néalfairt		Nf2-SINGULAR;	! Headword: néalfartach (f)
 !neanaidh		Nf?-??;	! Headword: neanta (m)
-neanaidh+Noun+Fem+Sg:0	#;	! Headword: neanta (m)
-neanaidh+Noun+Fem+Sg+DefArt:0	#;
+!neanaidh+Noun+Fem+Sg:0	#;	! Headword: neanta (m)
+!neanaidh+Noun+Fem+Sg+DefArt:0	#;
 neantán		Nm1-1;	! Headword: neantóg (f) ***
 niúmón		Nm1-SINGULAR;	! Headword: niúmóine (m) ***
 ofráid		Nf2-SINGULAR;	! Headword: ofráil (f)
@@ -1524,8 +1524,8 @@ treascradh		Nm1-1;	! Headword: treascairt (f) *** ???
 treifead		Nf2-7;	! Headword: treifid (f)
 tréithiúlacht		Nf3-SINGULAR;	! Headword: tréitheachas (m) ***
 !triacail		Nf?-??;	! Headword: triacla (m)
-triacail+Noun+Fem+Sg:0	#;
-triacail+Noun+Fem+Sg+DefArt:0	#;
+!triacail+Noun+Fem+Sg:0	#;
+!triacail+Noun+Fem+Sg+DefArt:0	#;
 trilleán		Nm1-1;	! Headword: trillín (m) ***
 trochladh		Nm1-1;	! Headword: trochlú (m) *** ???
 trodaire		Nm4-2;	! Headword: trodaí (m) ***
