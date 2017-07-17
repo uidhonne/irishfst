@@ -50,7 +50,8 @@ define MutE [[[b] .x. [m b]]
 ] (CN);  
 # e.g. mbr...
 
-define MutL [ [[b] .x. [b h]]
+# bhaile but not bhfuil
+define MutL [ [[b] .x. [b h \f]]
            | [[c] .x. [c h]]
            | [[d] .x. [d h]]
            | [[f] .x. [f h]]
@@ -199,19 +200,27 @@ define VImperSuf [C [%+Guess %+Verb %+VTI %+Imper %+1P %+Sg .x. a i m ]
 ;
 #define VImperNoSuf  [%+Guess %+Verb %+VTI %+Imper %+2P %+Sg .x. [] ];
 
+# Emphatic Suffix
+define EmphSuf    [%+Emph .x. %- s e ] 
+		| [%+Emph .x. %- s a ]
+		| [%+Emph .x. %- S e ]
+		| [%+Emph .x. %- S a ]
+;
+
 
 define Verb1a [ Root [VPresSuf | VPastSuf | VPastHSuf | 
                      VFutSuf | VCondSuf |  VImperSuf ]
+			(EmphSuf)
              ] ;
 
 # don't include Imperative as not lenited or eclipsed
 define Verb1aE [ RootE [VPresSuf | VPastSuf | VPastHSuf | 
-                     VFutSuf | VCondSuf ] "+Ecl":0
+                     VFutSuf | VCondSuf ] (EmphSuf) "+Ecl":0
              ] ;
 
 # don't include Imperative as not lenited or eclipsed
 define Verb1aL [ RootL [VPresSuf | VPastSuf | VPastHSuf | 
-                     VFutSuf | VCondSuf ] "+Len":0
+                     VFutSuf | VCondSuf ] (EmphSuf) "+Len":0
              ] ;
 
 define Verbs [Verb1a| Verb1aE | Verb1aL];
@@ -283,15 +292,15 @@ define VImperSuf [C [%+Guess %+Verb %+VTI %+Imper %+1P %+Sg .x. i m ]
 
 
 define Verb1b [ Root [VPresSuf | VPastSuf | VPastHSuf | 
-                       VPresSSuf | VImperSuf ]
+                       VPresSSuf | VImperSuf ] (EmphSuf)
              ] ;
 # don't include Imperative as not lenited or eclipsed
 define Verb1bE [ RootE [VPresSuf | VPastSuf | VPastHSuf | 
-                       VPresSSuf ]"+Ecl":0
+                       VPresSSuf ](EmphSuf) "+Ecl":0
              ] ;
 
 define Verb1bL [ RootL [VPresSuf | VPastSuf | VPastHSuf | 
-                       VPresSSuf ]"+Len":0
+                       VPresSSuf ](EmphSuf) "+Len":0
              ] ;
 
 
@@ -320,9 +329,9 @@ define VSuf [C [%+Guess %+Verb %+VTI %+Imper %+3P %+Sg .x. a d h ]
 	]
 ;
 
-define Verb1c [ Root VSuf ];
-define Verb1cE [ RootE VSuf "+Ecl":0];
-define Verb1cL [ RootL VSuf "+Len":0];
+define Verb1c [ Root VSuf (EmphSuf) ];
+define Verb1cE [ RootE VSuf (EmphSuf) "+Ecl":0];
+define Verb1cL [ RootL VSuf (EmphSuf) "+Len":0];
 define Verbs [Verb1c| Verb1cE | Verb1cL];
 read regex Verbs ;
 echo << saving bin/guessv1c.fst to file >>
@@ -384,15 +393,15 @@ define VImperSuf [C [a i g h %+Guess %+Verb %+VTI %+Imper %+1P %+Sg .x. a í m ]
 
 
 define Verb2a [ [Root] [VPresSuf | VPastSuf | VPastHSuf | 
-	 VPresSSuf | VImperSuf ]
+	 VPresSSuf | VImperSuf ] (EmphSuf)
              ] ;
 
 define Verb2aE [ [RootE] [VPresSuf | VPastSuf | VPastHSuf | 
-	 VPresSSuf | VImperSuf ]"+Ecl":0
+	 VPresSSuf | VImperSuf ] (EmphSuf) "+Ecl":0
              ] ;
 
 define Verb2aL [ [RootL] [VPresSuf | VPastSuf | VPastHSuf | 
-	 VPresSSuf | VImperSuf ]"+Len":0
+	 VPresSSuf | VImperSuf ] (EmphSuf) "+Len":0
              ] ;
 
 define Verbs [Verb2a| Verb2aE | Verb2aL];
@@ -451,15 +460,15 @@ define VImperSuf [C [i g h %+Guess %+Verb %+VTI %+Imper %+1P %+Sg .x. í m ]
 	]
 ;
 define Verb2b [ [Root] [VPresSuf | VPastSuf | VPastHSuf | 
-                     VPresSSuf | VImperSuf ]
+                     VPresSSuf | VImperSuf ] (EmphSuf) 
              ] ;
 
 define Verb2bE [ [RootE] [VPresSuf | VPastSuf | VPastHSuf | 
-                     VPresSSuf | VImperSuf ] "+Ecl":0   
+                     VPresSSuf | VImperSuf ]  (EmphSuf) "+Ecl":0   
              ] ;
 
 define Verb2bL [ [RootL] [VPresSuf | VPastSuf | VPastHSuf | 
-                     VPresSSuf | VImperSuf ] "+Len":0
+                     VPresSSuf | VImperSuf ]  (EmphSuf) "+Len":0
              ] ;
 
 define Verbs [Verb2b| Verb2bE | Verb2bL];
@@ -480,15 +489,15 @@ define VPastHSuf [%+Guess %+Verb %+VTI %+PastImp %+2P %+Sg .x. t e á ]
 ;
 define VImperSuf [%+Guess %+Verb %+VTI %+Imper %+Auto .x. t (e) a r ] 
 ;
-define Verb2c [ [Root] [VPresSuf | VPastHSuf | VPresSSuf | VImperSuf ]
+define Verb2c [ [Root] [VPresSuf | VPastHSuf | VPresSSuf | VImperSuf] (EmphSuf) 
              ] ;
 
 
-define Verb2cE [ [RootE] [VPresSuf | VPastHSuf | VPresSSuf | VImperSuf]"+Ecl":0 
+define Verb2cE [ [RootE] [VPresSuf | VPastHSuf | VPresSSuf | VImperSuf] (EmphSuf) "+Ecl":0 
              ] ;
 
 
-define Verb2cL [ [RootL] [VPresSuf | VPastHSuf | VPresSSuf | VImperSuf ]"+Len":0
+define Verb2cL [ [RootL] [VPresSuf | VPastHSuf | VPresSSuf | VImperSuf ] (EmphSuf) "+Len":0
              ] ;
 
 define Verbs [Verb2c| Verb2cE | Verb2cL];
@@ -497,4 +506,87 @@ read regex Verbs;
 echo << saving bin/guessv2c.fst to file >>
 save stack bin/guessv2c.fst
 clear stack
+
+
+##################
+# HISTORICAL FORMS
+##################
+echo << starting historical forms  >>
+# Past
+define VPastSufHist 
+		   [%+Guess %+Verb %+VTI %+PastInd %+1P %+Sg .x. %_ m é  ]
+		 | [%+Guess %+Verb %+VTI %+PastInd %+1P %+Sg %+Emph .x. %_ m i s e  ]
+                 | [%+Guess %+Verb %+VTI %+PastInd %+2P %+Sg .x. %_ t ú  ]
+                 | [%+Guess %+Verb %+VTI %+PastInd %+2P %+Sg %+Emph .x. %_ t u s a ]
+                 | [%+Guess %+Verb %+VTI %+PastInd %+2P %+Pl .x. %_ s i b h  ]
+                 | [%+Guess %+Verb %+VTI %+PastInd %+2P %+Pl %+Emph .x. %_ s i b h s e ]
+                 | [%+Guess %+Verb %+VTI %+PastInd %+3P %+Pl .x. %_ s i a d  ]
+                 | [%+Guess %+Verb %+VTI %+PastInd %+3P %+Pl %+Emph .x. %_ s i a d s a n ]
+;
+
+# Present 
+define VPresSufHist 
+		  [%+Guess %+Verb %+VTI %+PresInd %+1P %+Sg .x. a n n %_ m é] 
+		| [%+Guess %+Verb %+VTI %+PresInd %+1P %+Sg %+Emph .x. a n n %_ m i s e] 
+		| [%+Guess %+Verb %+VTI %+PresInd %+2P %+Sg .x. a n n %_ t ú] 
+		| [%+Guess %+Verb %+VTI %+PresInd %+2P %+Sg %+Emph .x. a n n %_ t u s a] 
+		| [%+Guess %+Verb %+VTI %+PresInd %+2P %+Pl .x. a n n %_ s i b h] 
+		| [%+Guess %+Verb %+VTI %+PresInd %+2P %+Pl %+Emph .x. a n n %_ s i b h s e] 
+		| [%+Guess %+Verb %+VTI %+PresInd %+3P %+Pl .x. a n n %_ s i a d]  
+		| [%+Guess %+Verb %+VTI %+PresInd %+3P %+Pl %+Emph .x. a n n %_ s i a d s a n]  
+# include some past here
+                | [a i g h %+Guess %+Verb %+VTI %+PastInd %+1P %+Sg .x. a i g h %_ m é]
+                | [a i g h %+Guess %+Verb %+VTI %+PastInd %+1P %+Sg %+Emph .x. a i g h %_ m i s e]
+                | [a i g h %+Guess %+Verb %+VTI %+PastInd %+2P %+Sg .x. a i g h %_ t ú]
+                | [a i g h %+Guess %+Verb %+VTI %+PastInd %+2P %+Sg %+Emph .x. a i g h %_ t u s a]
+                | [a i g h %+Guess %+Verb %+VTI %+PastInd %+2P %+Pl .x. a i g h %_ s i b h]
+                | [a i g h %+Guess %+Verb %+VTI %+PastInd %+2P %+Pl %+Emph .x. a i g h %_ s i b h s e]
+		| [a i g h %+Guess %+Verb %+VTI %+PastInd %+3P %+Pl .x. a i g h %_ s i a d]
+		| [a i g h %+Guess %+Verb %+VTI %+PastInd %+3P %+Pl %+Emph .x. a i g h %_ s i a d s a n]
+;
+
+
+# Future
+define VFutSufHist  
+		[%+Guess %+Verb %+VTI %+FutInd %+1P %+Sg .x. i d h %_ m é] 
+		| [%+Guess %+Verb %+VTI %+FutInd %+1P %+Sg %+Emph .x. i d h %_ m i s e] 
+	        | [%+Guess %+Verb %+VTI %+FutInd %+2P %+Sg .x. i d h %_ t ú]
+	        | [%+Guess %+Verb %+VTI %+FutInd %+2P %+Sg %+Emph .x. i d h %_ t u s a]
+	        | [%+Guess %+Verb %+VTI %+FutInd %+2P %+Pl .x. i d h %_ s i b h]
+	        | [%+Guess %+Verb %+VTI %+FutInd %+2P %+Pl %+Emph .x. i d h %_ s i b h s e]
+	        | [%+Guess %+Verb %+VTI %+FutInd %+3P %+Pl .x. i d h %_ s i a d]
+	        | [%+Guess %+Verb %+VTI %+FutInd %+3P %+Pl %+Emph .x. i d h %_ s i a d s a n]
+;
+
+## NON PAST
+define VerbNonPast [ Root [VPresSufHist | VFutSufHist ]  ] ;
+# 
+define VerbNonPastE [ RootE [VPresSufHist | VFutSufHist ] "+Ecl":0 ] ;
+# 
+define VerbNonPastL  [ RootL [VPresSufHist | VFutSufHist ] "+Len":0 ] ;
+#
+define Verbs [VerbNonPast| VerbNonPastE | VerbNonPastL];
+
+read regex Verbs ;
+echo << saving bin/guess_nonpast_hist.fst to file >>
+save stack bin/guess_nonpast_hist.fst
+clear stack
+
+## PAST
+
+define VerbPast [ Root [VPastSufHist ]  ] ;
+# 
+define VerbPastE [ RootE [VPastSufHist ] "+Ecl":0 ] ;
+# 
+define VerbPastL  [ RootL [VPastSufHist] "+Len":0 ] ;
+#
+define Verbs [VerbPast| VerbPastE | VerbPastL];
+#
+read regex Verbs ;
+echo << saving bin/guess_past_hist.fst to file >>
+save stack bin/guess_past_hist.fst
+clear stack
+
+
+
 echo << Verb Guesser Complete >>

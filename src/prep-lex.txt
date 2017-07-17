@@ -89,6 +89,7 @@ go+Prep+Simp:go					#;
 !!gurbh+Prep+Simp:gurbh			#;
 i+Prep+Simp:i					#;  ! in
 i+Prep+Simp:I					#;  ! in
+iar+Prep+Simp:iar				#;  ! iar
 i+Prep+Simp:in					#;  ! in (before a vowel)
 trí+Prep+Simp:trín				#;  ! trí (before a vowel)
 i+Prep+Det+Poss+1P+Sg:im			#;  ! i mo

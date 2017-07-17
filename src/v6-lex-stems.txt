@@ -1,0 +1,143 @@
+LEXICON VerbsD
+slim-mhaisigh+Verb+VT:slim-mhaisigh	V2-SL;	! finish
+struchtúraigh+Verb+VT:struchtúraigh	V2-BR;	! structure
+veinírigh+Verb+VT:veinírigh	V2-SL;	! veneer
+vearnaiseáil+Verb+VT:vearnaiseáil	V1-SL-LC;	! varnish
+aerthriomaigh+Verb+VTI:aerthriomaigh	V2-BR;	! air-dry
+aisdúichigh+Verb+VT:aisdúichigh	V2-SL;	! extradite
+amaigh+Verb+VT:amaigh	V2-BR;	! time
+asaltaigh+Verb+VTI:asaltaigh	V2-BR;	! dislocate
+asamhlaigh+Verb+VTI:asamhlaigh	V2-BR;	! assimilate
+athbhreoslaigh+Verb+VT:athbhreoslaigh	V2-BR;	! refuel
+athchistigh+Verb+VTI:athchistigh	V2-SL;	! refund
+athchuimhnigh+Verb+VTI:athchuimhnigh	V2-SL;	! recall
+athlonnaigh+Verb+VTI:athlonnaigh	V2-BR;	! relocate, resettle
+atreoraigh+Verb+VTI:atreoraigh	V2-BR;	! refer, redirect
+bainistigh+Verb+VTI:bainistigh	V2-SL;	! manage
+barrfheabhsaigh+Verb+VTI:barrfheabhsaigh	V2-BR;	! optimise
+brataigh+Verb+VTI:brataigh	V2-BR;	! coat
+broidearnaigh+Verb+VTI:broidearnaigh	V2-BR;	! effervesce
+bréifnigh+Verb+VTI:bréifnigh	V2-SL;	! perforate
+cascáidigh+Verb+VTI:cascáidigh	V2-SL;	! cascade
+catagóirigh+Verb+VT:catagóirigh	V2-SL;	! categorise
+catalógaigh+Verb+VT:catalógaigh	V2-BR;	! catalogue
+coimisiúnaigh+Verb+VT:coimisiúnaigh	V2-BR;	! commission
+cumraigh+Verb+VT:cumraigh	V2-BR;	! configure
+cuíchóirigh+Verb+VTI:cuíchóirigh	V2-SL;	! rationalise
+damáistigh+Verb+VTI:damáistigh	V2-SL;	! damage
+digitigh+Verb+VT:digitigh	V2-SL;	! digitise
+díchoimisiúnaigh+Verb+VT:díchoimisiúnaigh	V2-BR;	! decommission
+dídhlúthaigh+Verb+VTI:dídhlúthaigh	V2-BR;	! 
+dífhabhtaigh+Verb+VTI:dífhabhtaigh	V2-BR;	! debug, disinfect
+dúshaothraigh+Verb+VTI:dúshaothraigh	V2-BR;	! exploit
+formáidigh+Verb+VT:formáidigh	V2-SL;	! format
+fáithimigh+Verb+VT:fáithimigh	V2-SL;	! hem
+incrimintigh+Verb+VTI:incrimintigh	V2-SL;	! increment
+ionchódaigh+Verb+VT:ionchódaigh	V2-BR;	! encode
+ionfhabhtaigh+Verb+VT:ionfhabhtaigh	V2-BR;	! infect
+ionphlandaigh+Verb+VTI:ionphlandaigh	V2-BR;	! implant
+lipéadaigh+Verb+VTI:lipéadaigh	V2-BR;	! label
+luachmhéadaigh+Verb+VTI:luachmhéadaigh	V2-BR;	! appreciate
+meamhlaigh+Verb+VI:meamhlaigh	V2-BR;	! miaow, meow
+nuachóirigh+Verb+VTI:nuachóirigh	V2-SL;	! modernise
+nuashonraigh+Verb+VTI:nuashonraigh	V2-BR;	! update
+optamaigh+Verb+VTI:optamaigh	V2-BR;	! optimise
+prognóisigh+Verb+VTI:prognóisigh	V2-SL;	! prognose
+príobháidigh+Verb+VTI:príobháidigh	V2-SL;	! privatise
+riospráidigh+Verb+VI:riospráidigh	V2-SL;	! respire
+ríomhairigh+Verb+VTI:ríomhairigh	V2-SL;	! computerise
+ríomhchláraigh+Verb+VTI:ríomhchláraigh	V2-BR;	! program
+scrollaigh+Verb+VTI:scrollaigh	V2-BR;	! scroll
+spriongaigh+Verb+VTI:spriongaigh	V2-BR;	! spring
+sruthlínigh+Verb+VTI:sruthlínigh	V2-SL;	! streamline
+stocthiomsaigh+Verb+VTI:stocthiomsaigh	V2-BR;	! stocktake, take stock
+suirigh+Verb+VTI:suirigh	V2-SL;	! court
+sóiligh+Verb+VTI:sóiligh	V2-SL;	! season
+teisiligh+Verb+VTI:teisiligh	V2-SL;	! tessellate
+tollánaigh+Verb+VTI:tollánaigh	V2-BR;	! tunnel
+trasfhoirmigh+Verb+VTI:trasfhoirmigh	V2-SL;	! transform
+tírdhreachtaigh+Verb+VTI:tírdhreachtaigh	V2-BR;	! landscape
+uasghrádaigh+Verb+VT:uasghrádaigh	V2-BR;	! upgrade
+uasmhéadaigh+Verb+VTI:uasmhéadaigh	V2-BR;	! maximise
+áscaigh+Verb+VT:áscaigh	V2-BR;	! instantiate
+íoslaghdaigh+Verb+VTI:íoslaghdaigh	V2-BR;	! minimise
+íosmhéadaigh+Verb+VTI:íosmhéadaigh	V2-BR;	! minimise
+comhadaigh+Verb+VT:comhadaigh	V2-BR;	! file
+feisigh+Verb+VT:feisigh	V2-SL;	! fuck, fit?
+idirnáisiúntaigh+Verb+VTI:idirnáisiúntaigh	V2-BR;	! internationalise
+rochtaigh+Verb+VTI:rochtaigh	V2-BR;	! access
+sainchóirigh+Verb+VTI:sainchóirigh	V2-SL;	! customise
+trasbhéarlaigh+Verb+VTI:trasbhéarlaigh	V2-BR;	! translate
+uisce-sciáil+Verb+VI:uisce-sciáil	V1-SL-LC;	! water ski
+sótáil+Verb+VT:sótáil	V1-SL-LC;	! sauté
+scuabáil+Verb+VTI:scuabáil	V1-SL-LC;	! shuffle
+scrobláil+Verb+VTI:scrobláil	V1-SL-LC;	! scavenge
+scriúáil+Verb+VTI:scriúáil	V1-SL-LC;	! screw
+anótáil+Verb+VT:anótáil	V1-SL-LC;	! annotate
+athbhútáil+Verb+VTI:athbhútáil	V1-SL-LC;	! reboot
+bútáil+Verb+VTI:bútáil	V1-SL-LC;	! boot
+athchúrsáil+Verb+VTI:athchúrsáil	V1-SL-LC;	! recycle, recirculate
+athphlandáil+Verb+VTI:athphlandáil	V1-SL-LC;	! transplant
+billeáil+Verb+VTI:billeáil	V1-SL-LC;	! bill
+bitseáil+Verb+VI:bitseáil	V1-SL-LC;	! bitch
+brabhsáil+Verb+VI:brabhsáil	V1-SL-LC;	! browse
+canbhásáil+Verb+VTI:canbhásáil	V1-SL-LC;	! canvas
+cácáil+Verb+VTI:cácáil	V1-SL-LC;	! caulk
+códáil+Verb+VTI:códáil	V1-SL-LC;	! code
+focáil+Verb+VTI:focáil	V1-SL-LC;	! fuck
+clogáil+Verb+VTI:clogáil	V1-SL-LC;	! clock
+caibeáil+Verb+VTI:caibeáil	V1-SL-LC;	! plant, bury
+facsáil+Verb+VTI:facsáil	V1-SL-LC;	! fax
+fótachóipeáil+Verb+VTI:fótachóipeáil	V1-SL-LC;	! photocopy
+clónáil+Verb+VT:clónáil	V1-SL-LC;	! clone
+corrsheiceáil+Verb+VTI:corrsheiceáil	V1-SL-LC;	! spot-check
+cótáil+Verb+VT:cótáil	V1-SL-LC;	! coat
+díghlasáil+Verb+VTI:díghlasáil	V1-SL-LC;	! unlock
+díphlugáil+Verb+VTI:díphlugáil	V1-SL-LC;	! unplug
+fónáil+Verb+VTI:fónáil	V1-SL-LC;	! phone
+giaráil+Verb+VTI:giaráil	V1-SL-LC;	! leverage
+déchliceáil+Verb+VTI:déchliceáil	V1-SL-LC;	! double-click
+gliogáil+Verb+VTI:gliogáil	V1-SL-LC;	! click
+greanáil+Verb+VTI:greanáil	V1-SL-LC;	! sand
+landáil+Verb+VTI:landáil	V1-SL-LC;	! land
+lámhnaigh+Verb+VTI:lámhnaigh	V2-BR;	! sire (make children)
+muilleáil+Verb+VTI:muilleáil	V1-SL-LC;	! mill
+plugáil+Verb+VTI:plugáil	V1-SL-LC;	! plug
+téipeáil+Verb+VTI:téipeáil	V1-SL-LC;	! tape
+íoslódáil+Verb+VTI:íoslódáil	V1-SL-LC;	! download
+súmáil+Verb+VTI:súmáil	V1-SL-LC;	!>! zoom
+zúmáil+Verb+VTI:zúmáil	V1-SL-LC;	! zoom
+tvuíteáil+Verb+VTI:tvuíteáil	V1-SL-LC;	! tweet
+scuaideáil+Verb+VT:scuaideáil	V1-SL-LC;	! bedabble, bespatter
+fíordheimhnigh+Verb+VTI:fíordheimhnigh	V2-SL;	! authenticate
+forordaigh+Verb+VT:forordaigh	V2-BR;	! pre-ordain
+athchorcáil+Verb+VT:athchorcáil	V1-SL-LC;	! recork
+scartáil+Verb+VT:scartáil	V1-SL-LC;	! scrap
+atheaspórtáil+Verb+VTI:atheaspórtáil	V1-SL-LC;	! re-export
+athfhuáil+Verb+VTI:athfhuáil	V1-SL-LC;	! restitch
+athiompórtáil+Verb+VTI:athiompórtáil	V1-SL-LC;	! reimport
+athshuncáil+Verb+VTI:athshuncáil	V1-SL-LC;	! reinvest
+athvearnaiseáil+Verb+VTI:athvearnaiseáil	V1-SL-LC;	! revarnish
+babáil+Verb+VTI:babáil	V1-SL-LC;	! bob
+clifeáil+Verb+VTI:clifeáil	V1-SL-LC;	! pilfer
+cruanphéinteáil+Verb+VTI:cruanphéinteáil	V1-SL-LC;	! enamel
+cuasphlánáil+Verb+VTI:cuasphlánáil	V1-SL-LC;	! rout out
+cóimhiotáil+Verb+VTI:cóimhiotáil	V1-SL-LC;	! alloy
+forphéinteáil+Verb+VTI:forphéinteáil	V1-SL-LC;	! over-paint
+fásáil+Verb+VTI:fásáil	V1-SL-LC;	! face off
+garbhphlástráil+Verb+VTI:garbhphlástráil	V1-SL-LC;	! parget
+gliondáil+Verb+VTI:gliondáil	V1-SL-LC;	! roll up
+lindireáil+Verb+VTI:lindireáil	V1-SL-LC;	! render
+praeitseáil+Verb+VTI:praeitseáil	V1-SL-LC;	! preachify
+priosláil+Verb+VTI:priosláil	V1-SL-LC;	! slaver
+scafláil+Verb+VTI:scafláil	V1-SL-LC;	! scaffold
+scriobláil+Verb+VTI:scriobláil	V1-SL-LC;	! scribble
+smugláil+Verb+VTI:smugláil	V1-SL-LC;	! smuggle
+splaghsáil+Verb+VTI:splaghsáil	V1-SL-LC;	! splice
+stropáil+Verb+VTI:stropáil	V1-SL-LC;	! strop
+tiáil+Verb+VTI:tiáil	V1-SL-LV;	! tee
+trangláil+Verb+VTI:trangláil	V1-SL-LC;	! lumber
+trasnáil+Verb+VTI:trasnáil	V1-SL-LC;	! filibuster
+ubhchruthaigh+Verb+VTI:ubhchruthaigh	V2-BR;	! ovalise !!EIDism
+éitearaigh+Verb+VTI:éitearaigh	V2-BR;	! etherise
+tras-scríobh+Verb+VTI:tras-scríobh      V1-BR;  ! transcribe

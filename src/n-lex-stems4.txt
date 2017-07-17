@@ -2370,7 +2370,7 @@ plátáil	Nf3-SINGULAR;	! plating, sheeting, armour vt
 pléadáil	Nf3-SINGULAR;	! plea; disputation vt &
 pléascóg	Nf2-1;	! cracker
 pléireacht	Nf3-SINGULAR;	! gallivanting, revelry
-poblacht	Nf3-SINGULAR;	! republic
+poblacht	Nf3-1;	! republic
 poibleog	Nf2-1;	! poplar
 poiblitheoir	Nm3-1;	! publicist
 poiblíocht	Nf3-SINGULAR;	! publicity
@@ -2975,7 +2975,7 @@ séimeantaic	Nf2-SINGULAR;	! semantics
 séitéireacht	Nf3-SINGULAR;	! cheating
 síceolaíocht	Nf3-SINGULAR;	! psychology
 síciatracht	Nf3-SINGULAR;	! psychiatry
-síleáil	Nf3-1;	! ceiling; wainscotting; partition (in
+síleáil	Nf3-6a;	! ceiling; wainscotting; partition (in
 sínitheoir	Nm3-1;	! signatory
 sínteoireacht	Nf3-SINGULAR;	! stretching; lolling, lazing, ~
 síntiúsóir	Nm3-1;	! subscriber
@@ -3087,7 +3087,7 @@ timpireacht	Nf3-1;	! anus
 timpiste	Nf4-2;	! accident, mishap
 tincéireacht	Nf3-SINGULAR;	! tinkering
 tintríocht	Nf3-SINGULAR;	! fieriness, hot temper
-tíocht+CC	Nm3-SINGULAR;	! approach, arrival; growth; access; (Added CW 09/08)
+tíocht+CC:tíocht	Nm3-SINGULAR;	! approach, arrival; growth; access; (Added CW 09/08)
 tiomnóir	Nm3-1;	! testator
 tionsclaíocht	Nf3-SINGULAR;	! industrialism
 tionscnóir	Nm3-1;	! beginner; originator; promoter

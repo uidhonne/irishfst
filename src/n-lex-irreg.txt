@@ -120,7 +120,7 @@ scrúdú:		NI-scrúdú;
 smaoineamh:	NI-smaoineamh;
 !!athsmaoineamh:ath^CB	NI-smaoineamh;
 duine:		NI-duine;
-!!seanduine:sean^CB		NI-duine;
+seanduine:sean^CB		NI-duine;
 !!leathduine:leath^CB	NI-duine;
 !!foduine:fo^CB		NI-duine;
 !!neamhduine:neamh^CB	NI-duine;

@@ -11,6 +11,9 @@ LEXICON Root
 
 LEXICON XMLTags
 
+!!!</lb>
+%<%/lb%>+XMLTag:%<%/lb%>	#;
+
 !!!<p>
 %<p%>+XMLTag:%<p%>	#;
 !!!</p>
@@ -27,6 +30,12 @@ LEXICON XMLTags
 !!!</speaker_turn>
 %<%/speaker_turn%>+XMLTag:%<%/speaker_turn%>	#;
 
+!!!</lesson>
+%<%/lesson%>+XMLTag:%<%/lesson%>	#;
+
+!!!</direction>
+%<%/direction%>+XMLTag:%<%/direction%>	#;
+
 !!!<caption>
 %<caption%>+XMLTag:%<caption%>	#;
 !!!</caption>
@@ -36,6 +45,22 @@ LEXICON XMLTags
 %<head%>+XMLTag:%<head%>	#;
 !!!</head>
 %<%/head%>+XMLTag:%<%/head%>	#;
+
+!!!<body>
+%<body%>+XMLTag:%<body%>	#;
+!!!</body>
+%<%/body%>+XMLTag:%<%/body%>	#;
+
+!!!<span>
+%<span%>+XMLTag:%<span%>	#;
+!!!</span>
+%<%/span%>+XMLTag:%<%/span%>	#;
+
+!!!<text>
+%<text%>+XMLTag:%<text%>	#;
+!!!</text>
+%<%/text%>+XMLTag:%<%/text%>	#;
+
 
 %<s%>+XMLTag:%<s%>	#;
 %<%/s%>+XMLTag:%<%/s%>	#;

@@ -315,7 +315,9 @@ Ruán	Nm1-Prop;
 Saerbhreathach	Nm1-Prop;
 Sailbheastar	Nm1-Prop;
 Séamas	Nm1-Prop;
+Séamus	Nm1-Prop;
 Seán	Nm1-Prop;
+Seán:Seagháin	Nm1-Prop;
 Seanán	Nm1-Prop;
 Séarlas	Nm1-Prop;
 Séathrún	Nm1-Prop;
@@ -488,4 +490,4 @@ Punk		Nm4-Prop;
 Rex		Nm4-Prop;
 Eiffel		Nm4-Prop;
 Daid		Nm4-Prop;
-
+Platón	Nm1-Prop;

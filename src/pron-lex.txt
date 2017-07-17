@@ -24,8 +24,8 @@ Multichar_Symbols
 +Ref		! Reflexive
 +Idf		! Indefinite
 +Dem		! Demonstrative
-!!+Q		! Interrogative
-!!+Art		! 
++Q		! Interrogative (restored 12/9/2013)
++Art		! (restored 12/9/2013)
 +hPref		!
 +1P +2P +3P	! first, second or third person
 +Fem		! feminine gender
@@ -94,14 +94,15 @@ sí+Pron+Pers+3P+Sg+Fem+Sbj+Emph:sise	#;	! she
 sé+Pron+Pers+3P+Sg+Masc+Sbj+Emph:seisean	#;	! he
 é+Pron+Pers+3P+Sg+Masc+Emph:eisean			#;	! he
 
-sinn+Pron+Pers+1P+Pl+Sbj+Emph:sinne		#;	! we
-muid+Pron+Pers+1P+Pl+Emph:muide				#;	! we
+sinn+Pron+Pers+1P+Pl+Sbj:sinn				Emph_e;	! we
+muid+Pron+Pers+1P+Pl:muid					Emph_e;	! we
+muid+Pron+Pers+1P+Pl+Emph:muidne			#;	! we
+muid+Pron+Pers+1P+Pl+Emph:muidinne			#;	! we
 
-sibh+Pron+Pers+2P+Pl+Emph:sibhse			#;	! you pl. (also ye or yous)
+sibh+Pron+Pers+2P+Pl:sibh				Emph_se;	! you pl. (also ye or yous)
 
-
-siad+Pron+Pers+3P+Pl+Sbj+Emph:siadsan		#;	! they/them
-iad+Pron+Pers+3P+Pl+Emph:iadsan				#;	! they
+siad+Pron+Pers+3P+Pl+Sbj:siad			Emph_san;	! they/them
+iad+Pron+Pers+3P+Pl:iad					Emph_san;	! they
 
 !---------------------------------------------------------------------------
 ! Reflexive 
@@ -122,8 +123,9 @@ pé+Pron+Idf:pé			#;	! whoever
 ! Interrogative (added Feb 05) 
 !!!! ADDED COP SEPT 07
 !!!! Changed Pron to Pro in Copula forms to distinguish it from other Pron
-cad+Pron+Q:cad			#;	! what: cad a rinne sé?
-cad+Cop+Pro+Q:cad		#;	! what: cad is ainm duit?
+cad+Pron+Q:cad			#;	! what: cad is ainm duit?
+cad+Cop+Pro+Q:cad		#;	! what: cad [] iad na rudaí sin?
+					! what: cad a bhí ann? (cleft +rel) 
 cad_chuige+CC+Cop+Pro+Q:tuige	#;	! what for
 cad_é+CU+Cop+Pro+Q:caidé	#;	! caidé mar atá tú
 cé+Pron+Q:cé			#;	! cé acu - which of them
@@ -280,6 +282,7 @@ le+Pron+Prep+3P+Sg+Fem:léithe			Emph_se;	!  with her
 le+Pron+Prep+1P+Pl:linn				Emph_e;		!  with us
 le+Pron+Prep+2P+Pl:libh				Emph_se;	!  with you
 le+Pron+Prep+3P+Pl:leo				Emph_san;	!  with them
+le+Pron+Prep+3P+Pl:leofa			Emph_san;	!  with them
 
 ó+Pron+Prep+1P+Sg:uaim				Emph_se;	!  from me
 ó+Pron+Prep+2P+Sg:uait 				Emph_se;	!  from you
@@ -334,20 +337,32 @@ um+Pron+Prep+3P+Pl:umpu				Emph_san; 	!  about them
 
 LEXICON Emph_sa			! Broad: 1S & 2S & 3S(Fem) & 2P
 +Emph:sa	#;
-#;
++Emph:-sa	#;
+Demonstrative;
 
 LEXICON Emph_se			! Slender: 1S & 2S & 3S(Fem) & 2P
 +Emph:se	#;
-#;
++Emph:-se	#;
+Demonstrative;
 
 LEXICON Emph_san		! Broad: 3S(Masc) & 3P
 +Emph:san	#;
-#;
++Emph:-san	#;
+Demonstrative;
 
 LEXICON Emph_sean		! Slender: 3S(Masc) & 3P
 +Emph:sean	#;
-#;
++Emph:-sean	#;
+Demonstrative;
 
 LEXICON Emph_e			! Br/Sl: 1P
 +Emph:e	#;
+#;
+
+!!! These demonstrative suffixes are used in historical text
+!!! e.g. aici-sin, aici-seo etc. Only 3rd person??? sg and pl
+
+LEXICON Demonstrative
++Dem:-sin	#;
++Dem:-seo	#;
 #;

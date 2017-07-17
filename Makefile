@@ -1,16 +1,17 @@
 ###################################################################
-# This is a makefile that builds the Irish morphological engine
+# This is a makefile that builds the Irish Finite State Morphology
 # Elaine Uí Dhonnchadha 
+# Trond Trosterud and Ken Beesley
 # February 2003
-# April 2004    : FLASH flags
-# May 2004      : Guessers
-# Mar 2011      : foma version
-# Oct 2012      : foma allguess.fst
-#
-# Stephen Shaw
-# November 2012 : HFST-compatible allgen.hfst
-###################################################################
-# Trond Trosterud and Ken Beesley: makefile advice
+# April 2004 : FLASH flags
+# May 2004   : Guessers
+# Mar 2011   : foma version
+# Oct 2012   : foma separate fsts
+# lexguess.fst 
+# lexonly.fst (lex only)
+# lexcmpd (lexicons and some compound guessers)
+# Jul 2013	:	english.fst (for spoken corpus)
+# 2014 :	historical (prefixes and suffixes)
 ###################################################################
 SRCDIR = /home/elaine/irishfst
 # INVERSE OF ALL (all.fst & flash.fst created in FIXES)
@@ -18,10 +19,6 @@ SRCDIR = /home/elaine/irishfst
 # add the following line at end of next list
 #bin/guess_typo.fst \
 
-all: lexguess.fst
-hfst: lexguess.hfst
-lexguess.fst: bin/lexguess.fst
-lexguess.hfst: bin/lexguess.hfst
 allgen.fst: bin/allgen.fst
 bin/allgen.fst: bin/all.fst int/flash.fst \
 bin/initcaps.fst bin/allcaps.fst bin/urucaps.fst \
@@ -33,7 +30,9 @@ bin/guess_unknown.fst \
 bin/prefnouns.fst \
 bin/prefadjs.fst \
 bin/prefverbs.fst \
+bin/prefverbshist.fst \
 bin/suffnouns.fst \
+bin/suffverbs.fst \
 bin/compnouns.fst \
 bin/compadjs.fst \
 bin/compverbs.fst \
@@ -47,10 +46,11 @@ bin/propguess.fst \
 bin/nvar.fst \
 bin/vvar.fst \
 bin/adjvar.fst \
+bin/vnvar.fst \
 bin/tobar.fst \
 bin/lexguess.fst 
 	@echo
-	@echo " <<< Inverting All Transducer >>>"
+	@echo " <<< Inverting All Transducer (EXCLUDES VARIANTS)>>>"
 	@echo
 	@printf "set quit-on-fail ON \n load bin/all.fst \n\
 	invert net \n save stack bin/allgen.fst \n\
@@ -65,10 +65,6 @@ bin/lexguess.fst
 	quit \n" > /tmp/allgen-scr
 	@foma  < /tmp/allgen-scr
 	@rm -f /tmp/allgen-scr
-
-bin/lexguess.hfst: bin/lexguess.fst
-	@zcat bin/lexguess.fst | hfst-fst2fst -Oo bin/lexguess.hfst
-
 
 
 # ALL CAPITALS
@@ -94,7 +90,7 @@ bin/initcaps.fst: bin/all.fst src/xfst-initcaps.script
 # URU + CAPITAL
 
 urucaps.fst:  bin/urucaps.fst
-bin/urucaps.fst: bin/all.fst src/xfst-initcaps.script
+bin/urucaps.fst: bin/all.fst src/xfst-urucaps.script
 	@echo
 	@echo " <<< Uru + Capital >>>"
 	@echo
@@ -102,8 +98,10 @@ bin/urucaps.fst: bin/all.fst src/xfst-initcaps.script
 
 
 ############################################################
-# Here we save all transducers (lexicons and guessers) 
-# in one file
+# LEXGUESS
+# Here we save all transducers (lexicons, compounds and guessers)
+# in lexguess.fst
+# src/foma-lexguess.script
 ############################################################
 lexguess.fst: bin/lexguess.fst
 bin/lexguess.fst: bin/all.fst \
@@ -117,7 +115,9 @@ bin/lexguess.fst: bin/all.fst \
 	bin/prefnouns.fst \
 	bin/prefadjs.fst \
 	bin/prefverbs.fst \
+	bin/prefverbshist.fst \
 	bin/suffnouns.fst \
+	bin/suffverbs.fst \
 	bin/compnouns.fst \
 	bin/compadjs.fst \
 	bin/compverbs.fst \
@@ -130,10 +130,64 @@ bin/lexguess.fst: bin/all.fst \
 	bin/propguess.fst \
 	bin/tobar.fst 
 	@echo
-	@echo " <<< Building Big Transducer File "
+	@echo " <<< Building Big Lexguess Transducer File "
 	@echo
 	@foma  -f src/foma-lexguess.script
 
+
+############################################################
+# LEXCMPD
+# LEX + COMPOUNDS and NO guessers) 
+# in lexcmpd.fst
+# check src/foma-lexcmpd.script
+############################################################
+lexcmpd.fst: bin/lexcmpd.fst
+bin/lexcmpd.fst: bin/all.fst \
+	bin/initcaps.fst \
+	bin/allcaps.fst \
+	bin/digit.fst \
+	bin/tobar.fst \
+	bin/prefnouns.fst \
+	bin/prefadjs.fst \
+	bin/prefverbs.fst \
+	bin/prefverbshist.fst \
+	bin/suffnouns.fst \
+	bin/suffverbs.fst \
+	bin/compnouns.fst \
+	bin/compadjs.fst \
+	bin/compverbs.fst \
+	bin/pcompnouns.fst \
+	bin/pcompadjs.fst \
+	bin/pcompverbs.fst 
+	@echo
+	@echo " <<< Building Lex + Compounds transducer File "
+	@echo
+	@foma  -f src/foma-lexcmpd.script
+
+
+############################################################
+# LEXONLY 
+# Here we save all lexical transducers (lexicons NO Variants NO Compounds and NO guessers) 
+# in lexonly.fst
+############################################################
+lexonly.fst: bin/lexonly.fst
+bin/lexonly.fst: bin/all.fst \
+	bin/initcaps.fst \
+	bin/allcaps.fst \
+	bin/digit.fst \
+	bin/tobar.fst \
+	bin/prefnouns.fst \
+	bin/prefadjs.fst \
+	bin/prefverbs.fst \
+	bin/prefverbshist.fst \
+	bin/suffverbs.fst \
+	bin/suffnouns.fst  
+	@echo
+	@echo " <<< Building Big Lexonly Transducer File "
+	@echo
+	@foma  -f src/foma-lexonly.script
+
+##########################################################
 
 # GUESS NOUNS  using typical masc/fem endings
 
@@ -231,7 +285,7 @@ bin/digit.fst: src/xfst-digit.script
 	@foma  -f src/xfst-digit.script
 
 ###################################################################
-# ALL - all lexical FSTS composed
+# ALL - all LEXICAL FSTS composed
 ###################################################################
 
 
@@ -263,7 +317,7 @@ int/flash.fst: int/temp-all.fst src/xfst-fix.script
 	@echo
 	@foma  -f src/xfst-fix.script
 
-# MERGE ALL FSTS
+# MERGE ALL FSTS (NOT INCLUDING VARIANTS)
 temp-all.fst: int/temp-all.fst
 int/temp-all.fst: int/nouns.fst \
 	int/verb-all.fst \
@@ -275,6 +329,7 @@ int/temp-all.fst: int/nouns.fst \
 	int/conj.fst \
 	int/det.fst \
 	int/itj.fst \
+	int/english.fst \
 	int/part.fst \
 	int/prep.fst \
 	int/pron.fst \
@@ -293,6 +348,7 @@ int/temp-all.fst: int/nouns.fst \
 	load int/conj.fst  \n\
 	load int/det.fst   \n\
 	load int/itj.fst   \n\
+	load int/english.fst   \n\
 	load int/part.fst  \n\
 	load int/prep.fst  \n\
 	load int/pron.fst  \n\
@@ -366,8 +422,9 @@ bin/nvar.fst: int/nvareq.fst int/ncmpd.fst int/ninit.fst int/ndiph.fst \
 
 
 # Adj (=) VARIANTS + RULES
+# added in adj-lex-fgb-var.txt 14/2/2016
 adjvar.fst: bin/adjvar.fst
-bin/adjvar.fst: src/adj-lex-fgb-eqvar.txt int/ncmpd.fst int/ninit.fst \
+bin/adjvar.fst: src/adj-lex-fgb-eqvar.txt src/adj-lex-fgb-var.txt int/ncmpd.fst int/ninit.fst \
 	int/ndiph.fst \
 	int/nsync.fst int/nx.fst int/nchg.fst \
 	int/nchk.fst int/nslen.fst int/nbr.fst \
@@ -376,7 +433,7 @@ bin/adjvar.fst: src/adj-lex-fgb-eqvar.txt int/ncmpd.fst int/ninit.fst \
 	@echo " <<< Composing Adjective Variants and Rules >>>"
 	@echo
 	@cat src/adj-lex-multi.txt \
-	src/adj-lex-fgb-eqvar.txt src/adj-lex-cc.txt > /tmp/adjeqvar.txt
+	src/adj-lex-fgb-eqvar.txt src/adj-lex-fgb-var.txt src/adj-lex-cc.txt > /tmp/adjeqvar.txt
 	@printf "read lexc /tmp/adjeqvar.txt \n \
 	save stack int/adjvar.fst \n \
 	load int/ncmpd.fst \n turn \n compose net  \n \
@@ -424,9 +481,28 @@ bin/suffnouns.fst: int/ncommsuff.fst int/ncmpd.fst int/ninit.fst int/ndiph.fst \
 	quit \n" > /tmp/nouns-scr
 	@foma  < /tmp/nouns-scr
 	@rm -f /tmp/nouns-scr
+	
+# SUFFIXED VERBS + RULES
+########################
+suffverbs.fst: bin/suffverbs.fst
+bin/suffverbs.fst: int/verb-all-suff.fst \
+	int/ncmpd.fst int/ninit.fst int/vrul.fst int/ftidy.fst
+	@echo
+	@echo " <<< Composing Suffixed Verbs and Rules (Historical forms) >>>"
+	@echo
+	@printf "load int/verb-all-suff.fst \n\
+	load int/ncmpd.fst \n turn \n compose net \n\
+	load int/ninit.fst \n turn \n compose net \n\
+	load int/vrul.fst  \n turn \n compose net \n\
+	load int/ftidy.fst \n turn \n compose net \n\
+	save stack bin/suffverbs.fst \n\
+	quit \n" > /tmp/v2-scr
+	@foma  < /tmp/v2-scr
+	@rm -f /tmp/v2-scr		
 
-# SUFFIX COMMON NOUNS 
+# SUFFIX COMMON NOUNS and VERBS 
 # creates ncommsuff.fst
+# creates verb-all-suff.fst (Historical forms) 8/5/2014 EUD
 
 ncommsuff.fst:  int/ncommsuff.fst 
 int/ncommsuff.fst: src/xfst-suffixes.script int/ncomm.fst 
@@ -435,6 +511,13 @@ int/ncommsuff.fst: src/xfst-suffixes.script int/ncomm.fst
 	@echo
 	@foma  -f src/xfst-suffixes.script
 
+verb-all-suff.fst:  int/verb-all-suff.fst 
+int/verb-all-suff.fst: src/xfst-suffixes.script int/verb-all.fst 
+	@echo
+	@echo " <<< Suffix Verbs (Historical) >>>"
+	@echo
+	@foma  -f src/xfst-suffixes.script
+	
 # PREFIXED NOUNS + RULES
 ########################
 prefnouns.fst: bin/prefnouns.fst
@@ -487,6 +570,13 @@ int/verbpref.fst: src/xfst-prefixes.script int/v12lex.fst
 	@echo
 	@foma  -f src/xfst-prefixes.script
 
+verbprefhist.fst:  int/verbprefhist.fst 
+int/verbprefhist.fst: src/xfst-prefixes.script int/v12lex.fst
+	@echo
+	@echo " <<< Prefix Verbs >>>"
+	@echo
+	@foma  -f src/xfst-prefixes.script
+	
 # COMPOUND NOUNS + RULESXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ########################
 compnouns.fst: bin/compnouns.fst
@@ -595,7 +685,7 @@ bin/pcompnouns.fst: int/pncommcmpd.fst int/ncmpd.fst int/ninit.fst int/ndiph.fst
 # UPPERCASE COMPOUND ADJs + RULES
 ########################
 pcompadjs.fst: bin/pcompadjs.fst
-bin/pcompadjs.fst: int/padjcmpd.fst int/ncmpd.fst int/ninit.fst int/ndiph.fst \
+bin/pcompadjs.fst: int/ncmpd.fst int/ninit.fst int/ndiph.fst \
 	int/nsync.fst int/nx.fst int/nchg.fst \
 	int/nchk.fst int/nslen.fst int/nbr.fst \
 	int/nvh.fst int/ntidy.fst int/ftidy.fst
@@ -624,12 +714,13 @@ bin/pcompadjs.fst: int/padjcmpd.fst int/ncmpd.fst int/ninit.fst int/ndiph.fst \
 
 # UPPERCASE COMPOUND VERBs + RULES
 ########################
+#bug 19-12-2014 was not using p-version i.e. @printf "load int/verbcmpd.fst \n\
 pcompverbs.fst: bin/pcompverbs.fst
-bin/pcompverbs.fst: int/pverbcmpd.fst int/ncmpd.fst int/ninit.fst int/vrul.fst int/ftidy.fst
+bin/pcompverbs.fst: int/ncmpd.fst int/ninit.fst int/vrul.fst int/ftidy.fst
 	@echo
 	@echo " <<< Composing Compound Verbs and Rules >>>"
 	@echo
-	@printf "load int/verbcmpd.fst \n\
+	@printf "load int/pverbcmpd.fst \n\
 	load int/ncmpd.fst \n turn \n compose net  \n \
 	load int/ninit.fst \n turn \n compose net  \n \
 	load int/vrul.fst  \n turn \n compose net  \n \
@@ -663,6 +754,17 @@ int/verbcmpd.fst: src/xfst-compounds.script int/v12lex.fst
 	@echo
 	@foma  -f src/xfst-compounds.script
 
+pncommcmpd.fst: int/pncommcmpd.fst
+int/pncommcmpd.fst: src/xfst-compounds.script int/pncommcmpd.fst int/ncmpd.fst \
+	int/ninit.fst int/ndiph.fst \
+	int/nsync.fst int/nx.fst int/nchg.fst \
+	int/nchk.fst int/nslen.fst int/nbr.fst \
+	int/nvh.fst int/ntidy.fst int/ftidy.fst
+	@echo
+	@echo " <<< Compound Proper Nouns >>>"
+	@echo
+	@foma  -f src/xfst-compounds.script
+
 # all noun lexicons 
 # (incl. numbers like aon, dó trí...)
 #######################################
@@ -689,10 +791,12 @@ int/ncomm.fst: src/n-lex-multi.txt src/n-lex-stems.txt \
 src/n-lex-stems2.txt src/n-lex-stems3.txt \
 src/n-lex-stems4.txt src/n-lex-stems5.txt \
 src/n-lex-stems6.txt \
+src/n-lex-stems7.txt \
+src/n-lex-stems8.txt \
 src/n-lex-fgb1.txt \
 src/n-lex-fgb2.txt \
-src/n-lex-fgb-variants.txt \
-src/n-lex-fgb-eqvar.txt \
+#src/n-lex-fgb-variants.txt \
+#src/n-lex-fgb-eqvar.txt \
 src/n-lex-irreg.txt \
 src/n-lex-cc.txt
 	@echo
@@ -705,10 +809,10 @@ src/n-lex-cc.txt
 	src/n-lex-stems4.txt \
 	src/n-lex-stems5.txt \
 	src/n-lex-stems6.txt \
+	src/n-lex-stems7.txt \
+	src/n-lex-stems8.txt \
 	src/n-lex-fgb1.txt \
 	src/n-lex-fgb2.txt \
-	src/n-lex-fgb-variants.txt \
-	src/n-lex-fgb-eqvar.txt \
 	src/n-lex-cc.txt \
 	src/n-lex-irreg.txt > /tmp/nouncat.txt
 	@printf "read lexc /tmp/nouncat.txt \n\
@@ -720,15 +824,15 @@ src/n-lex-cc.txt
 
 
 # = variant nouns 
-
+# = added in src/n-lex-fgb-variants.txt  14/2/2016
 nvareq.fst: int/nvareq.fst
-int/nvareq.fst: src/n-lex-fgb-eqvar.txt \
+int/nvareq.fst: src/n-lex-fgb-eqvar.txt src/n-lex-fgb-variants.txt \
 src/n-lex-cc.txt \
 src/vnva-lex-cc.txt 
 	@echo
 	@echo " <<< Compiling Variant (=) Nouns Lexicon >>>"
 	@echo
-	@cat src/n-lex-fgb-eqvar.txt \
+	@cat src/n-lex-fgb-eqvar.txt src/n-lex-fgb-variants.txt \
 	src/n-lex-cc.txt \
 	src/vnva-lex-cc.txt > /tmp/nvareq.txt
 	@printf "read lexc /tmp/nvareq.txt \n\
@@ -747,9 +851,8 @@ int/nprop.fst: src/np-lex-multi.txt src/np-lex-irreg.txt \
 src/np-lex-fam.txt src/np-lex-fam-en.txt \
 src/np-lex-pers.txt src/np-lex-pers-en-new.txt \
 src/np-lex-eire.txt src/np-lex-eire-en.txt \
-src/np-lex-eire.txt  \
 src/np-lex-tir.txt src/np-lex-tir-en.txt src/np-lex-org.txt \
-src/np-logainm-sampla-ga.txt  \
+src/np-logainm-sampla-ga.txt src/np-lex-riacorpas1.txt \
 src/np-lex-cc.txt
 	@echo
 	@echo " <<< Compiling Regular & Irregular Proper Nouns Lexicon >>>"
@@ -765,7 +868,8 @@ src/np-lex-cc.txt
 	src/np-lex-tir.txt \
 	src/np-lex-tir-en.txt \
 	src/np-lex-org.txt \
-	src/np-logainm-sampla-ga.txt  \
+	src/np-lex-riacorpas1.txt \
+	src/np-logainm-sampla-ga.txt \
 	src/np-lex-cc.txt > /tmp/nprop.txt 
 	@printf "read lexc /tmp/nprop.txt \n\
 	save stack int/nprop.fst \n\
@@ -795,15 +899,16 @@ int/num.fst: src/num-lex.txt
 ###################################################################
 
 adj.fst: int/adj.fst
+int/adjlex.fst: int/adj.fst
 int/adj.fst: src/adj-lex-multi.txt src/adj-lex-stems.txt src/adj-lex-stems-irreg.txt \
 	src/adj-lex-stems2.txt \
 	src/adj-lex-stems3.txt \
 	src/adj-lex-stems4.txt \
 	src/adj-lex-stems5.txt \
+	src/adj-lex-stems6.txt \
+	src/adj-lex-stems7.txt \
 	src/adj-lex-fgb1.txt \
 	src/adj-lex-fgb2.txt \
-	src/adj-lex-fgb-var.txt \
-	src/adj-lex-fgb-eqvar.txt \
 	src/adj-lex-cc.txt \
 	int/ninit.fst int/ndiph.fst \
 	int/nsync.fst int/nx.fst int/nchg.fst \
@@ -819,10 +924,10 @@ int/adj.fst: src/adj-lex-multi.txt src/adj-lex-stems.txt src/adj-lex-stems-irreg
 	src/adj-lex-stems3.txt \
 	src/adj-lex-stems4.txt \
 	src/adj-lex-stems5.txt \
+	src/adj-lex-stems6.txt \
+	src/adj-lex-stems7.txt \
 	src/adj-lex-fgb1.txt \
 	src/adj-lex-fgb2.txt \
-	src/adj-lex-fgb-var.txt \
-	src/adj-lex-fgb-eqvar.txt \
 	src/adj-lex-cc.txt > /tmp/adjlex.txt
 	@printf "read lexc /tmp/adjlex.txt \n\
 	save stack int/adjlex.fst \n\
@@ -912,15 +1017,15 @@ int/v3.fst: src/v3-lex-stems.txt \
 
 # verbs - 1st & 2nd conjugation
 v12.fst: int/v12.fst
+int/v12lex.fst: int/v12.fst
 int/v12.fst: src/v-lex-multi.txt src/v12-lex-cc.txt src/v2-lex-cc.txt src/v1-lex-cc.txt \
 	src/v1-lex-stems.txt \
 	src/v2-lex-stems.txt \
 	src/v4-lex-stems.txt \
 	src/v5-lex-stems.txt \
+	src/v6-lex-stems.txt \
 	src/v-lex-fgb1.txt \
 	src/v-lex-fgb2.txt \
-	src/v-lex-fgb-var.txt \
-	src/v-lex-fgb-eqvar.txt \
 	int/ninit.fst int/vrul.fst
 	@echo
 	@echo " <<< Compiling Verb 1 & 2 Lexicons >>>"
@@ -930,10 +1035,9 @@ int/v12.fst: src/v-lex-multi.txt src/v12-lex-cc.txt src/v2-lex-cc.txt src/v1-lex
 	src/v2-lex-stems.txt \
 	src/v4-lex-stems.txt \
 	src/v5-lex-stems.txt \
+	src/v6-lex-stems.txt \
 	src/v-lex-fgb1.txt \
 	src/v-lex-fgb2.txt \
-	src/v-lex-fgb-var.txt \
-	src/v-lex-fgb-eqvar.txt \
 	src/v12-lex-cc.txt \
 	src/v1-lex-cc.txt \
 	src/v2-lex-cc.txt > /tmp/v12.txt
@@ -948,15 +1052,16 @@ int/v12.fst: src/v-lex-multi.txt src/v12-lex-cc.txt src/v2-lex-cc.txt src/v1-lex
 	@rm -f /tmp/v12.txt	
 
 # = variant verbs from O Donaill
+# added in src/v-lex-fgb-var.txt  14/2/2016
 vvar.fst: bin/vvar.fst
 bin/vvar.fst: src/v12-lex-cc.txt src/v2-lex-cc.txt src/v1-lex-cc.txt \
-	src/v-lex-fgb-eqvar.txt \
+	src/v-lex-fgb-eqvar.txt src/v-lex-fgb-var.txt \
 	int/ninit.fst int/vrul.fst \
 	int/ntidy.fst int/ftidy.fst
 	@echo
 	@echo " <<< Compiling (=) Verb Variants >>>"
 	@echo
-	@cat src/v-lex-fgb-eqvar.txt \
+	@cat src/v-lex-fgb-eqvar.txt src/v-lex-fgb-var.txt \
 	src/v12-lex-cc.txt \
 	src/v1-lex-cc.txt \
 	src/v2-lex-cc.txt > /tmp/vvar.txt
@@ -974,12 +1079,12 @@ bin/vvar.fst: src/v12-lex-cc.txt src/v2-lex-cc.txt src/v1-lex-cc.txt \
 # PREFIXED VERBS + RULES
 ########################
 prefverbs.fst: bin/prefverbs.fst
-bin/prefverbs.fst: int/verbpref.fst \
+bin/prefverbs.fst: int/verbpref.fst  \
 	int/ncmpd.fst int/ninit.fst int/vrul.fst int/ftidy.fst
 	@echo
 	@echo " <<< Composing Prefixed Verbs and Rules >>>"
 	@echo
-	@printf "load int/verbpref.fst \n\
+	@printf "load int/verbpref.fst  \n\
 	load int/ncmpd.fst \n turn \n compose net \n\
 	load int/ninit.fst \n turn \n compose net \n\
 	load int/vrul.fst  \n turn \n compose net \n\
@@ -988,18 +1093,37 @@ bin/prefverbs.fst: int/verbpref.fst \
 	quit \n" > /tmp/v2-scr
 	@foma  < /tmp/v2-scr
 	@rm -f /tmp/v2-scr	
+# PREFIXED VERBS + RULES (Historical)
+########################
+# a_deirtear 
+prefverbshist.fst: bin/prefverbshist.fst
+bin/prefverbshist.fst: int/verbprefhist.fst  \
+	int/ncmpd.fst int/ninit.fst int/vrul.fst int/ftidy.fst
+	@echo
+	@echo " <<< Composing Prefixed Verbs and Rules (Historical) >>>"
+	@echo
+	@printf "load int/verbprefhist.fst  \n\
+	load int/ncmpd.fst \n turn \n compose net \n\
+	load int/ninit.fst \n turn \n compose net \n\
+	load int/vrul.fst  \n turn \n compose net \n\
+	load int/ftidy.fst \n turn \n compose net \n\
+	save stack bin/prefverbshist.fst \n\
+	quit \n" > /tmp/v2-scr
+	@foma  < /tmp/v2-scr
+	@rm -f /tmp/v2-scr	
+
 ###################################################################
-# verbal nouns & verbal adjectives
+# Verbal Nouns & Verbal Adjectives
 ###################################################################
 
 vn.fst: int/vn.fst
+int/vnvalex.fst: int/vn.fst
 int/vn.fst: src/vnva-lex-multi.txt \
 	src/vn-lex-stems.txt  \
 	src/vng-lex-stems.txt  \
 	src/va-lex-stems.txt  \
 	src/vnva-lex-fgb1.txt  \
-	src/vn-lex-fgb-var.txt  \
-	src/vn-lex-fgb-eqvar.txt  \
+	src/vnva-lex-stems1.txt \
 	src/vnva-lex-cc.txt int/ninit.fst int/vrul.fst
 	@echo
 	@echo " <<< Compiling Verbal Nouns & Adjectives >>>"
@@ -1009,8 +1133,7 @@ int/vn.fst: src/vnva-lex-multi.txt \
 	src/vng-lex-stems.txt  \
 	src/va-lex-stems.txt  \
 	src/vnva-lex-fgb1.txt  \
-	src/vn-lex-fgb-var.txt  \
-	src/vn-lex-fgb-eqvar.txt  \
+	src/vnva-lex-stems1.txt \
 	src/vnva-lex-cc.txt > /tmp/vnvalex.txt
 	@printf "read lexc /tmp/vnvalex.txt \n\
 	save stack int/vnvalex.fst \n\
@@ -1021,6 +1144,32 @@ int/vn.fst: src/vnva-lex-multi.txt \
 	@foma  < /tmp/v2-scr
 	@rm -f /tmp/v2-scr	
 	@rm -f /tmp/vnvalex.txt	
+
+###################################################################
+# VARIANT verbal nouns & verbal adjectives
+###################################################################
+
+vnvar.fst: bin/vnvar.fst
+bin/vnvar.fst: src/vnva-lex-multi.txt \
+	src/vn-lex-fgb-var.txt  \
+	src/vn-lex-fgb-eqvar.txt  \
+	src/vnva-lex-cc.txt int/ninit.fst int/vrul.fst
+	@echo
+	@echo " <<< Compiling VARIANT Verbal Nouns & Adjectives >>>"
+	@echo
+	@cat src/vnva-lex-multi.txt \
+	src/vn-lex-fgb-var.txt  \
+	src/vn-lex-fgb-eqvar.txt  \
+	src/vnva-lex-cc.txt > /tmp/vnvalex.txt
+	@printf "read lexc /tmp/vnvalex.txt \n\
+	save stack int/vnvarlex.fst \n\
+	load int/ninit.fst \n turn \n compose net \n\
+	load int/vrul.fst  \n turn \n compose net \n\
+	save stack bin/vnvar.fst \n\
+	quit \n" > /tmp/v2-scr
+	@foma  < /tmp/v2-scr
+	@rm -f /tmp/v2-scr	
+	@rm -f /tmp/vnvarlex.txt	
 
 
 ###################################################################
@@ -1109,18 +1258,32 @@ int/det.fst: src/det-lex.txt
 	@foma  < /tmp/det-scr
 	@rm -f /tmp/det-scr
 
-# INTERJECTIONS
+# INTERJECTIONS & COMMUNICATORS
 
 itj.fst: int/itj.fst
 int/itj.fst: src/itj-lex.txt
 	@echo
-	@echo " <<< Compiling Interjections Lexicon >>>"
+	@echo " <<< Compiling Interjections & Communicators Lexicon >>>"
 	@echo
 	@printf "read lexc src/itj-lex.txt \n\
 	save stack int/itj.fst \n\
 	quit \n" > /tmp/itj-scr
 	@foma  < /tmp/itj-scr
 	@rm -f /tmp/itj-scr
+
+# FOREIGN - ENGLISH
+
+english.fst: int/english.fst
+int/english.fst: src/english-lex.txt
+	@echo
+	@echo " <<< Compiling English Lexicon >>>"
+	@echo
+	@printf "read lexc src/english-lex.txt \n\
+	save stack int/english.fst \n\
+	quit \n" > /tmp/itj-scr
+	@foma  < /tmp/itj-scr
+	@rm -f /tmp/itj-scr
+
 
 # PARTICLES
 
@@ -1362,5 +1525,4 @@ int/vrul.fst: src/v-reg.txt
 
 clean:
 	@rm -f bin/*.fst int/*.fst
-	@rm -f bin/*.hfst
 

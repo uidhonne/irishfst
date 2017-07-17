@@ -36,9 +36,12 @@ push uruT
 push ntVowel
 push hVowel
 
+
+ 
 !! NOW COMPOSED IN LOOKUP.SCRIPT
 !!read regex uruB .o. uruC .o. uruD .o. uruG .o. uruF .o. uruG .o. uruP .o. uruS .o. uruT .o. ntVowel .o. hVowel .o. @"int/fixed.fst";
 
+clear stack
 read regex uruB .o. uruC .o. uruD .o. uruG .o. uruF .o. uruG .o. uruP .o. uruS .o. uruT .o. ntVowel .o. hVowel ;
 
 save stack bin/urucaps.fst
@@ -46,6 +49,7 @@ save stack bin/urucaps.fst
 echo <<< COMPOSING >>>
 clear stack
 
-read regex @"bin/all.fst" .o. @"bin/urucaps.fst"; 
+##read regex @"bin/all.fst" .o. @"bin/urucaps.fst"; 
+read regex @"bin/initcaps-all.fst" .o. @"bin/urucaps.fst"; 
 save stack bin/urucaps-all.fst
 
