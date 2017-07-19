@@ -1,4 +1,6 @@
 #!/usr/bin/perl
+# Creates entries for verbs with standard suffixes (-áil, -igh)
+# input is tab-separated: verb, translation, transitivity
 
 use warnings;
 use strict;
