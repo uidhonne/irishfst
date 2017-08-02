@@ -6,7 +6,11 @@
 # 4. vislcg3  disambiguation
 # elaine oct 2012
 
-cat test.txt |  tr -sc "[:alnum:]" "[\n*]" | flookup -a bin/lexguess.fst | perl dis/lookup2cg3.prl | vislcg3 -g dis/gael-dis.rle 
+# SCRAP
+# tr -sc "[:alnum:]" "[\n*]"
+#  | perl $HOME/irish-pos-install/tok/tokclean.prl | flookup -a bin/lexguess.fst | perl dis/lookup2cg3.prl | vislcg3 -g dis/gael-dis.rle
+
+cat Logainm.txt |  tokenize -utf8 -d 700 $HOME/irish-pos-install/tok/tok-gael.fst | flookup -a bin/lexguess.fst | perl dis/lookup2cg3.prl | vislcg3 -g dis/gael-dis.rle > LogainmPOS.txt
 
 
 
