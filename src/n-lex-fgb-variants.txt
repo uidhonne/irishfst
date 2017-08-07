@@ -2920,7 +2920,7 @@ domhaoine	Nf4-SINGULAR;	! Headword: domhaoin (f) ***
 domhaoineas	Nm1-1;	! Headword: domhaoin (f) ***
 !!!! CC Evaluation dream	Nf?-??;	! Headword: dream (m); Forms: f, npl. ~a
 dream+Noun+Fem+Com+Sg:dream	#;
-dream+Noun+Fem+Com+Sg+DefArt:dhream	#;
+dream+Noun+Fem+Com+Sg+DefArt:dream	#;
 dream+Noun+Fem+Gen+Sg:dreama	#;
 dream+Noun+Fem+Com+Pl:dreama	#;
 dream+Noun+Fem+Gen+Pl:dreama	#;	! ???
