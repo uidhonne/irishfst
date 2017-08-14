@@ -396,6 +396,7 @@ REMOVE (Verb Neg) IF (NOT -1 (Part Vb Neg)) (NOT 0 ("<níl>") OR ("<Níl>"));
 # note will deal with "ar mhaithe le" where "mhaithe" could be mistaken for a verb PresSubj rather than noun
 REMOVE (Verb PresSubj Neg) IF ( NOT -1 ("ná") OR ("nár")) ;
 REMOVE (Verb PresSubj) IF ( NOT -1 ("ná") OR ("go")) ;
+REMOVE (Verb PastInd Dep) IF (-1 ("go" Part Vb Subj)) (NOT -1 ("go" Part Vb Cmpl)) ;
 
 # it is a verb if it is followed by a pronoun form tagged as verb subject
 # it is an interrogative form of verb if it is preceded by interr adv e.g. cá
