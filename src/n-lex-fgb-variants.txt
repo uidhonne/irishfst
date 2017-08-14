@@ -4,6 +4,8 @@ LEXICON NounsVariants
 ! These variants have, for the most part, the same CC
 ! as the headwords.
 ! CW 25/08/08
+! :0 entries fixed by JOR Aug 17
+!
 abhcóidíocht		Nf3-SINGULAR;	! Headword: abhcóideacht
 agraitheoir		Nm3-1;	! Headword: agróir
 áibhéis		Nf2-SINGULAR;	! Headword: aibhéis
