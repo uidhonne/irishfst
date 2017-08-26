@@ -47,7 +47,8 @@ LEXICON NP-PERS-EN
 
 LEXICON NP-Fam
 +Prop+Noun+Masc+Com+Sg+hPref:^IM^hv		#;
-+Prop+Noun+Masc+Gen+Sg:^M^G^Caol^hv^ts		#; ! ^Caol not yet tested
++Prop+Noun+Masc+Gen+Sg:^M^G^Caol^hv		#; ! ^Caol not yet tested
++Prop+Noun+Masc+Gen+Sg+DefArt:^M^G^Caol^ts		#; ! ^Caol not yet tested
 +Prop+Noun+Fem+Gen+Sg+Len:^IM^Sé		#;
 !!!+Prop+Noun+Masc+Gen+Sg:^M^G^Sé		#;
 +Prop+Noun+Masc+Com+Sg+DefArt:^M^C^Lea^tv^VHach		#;
