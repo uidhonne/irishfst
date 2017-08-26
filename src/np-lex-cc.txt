@@ -129,12 +129,13 @@ LEXICON Nf5-Prop
 
 LEXICON IMGen
 #;
-0:^hv^ts			Seimhiu;
+0:^hv			Seimhiu;
 
 LEXICON Seimh
 +Len:^Sé		#;
 
 LEXICON Seimhiu
++DefArt:^ts		#;
 +Len:^IM^Sé		#;
 
 LEXICON Sing
