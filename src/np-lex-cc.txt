@@ -61,7 +61,8 @@ LEXICON NP-Fam-0
 
 LEXICON NP-Fam-V
 +Prop+Noun+Masc+Com+Sg+hPref:^IM^hv		#;
-+Prop+Noun+Masc+Gen+Sg:^M^G^hv^ts		#;
++Prop+Noun+Masc+Gen+Sg:^M^G^hv		#;
++Prop+Noun+Masc+Gen+Sg+DefArt:^M^G^hv^ts		#;
 +Prop+Noun+Fem+Gen+Sg+Len:^IM^Sé		#;
 +Prop+Noun+Masc+Com+Sg+DefArt:^IM^tvch	#;
 
