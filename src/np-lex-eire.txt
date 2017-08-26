@@ -160,7 +160,7 @@ Ciarraí	NP-PLACE-fem;	! !!!!Co. Kerry
 Cláir	NP-PLACE-fem;	! !!!!Co. Clare
 Corcaí	NP-PLACE-fem;	! !!!!Co. Cork
 Cluainín	NP-PLACE;	! Manorhamilton
-Connacht	NP-PLACE;	! Connaught
+!Connacht	NP-PLACE;	! Connaught - Connachta, f.pl
 Corcaigh	NP-PLACE;	! Cork
 Doire	NP-PLACE-fem;	! !!!!Co. Derry
 Doire	NP-PLACE;	! Derry
