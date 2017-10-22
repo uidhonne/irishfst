@@ -73,12 +73,12 @@ sibh+Pron+Pers+2P+Pl:sibh			#;	! you pl. (also ye or yous)
 
 siad+Pron+Pers+3P+Pl+Sbj:siad	#;	! they
 iad+Pron+Pers+3P+Pl:iad				#;	! they
-iad+Pron+Pers+3P+Pl:hiad			#;	! (not) they
+iad+Pron+Pers+3P+Pl+hPref:hiad			#;	! (not) they
 
 !!! SEE PREP-LEX á+Pron+Pers+3P+Obj:á			#;	!it as obj bhí siad á bhualadh
 
 ea+Pron+Pers+3P+Sg:ea					#;	! it
-ea+Pron+Pers+3P+Sg:hea					#;	! (not) it
+ea+Pron+Pers+3P+Sg+hPref:hea					#;	! (not) it
 ea+Pron+Pers+3P+Sg:eadh					#;	! it
 
 !---------------------------------------------------------------------------
