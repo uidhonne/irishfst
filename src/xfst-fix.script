@@ -273,7 +273,7 @@ define Good	[[{tonn} %+Noun %+Fem %+Gen %+Weak %+Pl %+DefArt]:{dtonn}
 #		|[{faighin} %+Noun %+Fem %+Com %+Sg %+Ecl]:{bhfaighin}
 		|[{saighean} %+Noun %+Fem %+Com %+Sg]:{saighean}
 		|[{saighean} %+Noun %+Fem %+Com %+Sg %+Len]:{shaighean}
-		|[{saighean} %+Noun %+Fem %+Com %+Sg]:{tsaighean}
+		|[{saighean} %+Noun %+Fem %+Com %+Sg %+DefArt]:{tsaighean}
 #		|[{daighear} %+Noun %+Fem %+Com %+Sg]:{daighear}
 #		|[{daighear} %+Noun %+Fem %+Com %+Sg %+Len]:{dhaighear}
 #		|[{daighear} %+Noun %+Fem %+Com %+Sg %+Ecl]:{ndaighear}
