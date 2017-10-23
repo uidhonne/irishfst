@@ -63,6 +63,7 @@ iompar		Nm1-SINGULAR;
 iúl		Nm1-SINGULAR;
 láithreach	Nm1-SINGULAR;
 ligean		Nm1-SINGULAR;
+líon		Nm1-SINGULAR;
 misneach	Nm1-SINGULAR;	! courage 
 mórán		Nm1-SINGULAR;
 neart		Nm1-SINGULAR;
