@@ -32,7 +32,6 @@ m h -> [%^FT] || _ %^bgmh %^Verb ]
 .o.
 [%^bgmh ->[]]
 .o.
-
 ! 2nd. Conjugation Syncopation of Stem
 
 [a i l -> %^FY l || _ %^Coim %^Verb [\%^Fr]]
@@ -84,8 +83,9 @@ m h -> [%^FT] || _ %^bgmh %^Verb ]
 .o.
 
 ! 1st Conjugation Slender Stems => broaden root eg sábháil
-
-[i -> [%^FB ] || _ ? %^Lea]
+! also cumaisc, teasairg, agaill - may 2017
+! also iniaigh, eisiaigh
+[i -> [%^FB ] || _ ? (c|g|h|l) %^Lea]
 .o.
 [%^Lea -> []]
 .o.
@@ -93,6 +93,9 @@ m h -> [%^FT] || _ %^bgmh %^Verb ]
 
 .o.
 
+!! fix rithtear, braithtear etc should be ritear, braitear etc
+[t h -> [] || i _ t %^FS e a r ]
+.o.
 [%^VAdj -> [] ]		!TEMPORARY - VERBAL ADJS. AND VERBAL NOUNS
 			!            IN 2 MUST BE SORTED OUT
 ;

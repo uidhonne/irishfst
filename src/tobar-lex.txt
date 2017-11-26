@@ -3,6 +3,8 @@
 !
 ! E. Uí Dhonnchadha
 ! Jan 2009
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+! Feb 2014 RIA Corpus II
 !****************************************************************************
 
 Multichar_Symbols
@@ -98,7 +100,7 @@ is_maith+Cop+Past+Rel+Adj+Comp:ab_fhearr	#;	! ab fhearr
 is_fiú+Cop+Pres+Noun+Com+Masc+Sg:gurbh_fhiú	#;
 is_féidir+Cop+Past+Rel+Subst+Noun+Sg+Len:ab_fhéidir	#;
 is_éigean+Cop+Pres+RelInd+Noun+Masc+Com+Sg:arbh_éigean	#;
-cén_t-ainm+Cop+Q+Art+Noun+Com+Masc+Sg:Cén_t-ainm	#;
+!!cén_t-ainm+Cop+Q+Art+Noun+Com+Masc+Sg:Cén_t-ainm	#;
 is_as+Cop+Past+Prep+Simp:ba_as	#;	! 
 
 cad_é+Cop+Pro+Q:cad_é		#;	! caidé, goidé
@@ -106,117 +108,155 @@ cá_as+Adv+Q+Prep+Simp:cá_as	#;	!
 cá_ar+Adv+Q+Prep+Simp:cá_ar	#;	! 
 
 arna_mhárach+Prep+Cmpd+Subst+Noun+Sg:arna_mhárach	#;
-chun_an+Prep+Simp+Art+Sg+Def:chun_an	#;
-chun_na+Prep+Simp+Art+Pl+Def:chun_na	#;
+!!chun_an+Prep+Simp+Art+Sg+Def:chun_an	#;
+!!chun_na+Prep+Simp+Art+Pl+Def:chun_na	#;
 i_measc+Prep+Simp+Noun+Com+Masc+Sg:i_measc	#;
 
-cé_gur+Conj+Subord+Cop+Pres+Dep:cé_gur	#;
-cé_is+Conj+Subord+Cop+Pres+Dep:cé_is	#;
+!!cé_gur+Conj+Subord+Cop+Pres+Dep:cé_gur	#;
+!!cé_is+Conj+Subord+Cop+Pres+Dep:cé_is	#;
         
 
 ! PHRASAL COMPOUNDS
 ! First word is head of phrase 
 
-bord_cinn+Noun+Masc+Com+Sg_Len:bhord_cinn	#;
-bád_abhann+Noun+Masc+Com+Sg:bád_abhann	#;
-beacán_bearaigh+Noun+Masc+Com+Sg:beacán_bearaigh	#;
-bó_bainne+Noun+Fem+Com+Sg:bó_bainne	#;
-bean_tí+Noun+Fem+Com+Sg:bean_tí	#;
-bolg_le_gréin+Noun+Masc+Com+Sg:bolg_le_gréin	#;
-caitheamh_aimsire+Noun+Masc+Com+Sg:caitheamh_aimsire	#;
-ceann_feadhna+Noun+Masc+Com+Sg:ceann_feadhna	#;
-ceann_feadhna+Noun+Masc+Com+Sg+Ecl:gceann_feadhna	#;
-ceann_tuí+Noun+Masc+Com+Sg:ceann_tuí	#;
-cathaoir_láimhe+Noun+Fem+Com+Sg+Len:chathaoir_láimhe	#;
-cheirt_seo+Noun+Fem+Com+Sg+Det+Dem+Len:cheirt_seo	#;
-cois_sin+Noun+Fem+Com+Sg+Det+Dem+Len:chois_sin	#;
-corda_glas+Noun+Masc+Com+Sg+Len:chorda_glas	#;
-Cú_Chulainn+Noun+Masc+Com+Sg+Len:Chú_Chulainn	#;
-Cú_Chulainn+Noun+Masc+Com+Sg+Ecl:gCú_Chulainn	#;
+!!bord_cinn+Noun+Masc+Com+Sg_Len:bhord_cinn	#;
+!!bád_abhann+Noun+Masc+Com+Sg:bád_abhann	#;
+!!beacán_bearaigh+Noun+Masc+Com+Sg:beacán_bearaigh	#;
+!!bó_bainne+Noun+Fem+Com+Sg:bó_bainne	#;
+!!bean_tí+Noun+Fem+Com+Sg:bean_tí	#;
+!!bolg_le_gréin+Noun+Masc+Com+Sg:bolg_le_gréin	#;
+!!caitheamh_aimsire+Noun+Masc+Com+Sg:caitheamh_aimsire	#;
+!!ceann_feadhna+Noun+Masc+Com+Sg:ceann_feadhna	#;
+!!ceann_feadhna+Noun+Masc+Com+Sg+Ecl:gceann_feadhna	#;
+!!ceann_tuí+Noun+Masc+Com+Sg:ceann_tuí	#;
+!!cathaoir_láimhe+Noun+Fem+Com+Sg+Len:chathaoir_láimhe	#;
+!!cheirt_seo+Noun+Fem+Com+Sg+Det+Dem+Len:cheirt_seo	#;
+!!cois_sin+Noun+Fem+Com+Sg+Det+Dem+Len:chois_sin	#;
+!!corda_glas+Noun+Masc+Com+Sg+Len:chorda_glas	#;
+!!Cú_Chulainn+Noun+Masc+Com+Sg+Len:Chú_Chulainn	#;
+!!Cú_Chulainn+Noun+Masc+Com+Sg+Ecl:gCú_Chulainn	#;
 
-ciolar_chiot+Noun+Masc+Com+Sg:ciolar_chiot	#;
-cionn_is+Noun+Masc+Com+Sg+Conj+Coord:cionn_is	#;
-cloch_sneachta+Noun+Fem+Com+Sg:cloch_sneachta	#;
+!!ciolar_chiot+Noun+Masc+Com+Sg:ciolar_chiot	#;
+!!cionn_is+Noun+Masc+Com+Sg+Conj+Coord:cionn_is	#;
+!!cloch_sneachta+Noun+Fem+Com+Sg:cloch_sneachta	#;
 cosa_in_airde+Noun+Fem+Com+Pl:cosa_in_airde	#;
 
-croitheadh_inchinne+Verbal+Noun+VTI:croitheadh_inchinne	#;
-culaith_uisce+Noun+Fem+Com+Sg:culaith_uisce	#;
-cuma_liom+Adj+Base:cuma_liom	#;
-lán_mara+Noun+Masc+Com+Sg:lán_mara	#;
-leabhar_an_tsiúil+Noun+Masc+Com+Sg:leabhar_an_tsiúil	#;
-leath_bealaigh+Noun+Fem+Com+Sg:leath_bealaigh	#;
-lionn_dubh+Noun+Masc+Com+Sg:lionn_dubh	#;
-mac_tíre+Noun+Masc+Com+Sg:mac_tíre	#;
-cac_bó+Noun+Masc+Com+Sg:cac_bó	#;
+!!croitheadh_inchinne+Verbal+Noun+VTI:croitheadh_inchinne	#;
+!!culaith_uisce+Noun+Fem+Com+Sg:culaith_uisce	#;
+!!cuma_liom+Adj+Base:cuma_liom	#;
+!!lán_mara+Noun+Masc+Com+Sg:lán_mara	#;
+!!leabhar_an_tsiúil+Noun+Masc+Com+Sg:leabhar_an_tsiúil	#;
+!!leath_bealaigh+Noun+Fem+Com+Sg:leath_bealaigh	#;
+!!lionn_dubh+Noun+Masc+Com+Sg:lionn_dubh	#;
+!!mac_tíre+Noun+Masc+Com+Sg:mac_tíre	#;
+!!cac_bó+Noun+Masc+Com+Sg:cac_bó	#;
 meán_lae+Noun+Masc+Com+Sg:meán_lae	#;
 meán_lae+Noun+Masc+Com+Sg+Len:mheán_lae	#;
 meán_oíche+Noun+Masc+Com+Sg:meán_oíche	#;
 meán_oíche+Noun+Masc+Com+Sg+Len:mheán_oíche	#;
-láimhe_láidre+Noun+Fem+Gen+Sg:láimhe_láidre	#;
-aon_mheall+Num+Card+Noun+Masc+Com+Sg+Ecl:n-aon_mheall	#;
-gach_aon+Det+Qty+Def+Ecl:ngach_aon	#;
-gach_aon+Det+Qty+Def:gach_aon	#;
-gan_fhios+Noun+Masc+Com+Sg:gan_fhios	#;
-gan_fhios+Noun+Masc+Com+Sg+Ecl:ngan_fhios	#;
-gúngaí_beaga+Noun+Masc+Com+Pl+Ecl:ngúngaí_beaga	#;
-nós_chuma_liom+Noun+Masc+Com+Sg:nós_chuma_liom	#;
-peann_luaidhe+Noun+Masc+Com+Sg:peann_luaidhe	#;
-ré_dhorcha+Noun+Fem+Com+Sg:ré_dhorcha	#;
-rosc_catha+Noun+Masc+Com+Sg:rosc_catha	#;
-saor_adhmaid+Noun+Masc+Com+Sg:saor_adhmaid	#;
-scáthanna_solais+Noun+Masc+Com+Pl:scáthanna_solais	#;
-scáth_fearthainne+Noun+Masc+Com+Sg:scáth_fearthainne	#;
-scáth_gréine+Noun+Masc+Com+Sg:scáth_gréine	#;
-séideáin_sealáin+Noun+Masc+Com+Pl:séideáin_sealáin	#;
-sliogán_tine+Noun+Masc+Com+Sg:sliogán_tine	#;
-stól_campa+Noun+Masc+Com+Sg:stól_campa	#;
-stól_lúbtha+Noun+Masc+Com+Sg:stól_lúbtha	#;
-támhach_táisc+Noun+Masc+Com+Sg:támhach_táisc	#;
-támhach_táisc+Noun+Masc+Com+Sg+Len:thámhach_táisc	#;
-taobh_istigh+Noun+Masc+Com+Sg:taobh_istigh	#;
-aon_fhear+Num+Card+Noun+Masc+Com+Sg:aon_fhear	#;
-aon_fhear+Num+Card+Noun+Masc+Com+Sg+DefArt:t-aon_fhear	#;
-aon_ghnó+Num+Card+Noun+Masc+Com+Sg:aon_ghnó	#;
-aon_guth+Num+Card+Noun+Masc+Com+Sg:aon_ghuth	#;
-aon_rud+Num+Card+Noun+Masc+Com+Sg:aon_rud	#;
-aon_scraith+Num+Card+Noun+Fem+Com+Sg:aon_scraith	#;
-aon_smaoineamh+Num+Card+Noun+Masc+Com+Sg:aon_smaoineamh	#;
-aon_turas+Num+Card+Noun+Masc+Com+Sg:aon_turas	#;
-tír_mór+Noun+Fem+Com+Sg:tír_mór	#;
-thamhach_táisc+Noun+Masc+Com+Sg:thamhach_táisc	#;
-trioc_tosaithe+Noun+Masc+Com+Sg:trioc_tosaithe	#;
-seomra_stáit+Noun+Masc+Com+Sg+DefArt:tseomra_stáit	#;
-uisce_beatha+Noun+Masc+Com+Sg:uisce_beatha	#;
-buíon_cheoil+Noun+Masc+Com+Sg+Len:bhuíon_cheoil	#;
+!!láimhe_láidre+Noun+Fem+Gen+Sg:láimhe_láidre	#;
+!!aon_mheall+Num+Card+Noun+Masc+Com+Sg+Ecl:n-aon_mheall	#;
+!!gach_aon+Det+Qty+Def+Ecl:ngach_aon	#;
+!!gach_aon+Det+Qty+Def:gach_aon	#;
+!!gan_fhios+Noun+Masc+Com+Sg:gan_fhios	#;
+!!gan_fhios+Noun+Masc+Com+Sg+Ecl:ngan_fhios	#;
+!!gúngaí_beaga+Noun+Masc+Com+Pl+Ecl:ngúngaí_beaga	#;
+!!nós_chuma_liom+Noun+Masc+Com+Sg:nós_chuma_liom	#;
+!!peann_luaidhe+Noun+Masc+Com+Sg:peann_luaidhe	#;
+!!ré_dhorcha+Noun+Fem+Com+Sg:ré_dhorcha	#;
+!!rosc_catha+Noun+Masc+Com+Sg:rosc_catha	#;
+!!saor_adhmaid+Noun+Masc+Com+Sg:saor_adhmaid	#;
+!!scáthanna_solais+Noun+Masc+Com+Pl:scáthanna_solais	#;
+!!scáth_fearthainne+Noun+Masc+Com+Sg:scáth_fearthainne	#;
+!!scáth_gréine+Noun+Masc+Com+Sg:scáth_gréine	#;
+!!séideáin_sealáin+Noun+Masc+Com+Pl:séideáin_sealáin	#;
+!!sliogán_tine+Noun+Masc+Com+Sg:sliogán_tine	#;
+!!stól_campa+Noun+Masc+Com+Sg:stól_campa	#;
+!!stól_lúbtha+Noun+Masc+Com+Sg:stól_lúbtha	#;
+!!támhach_táisc+Noun+Masc+Com+Sg:támhach_táisc	#;
+!!támhach_táisc+Noun+Masc+Com+Sg+Len:thámhach_táisc	#;
+!!taobh_istigh+Noun+Masc+Com+Sg:taobh_istigh	#;
+!!aon_fhear+Num+Card+Noun+Masc+Com+Sg:aon_fhear	#;
+!!aon_fhear+Num+Card+Noun+Masc+Com+Sg+DefArt:t-aon_fhear	#;
+!!aon_ghnó+Num+Card+Noun+Masc+Com+Sg:aon_ghnó	#;
+!!aon_guth+Num+Card+Noun+Masc+Com+Sg:aon_ghuth	#;
+!!aon_rud+Num+Card+Noun+Masc+Com+Sg:aon_rud	#;
+!!aon_scraith+Num+Card+Noun+Fem+Com+Sg:aon_scraith	#;
+!!aon_smaoineamh+Num+Card+Noun+Masc+Com+Sg:aon_smaoineamh	#;
+!!aon_turas+Num+Card+Noun+Masc+Com+Sg:aon_turas	#;
+!!tír_mór+Noun+Fem+Com+Sg:tír_mór	#;
+!!thamhach_táisc+Noun+Masc+Com+Sg:thamhach_táisc	#;
+!!trioc_tosaithe+Noun+Masc+Com+Sg:trioc_tosaithe	#;
+!!seomra_stáit+Noun+Masc+Com+Sg+DefArt:tseomra_stáit	#;
+!!uisce_beatha+Noun+Masc+Com+Sg:uisce_beatha	#;
+!!buíon_cheoil+Noun+Masc+Com+Sg+Len:bhuíon_cheoil	#;
 
-seo_againne+Det+Dem+Pron+Prep+1P+Pl+Emph:seo_againne	#;
-seo_agamsa+Det+Dem+Pron+Prep+1P+Sg+Emph:seo_agamsa	#;
-seo_aicise+Det+Dem+Pron+Prep+3P+Sg+Fem+Emph:seo_aicise	#;
+!!seo_againne+Det+Dem+Pron+Prep+1P+Pl+Emph:seo_againne	#;
+!!seo_agamsa+Det+Dem+Pron+Prep+1P+Sg+Emph:seo_agamsa	#;
+!!seo_aicise+Det+Dem+Pron+Prep+3P+Sg+Fem+Emph:seo_aicise	#;
 
-anoir_aduaidh+Adv+Dir:anoir_aduaidh	#;
-soir_ó_thuaidh+Adv+Dir:soir_ó_thuaidh	#;
-thiar_thuaidh+Adv+Dir:Thiar_Thuaidh	#;
+!!anoir_aduaidh+Adv+Dir:anoir_aduaidh	#;
+!!soir_ó_thuaidh+Adv+Dir:soir_ó_thuaidh	#;
+!!thiar_thuaidh+Adv+Dir:Thiar_Thuaidh	#;
 
-gabh_anseo+Verb+VTI+Imper+2P+Sg+Adv+Loc:gabh_anseo	#;
-ga_seá+Subst+Noun+Sg:ga_seá	#;
-do_do+Prep+Simp+Det+Poss+2P+Sg:do_do	#;
-éadach_ola+Noun+Masc+Com+Sg:éadach_ola	#;
-faoi_mo+Prep+Simp+Det+Poss+1P+Sg:faoi_mo	#;
-cliabhán_rothaí+Noun+Masc+Com+Sg+Ecl:gcliabhán_rothaí	#;
-gléas_imirce+Noun+Masc+Com+Sg+Len:Ghléas_Imirce	#;
-innill_tógála+Noun+Masc+Gen+Sg:innill_tógála	#;
+!!gabh_anseo+Verb+VTI+Imper+2P+Sg+Adv+Loc:gabh_anseo	#;
+!!ga_seá+Subst+Noun+Sg:ga_seá	#;
+!!do+Prep+Simp+Det+Poss+2P+Sg:do_do	#;
+!!éadach_ola+Noun+Masc+Com+Sg:éadach_ola	#;
+!!faoi_mo+Prep+Simp+Det+Poss+1P+Sg:faoi_mo	#;
+!!cliabhán_rothaí+Noun+Masc+Com+Sg+Ecl:gcliabhán_rothaí	#;
+!!gléas_imirce+Noun+Masc+Com+Sg+Len:Ghléas_Imirce	#;
+!!innill_tógála+Noun+Masc+Gen+Sg:innill_tógála	#;
 
 
-a_déarfadh+Verb+VTI+Vow+Cond:a_déarfadh	#;
-a_deir+Verb+VTI+Vow+PresInd:a_deir	#;
-a_deirim+Verb+VTI+Vow+PresInd+1P+Sg:a_deirim	#;
-a_deireadh+Verb+VTI+Vow+PastImp:a_deireadh	#;
-a_deirtí+Verb+VTI+Vow+PastImp+Auto:a_deirtí	#;
-a_dúirt+Verb+VTI+Vow+PastInd:a_dúirt	#;
-a_fheictear+Verb+VTI+PresInd+Auto+Len:a_fheictear	#;
-a_fheiceann+Verb+VTI+PresInd+Len:a_fheiceann	#;
+!!abair+Verb+VTI+Vow+Cond:a_déarfadh	#;
+!!abair+Verb+VTI+Vow+PresInd+Rel:a_deir	#;
+!!abair+Verb+VTI+Vow+PresInd+1P+Sg+Rel:a_deirim	#;
+!!abair+Verb+VTI+Vow+PastImp+Rel:a_deireadh	#;
+!!abair+Verb+VTI+Vow+PastImp+Auto:a_deirtí	#;
+!!abair+Verb+VTI+Vow+PastInd:a_dúirt	#;
+!!feic+Verb+VTI+PresInd+Auto+Rel+Len:a_fheictear	#;
+!!feic+Verb+VTI+PresInd+Rel+Len:a_fheiceann	#;
+!!arsa_an+Verb+PastInd+Art+Sg+Def:arsa_an	#;
 
-arsa_an+Verb+PastInd+Art+Sg+Def:arsa_an	#;
+
+aithris+Verb+VTI+Vow+FutInd+1P+Sg:aithriseoidh_mé	#;	! Aithriseóchad 
+faigh+Verb+VT+PastInd+1P+Sg+Ecl:bhfuair_mé			! bhfuaras 
+bí+Verb+VI+PastInd+1P+Sg:bhí_mé	#;				! bhíos => bhí_mé
+bí+Verb+VI+PastInd+1P+Sg+Emph:bhí_mise	#;			! bhíos-sa => bhí_mise
+cuimhnigh+Verb+VTI+FutInd+1P+Sg:cuimhneoidh_mé	#;		! Cuimhneochad => Cuimhneoidh_mé
+!! do_bhíos => bhí_mé
+caith+Verb+VTI+PastInd+1P+Sg+Len:chaith_mé	#;		! do_chaitheas => chaith_mé
+cuir+Verb+VTI+PastInd+1P+Sg+Len:chuir_mé	#;		! do_chuireas => chuir_mé
+gearr+Verb+VTI+PastInd+1P+Sg+Len:ghearr_mé	#;		! do_ghearras => ghearr_mé
+rith+Verb+VTI+PastInd+1P+Sg+Len:rith_mé	#;			! Do_ritheas => Rith_mé
+tar+Verb+VTI+PastInd+1P+Sg+Len:tháinig_mé	#;		! dtánag => tháinig_mé
+!! thánag => tháinig_mé
+faigh+Verb+VT+PastInd+1P+Sg+Ecl:bhfuair_mé	#;		! fuaras => bhfuair_mé
+imigh+Verb+VI+FutInd+1P+Sg:imeoidh_mé	#;			! Imeóchad => Imeoidh_mé
+léigh+Verb+VTI+PastInd+1P+Sg:léigh_mé	#;			! léas => léigh_mé
+bí+Verb+VI+PastInd+Dep+1P+Sg:raibh_mé	#; 			! rabhas => raibh_mé
+tabhair+Verb+VD+FutInd+1P+Sg:tabharfaidh_mé #; 			! tiubhrad => tabharfaidh_mé
+!! dtiubhrad => tabharfaidh_mé
+fuirigh+Verb+VTI+FutInd+1P+Sg:fuireoidh_mé #; 			! fhuireochad => fuireoidh_mé
+faigh+Verb+VT+PastInd+1P+Sg:fuair_mé	#;			! fuaras => fuair_mé
+inis+Verb+VT+FutInd+1P+Sg:inseoidh_mé #; 			! n-innseochad => inseoidh_mé
+
+!!!! ADD THESE ITEMS !!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!feic+Verb+VTI+FutInd+2P+Sg:feicfidh_tú	#;		! chífir => feicfidh_tú
+!!!bí+Verb+VI+PresInd+2P+Sg+Rel:atá_tú	#;		! ataoi => atá_tú
+!!!feic+Verb+VTI+PresFut+2P+Sg+Ecl:bhfeicfidh_tú	#;	! bhfeicfir => bhfeicfidh_tú
+!!!caith+Verb+VTI+FutInd+2P+Sg:caithfidh_tú	#;	! caithfir => caithfidh_tú
+!!!iarr+Verb+VT+Vow+FutInd+2P+Sg:iarrfidh_tú	#;	! d'iarrfair => iarrfaidh_tú
+!!!faigh+Verb+VT+FutInd+2P+Sg:gheobhaidh_tú	#;	! gheóbhair => gheobhaidh_tú
+!!!lig+Verb+VTI+FutInd+2P+Sg:ligfidh_tú	#;		! leigfir => ligfidh_tú
+!!!téigh+Verb+VTI+FutInd+2P+Sg:rachaidh_tú	#;		! raghair => rachaidh_tú
+!!!bí+Verb+VI+PresInd+2P+Sg:tá_tú	#;			! taoi => tá_tú
+!!!tar+Verb+VI+FutInd+2P+Sg:tiocfaidh_tú	#;		! tiocfair => tiocfaidh_tú
+!!!bí+Verb+VI+PresInd+2P+Pl:tá_sibh	#;		! táthaoi => tá sibh
+!!!tabhair+Verb+VD+PresInd+3P+Pl:tugann_siad	#;	! tugaid => tugann siad
+
 !! PLACENAMES
 !        "Abhainn_Dhearg" Guess Unknown Noun ^Abhainn-Dhearg^
 !        "An_Astráil" Guess Unknown Noun ^Australia^

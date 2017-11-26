@@ -184,5 +184,6 @@ LEXICON Root
 	NounsFGB2;		! FGB (O Donaill) automatic (additional)
 	NounsVariants;		! Variants extracted from FGB
 	NounsEqualVariants;	! Variants extracted from FGB (2011 EUD)
-
+	NounsG;			! Nationalities
+	NounsH;			! Additions from the gaois.ie bitext	
 

@@ -1,12 +1,10 @@
 # ==================================================================== #
 # I R I S H   D I S A M B I G U A T I O N  
 # ==================================================================== #
-# Elaine Uí Dhonnchadha
-# 2004-2015
-# Christoph Wendler 
-# 2008-2009
-# Gearóid Ó Donnchadha 
-# 2015
+# Elaine Uí Dhonnchadha # 2004-2017
+# Christoph Wendler # 2008-2009
+# Gearóid Ó Donnchadha # 2015
+# Jim Regan # 2017
 # ==================================================================== #
 # "ar" => LEMMA, "<ar>" => WORDFORM
 #
@@ -84,7 +82,7 @@ LIST NUM-ECL = "seacht" "ocht" "naoi" "deich" ;
 LIST NUM-PL-ADJ = "<dhá>" "trí" "ceithre" "cúig" "sé" "seacht" "ocht" "naoi" "deich" "beirt" ;
 # prepositions commonly used before verbal nouns
 # "ar" => lemma, "<ar>" => wordform
-LIST PREP-VN = "<ag>" "<le>" "<gan>" (Part Inf) "<á>" ("<ar>" Prep) "tar éis" "chun" "le" "i ndiaidh" "ar tí" "roimh" "<ina>";
+LIST PREP-VN = ("ag" Prep Simp) "<le>" "<gan>" (Part Inf) "<á>" ("<ar>" Prep) "tar éis" "chun" "le" "i ndiaidh" "ar tí" "roimh" "<ina>";
 
 # this type of verbal noun can be modified by attributive adj.
 # e.g. "ag mothú tinn" but not "ag déanamh mór", "a bheith tanaí"
@@ -130,6 +128,11 @@ CONSTRAINTS
 # maille le e.g. maille le míle eile acu
 SELECT (Prep) IF (0 ("<maille>")) (1 ("<le>"));
 
+# go raibh (míle) maith agat
+SELECT (Verb PresSubj Ecl) IF (0 ("<raibh>")) (-1 ("go")) (1 ("<maith>") OR ("<míle>"));
+SELECT (Part Vb Subj) IF (0 ("go")) (1 ("<raibh>")) (2 ("<maith>") OR ("<míle>"));
+REMOVE (Num Card Ecl) IF (0 ("<míle>")) (1 ("<maith>")) (2 ("<agat>"));
+
 # go raibh
 SELECT (Verb) IF (0 ("<raibh>")) (-1 (Part Vb));
 
@@ -158,16 +161,17 @@ SELECT (Noun Com) IF (0 ("cumas")) (-2 ("ar") OR ("agus") OR ("ná")) (-1 (Det P
 SELECT (Noun Com) IF (0 ("geall")) (1 ("ar")) (-1 ("mar"));
 SELECT (Prep Simp) IF (1 ("geall")) (2 ("ar")) (0 ("mar"));
 
-# fear gill
+# fear gill - JR 2017
 REMOVE (Foreign English) IF (0 ("geall")) (-1 ("fear") OR ("cluiche") OR ("ticéad") OR ("bean") OR ("bradaí"));
-# clog dúisithe
+# clog dúisithe - JR 2017
 REMOVE (Foreign English) IF (0 ("clog")) (1 ("dúisithe"));
-# poll anála
+# poll anála - JR 2017
 SELECT (Noun Masc) IF (0 ("poll")) (1 ("<anáil>") OR ("<gaoth>") OR ("<ascaille>") OR ("<luaithe>") OR ("dubh") OR ("<séite>") OR ("<tóraíochta>") OR ("<plocóide>") OR ("<cré>") OR ("<sóláis>") OR ("<gairbhéil>") OR ("<mianaigh>") OR ("<tairne>") OR ("<luiche>") OR ("<ola>") OR ("<bioráin>") OR ("<domhain>") OR ("<leideora>") OR ("coinín") OR ("<sliogáin>") OR ("<faire>") OR ("<gaile>") OR ("<súite>") OR ("<snámha>") OR ("<maiste>") OR ("<iomlaisc>") OR ("<silte>") OR ("<péiste>") OR ("<glúine>") OR ("<buama>") OR ("<stopalláin>"));
 SELECT (Noun Fem) IF (0 ("gaoth")) (-1 ("poll"));
-
-# Check
+                                                  
+# Check - JR 2017
 REMOVE (Ecl) IF (-1C (Noun Com));
+
 
 # ar chor/cor ar bith
 SELECT (Noun Sg) IF (0 ("cor")) (1 ("ar")) (2 ("bith"));
@@ -340,7 +344,12 @@ REMOVE (Part Vb Rel Indirect) IF (-1 ("cathain") OR ("conas") OR ("mar") OR ("nu
 SELECT (Part Vb Rel Direct) IF (-4 ("<Cé>") OR ("<cé>"))(-3 ("chomh"))(-2 ("minic"))(-1 ("is"))(1* (Punct Fin Q));
 SELECT (Part Vb Rel Indirect) IF (-2 ("<Cén>") OR ("<cén>"))(-1 ("<áit>") OR ("<chaoi>") OR ("<dóigh>") OR ("<fáth>") OR ("<tslí>"))(2* (Punct Fin Q));
 
-
+# go_dtí an siopa
+SELECT (Noun Com) IF (-1 (Art))(-2 ("go_dtí"));
+REMOVE (Noun Ecl) IF (-1 (Art))(-2 ("go_dtí"));
+# go_dtí siopa
+SELECT (Noun Com) IF (-1 ("go_dtí"));
+REMOVE (Noun Ecl) IF (-1 ("go_dtí"));
 # ==================================================================== #
 # -------------------------------------------------------------------- #
 # S1 VERB 
@@ -396,6 +405,8 @@ REMOVE (Verb Neg) IF (NOT -1 (Part Vb Neg)) (NOT 0 ("<níl>") OR ("<Níl>"));
 # note will deal with "ar mhaithe le" where "mhaithe" could be mistaken for a verb PresSubj rather than noun
 REMOVE (Verb PresSubj Neg) IF ( NOT -1 ("ná") OR ("nár")) ;
 REMOVE (Verb PresSubj) IF ( NOT -1 ("ná") OR ("go")) ;
+# JR 2017
+REMOVE (Verb PastInd Dep) IF (-1 ("go" Part Vb Subj)) (NOT -1 ("go" Part Vb Cmpl)) ;
 
 # it is a verb if it is followed by a pronoun form tagged as verb subject
 # it is an interrogative form of verb if it is preceded by interr adv e.g. cá
@@ -425,8 +436,8 @@ REMOVE (Verb Imper) IF ( -1 ("ní")) ;
 REMOVE (Verb Imper) IF ( *1 (Part Vb Rel) BARRIER (Noun)) ;
 
 # Fear maith is ea é 
-REMOVE (Verb Imper) IF ( *1 (Cop) LINK 1 ("ea") BARRIER (Noun)) ;
-
+#REMOVE (Verb Imper) IF ( *1 (Cop) LINK 1 ("ea") BARRIER (Noun)) ;
+REMOVE (Verb Imper) IF ( *1 (Cop) LINK 1 ("ea") ) ;
 # Ith PastInd Len not possible unless preceded by "do" verbal particle
 REMOVE (Verb Vow PastInd) IF (NOT -1 (Part Vb)) ;
 # 
@@ -618,6 +629,9 @@ REMOVE (Noun DefArt) IF ( NOT -1 (Art));
 # mo theachsa, a ngalfchúrsa
 REMOVE (Noun Emph) IF ( NOT -1 (Det Poss));
 
+# common case follows a possessive determiner
+SELECT (Noun Com) IF (-1C (Det Poss));
+
 # it cannot have the Dat reading if not preceded by a Preposition 
 # Use Prep Simp eventhough there are some exceptions 
 #e.g. Chraith chuile dhuine acu láimh/NDat leis : but in these cases the 
@@ -700,6 +714,8 @@ SELECT (Noun Com) IF (0 ("leabhar")); # Thug Seán Ó Broin leabhar do Mháire.
 # -------------------------------------------------------------------- #
 # a = an is only allowed in time phrases such as "trí a chlog" etc.
 REMOVE (Art Sg) IF (0 ("<a>")) (NOT 1 ("clog"));
+SELECT (Art Sg) IF (0 ("<a>")) (1 ("clog"));
+
 # ==================================================================== #
 # -------------------------------------------------------------------- #
 # S1 POSSESSIVE DETERMINER 
@@ -770,6 +786,9 @@ SELECT (Cop) IF (NOT 0 ("<an>")) (1 ("gá"));
 
 # If it is at the start of a sentence Is is more likely to be Cop than Conj
 SELECT (Cop) IF (0 ("<Is>")) (NOT 1 (Verb) OR (Part Vb) OR (Cop));
+
+# If it is at the start of a sentence An could be Cop if not followed by a verb, and there is a question mark before a verb is encountered 
+SELECT (Cop) IF (0 ("<An>")) (NOT 1 (Verb) OR (Part Vb) OR (Cop)) (*1 (Punct Q) BARRIER (Verb));
 
 #Arbh é Seán a bhí ann - arbh!=dependant at start of sentence
 REMOVE (Cop Dep) IF ( -1 (>>>));
@@ -1041,7 +1060,7 @@ SELECT (Num Card) IF (-1C (Part Nm));
 #GÓD Bhí sé fhear sa theach. Sé cannot be a pronoun if followed by a lenited noun.
 SELECT (Num Card) IF (0 ("<sé>")) (1C (Noun Len));
 #GÓD Bhí sé sé mhí san Aifric. Personal pronouns do not trigger eclipsis.
-REMOVE (Num Card Ecl) IF (-1 (Pron Pers)) ;
+REMOVE (Num Card Ecl) IF (-1 (Pron Pers));
 # -------------- @ADDED CW 09/08 --------------
 
 # Avoid that "seasca" is interpreted as plural of "seasc" (barren, unfruitful)
@@ -1370,8 +1389,12 @@ SELECT (Verbal Noun Len) IF ( -1 (Part Inf)) (NOT 0 (Verbal Noun Gen));
 SELECT (Verbal Noun) IF ( -1 ("<á>")) ;
 
 # bheith is almost invariably a verbal noun 
+# except cases like An bheith etc.
 # e.g. ..ar a chumas bheith páirteach ...
-SELECT (Verbal Noun) IF (0 ("<bheith>")) ;
+#SELECT (Verbal Noun) IF (0 ("<bheith>"));
+SELECT (Verbal Noun) IF (0 ("<bheith>")) (NOT -1 ("<an>")OR ("<An>"));
+# genitive case noun does not follow verbal noun bheith
+REMOVE (Noun Gen) IF (-1 ("<bheith>" )) (NOT -2C ("an"));
 
 # e.g. bain úsáid as -> úsáid = common noun
 # e.g. sa (=ins an) troid

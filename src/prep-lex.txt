@@ -41,6 +41,10 @@ Multichar_Symbols
 +CU		! Canuint Uladh
 +CM
 +CC
++Vow		! before a word starting with a vowel
++DefArt		! before a definite article, e.g. leis
+
++NG		! Don't generate
 !---------------------------------------------------------------------------
 
 LEXICON Root
@@ -55,11 +59,11 @@ LEXICON Prepositions
 ! SIMPLE PREPOSITIONS
 !
 !!!a+Prep+Simp:a					#; 	! 
-a+Prep+Simp:dh'					#; 	! 
+a+Prep+Simp+NG:dh'					#; 	! 
 <a 0:%  0:d 0:h 0:' %+Prep:0 %+Simp:0>		#; 	! a dh' = a
 ag+Prep+Simp:ag					#;	! at
-ag+Prep+Simp:a'					#;	! at
-ag+CM+Prep+Simp:age				#;	! at (Munster)
+ag+Prep+Simp+NG:a'					#;	! at
+ag+CM+Prep+Simp+NG:age				#;	! at (Munster)
 amhail+Prep+Simp:amhail					#;  ! like, as
 ar+Prep+Simp:ar					#;  ! on
 as+Prep+Simp:as					#;  ! out
@@ -70,14 +74,14 @@ dála+Prep+Simp:dára				#;  !
 dar+Prep+Simp:dar				#;  ! by, dar fia, dar m'focal
 de+Prep+Simp:de					#;  ! from/of`
 de+CM+Prep+Simp:des					#;  ! from/of
-de+Prep+Simp+Len:dhe					#;  ! from/of
-de+Prep+Simp:d'					#;  ! from (before vowel)
+de+Prep+Simp+Len+NG:dhe					#;  ! from/of
+de+Prep+Simp+NG:d'					#;  ! from (before vowel)
 do+Prep+Simp:do					#;  ! to
 do+Prep+Simp+Len:dho				#;  ! to
-do+Prep+Simp:d'					#;  ! to (before vowel)
-do+Prep+Simp:dos				#;  ! to (before na )
+do+Prep+Simp+NG:d'					#;  ! to (before vowel)
+do+Prep+Simp+NG:dos				#;  ! to (before na )
 faoi+Prep+Simp:faoi				#;  !
-faoi+Prep+Simp:fé				#;  ! CANÚINT/VARIANT
+faoi+Prep+Simp+NG:fé				#;  ! CANÚINT/VARIANT
 fara+Prep+Simp:fara				#;  ! as well as 
 fearacht+Prep+Simp:fearacht		#;  !
 gan+Prep+Simp:gan				#;
@@ -89,7 +93,8 @@ go+Prep+Simp:go					#;
 !!gurbh+Prep+Simp:gurbh			#;
 i+Prep+Simp:i					#;  ! in
 i+Prep+Simp:I					#;  ! in
-i+Prep+Simp:in					#;  ! in (before a vowel)
+iar+Prep+Simp:iar				#;  ! iar
+i+Prep+Simp+Vow:in					#;  ! in (before a vowel)
 trí+Prep+Simp:trín				#;  ! trí (before a vowel)
 i+Prep+Det+Poss+1P+Sg:im			#;  ! i mo
 idir+Prep+Simp:idir				#;  ! between
@@ -98,8 +103,8 @@ ionsar+Prep+Simp:ionsar			#;  ! towards
 !! this "is" looks like "agus" to me ... removing the prep reading ...
 !!is+Prep+Simp:is				#;! bliain is an t-am seo
 le+Prep+Simp:le					#;  ! with
-le+Prep+Simp:len				#;	! with (before vowel)
-le+Prep+Simp:leis				#;	! with (before article)
+le+Prep+Simp:len				#;	! with (before  Poss Det a)
+le+Prep+Simp+DefArt:leis			#;	! with (before article)
 mar+Prep+Simp:mar				#;	! like, as
 ó+Prep+Simp:ó					#;  ! from
 ó+Prep+Simp:Ó					#;  ! from
@@ -137,8 +142,8 @@ do+Prep+Art+Sg:don				#;  ! to the (sg)
 do+Prep+Art+Sg:Don				#;  ! to the (sg)
 
 faoi+Prep+Art+Sg:faoin			#;	! under the
-faoi+Prep+Art+Sg:fén			#;	! under the: CANÚINT/VARIANT
-faoi+CU+Prep+Art+Sg:fán			#;	! under the: CANÚINT/VARIANT
+faoi+Prep+Art+Sg+NG:fén			#;	! under the: CANÚINT/VARIANT
+faoi+CU+Prep+Art+Sg+NG:fán			#;	! under the: CANÚINT/VARIANT
 
 i+Prep+Art+Sg:ins				#;	! in
 i+Prep+Art+Sg:insa				#;	! in (Added CW 04/09/08)
@@ -164,8 +169,8 @@ de+Prep+Poss+3P+Sg+Fem:dá		#; ! de + a "dá cairde"
 de+Prep+Poss+3P+Sg+Masc:dá		#; ! de + a "dá gcairde"
 de+Prep+Poss+1P+Pl:dár			#;
 
-do+Prep+Poss+2P+Sg:dod			#; ! do do chairde
-do+Prep+Poss+2P+Sg:dod'			#; ! do do chairde
+do+Prep+Poss+2P+Sg+NG:dod			#; ! do do chairde
+do+Prep+Poss+2P+Sg+NG:dod'			#; ! do do chairde
 do+Prep+Poss+3P+Sg+Fem:dá			#;
 do+Prep+Poss+3P+Sg+Masc:dá			#;
 do+Prep+Poss+3P+Pl:dá			#;
@@ -178,38 +183,38 @@ do+Prep+Poss+3P+Sg+Masc+Obj:á		#;
 do+Prep+Poss+3P+Pl+Obj:á			#;
 
 faoi+Prep+Poss+3P+Sg+Fem:faoina		#;  ! under his/her/their
-faoi+Prep+Poss+3P+Sg+Fem:féna		#;  ! under his/her/their
-faoi+Prep+Poss+3P+Sg+Fem:fána		#;  ! under his/her/their
+faoi+Prep+Poss+3P+Sg+Fem+NG:féna		#;  ! under his/her/their
+faoi+Prep+Poss+3P+Sg+Fem+NG:fána		#;  ! under his/her/their
 faoi+Prep+Poss+3P+Sg+Masc:faoina		#;  ! under his/her/their
-faoi+Prep+Poss+3P+Sg+Masc:féna		#;  ! under his/her/their
-faoi+Prep+Poss+3P+Sg+Masc:fána		#;  ! under his/her/their
+faoi+Prep+Poss+3P+Sg+Masc+NG:féna		#;  ! under his/her/their
+faoi+Prep+Poss+3P+Sg+Masc+NG:fána		#;  ! under his/her/their
 faoi+Prep+Poss+3P+Pl:faoina		#;  ! under his/her/their
-faoi+Prep+Poss+3P+Pl:féna		#;  ! under his/her/their
-faoi+Prep+Poss+3P+Pl:fána		#;  ! under his/her/their
+faoi+Prep+Poss+3P+Pl+NG:féna		#;  ! under his/her/their
+faoi+Prep+Poss+3P+Pl+NG:fána		#;  ! under his/her/their
 faoi+Prep+Poss+1P+Pl:faoinár	#;  ! under ours
-faoi+Prep+Poss+1P+Pl:fénár		#;  ! under ours
+faoi+Prep+Poss+1P+Pl+NG:fénár		#;  ! under ours
 
 i+Prep+Poss+3P+Sg+Fem:ina		#;  ! e.g. ina láimh
-i+Prep+Poss+3P+Sg+Fem:'na		#;  ! e.g. 'na láimh
+i+Prep+Poss+3P+Sg+Fem+NG:'na		#;  ! e.g. 'na láimh
 i+Prep+Poss+3P+Sg+Masc:ina		#;  ! e.g. ina láimh
-i+Prep+Poss+3P+Sg+Masc:'na		#;  ! 
+i+Prep+Poss+3P+Sg+Masc+NG:'na		#;  ! 
 i+Prep+Poss+3P+Pl:ina		#;  ! e.g. ina láimh
-i+Prep+Poss+3P+Pl:'na		#;  ! e.g. 
+i+Prep+Poss+3P+Pl+NG:'na		#;  ! e.g. 
 i+Prep+Poss+1P+Pl:inár			#;  !
 
-le+Prep+Poss+1P+Sg:lem			#;  ! with my
-le+Prep+Poss+1P+Sg:lem'			#;  ! with my
+le+Prep+Poss+1P+Sg+NG:lem			#;  ! with my
+le+Prep+Poss+1P+Sg+NG:lem'			#;  ! with my
 le+Prep+Poss+3P+Sg+Fem:lena			#;  ! with her/his/their
 le+Prep+Poss+3P+Sg+Masc:lena			#;  ! with her/his/their
 le+Prep+Poss+3P+Pl:lena			#;  ! with her/his/their
 le+Prep+Poss+1P+Pl:lenár			#;  ! with our
 	
 ó+Prep+Poss+3P+Pl:óna			#;  !
-ó+Prep+Poss+3P+Pl:'na			#;  !
+ó+Prep+Poss+3P+Pl+NG:'na			#;  !
 ó+Prep+Poss+3P+Sg+Fem:óna		#;  !
-ó+Prep+Poss+3P+Sg+Fem:'na		#;  !
+ó+Prep+Poss+3P+Sg+Fem+NG:'na		#;  !
 ó+Prep+Poss+3P+Sg+Masc:óna		#;  !
-ó+Prep+Poss+3P+Sg+Masc:'na		#;  !
+ó+Prep+Poss+3P+Sg+Masc+NG:'na		#;  !
 ó+Prep+Poss+1P+Pl:ónár			#;  !
 
 trí+Prep+Poss+3P+Sg+Fem:trína			#;  !
@@ -224,10 +229,10 @@ arna+Prep+Cmpd:arna				#;  ! arna = iar n-a
 !iar+Prep+Poss+3P+Sg+Masc:arna			#;  ! after his/her/their
 !iar+Prep+Poss+3P+Pl:arna			#;  ! after his/her/their
 
-go+Prep+Poss+3P+Sg+Fem:gona				#;
-go+Prep+Poss+3P+Sg+Masc:gona				#;
-go+Prep+Poss+3P+Pl:gona				#;
-go+Prep+Poss+1P+Pl:gonár			#;
+go+Prep+Poss+3P+Sg+Fem+NG:gona				#;
+go+Prep+Poss+3P+Sg+Masc+NG:gona				#;
+go+Prep+Poss+3P+Pl+NG:gona				#;
+go+Prep+Poss+1P+Pl+NG:gonár			#;
 
 ! COMPOUNDS: PREP + REL. PART. (a/ar)
 
@@ -237,11 +242,11 @@ i+Prep+Rel:inar				#;  !
 faoi+Prep+Rel:faoina		#;  !
 faoi+Prep+Rel:faoinar		#;  !
 
-le+Prep+Rel:le				#;  ! le n-a
+le+Prep+Rel+NG:le				#;  ! le n-a
 le+Prep+Rel:lena			#;  ! 
 le+Prep+Rel:lenar			#;  ! 
 
-ó+Prep+Rel:o				#;  ! o n-a
+ó+Prep+Rel+NG:o				#;  ! o n-a
 ó+Prep+Rel:óna				#;  ! 
 ó+Prep+Rel:ónar				#;  ! 
 

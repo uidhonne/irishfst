@@ -9,26 +9,56 @@ clear stack
 #define PlSuff	[[a í]
 #];
 
+# adjectival suffix
+# no good changed pos from noun to adj rather than append adj tag to noun reading
+# define AdjSuff	[[e a c h] ];
 # diminutive suffix
-define DimSuff	[[í n]
-];
+define DimSuff	[[í n] ];
+# historical documents often use a hyphen before a suffix
+define EmphSuff	[[%- s [a|e]]];	# Emphatic -sa or -se
+define DemSuff	[[%- s e o]|[%- s i n]];	# Demonstrative -seo or -se
 
 # ^Caol = make last syllable slender if necessary
 # buachaill + ín;  rud + ín => ruidín; all working OK
 # póg -> póigín; drainc -> draincín; all working OK
 define Suff [[%+Dim].x.[%^Caol DimSuff] ]
+           #|[[%+AdjSuff].x.[AdjSuff] ]
+           |[[%+DemSuff].x.[DemSuff] ]
+           |[[%+EmphSuff].x.[EmphSuff] ]
 #           |[[%+PlWOW].x.[PlSuff] ]
 ;
 # NEW
 # use only +Com form
 define Baseform [%+Com];
-define NonBase [%+Gen | %+Dat | %+Voc | %+Len | %+Ecl | %+hPref | %+Pl | %+DefArt];
+# old define NonBase [%+Gen | %+Dat | %+Voc | %+Len | %+Ecl | %+hPref | %+Pl | %+DefArt];
+define NonBase [%+Gen | %+Dat | %+hPref | %+DefArt];
 
 read regex Suff;
-###### old read regex  @"int/ncomm.fst";
+#### old read regex  @"int/ncomm.fst";
 read regex ~$[NonBase] .o. @"int/ncomm.fst";
 # end new
 concatenate net
 save stack int/ncommsuff.fst
 echo << nouns + suffixes saved as int/ncommsuff.fst...>>>
 
+######################################
+### new for rinne_mé, bhí_tú forms from caighdeánaitheoir for historic texts
+clear stack
+
+define PronSuff   [ %+1P %+Sg .x. %_ m é ]
+		| [ %+1P %+Sg %+Emph .x. %_ m i s e ]
+                | [ %+2P %+Sg .x. %_ t ú  ]
+                | [ %+2P %+Sg %+Emph .x. %_ t u s a ]
+                | [ %+3P %+Pl .x. %_ s i a d ]
+                | [ %+1P %+Pl .x. %_ s i n n ]
+                | [ %+1P %+Pl .x. %_ m u i d ]
+                | [ %+2P %+Pl .x. %_ s i b h ]
+;
+
+read regex PronSuff;
+read regex  @"int/verb-all.fst";
+
+concatenate net
+save stack int/verb-all-suff.fst
+echo << verbs  + pronoun suffixes saved as int/verb-all-suff.fst...>>>
+######################################

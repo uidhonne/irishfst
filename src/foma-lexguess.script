@@ -7,6 +7,7 @@
 # saves them in one file 
 # Each transducer is consulted in order until one succeeds in 
 # recognising the input string
+# FGB variants are included
 # It allows flookup to function like xerox lookup but without a 
 # lookup script
 #
@@ -17,6 +18,7 @@ read regex @"bin/digit.fst";
 #read regex @"bin/allcaps-all.fst";
 read regex @"bin/all.fst" .o. @"bin/allcaps.fst";
 read regex @"bin/initcaps-all.fst";
+read regex @"bin/urucaps-all.fst";
 read regex @"bin/tobar.fst";
 read regex @"bin/tobar.fst" .o. @"bin/initcaps.fst";
 read regex @"bin/prefadjs.fst";
@@ -25,12 +27,19 @@ read regex @"bin/prefadjs.fst" .o. @"bin/allcaps.fst";
 read regex @"bin/prefnouns.fst";
 read regex @"bin/prefnouns.fst" .o. @"bin/initcaps.fst";
 read regex @"bin/prefnouns.fst" .o. @"bin/allcaps.fst";
+read regex @"bin/prefverbshist.fst";
 read regex @"bin/prefverbs.fst";
 read regex @"bin/prefverbs.fst" .o. @"bin/initcaps.fst";
 read regex @"bin/prefverbs.fst" .o. @"bin/allcaps.fst";
 read regex @"bin/suffnouns.fst";
 read regex @"bin/suffnouns.fst" .o. @"bin/initcaps.fst";
 read regex @"bin/suffnouns.fst" .o. @"bin/allcaps.fst";
+read regex @"bin/suffverbs.fst";
+read regex @"bin/suffverbs.fst" .o. @"bin/initcaps.fst";
+read regex @"bin/suffverbs.fst" .o. @"bin/allcaps.fst";
+read regex @"bin/guess_past_hist.fst";
+read regex @"bin/guess_past_hist.fst" .o. @"bin/initcaps.fst";
+read regex @"bin/guess_past_hist.fst" .o. @"bin/allcaps.fst";
 read regex @"bin/guessv1a.fst";
 read regex @"bin/guessv1b.fst";
 read regex @"bin/guessv1c.fst";
@@ -56,6 +65,18 @@ read regex @"bin/compnouns.fst";
 read regex @"bin/propguess.fst";
 read regex @"bin/compnouns.fst" .o. @"bin/initcaps.fst";
 read regex @"bin/compnouns.fst" .o. @"bin/allcaps.fst";
+read regex @"bin/adjvar.fst";
+read regex @"bin/adjvar.fst" .o. @"bin/initcaps.fst";
+read regex @"bin/adjvar.fst" .o. @"bin/allcaps.fst";
+read regex @"bin/nvar.fst";
+read regex @"bin/nvar.fst" .o. @"bin/initcaps.fst";
+read regex @"bin/nvar.fst" .o. @"bin/allcaps.fst";
+read regex @"bin/vvar.fst";
+read regex @"bin/vvar.fst" .o. @"bin/initcaps.fst";
+read regex @"bin/vvar.fst" .o. @"bin/allcaps.fst";
+read regex @"bin/vnvar.fst";
+read regex @"bin/vnvar.fst" .o. @"bin/initcaps.fst";
+read regex @"bin/vnvar.fst" .o. @"bin/allcaps.fst";
 read regex @"bin/guess_vnva.fst";
 read regex @"bin/nguess1b.fst";
 read regex @"bin/nguess1b.fst" .o. @"bin/initcaps.fst";

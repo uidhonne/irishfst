@@ -1,14 +1,11 @@
 !****************************************************************************
 ! Abbreviations 
-! and a few English words
 !
-!  E. Uí Dhonnchadha
+! E. Uí Dhonnchadha
 !****************************************************************************
 Multichar_Symbols
 
 +Abr		! Abbreviation
-+Foreign	! Foreign
-+English	! English
 
 !---------------------------------------------------------------------------
 
@@ -17,14 +14,6 @@ LEXICON Root
 
 LEXICON Abbrev
 
-the	English-tag;
-and	English-tag;
-of	English-tag;
-on	English-tag;
-no	English-tag;
-by	English-tag;
-just	English-tag;
-jus	English-tag;
 
 ! Abbreviations with full stop(s)
 ! MUST BE INCLUDED IN TOKENIZER ALSO
@@ -62,6 +51,7 @@ RnaG			Abr-tag;
 INTO			Abr-tag;
 CD-ROM			Abr-tag;
 DVD			Abr-tag;
+IT			Abr-tag;
 R-phoist		Abr-tag;
 r-phoist		Abr-tag;
 
@@ -71,8 +61,3 @@ km			Abr-tag;
 LEXICON Abr-tag
 +Abr:	#;
 
-LEXICON Foreign-tag
-+Foreign:	#;
-
-LEXICON English-tag
-+Foreign+English:	#;

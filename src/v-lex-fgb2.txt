@@ -4,14 +4,13 @@
 LEXICON Verbs-FGB2
 
 achainigh+Verb+VT:achainigh		V2-SL;
-achair+Verb+VT:achair		V1-SL-BR-sync;	! (pres achrann, vn ~t)
 achtáil+Verb+VT:achtáil		V1-SL-LC;
 aclaigh+Verb+VT:aclaigh		V2-BR;
 adhfhuathaigh+Verb+VT:adhfhuathaigh		V2-BR;	! analyzed as compound: adh+fhuathaigh
 adhmhill+Verb+VT:adhmhill		V1-SL;	! analyzed as compound: adh+mhill
 adhnáirigh+Verb+VT:adhnáirigh		V2-SL;	! analyzed as compound: adh+náirigh
 agaigh+Verb+VT:agaigh		V2-BR;
-agaill+Verb+VT:agaill		V1-SL-BR-sync;	! (pres -allann, vn -allamh)
+agaill+Verb+VT:agaill		V1-BR-sync;	! (pres -allann, vn -allamh)
 aibhligh+Verb+VI:aibhligh		V2-SL;
 áibhligh+Verb+VT:áibhligh		V2-SL;
 aibhsigh+Verb+VT:aibhsigh		V2-SL;
@@ -58,7 +57,7 @@ atarraing+Verb+VT:atarraing		V2-SL;
 atáthaigh+Verb+VTI:atáthaigh		V2-BR;
 atéigh+Verb+VT:atéigh		V1-SL;	!	***
 athachtaigh+Verb+VT:athachtaigh		V2-BR;	! analyzed as compound: ath+achtaigh
-athadhain+Verb+VT:athadhain		V1-SL-BR;	! (pres -dhnann, fut -anfaidh; vn ~t f, gs~te); analyzed as compound: ath+adhain
+athadhain+Verb+VT:athadhain		V1-BR-sync;	! (pres -dhnann, fut -anfaidh; vn ~t f, gs~te); analyzed as compound: ath+adhain
 athadhlaic+Verb+VT:athadhlaic		V1-SL-BR;	! (pres -acann, vn -acadh); analyzed as compound: ath+adhlaic
 athaimsigh+Verb+VT:athaimsigh		V2-SL;	! analyzed as compound: ath+aimsigh
 athainmnigh+Verb+VT:athainmnigh		V2-SL;	! analyzed as compound: ath+ainmnigh
@@ -176,7 +175,8 @@ atogh+Verb+VT:atogh		V1-BR;
 atrácht+Verb+VT:atrácht		V1-BR;
 atreabh+Verb+VT:atreabh		V1-BR;
 bacaigh+Verb+VT:bacaigh		V2-BR;
-!!!!!bailc+Verb+VT:bailc		V1-SL-BRX;	! (pres balcann, vn balcadh, pp balctha)	*** New kind!
+!!!!!bailc+Verb+VT:bailc		V1-SL-BR;	! (pres balcann, vn balcadh, pp balctha)	*** New kind!
+bailc+Verb+VT:bailc		V1-SL-BR;	! (pres balcann, vn balcadh, pp balctha)	*** New kind!
 balbhaigh+Verb+VT:balbhaigh		V2-BR;
 ballastaigh+Verb+VT:ballastaigh		V2-BR;
 ballbhasc+Verb+VT:ballbhasc		V1-BR;
@@ -338,7 +338,7 @@ comhthiomsaigh+Verb+VT:comhthiomsaigh		V2-BR;	! analyzed as compound: comh+thiom
 comhthit+Verb+VI:comhthit		V1-SL;	! analyzed as compound: comh+thit
 !!!!!comhthiúin+Verb+VT:comhthiúin		V1-SL-BRX;	! (pres -únann; vn -únadh m, gs-únta); analyzed as compound: comh+thiúin	*** New kind!
 comthaigh+Verb+VI:comthaigh		V2-BR;
-cónaisc+Verb+VT:cónaisc		V1-SL;	! analyzed as compound: có+naisc	** cf. nasc -> V1-BR
+cónaisc+Verb+VT:cónaisc		V1-SL-BR;	! analyzed as compound: có+naisc	** cf. nasc -> V1-BR
 conclúidigh+Verb+VI:conclúidigh		V2-SL;
 connaigh+Verb+VTI:connaigh		V2-BR;
 conraigh+Verb+VI:conraigh		V2-BR;
@@ -1292,6 +1292,7 @@ grodloisc+Verb+VTI:grodloisc		V1-SL; ! (vn -oscadh, pp ~the)
 !!!!!imdheighil+Verb+VT:imdheighil		V1-SL-sync; ! OR V1-SL-BRX ???	; ! (pres -ghleann; vn ~t, gs ~te)	CHECK NEW
 inchreach+Verb+VT:inchreach		V1-BR; !
 !!!!!iniaigh+Verb+VT:iniaigh		V1-SL-BRX; ! (pres -ann, fut -afaidh, vn -amh, pp-ata)	! New kind
+iniaigh+Verb+VT:iniaigh		V1-SL-BR; ! (pres -ann, fut -afaidh, vn -amh, pp-ata)	! New kind
 inphléasc+Verb+VI:inphléasc		V1-BR; !
 insamhail+Verb+VT:insamhail		V2-BR-sync	; ! (vn -mhladh m, gs -alta)
 inscríobh+Verb+VT:inscríobh		V1-SL	; ! (vn ~ m, gs & pp -ofa)
@@ -1307,7 +1308,7 @@ scáthcheil+Verb+VT:scáthcheil		V1-SL	; ! (vn ~t f, gs ~te)
 siabhair+Verb+VT:siabhair		V2-BR-sync	; ! (vn -bhradh m, gs & pp -artha)
 sil-leag+Verb+VT:sil-leag		V1-BR	; ! (vn ~an, pp ~tha)
 síolchuir+Verb+VTI:síolchuir		V1-SL	; ! (vn -ur, pp -urtha)
-!!!!!spadhar+Verb+VT:spadhar		V1-BR-sync; ! (vn -dhradh m, gs & pp ~tha) *** ??? Prob. with sycopation	CHECK NEW
+spadhar+Verb+VT:spadhar		V1-BR-sync; ! (vn -dhradh m, gs & pp ~tha) *** ??? Prob. with sycopation	CHECK NEW
 !!!!!sroighill+Verb+VT:sroighill	V1-SL-sync; ! OR V1-SL-BRX ???; ! (vn -ghleadh)    	NOTE: sync ghill -> ghl CHECK NEW
 tacair+Verb+VT:tacair		V2-BR-sync	; ! (vn -ar, pp -artha)
 !!!!!tafainn+Verb+VT:tafainn		V1-BR-SL; ! (pres taifneann, vn -ann)	*** ??? V1 + BR + Syncopation + Slen 	CHECK NEW

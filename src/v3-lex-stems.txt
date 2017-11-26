@@ -647,6 +647,7 @@ LEXICON VI5-PastInd		! Past Tense - Aimsir Chaite
 
 LEXICON VI5-FutInd		! Future Tense - Aimsir Fháistineach
 0:tabharfaidh		NegQ;
++1P+Sg:tiubhrad		NegQ;			!!!!!!!!!!!!!!!!!!!!!!!! RIA Corpas 
 +1P+Pl:tabharfaimid	NegQ;
 +1P+Pl+Emph:tabharfaimidne	NegQ;
 +Auto:tabharfar		NegQ;		
@@ -1527,7 +1528,7 @@ LEXICON VI11-PresIndRel		! Present Relative  - Láithreach Coibhneasta
 
 LEXICON VI11-PresIndDepNeg	! Present Dependant Neg. - Láith. Spléach (ní)
 +Neg:níl		#;
-+Neg:níleann+CM		#;
++Neg+CM:níleann		#;
 +1P+Sg+Neg:nílim	#;
 +1P+Sg+Neg+Emph:nílimse	#;
 +2P+Sg+Neg+CM:nílir	#;
@@ -1705,6 +1706,7 @@ LEXICON VI12	! IS (Copula)
 +Cop+Pres+Pron:sea			#;	! is ea
 +Cop+Pres+Pron:seadh			#;	! is ea
 +Cop+Pres+Pron+Pers+3P+Sg+Masc:sé	#;	! is é
++Cop+Pres+Pron+Pers+3P+Sg+Masc:Sé	#;	! Is é
 +Cop+Pres+Pron+Pers+3P+Sg+Masc+Art+Sg+Def:sén	#;	! is é an (Hartmann) 
 +Cop+Pres+Pron+Pers+3P+Sg+Masc+Art+Sg+Def+Subst+Noun+Sg:séard	#;	! is é an rud (Hartmann) 
 +Cop+Pres+Pron+Pers+3P+Sg+Fem:sí	#;	! is í

@@ -216,7 +216,7 @@
 !
 !**************************************************************************  
 LEXICON Adj1-1
-Basic;
+AdjBASE;
 +Adj+Fem+Com:^Adj		Fem_nom_voc_sg;
 +Adj:^Adj		Fem_gen-D2A_sg;		!!!GEN/COMPARATIVE
 +Adj+Fem+Voc:^Adj		Fem_nom_voc_sg;
@@ -233,7 +233,7 @@ Basic;
 
 
 LEXICON Adj1-2
-Basic;
+AdjBASE;
 +Adj+Fem+Com:^Adj		Fem_nom_voc_sg;
 +Adj:^Adj		Fem_gen-D2A_sg;
 +Adj+Fem+Voc:^Adj		Fem_nom_voc_sg;
@@ -250,7 +250,7 @@ Basic;
 
 
 LEXICON Adj1-3
-Basic;
+AdjBASE;
 +Adj+Fem+Com:^Adj		Fem_nom_voc_sg;
 +Adj:^Adj		Fem_gen-D2B_sg;
 +Adj+Fem+Voc:^Adj		Fem_nom_voc_sg;
@@ -267,7 +267,7 @@ Basic;
 
 
 LEXICON Adj1-4
-Basic;
+AdjBASE;
 +Adj+Fem+Com:^Adj		Fem_nom_voc_sg;
 +Adj:^Adj		Fem_gen-D2C_sg;	
 +Adj+Fem+Voc:^Adj		Fem_nom_voc_sg;
@@ -284,7 +284,7 @@ Basic;
 
 
 LEXICON Adj1-5
-Basic;
+AdjBASE;
 +Adj+Fem+Com:^Adj		Fem_nom_voc_sg;
 +Adj:^Adj		Fem_gen-D2D_sg;	
 +Adj+Fem+Voc:^Adj		Fem_nom_voc_sg;
@@ -301,7 +301,7 @@ Basic;
 
 
 LEXICON Adj2-1
-Basic;
+AdjBASE;
 +Adj+Fem+Com:^Adj		Fem_nom_voc_sg;
 +Adj:^Adj		Fem_gen-D3_sg;	
 +Adj+Fem+Voc:^Adj		Fem_nom_voc_sg;
@@ -318,7 +318,7 @@ Basic;
 
 
 LEXICON Adj2-2
-Basic;
+AdjBASE;
 +Adj+Fem+Com:^Adj		Fem_nom_voc_sg;
 +Adj:^Adj		Fem_gen-D2A_sg;	
 +Adj+Fem+Voc:^Adj		Fem_nom_voc_sg;
@@ -335,7 +335,7 @@ Basic;
 
 !!!!! REMOVING THESE VARIATIONS !!!!! 30/6/05
 LEXICON Adj3-1
-Basic;
+AdjBASE;
 +Adj+Comp:0	#;
 !!+Comp+Len:^Sé	#;
 +Adj+Comp+Len:^Adj^Sé	#;
@@ -355,7 +355,7 @@ Basic;
 
 
 LEXICON Adj4-1
-Basic;
+AdjBASE;
 +Adj+Fem+Com:^Adj		Fem_nom_voc_sg;
 +Adj:^Adj^Coim	Fem_gen-D2A_sg;		! sync + slen + e
 +Adj+Fem+Voc:^Adj		Fem_nom_voc_sg;
@@ -371,7 +371,7 @@ Basic;
 +Adj+Voc:^Adj^Coim			PL-A;			!sync+a
 
 LEXICON Adj4-2
-Basic;
+AdjBASE;
 +Adj+Fem+Com:^Adj		Fem_nom_voc_sg;
 +Adj:^Adj		Fem_gen-D2A_sg;		! slen + e
 +Adj+Fem+Voc:^Adj		Fem_nom_voc_sg;
@@ -388,7 +388,7 @@ Basic;
 
 
 LEXICON Adj4-3
-Basic;
+AdjBASE;
 +Adj+Fem+Com:^Adj		Fem_nom_voc_sg;
 +Adj:^Adj^Coim	Fem_gen-D2A_sg;		! sync + slen + e
 +Adj+Fem+Voc:^Adj		Fem_nom_voc_sg;
@@ -404,7 +404,7 @@ Basic;
 +Adj+Voc:^Adj^Coim^Caol			PL-E;			!sync+slen +e
 
 LEXICON Adj4-4
-Basic;
+AdjBASE;
 +Adj+Fem+Com:^Adj		Fem_nom_voc_sg;
 +Adj:^Adj^Coim	Fem_gen-D3_sg;		! sync + a
 +Adj+Fem+Voc:^Adj		Fem_nom_voc_sg;
@@ -541,19 +541,15 @@ LEXICON PL-TADA
 					! hataí na mban mór - the big womens' hats 
 !------------------------------------------------------------------------------					
 LEXICON AdjBASE
-!!!!+Adj+Base:0		SéUrú;
-Basic;
-
-
 !************************************************************************** 
 ! BASE FORM
-LEXICON Basic
+!!LEXICON Basic
 +Adj+Base:0	#;
 !!!!+Adj+Base:^IM^hv	#; 	! e.g. go hiontach
 +Adj+Base+hPref:^IM^hv	#; 	! e.g. go hiontach
 +Adj+Base+Len:^IM^Sé	#; 	! e.g. ba bhreá
 
-LEXICON SéUrú
+LEXICON AdjSéUrú
 #;
 +Len:^Adj^Sé	#;
 !!!:^Adj^Sé	#;
