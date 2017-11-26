@@ -47,7 +47,8 @@ LEXICON NP-PERS-EN
 
 LEXICON NP-Fam
 +Prop+Noun+Masc+Com+Sg+hPref:^IM^hv		#;
-+Prop+Noun+Masc+Gen+Sg:^M^G^Caol^hv^ts		#; ! ^Caol not yet tested
++Prop+Noun+Masc+Gen+Sg:^M^G^Caol^hv		#; ! ^Caol not yet tested
++Prop+Noun+Masc+Gen+Sg+DefArt:^M^G^Caol^ts		#; ! ^Caol not yet tested
 +Prop+Noun+Fem+Gen+Sg+Len:^IM^Sé		#;
 !!!+Prop+Noun+Masc+Gen+Sg:^M^G^Sé		#;
 +Prop+Noun+Masc+Com+Sg+DefArt:^M^C^Lea^tv^VHach		#;
@@ -60,7 +61,8 @@ LEXICON NP-Fam-0
 
 LEXICON NP-Fam-V
 +Prop+Noun+Masc+Com+Sg+hPref:^IM^hv		#;
-+Prop+Noun+Masc+Gen+Sg:^M^G^hv^ts		#;
++Prop+Noun+Masc+Gen+Sg:^M^G^hv		#;
++Prop+Noun+Masc+Gen+Sg+DefArt:^M^G^hv^ts		#;
 +Prop+Noun+Fem+Gen+Sg+Len:^IM^Sé		#;
 +Prop+Noun+Masc+Com+Sg+DefArt:^IM^tvch	#;
 
@@ -127,12 +129,13 @@ LEXICON Nf5-Prop
 
 LEXICON IMGen
 #;
-0:^hv^ts			Seimhiu;
+0:^hv			Seimhiu;
 
 LEXICON Seimh
 +Len:^Sé		#;
 
 LEXICON Seimhiu
++DefArt:^ts		#;
 +Len:^IM^Sé		#;
 
 LEXICON Sing
