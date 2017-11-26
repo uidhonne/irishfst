@@ -1,0 +1,519 @@
+#--------------------------------------------
+# Elaine Uí Dhonnchadha
+# 2002
+#
+# based on tokeniser by Anne Schiller
+#
+# add LE GO and CHUN GO - then fix the manually disambiguated stuff
+
+# Note 1: hyphen %- is NOT defined as punctuation, therefore
+# hyphenated words are not split e.g. dea-mhéin etc.
+# except an- (e.g. an-mhaith etc.)
+# except for initial mutations t- and n- (see MUTWORD below)
+# which are not allowed split
+# 
+# Note 2: this tokenizer treats the apostrophe as punctuation  see SINGLE
+# e.g.  a'm  becomes 3 tokens: a ' m
+# exceptions:   b', d' ann m' are kept together see CONT
+# e.g. d'fhéach and m'athair become 2 tokens: d' fhéach & m' athair etc.
+#
+# some extra foreign characters added e.g ÎàâèÊÈ
+#
+# added & to SINGLE
+# 
+# added £
+#
+# added ñ, ö
+# added lots more $¥¢£ÀÂÃÄÅÆÇÈÊËÌÎÏÑÒÔÕÖØÙÛÜÝßàâãäåæçèêëìîïðñòôõöøùûüýÿ
+# added § ° @ ~ €
+# added œ (symbol 1/2 under windows)
+# added · ®
+# added ¡
+# added ¿
+#--------------------------------------------
+clear stack
+
+echo >>> defining white space
+define SP " ";
+define TAB "\t";
+define NL "\n";
+
+define WS [SP|NL|TAB];
+
+
+#--------------------------------------------
+
+echo >>> define punctuation
+
+#define SINGLE [%" | %. | %, | %; | %: | %! | %? | %( | %) | %[ | %] | %{ | %} |%'| %_ | %` | %# | %& | %£ | %€ | %< | %> |%/ | %° | %· | %® | %¡ | %¿ ];
+#without underscore
+define SINGLE [%" | %. | %, | %; | %: | %! | %? | %( | %) | %[ | %] | %{ | %} | %' | %` | %# | %& | %£ | %€ | %< | %> | %° | %˚ | %º | %· | %® | %¡ | %¿ | %⇒ | %√ | %± | %∝ | %∝ | %α | %Ω | %Ω | %Ω | %ρ | %Ρ | %• | %µ | %π | %∏ | %Π | %π | %ㅠ | %Δ | %∆ | %© | %… | %♠️ | %♥️ | %♦️ | %♣️ | %♕ | %♛ | %♔ | %♖ | %♜ | %ℕ | %† | %① | %② | %③ | %④ | %⑤ | %⑥ | %⑦ | %⑧ | %⑨ | %⑩ | %⑪ | %⑫ | %⑬ | %⑭ | %⑮ | %⑯ | %⑰ | %⑱ | %⑲ | %⑳ | %→ | %↑ | %↓ | %Γ | %ϑ | %Λ | %Ξ | %θ | %Σ | %Φ | %Ψ | %Ω | %ø | %∞ | %∂ | %∧ | %∀ | %∑ | %β | %γ | %δ | %Ε | %ε | %Β | %Α | %Ζ | %ζ | %Η | %η | %Θ | % | %Ι | %ι | %Κ | %κ | %λ | %Μ | %Ν | %ν | %ξ | %Ο | %ο | %σ | %ς | %Τ | %τ | %Υ | %υ | %Φ | %φ | %Χ | %χ | %Ψ | %ψ | %Ω | %ω | %μ | %∴ | %½ | %¼ | %¾ | %⅔ | %⅓ | %¯ | %³ | %² | %¹ | %≈ | %↔  | %➞ | %⇔ | %▶️ | %◀️  | %▼ | %✔ | %✘ | %➡️ | %⬅️ | %⬆️ | %⬇️ | %↗️ | %↘️ | %↙️ | %↖️ | %↕️ | %↔️ | %↪️ | %↩️ | %⤴️ | %⤵️  | %~ | %∕ | %‰  | %¬ |  %∪ | %∩ | %≥ | %≤ | %≡ | %≈ | %≠ | %× | %| | %∠ | %» | %« | %ı | %ƒ | %⁄ | %Ө | % ];
+
+### The following are symbols that, when included, caused tokenize process to hang. Test #1 51min hang > ^C, Test #2 17min hang > ^C. 
+
+#define PUNCT [ %. %. (%.) | %` %` | %' %'| %, %, ];
+define PUNCT [ %. %. %. | %` %` | %' %'| %, %, | %-];
+
+define Char \[WS | SINGLE];
+
+
+#--------------------------------------------
+
+echo >>> define symbol
+
+define SYMBOL [ SINGLE | PUNCT ] ;
+
+echo >>> define word
+
+define WORD [Char ]+ ;
+
+#--------------------------------------------
+
+echo >>> list abbreviations which include a full stop
+
+define ABBR [ 
+{Co.}  
+|{gCo.}  
+|{Dr.}  
+|{eag.} 
+|{e.g.} 
+|{i.e.} 
+|{lch.} 
+|{lgh.} 
+|{Ms.}  
+|{m.sh.}  
+|{Mrs.}  
+|{Mr.}  
+|{O'}  
+|{R.Ch.}  
+|{srl.}  
+|{St.}  
+|{Uas.}  
+|{uimh.} 
+|{Uimh.} 
+|{Teo.} 
+|{&quot;} 
+|{&gt;} 
+|{&lt;} 
+|{[?]} # unsure transcription
+|{Ph.D} 
+|{Msc.} 
+|{.i.} 
+];
+
+#--------------------------------------------
+echo >>> define XML tags
+
+
+define PTAG [ {<p>} | {</p>} | {<s>} | {</s>} 
+| {<title>} | {</title>} 
+| {<caption>} | {</caption>} 
+| {<head>} | {</head>} 
+| {</hi>} | {<hi rend='bo'>} | {<hi rend='it'>} 
+| {<gap/>} 
+| {<gap>} 
+| {<gap desc='Old Irish'/>} 
+| {<gap desc='english text'/>} 
+| {<gap desc='german text'/>} 
+| {<gap desc='german'/>} 
+| {<gap desc='english'/>} 
+| {<gap desc='french'/>} 
+| {<gap desc='spanish'/>} 
+| {<gap desc='welsh'/>} 
+| {<gap desc='latin'/>} 
+| {<gap desc='bibl'/>} 
+| {<gap desc='glossary'/>} 
+| {<gap desc='note'/>} 
+| {<gap desc='table'/>} 
+| {<gap desc='contact_info'/>} 
+| {<foreign lang='en'>} 
+| {<foreign lang='fr'>} 
+| {<foreign lang='la'>} 
+| {</foreign>} 
+| {<div>} 
+| {</div>} 
+| {<poem>} | {</poem>} 
+| {<span>} | {</span>} 
+| {<text>} | {</text>} 
+| {<body>} | {</body>} 
+| {<lb>} | {</lb>} 
+| {<l>} | {</l>} 
+| {<lg>} | {</lg>} 
+| {</speaker_turn>}
+| [%& a m p %;]  
+];
+#--------------------------------------------
+# seperate atáá
+# include istorical forms atáir-> atá_tú, atáid->atá_siad
+define NOTYPO [{ atá} | { atáimidne} | { atáimid} | { atáimse} | { atáim} | { atáthar} | { atá_tú} |{ atá_siad}]; 
+
+#--------------------------------------------
+echo >>>  contractions of mo, do, ba, agus, agam etc
+# Note: b' and B' are both required
+
+
+define CONT [ {mb'} 
+| {MB'} 
+| {b'} 
+| {B'} 
+| {d'} 
+| {dh'} 
+| {D'} 
+| {Dh'} 
+| {m'} 
+| {M'} 
+| {ana-} 
+| {an-} 
+| [a n %-]
+#| {'sé } # 'sé (is é)  LEAVE AS ['] [Sé] etc .
+#| {'Sé } # 'Sé (Is é)
+| {'s } # 's (agus) space after to avoid 'sneachta'  See also ENGWORD
+| {a dh'}  # a dh'fháil = a fháil
+| {A dh'}
+| {a'm} 
+| {a'at} 
+| {dod'} 
+| {lem'} 
+| {s'} # s'againne
+| {S'} # S'againne
+| {'na }
+| {'n } # 'n (an) must be followed by space to avoid quoted words like 'nua'
+| {ars'}
+| {a's}
+| {a'}
+| {N'} # N'fheadar
+| {n'} # n'fheadar
+];
+
+
+#--------------------------------------------
+
+
+# all letters need to be defined..
+
+define Letter [A|Á|B|C|D|E|É|F|G|H|I|Í|J|K|L|M|N|O|Ó|P|Q|R|S|T|U|Ú|V|W|X|Y|Z|a|á|b|c|d|e|é|f|g|h|i|í|j|k|l|m|n|o|ó|p|q|r|s|t|u|ú|v|w|x|y|z|%_|%$|¥|¢|£|À|Â|Ã|Ä|Å|Æ|Ç|È|Ê|Ë|Ì|Î|Ï|Ñ|Ò|Ô|Õ|Ö|Ø|Ù|Û|Ü|Ý|ß|à|â|ã|ä|å|æ|ç|è|ê|ë|ì|î|ï|ð|ñ|ò|ô|õ|ö|ø|ù|û|ü|ý|ÿ|§|š|%~|%@|%%|œ|¹|²|³];
+define LetterUC [A|Á|B|C|D|E|É|F|G|H|I|Í|J|K|L|M|N|O|Ó|P|Q|R|S|T|U|Ú|V|W|X|Y|Z];
+
+# Items i.e. a) B) etc only require basic non-accented letters
+define ListLetter [A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z];
+
+# 29-06-2011
+define XMLPUNCT [%" | %'| %/ | %= | %_ | %. | %? ];
+define Digit [%0| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | ½ | ¾ | ¼ ];
+#"
+# <div type= 'section' n =  '1'>
+#define DIVTAG [{<div} [SP|XMLPUNCT|Digit|ListLetter]+ {>}]  ;
+#define DIVTAG [[{<div}|{<speaker_turn}] [SP|XMLPUNCT|Digit|ListLetter]+ {>}]  ;
+# 30/05/2013
+define DIVTAG [[{<div}|{<speaker_turn}|{<lb}|{<pb}|{<L}] [SP|XMLPUNCT|Digit|ListLetter]+ {>}]  ;
+#--------------------------------------------
+
+# Sentences can finish in the pronoun "í" or "é" in Irish.
+# i.e. a one letter word e.g. "Ní rachfaidh mé gan é." 
+# We allow a single upper case with full stop to be an abbreviation
+# but for lower case or mixed case there must be more that one letter.
+# Could be a problem for English e.g. "'No way', said I."
+# OK for "Michael D." and "M. de Lonlay" 
+
+echo >>> initial letter abbreviations
+define InitLetter [A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z|Á|É|Í|Ó|Ú|á|é|í|ó|ú];
+define NotPron [A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z|Á|Ó|Ú|á|ó|ú];
+#define Pron [é | í | É | Í];
+#define NotPron [\Pron];
+define INIT [ InitLetter %. [InitLetter %.]+ ]
+#           |[ LetterUC %.]
+           |[ NotPron %.]
+;
+
+#--------------------------------------------
+echo >>> CHILDES ID 
+# format e.g. *MOT: *CHI: *RIC: etc
+
+define CHILDES [ %* LetterUC LetterUC LetterUC %: ]
+;
+#--------------------------------------------
+
+echo >>> numeric expressions
+
+define Digit [%0| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 ];
+
+define NumOp [%- | %= | %+ | %* | %/ | %: | %÷ ];
+# | %×
+define NumSep [%. | %, ];
+
+#define NUM [Digit | NumOp | NumSep]+ & $[Digit];
+define NUM [(I R P) [Digit | NumOp | NumSep]+ [Digit] (%%)] | [%# Digit+];
+
+#--------------------------------------------
+echo >>> urls and email addresses
+define AT [%@];
+define WEB   [ [h t t p %: %/ %/]|[w w w %.] ];
+define AlphaNum [A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z|a|á|b|c|d|e|é|f|g|h|i|í|j|k|l|m|n|o|ó|p|q|r|s|t|u|ú|v|w|x|y|z|1|2|3|4|5|6|7|8|9|%0];
+define WEBADDR [ [AlphaNum+ (%. AlphaNum+) ]+ AT [AlphaNum+ %.]+ AlphaNum+ ]
+              |[ WEB [AlphaNum+ %.]+ AlphaNum+];
+              
+#--------------------------------------------
+echo >>> items
+# list e.g. (a), (3), (12), (ii), (IV) but not (ab), or (123) 
+define Roman  [ i | v | x | l | c ];
+define URoman [ I | V | X | L | C ];
+
+# 4 SEP 06 made first bracket optional
+# a) or 10) must have either an opening bracket or a space
+##define ITEM [ %( [Letter|[Digit (Digit)]|Roman+|URoman+] %) ];
+#define ITEM [ [\[%=][% ]|%(] [ListLetter|[Digit (Digit)]|Roman+|URoman+] %) ];
+define ITEM [ [\[NumOp|Letter|Digit|SINGLE]|%(] [ListLetter|[Digit (Digit)]|Roman+|URoman+] %) ];
+
+# non-std words in text e.g. saol ^saoghal^ ^casgartha de^ ^'na^
+define NONSTD [ %^ [Letter|%'|%-|SP]+ %^];
+#--------------------------------------------
+# Dont break on hyphen in words with initial mutation 
+# start new stuff
+
+define MUTWORD [[t %- ] | [n %-]][Char]+ ;
+
+
+
+#--------------------------------------------
+#--------------------------------------------
+
+define ENGWORD [ Char Char+ [' s]];
+
+
+#--------------------------------------------
+
+echo >>> some multi-word expressions
+
+define MWE [ 
+#{ar aghaidh}|
+#{ar chúl} |
+[{m}|{M}]{ar a déarfá} |		# GaLa
+{you know what I mean} |	# GaLa
+{you know} |
+{d'you know} |
+{I mean} |
+{I suppose} |
+{fair play} |
+{no way} |
+{sort of} |
+{ar ais} |
+{Ar ais} |
+{ar feadh} |
+{ar fud} |
+{ar lorg}|
+{ar nós} |
+{ar son} |
+{cé is moite} |			
+{cés moite} |			
+{cé is móite} |			
+{cés móite} |			
+!!{chomh maith} |	#adv "as well" TOO MANY chomh+ADJ
+[{C}|{c}] {hun go} |	#conj
+{de bharr} |
+{d'ainneoin}|
+[{D}|{d}] {á bharr sin}|
+{De bharr}|
+{de chois}|
+{de dheasca}|
+{de dheascaibh}|
+{de láimh}|
+{de dhíobháil}|
+[{D}|{d}] {e réir} |
+{de thairbhe}|
+{faoi bhráid}|
+{faoi bhun}|
+##{faoi cheann}|
+{faoi choinne} |
+{fá choinne} |
+{faoi dhéin} |
+{go ceann} |
+{go dtí} |
+{i bhfeighil}|
+##{i bhfianaise}| # can mean "in evidience" i.e. NP not prep cmpd.
+{i bhfochair}|
+{i dtrátha}|
+{i dtuilleamaí}|
+{i dteannta} |
+#{i gcaitheamh} |	# i gcaitheamh an ord
+{i gceann} |
+{i gcionn}|
+{i gcoinne}|
+{i gcóir} |
+{i gcosamar}|
+{i gcuideachta}|
+{i lár}|
+{i láthair}|
+{i mbun}|
+{i ndiaidh} |
+{i rith} |
+{in aghaidh} |
+{in aice} |
+{in airicis}|
+{in ann}|
+#{in áit} |
+{in éadan} |
+#{in ionad}|
+{leagan amach} |	# layout
+{le cois} |
+{le hais} |
+#{le haghaidh}|
+{le gairid}|
+{Le gairid}|
+{le linn}|
+{le go}|	# conj
+{Le go}|	# conj
+{os coinne} |
+{ní ba} |
+{ní b'} |
+{os cionn} |
+{os comhair} |
+{tar éis} |
+{Tar éis} |
+{thar ceann} |
+{thar a bheith} |
+{maidir liom} |
+{maidir liomsa} |
+{maidir leat} |
+{maidir leatsa} |
+{maidir le} |
+{maidir leis} |
+{maidir lena} |
+{maidir lenar} |
+{maidir lenár} |
+{maidir léi} |
+{maidir linn} |
+{maidir linne} |
+{maidir libh} |
+{maidir libhse} |
+{maidir leo} |
+{maidir leosan} |
+{Maidir liom} |
+{Maidir liomsa} |
+{Maidir leat} |
+{Maidir leatsa} |
+{Maidir le} |
+{Maidir leis} |
+{Maidir lena} |
+{Maidir lenar} |
+{Maidir lenár} |
+{Maidir léi} |
+{Maidir linn} |
+{Maidir linne} |
+{Maidir libh} |
+{Maidir libhse} |
+{Maidir leo} |
+{Maidir leosan} |
+# substantives
+{a lán} |
+{a thuilleadh} |
+{go leor} |
+# adverbs
+{ó thuaidh} |
+{ó dheas} |
+{taobh amuigh} |
+{taobh istigh} |
+# define multi-word Named Entities
+{Sinn Féin} |
+{Fianna Fáil} |
+{Fine Gael} |
+{Lucht Oibre}|
+# counties 
+{Áth Cliath}|
+{Baile Átha Cliath}|
+{Contae Átha Cliath}|
+{Cill Chainnigh}|
+{gCill Chainnigh}|
+{Chill Chainnigh}|
+{Cill Dara}|
+{Chill Dara}|
+{gCill Dara}|
+{Cill Mhantáin}|
+{Chill Mhantáin}|
+{gCill Mhantáin}|
+{Loch Garman}|
+{Uíbh Fháilí}|
+{Port Láirge}|
+{Phort Láirge}|
+{bPort Láirge}|
+{Tiobraid Árann}|
+{dTiobraid Árann}|
+{Thiobraid Árann}|
+{Maigh Eo}|
+{Mhaigh Eo}|
+{Ros Comáin}|
+{Ard Mhacha}|
+{Dún na nGall}|
+{Dhún na nGall}|
+{nDún na nGall}|
+{Fear Manach}|
+{bhFear Manach}|
+{Fhear Manach}|
+{Tír Eoghain}|
+{Thír Eoghain}|
+{dTír Eoghain}|
+{Béal Feirste}|
+{mBéal Feirste}|
+{Bhéal Feirste}|
+{Caisleán Riabhach}|
+{Chaisleán Riabhach}|
+{gCaisleán Riabhach}
+# countries 
+{Mór Roinn}|
+{mór roinn}
+];
+
+echo >>> multi-word markers
+
+define M1 "<<" ;
+define M2 ">>" ;
+
+define MWE1 [M1 MWE M2] ;
+
+#--------------------------------------------
+echo >>> define tokens 
+
+
+define Token [ MUTWORD | ENGWORD | WORD | SYMBOL | ABBR | PTAG | CONT | NOTYPO| CHILDES | INIT | ITEM | WEBADDR | NUM | MWE1 | NONSTD | DIVTAG];
+
+#--------------------------------------------
+
+
+
+echo >>> longest match, inserts newline after every token
+
+define Bound [SINGLE | WS | .#. ];
+
+define TOK1 [ 
+MWE @-> M1 ... M2 || Bound _ Bound
+.o. Token @-> ... NL 
+.o. [M1 | M2] -> 0
+];
+
+
+#--------------------------------------------
+echo >>> normalise space 
+
+define TOK0 [ [WS]+ @-> SP ];
+
+echo >>> remove spaces
+
+define WS1 [WS]+ & $[NL];
+
+echo >>> map spaces to a newline
+
+define TOK2 [WS1 @-> NL ];
+
+
+#--------------------------------------------
+
+echo >>> compose
+
+read regex [ TOK0 .o. TOK1 .o. TOK2 ];
+
+# absorb the special brackets into the unknown alphabet
+substitute symbol ? for "<<"
+substitute symbol ? for ">>"
+
+invert net
+
+save stack tok-gael.fst

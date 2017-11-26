@@ -1,0 +1,14 @@
+TO COMPILE THE FINITE-STATE TOKENIZER:
+
+$HOME/irish/tok]$ make
+(takes 5-6 mins)
+
+Output: $HOME/irish/tok/tok-gael.fst
+
+TO TEST:
+
+a) $HOME/irish/tok]$ echo "an rud atáá rá" | tokenize -utf8 tok-gael.fst
+or
+b) $HOME/irish/tok]$ cat test.txt | tokenize -utf8 tok-gael.fst
+or
+c) $HOME/irish/tok]$ cat someothertextfile | tokenize -utf8 tok-gael.fst
